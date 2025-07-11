@@ -1,0 +1,2340 @@
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has relevant experience in software integration, system design, and API development, w...
+Explanation Tokens: 98
+Tokens Used: 1096 | Cost: $0.0016 | Cumulative Cost: $0.0016
+──────────────────────────
+✅ Updated Notion for Job ID 4204758218
+───────── Job Summary ─────────
+Job Title: Backend Engineer - Personalization
+Rating: 7.5
+Explanation: You have a strong technical background with experience in building full-stack applications, integrat...
+Explanation Tokens: 110
+Tokens Used: 1124 | Cost: $0.0017 | Cumulative Cost: $0.0033
+──────────────────────────
+✅ Updated Notion for Job ID 4264224481
+───────── Job Summary ─────────
+Job Title: Software Development Engineer I
+Rating: 7.5
+Explanation: Shehab Ahamed's experience in building full-stack applications, integrating payment systems, and aut...
+Explanation Tokens: 95
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.0050
+──────────────────────────
+✅ Updated Notion for Job ID 4264263516
+───────── Job Summary ─────────
+Job Title: Backend Engineer
+Rating: 7.5
+Explanation: You have a strong background in backend development with experience in building REST APIs, working w...
+Explanation Tokens: 88
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.0066
+──────────────────────────
+✅ Updated Notion for Job ID 4262900469
+───────── Job Summary ─────────
+Job Title: Front-end Developer (Shopify)
+Rating: 7.5
+Explanation: Shehab has a strong background in full-stack development, with experience in React, Node.js, and fro...
+Explanation Tokens: 106
+Tokens Used: 1126 | Cost: $0.0017 | Cumulative Cost: $0.0083
+──────────────────────────
+✅ Updated Notion for Job ID 4264709469
+───────── Job Summary ─────────
+Job Title: Front End Software Engineer - Entry Level
+Rating: 7.5
+Explanation: Shehab has a solid foundation in front end development with experience in React Native and building ...
+Explanation Tokens: 104
+Tokens Used: 1112 | Cost: $0.0017 | Cumulative Cost: $0.0100
+──────────────────────────
+✅ Updated Notion for Job ID 4263387815
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 122
+Tokens Used: 1123 | Cost: $0.0017 | Cumulative Cost: $0.0117
+──────────────────────────
+✅ Updated Notion for Job ID 4233264658
+───────── Job Summary ─────────
+Job Title: Software Engineer, New Grad & Entry Level
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 83
+Tokens Used: 1094 | Cost: $0.0016 | Cumulative Cost: $0.0133
+──────────────────────────
+✅ Updated Notion for Job ID 4263705451
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a solid technical background with experience in full-stack development, API integr...
+Explanation Tokens: 100
+Tokens Used: 1117 | Cost: $0.0017 | Cumulative Cost: $0.0150
+──────────────────────────
+✅ Updated Notion for Job ID 4259831788
+───────── Job Summary ─────────
+Job Title: Software Engineer - Frontend, Entry Level
+Rating: 7.5
+Explanation: You possess a strong foundation in frontend development with experience in building data-rich system...
+Explanation Tokens: 99
+Tokens Used: 1104 | Cost: $0.0017 | Cumulative Cost: $0.0167
+──────────────────────────
+✅ Updated Notion for Job ID 4263391545
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a solid background in full-stack development, API integrations, and automation, wh...
+Explanation Tokens: 97
+Tokens Used: 1117 | Cost: $0.0017 | Cumulative Cost: $0.0183
+──────────────────────────
+✅ Updated Notion for Job ID 4247317609
+───────── Job Summary ─────────
+Job Title: Software Engineer, New Grad & Entry Level
+Rating: 7.5
+Explanation: You have a strong foundation in software development with experience in building full-stack applicat...
+Explanation Tokens: 95
+Tokens Used: 1100 | Cost: $0.0017 | Cumulative Cost: $0.0200
+──────────────────────────
+✅ Updated Notion for Job ID 4263393989
+───────── Job Summary ─────────
+Job Title: Full Stack Software Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 96
+Tokens Used: 1105 | Cost: $0.0017 | Cumulative Cost: $0.0216
+──────────────────────────
+✅ Updated Notion for Job ID 4246503365
+───────── Job Summary ─────────
+Job Title: Backend Engineer
+Rating: 7.5
+Explanation: You have a strong background in backend development with experience in building management systems, ...
+Explanation Tokens: 87
+Tokens Used: 1085 | Cost: $0.0016 | Cumulative Cost: $0.0233
+──────────────────────────
+✅ Updated Notion for Job ID 4248983065
+───────── Job Summary ─────────
+Job Title: Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong educational background in Computer Science and relevant technical skills ...
+Explanation Tokens: 96
+Tokens Used: 1121 | Cost: $0.0017 | Cumulative Cost: $0.0249
+──────────────────────────
+✅ Updated Notion for Job ID 4235562705
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: You have a strong background in full-stack development, API integrations, and automation, which alig...
+Explanation Tokens: 91
+Tokens Used: 1092 | Cost: $0.0016 | Cumulative Cost: $0.0266
+──────────────────────────
+✅ Updated Notion for Job ID 4223632404
+───────── Job Summary ─────────
+Job Title: Software Engineer (Entry Level)
+Rating: 7.5
+Explanation: You have a strong foundation in backend and full-stack development with experience in Python, Node.j...
+Explanation Tokens: 77
+Tokens Used: 1083 | Cost: $0.0016 | Cumulative Cost: $0.0282
+──────────────────────────
+✅ Updated Notion for Job ID 4263392148
+───────── Job Summary ─────────
+Job Title: Front End Engineer
+Rating: 7.5
+Explanation: You possess a strong background in front-end technologies such as React Native and have experience b...
+Explanation Tokens: 85
+Tokens Used: 1099 | Cost: $0.0016 | Cumulative Cost: $0.0299
+──────────────────────────
+✅ Updated Notion for Job ID 4264706645
+───────── Job Summary ─────────
+Job Title: Software Engineer (Java) - Parametric
+Rating: 7.5
+Explanation: Shehab Ahamed has a solid foundation in Java, which is a key requirement for the Software Engineer r...
+Explanation Tokens: 87
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.0315
+──────────────────────────
+✅ Updated Notion for Job ID 4262330122
+───────── Job Summary ─────────
+Job Title: Software Engineer II, Frontend Infrastructure
+Rating: 7.5
+Explanation: Shehab Ahamed has a solid background in full-stack development, API integrations, and automation, wh...
+Explanation Tokens: 114
+Tokens Used: 1134 | Cost: $0.0017 | Cumulative Cost: $0.0332
+──────────────────────────
+✅ Updated Notion for Job ID 4231974321
+───────── Job Summary ─────────
+Job Title: Software Engineer | Backend
+Rating: 7.5
+Explanation: You have a strong background in backend development with experience in building full-stack systems, ...
+Explanation Tokens: 86
+Tokens Used: 1103 | Cost: $0.0017 | Cumulative Cost: $0.0348
+──────────────────────────
+✅ Updated Notion for Job ID 4049474197
+───────── Job Summary ─────────
+Job Title: Software Engineer | Frontend
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in frontend development with experience in React Native, React...
+Explanation Tokens: 101
+Tokens Used: 1119 | Cost: $0.0017 | Cumulative Cost: $0.0365
+──────────────────────────
+✅ Updated Notion for Job ID 4048172300
+───────── Job Summary ─────────
+Job Title: Software Engineer, New Grad - Infrastructure
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 99
+Tokens Used: 1102 | Cost: $0.0017 | Cumulative Cost: $0.0382
+──────────────────────────
+✅ Updated Notion for Job ID 4263767940
+───────── Job Summary ─────────
+Job Title: Full Stack Software Engineer - Entry Level
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor's degree in Computer Science and relevant experience in full-stack deve...
+Explanation Tokens: 108
+Tokens Used: 1116 | Cost: $0.0017 | Cumulative Cost: $0.0399
+──────────────────────────
+✅ Updated Notion for Job ID 4263769872
+───────── Job Summary ─────────
+Job Title: Front End Software Engineer - Entry Level
+Rating: 7
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 110
+Tokens Used: 1116 | Cost: $0.0017 | Cumulative Cost: $0.0415
+──────────────────────────
+✅ Updated Notion for Job ID 4263770587
+───────── Job Summary ─────────
+Job Title: Python Developer
+Rating: 7.5
+Explanation: You have a strong background in Python development, with experience in building REST services and in...
+Explanation Tokens: 84
+Tokens Used: 1089 | Cost: $0.0016 | Cumulative Cost: $0.0432
+──────────────────────────
+✅ Updated Notion for Job ID 4264254470
+───────── Job Summary ─────────
+Job Title: Software Engineer, iOS (All Teams)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in full-stack development, API integrations, and automation, w...
+Explanation Tokens: 96
+Tokens Used: 1112 | Cost: $0.0017 | Cumulative Cost: $0.0448
+──────────────────────────
+✅ Updated Notion for Job ID 3999826220
+───────── Job Summary ─────────
+Job Title: Software Engineer, New Grad - Infrastructure
+Rating: 7.5
+Explanation: You have a strong foundation in full-stack development, API integrations, and automation, which alig...
+Explanation Tokens: 85
+Tokens Used: 1088 | Cost: $0.0016 | Cumulative Cost: $0.0465
+──────────────────────────
+✅ Updated Notion for Job ID 4263389447
+───────── Job Summary ─────────
+Job Title: Java Software Engineer
+Rating: 7.5
+Explanation: With a Bachelor's in Computer Science and relevant experience in full-stack development using Java, ...
+Explanation Tokens: 93
+Tokens Used: 1109 | Cost: $0.0017 | Cumulative Cost: $0.0481
+──────────────────────────
+✅ Updated Notion for Job ID 4256470487
+───────── Job Summary ─────────
+Job Title: Software Engineer - Frontend, Entry Level
+Rating: 7
+Explanation: You have a strong foundation in frontend development with experience in building data-rich systems u...
+Explanation Tokens: 106
+Tokens Used: 1109 | Cost: $0.0017 | Cumulative Cost: $0.0498
+──────────────────────────
+✅ Updated Notion for Job ID 4263795202
+───────── Job Summary ─────────
+Job Title: AI Software Developer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 85
+Tokens Used: 1084 | Cost: $0.0016 | Cumulative Cost: $0.0514
+──────────────────────────
+✅ Updated Notion for Job ID 4170692055
+───────── Job Summary ─────────
+Job Title: Java Developer- Front Office
+Rating: 7.5
+Explanation: You have a solid technical background with experience in Java, Spring Boot, and client-facing roles....
+Explanation Tokens: 92
+Tokens Used: 1094 | Cost: $0.0016 | Cumulative Cost: $0.0531
+──────────────────────────
+✅ Updated Notion for Job ID 4260724155
+───────── Job Summary ─────────
+Job Title: Software Engineer - Entry Level
+Rating: 7
+Explanation: The candidate has a strong foundation in software development with experience in full-stack developm...
+Explanation Tokens: 70
+Tokens Used: 1070 | Cost: $0.0016 | Cumulative Cost: $0.0547
+──────────────────────────
+✅ Updated Notion for Job ID 4263750617
+───────── Job Summary ─────────
+Job Title: Backend Software Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 96
+Tokens Used: 1109 | Cost: $0.0017 | Cumulative Cost: $0.0563
+──────────────────────────
+✅ Updated Notion for Job ID 4258159821
+───────── Job Summary ─────────
+Job Title: AI Research Engineer, Handshake AI
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 154
+Tokens Used: 1170 | Cost: $0.0018 | Cumulative Cost: $0.0581
+──────────────────────────
+✅ Updated Notion for Job ID 4262166020
+───────── Job Summary ─────────
+Job Title: Full Stack Software Engineer - Entry Level
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 104
+Tokens Used: 1112 | Cost: $0.0017 | Cumulative Cost: $0.0597
+──────────────────────────
+✅ Updated Notion for Job ID 4263391397
+───────── Job Summary ─────────
+Job Title: Front End Software Engineer - Entry Level
+Rating: 7.5
+Explanation: Shehab's background in full-stack development, API integrations, and automation align well with the ...
+Explanation Tokens: 82
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.0614
+──────────────────────────
+✅ Updated Notion for Job ID 4263791280
+───────── Job Summary ─────────
+Job Title: Software Engineer (Entry Level)
+Rating: 7.5
+Explanation: Shehab Ahamed has relevant experience in backend development using Python and integration of AI syst...
+Explanation Tokens: 101
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.0630
+──────────────────────────
+✅ Updated Notion for Job ID 4263398055
+───────── Job Summary ─────────
+Job Title: Front End Software Engineer - Entry Level
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor's degree in Computer Science and relevant experience in full-stack deve...
+Explanation Tokens: 92
+Tokens Used: 1100 | Cost: $0.0017 | Cumulative Cost: $0.0647
+──────────────────────────
+✅ Updated Notion for Job ID 4263390466
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: You have a solid background in full-stack development, API integrations, and automation, which align...
+Explanation Tokens: 90
+Tokens Used: 1102 | Cost: $0.0017 | Cumulative Cost: $0.0663
+──────────────────────────
+✅ Updated Notion for Job ID 4259878641
+───────── Job Summary ─────────
+Job Title: Software Engineer, Entry Level
+Rating: 7
+Explanation: Shehab has relevant experience in building internal dashboards, integrations, and automation tools u...
+Explanation Tokens: 85
+Tokens Used: 1087 | Cost: $0.0016 | Cumulative Cost: $0.0680
+──────────────────────────
+✅ Updated Notion for Job ID 4263391528
+───────── Job Summary ─────────
+Job Title: New Grad Software Engineer
+Rating: 7.5
+Explanation: Shehab has a strong foundation in full-stack development, API integrations, and automation, which al...
+Explanation Tokens: 97
+Tokens Used: 1089 | Cost: $0.0016 | Cumulative Cost: $0.0696
+──────────────────────────
+✅ Updated Notion for Job ID 4263395036
+───────── Job Summary ─────────
+Job Title: Software Engineer, Backend
+Rating: 7.5
+Explanation: You possess a strong technical background with experience in backend development using Java, Python,...
+Explanation Tokens: 109
+Tokens Used: 1128 | Cost: $0.0017 | Cumulative Cost: $0.0713
+──────────────────────────
+✅ Updated Notion for Job ID 4262079980
+───────── Job Summary ─────────
+Job Title: Python Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in Python, which is a key requirement for the Python Engineer ...
+Explanation Tokens: 82
+Tokens Used: 1089 | Cost: $0.0016 | Cumulative Cost: $0.0729
+──────────────────────────
+✅ Updated Notion for Job ID 4260764615
+───────── Job Summary ─────────
+Job Title: Front End Developer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in front-end development with experience in building internal ...
+Explanation Tokens: 90
+Tokens Used: 1087 | Cost: $0.0016 | Cumulative Cost: $0.0746
+──────────────────────────
+✅ Updated Notion for Job ID 4263658700
+───────── Job Summary ─────────
+Job Title: Senior Software Engineer
+Rating: 7
+Explanation: Shehab Ahamed has a Bachelor's in Computer Science and solid experience in full-stack development, A...
+Explanation Tokens: 95
+Tokens Used: 1118 | Cost: $0.0017 | Cumulative Cost: $0.0762
+──────────────────────────
+✅ Updated Notion for Job ID 4263391204
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Software Engineer (C++) (Entry Level)
+Rating: 4
+Explanation: While you have a strong background in full-stack development and multiple programming languages, inc...
+Explanation Tokens: 104
+Tokens Used: 2219 | Cost: $0.0350 | Cumulative Cost: $0.1113
+──────────────────────────
+✅ Updated Notion for Job ID 4263705285
+───────── Job Summary ─────────
+Job Title: Artificial Intelligence Intern
+Rating: 6.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 99
+Tokens Used: 1117 | Cost: $0.0017 | Cumulative Cost: $0.1129
+──────────────────────────
+✅ Updated Notion for Job ID 4263703229
+───────── Job Summary ─────────
+Job Title: Software Development Engineer I, Entry Level
+Rating: 7.5
+Explanation: The candidate has a Bachelor's in Computer Science, relevant internship experience, and has worked o...
+Explanation Tokens: 95
+Tokens Used: 1106 | Cost: $0.0017 | Cumulative Cost: $0.1146
+──────────────────────────
+✅ Updated Notion for Job ID 4263784511
+───────── Job Summary ─────────
+Job Title: Software Engineer 2 (Entry Level)
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor's degree in Computer Science and over 1 year of professional experience...
+Explanation Tokens: 107
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.1163
+──────────────────────────
+✅ Updated Notion for Job ID 4263776038
+───────── Job Summary ─────────
+Job Title: Software Development Engineer - Automation QA
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 116
+Tokens Used: 1133 | Cost: $0.0017 | Cumulative Cost: $0.1180
+──────────────────────────
+✅ Updated Notion for Job ID 4198566335
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Machine Learning Engineer (New Grad)
+Rating: 4
+Explanation: The candidate, Shehab Ahamed, has a solid foundation in software development and integration, with e...
+Explanation Tokens: 120
+Tokens Used: 2219 | Cost: $0.0353 | Cumulative Cost: $0.1533
+──────────────────────────
+✅ Updated Notion for Job ID 4263395176
+───────── Job Summary ─────────
+Job Title: Analytics Engineer (Remote)
+Rating: 7.5
+Explanation: You have a strong technical background with experience in building data pipelines, analytics framewo...
+Explanation Tokens: 89
+Tokens Used: 1086 | Cost: $0.0016 | Cumulative Cost: $0.1549
+──────────────────────────
+✅ Updated Notion for Job ID 4258142960
+───────── Job Summary ─────────
+Job Title: Developer
+Rating: 7.5
+Explanation: You have a strong background in software development with experience in Python, React, Node.js, and ...
+Explanation Tokens: 91
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.1565
+──────────────────────────
+✅ Updated Notion for Job ID 4247342257
+───────── Job Summary ─────────
+Job Title: Full Stack Software Developer (Hybrid - Midtown Manhattan)
+Rating: 7.5
+Explanation: Shehab Ahamed demonstrates a strong background in full-stack development, API integrations, and auto...
+Explanation Tokens: 104
+Tokens Used: 1117 | Cost: $0.0017 | Cumulative Cost: $0.1582
+──────────────────────────
+✅ Updated Notion for Job ID 4226841980
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: With a Bachelor's degree in Computer Science and experience in full-stack development, API integrati...
+Explanation Tokens: 95
+Tokens Used: 1099 | Cost: $0.0016 | Cumulative Cost: $0.1599
+──────────────────────────
+✅ Updated Notion for Job ID 4257840110
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: The candidate has a solid background in full-stack development, API integrations, and automation, wh...
+Explanation Tokens: 84
+Tokens Used: 1085 | Cost: $0.0016 | Cumulative Cost: $0.1615
+──────────────────────────
+✅ Updated Notion for Job ID 4261742537
+───────── Job Summary ─────────
+Job Title: Software Engineer, New Grad & Entry Level
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 82
+Tokens Used: 1083 | Cost: $0.0016 | Cumulative Cost: $0.1631
+──────────────────────────
+✅ Updated Notion for Job ID 4263708156
+───────── Job Summary ─────────
+Job Title: Associate Software Engineer
+Rating: 7.5
+Explanation: The candidate has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 97
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.1648
+──────────────────────────
+✅ Updated Notion for Job ID 4236435877
+───────── Job Summary ─────────
+Job Title: Software Developer (Entry Level)
+Rating: 7
+Explanation: Shehab Ahamed has a Bachelor's degree in Computer Science and relevant experience in full-stack deve...
+Explanation Tokens: 76
+Tokens Used: 1076 | Cost: $0.0016 | Cumulative Cost: $0.1664
+──────────────────────────
+✅ Updated Notion for Job ID 4263393418
+───────── Job Summary ─────────
+Job Title: Software Engineer, Entry Level
+Rating: 7.5
+Explanation: You have a Bachelor's degree in Computer Science and relevant experience in building internal dashbo...
+Explanation Tokens: 97
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.1680
+──────────────────────────
+✅ Updated Notion for Job ID 4263793188
+───────── Job Summary ─────────
+Job Title: Software Engineer - Data Engineering
+Rating: 7
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 86
+Tokens Used: 1102 | Cost: $0.0017 | Cumulative Cost: $0.1697
+──────────────────────────
+✅ Updated Notion for Job ID 4258146971
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in full-stack development, API integrations, and automation, w...
+Explanation Tokens: 94
+Tokens Used: 1094 | Cost: $0.0016 | Cumulative Cost: $0.1713
+──────────────────────────
+✅ Updated Notion for Job ID 4263604030
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: You have a solid background in full-stack development with experience in building management systems...
+Explanation Tokens: 106
+Tokens Used: 1109 | Cost: $0.0017 | Cumulative Cost: $0.1730
+──────────────────────────
+✅ Updated Notion for Job ID 4264807086
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: Shehab has a strong technical background with experience in back-end development using technologies ...
+Explanation Tokens: 103
+Tokens Used: 1106 | Cost: $0.0017 | Cumulative Cost: $0.1746
+──────────────────────────
+✅ Updated Notion for Job ID 4264155300
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: You have a solid background in full-stack development, API integrations, and automation, which align...
+Explanation Tokens: 91
+Tokens Used: 1096 | Cost: $0.0016 | Cumulative Cost: $0.1763
+──────────────────────────
+✅ Updated Notion for Job ID 4236438705
+───────── Job Summary ─────────
+Job Title: Software Engineer (C++) (Entry Level)
+Rating: 7.5
+Explanation: You have a solid foundation in C/C++ from your programming languages, but your experience is more fo...
+Explanation Tokens: 92
+Tokens Used: 1102 | Cost: $0.0017 | Cumulative Cost: $0.1779
+──────────────────────────
+✅ Updated Notion for Job ID 4263390394
+───────── Job Summary ─────────
+Job Title: Java Developer - Fulltime
+Rating: 7.5
+Explanation: Shehab Ahamed demonstrates a strong background in Java development and enterprise-level domain exper...
+Explanation Tokens: 104
+Tokens Used: 1129 | Cost: $0.0017 | Cumulative Cost: $0.1796
+──────────────────────────
+✅ Updated Notion for Job ID 4261195365
+───────── Job Summary ─────────
+Job Title: Java Fullstack Developer, Equities Technology
+Rating: 7.5
+Explanation: Shehab Ahamed has solid experience in full-stack development with technologies like Java, React Nati...
+Explanation Tokens: 94
+Tokens Used: 1096 | Cost: $0.0016 | Cumulative Cost: $0.1813
+──────────────────────────
+✅ Updated Notion for Job ID 4220633787
+───────── Job Summary ─────────
+Job Title: Software Engineer - Developer Experience, Android
+Rating: 7.5
+Explanation: You have a solid foundation in full-stack development, API integrations, and automation, which are v...
+Explanation Tokens: 97
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.1829
+──────────────────────────
+✅ Updated Notion for Job ID 4247041548
+───────── Job Summary ─────────
+Job Title: Cloud Onboarding Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 97
+Tokens Used: 1114 | Cost: $0.0017 | Cumulative Cost: $0.1846
+──────────────────────────
+✅ Updated Notion for Job ID 4258149705
+───────── Job Summary ─────────
+Job Title: Data Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 96
+Tokens Used: 1099 | Cost: $0.0016 | Cumulative Cost: $0.1862
+──────────────────────────
+✅ Updated Notion for Job ID 4260318280
+───────── Job Summary ─────────
+Job Title: Cloud Software Developer - Entry Level
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 103
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.1879
+──────────────────────────
+✅ Updated Notion for Job ID 4263390622
+───────── Job Summary ─────────
+Job Title: Software Developer (Ref 776)
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 87
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.1895
+──────────────────────────
+✅ Updated Notion for Job ID 4263713855
+───────── Job Summary ─────────
+Job Title: Full stack developer
+Rating: 7.5
+Explanation: Shehab Ahamed holds a Bachelor's degree in Computer Science and has relevant experience as a Softwar...
+Explanation Tokens: 103
+Tokens Used: 1116 | Cost: $0.0017 | Cumulative Cost: $0.1912
+──────────────────────────
+✅ Updated Notion for Job ID 4262323244
+───────── Job Summary ─────────
+Job Title: Entry Level Machine Learning Scientist
+Rating: 6.5
+Explanation: While you have a strong technical background in full-stack development, API integrations, and automa...
+Explanation Tokens: 104
+Tokens Used: 1109 | Cost: $0.0017 | Cumulative Cost: $0.1929
+──────────────────────────
+✅ Updated Notion for Job ID 4263750289
+───────── Job Summary ─────────
+Job Title: Quantitative Developer - AI Implementation
+Rating: 6.5
+Explanation: While you have a strong technical background with experience in full-stack development, API integrat...
+Explanation Tokens: 104
+Tokens Used: 1106 | Cost: $0.0017 | Cumulative Cost: $0.1945
+──────────────────────────
+✅ Updated Notion for Job ID 4249637622
+───────── Job Summary ─────────
+Job Title: Machine Learning Engineer, Entry Level
+Rating: 7.5
+Explanation: You have a strong technical background with experience in building full-stack applications, integrat...
+Explanation Tokens: 109
+Tokens Used: 1110 | Cost: $0.0017 | Cumulative Cost: $0.1962
+──────────────────────────
+✅ Updated Notion for Job ID 4263387663
+───────── Job Summary ─────────
+Job Title: Software Engineer, Systems
+Rating: 7.5
+Explanation: Shehab Ahamed possesses a Bachelor's degree in Computer Science, strong technical skills in full-sta...
+Explanation Tokens: 100
+Tokens Used: 1112 | Cost: $0.0017 | Cumulative Cost: $0.1979
+──────────────────────────
+✅ Updated Notion for Job ID 4264123622
+───────── Job Summary ─────────
+Job Title: Full Stack Engineer (Enterprise Focus)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in full-stack development with experience in building manageme...
+Explanation Tokens: 105
+Tokens Used: 1131 | Cost: $0.0017 | Cumulative Cost: $0.1996
+──────────────────────────
+✅ Updated Notion for Job ID 4262850281
+───────── Job Summary ─────────
+Job Title: Applied Research - Artificial Intelligence - Associate (New York, NY)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 102
+Tokens Used: 1106 | Cost: $0.0017 | Cumulative Cost: $0.2012
+──────────────────────────
+✅ Updated Notion for Job ID 4232595130
+───────── Job Summary ─────────
+Job Title: Software Engineer 2 (Entry Level)
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor's degree in Computer Science and relevant work experience in full-stack...
+Explanation Tokens: 93
+Tokens Used: 1093 | Cost: $0.0016 | Cumulative Cost: $0.2029
+──────────────────────────
+✅ Updated Notion for Job ID 4263391391
+───────── Job Summary ─────────
+Job Title: Front End Angular Developer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in front-end development with experience in React and JavaScri...
+Explanation Tokens: 98
+Tokens Used: 1110 | Cost: $0.0017 | Cumulative Cost: $0.2045
+──────────────────────────
+✅ Updated Notion for Job ID 4256033451
+───────── Job Summary ─────────
+Job Title: Machine Learning Engineer
+Rating: 6.5
+Explanation: While Shehab has a strong background in software development, including full-stack, API integrations...
+Explanation Tokens: 92
+Tokens Used: 1109 | Cost: $0.0017 | Cumulative Cost: $0.2062
+──────────────────────────
+✅ Updated Notion for Job ID 4243904526
+───────── Job Summary ─────────
+Job Title: Communications Web Developer
+Rating: 7.5
+Explanation: While Shehab has a strong technical background in full-stack development, API integrations, and auto...
+Explanation Tokens: 104
+Tokens Used: 1108 | Cost: $0.0017 | Cumulative Cost: $0.2079
+──────────────────────────
+✅ Updated Notion for Job ID 4263661178
+───────── Job Summary ─────────
+Job Title: Java Full Stack Developer
+Rating: 7.5
+Explanation: You have a strong foundation in Java, JavaScript, TypeScript, React, Node.js, and Spring Boot, which...
+Explanation Tokens: 95
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.2095
+──────────────────────────
+✅ Updated Notion for Job ID 4258159128
+───────── Job Summary ─────────
+Job Title: Machine Learning Engineer, Entry Level
+Rating: 6.5
+Explanation: While the candidate has a strong technical background in full-stack development, API integrations, a...
+Explanation Tokens: 93
+Tokens Used: 1094 | Cost: $0.0016 | Cumulative Cost: $0.2112
+──────────────────────────
+✅ Updated Notion for Job ID 4263704443
+───────── Job Summary ─────────
+Job Title: Software Engineer, Full Stack - Developer Console
+Rating: 7.5
+Explanation: You have a strong background in full-stack development, API integrations, and building internal tool...
+Explanation Tokens: 90
+Tokens Used: 1100 | Cost: $0.0017 | Cumulative Cost: $0.2128
+──────────────────────────
+✅ Updated Notion for Job ID 4258153725
+───────── Job Summary ─────────
+Job Title: AI Trainer - Advanced Python Developers (US)
+Rating: 7.5
+Explanation: The candidate has a strong technical background in Python, which is a key requirement for the AI Tra...
+Explanation Tokens: 88
+Tokens Used: 1110 | Cost: $0.0017 | Cumulative Cost: $0.2145
+──────────────────────────
+✅ Updated Notion for Job ID 4204992570
+───────── Job Summary ─────────
+Job Title: Machine Learning Engineer, Entry Level
+Rating: 7
+Explanation: With a Bachelor's in Computer Science and hands-on experience in full-stack development, API integra...
+Explanation Tokens: 96
+Tokens Used: 1095 | Cost: $0.0016 | Cumulative Cost: $0.2161
+──────────────────────────
+✅ Updated Notion for Job ID 4263704525
+───────── Job Summary ─────────
+Job Title: Developer
+Rating: 7.5
+Explanation: You have a strong background in full-stack development, API integrations, and automation, which alig...
+Explanation Tokens: 108
+Tokens Used: 1112 | Cost: $0.0017 | Cumulative Cost: $0.2178
+──────────────────────────
+✅ Updated Notion for Job ID 4263730411
+───────── Job Summary ─────────
+Job Title: Software Engineer - Configuration Management
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in software engineering with experience in full-stack developm...
+Explanation Tokens: 83
+Tokens Used: 1088 | Cost: $0.0016 | Cumulative Cost: $0.2194
+──────────────────────────
+✅ Updated Notion for Job ID 4261191047
+───────── Job Summary ─────────
+Job Title: Generative AI Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 100
+Tokens Used: 1111 | Cost: $0.0017 | Cumulative Cost: $0.2211
+──────────────────────────
+✅ Updated Notion for Job ID 4263747994
+───────── Job Summary ─────────
+Job Title: Solutions Engineer I
+Rating: 7.5
+Explanation: With a Bachelor's in Computer Science and experience in full-stack development, API integrations, an...
+Explanation Tokens: 88
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.2227
+──────────────────────────
+✅ Updated Notion for Job ID 4262633743
+───────── Job Summary ─────────
+Job Title: Data Engineer I
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 110
+Tokens Used: 1126 | Cost: $0.0017 | Cumulative Cost: $0.2244
+──────────────────────────
+✅ Updated Notion for Job ID 4257646250
+───────── Job Summary ─────────
+Job Title: TEST AUTOMATION SOFTWARE ENGINEER
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 93
+Tokens Used: 1103 | Cost: $0.0017 | Cumulative Cost: $0.2261
+──────────────────────────
+✅ Updated Notion for Job ID 4258107772
+───────── Job Summary ─────────
+Job Title: DevOps Engineer - Anywhere in USA
+Rating: 7
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 91
+Tokens Used: 1123 | Cost: $0.0017 | Cumulative Cost: $0.2277
+──────────────────────────
+✅ Updated Notion for Job ID 4264706618
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 6.5
+Explanation: While you have a strong background in full-stack development and API integrations, your experience i...
+Explanation Tokens: 70
+Tokens Used: 1063 | Cost: $0.0016 | Cumulative Cost: $0.2293
+──────────────────────────
+✅ Updated Notion for Job ID 4263393984
+───────── Job Summary ─────────
+Job Title: Machine Learning Engineer
+Rating: 6.5
+Explanation: While the candidate has a strong technical background in full-stack development, API integrations, a...
+Explanation Tokens: 86
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.2310
+──────────────────────────
+✅ Updated Notion for Job ID 4264179039
+───────── Job Summary ─────────
+Job Title: BR Football Programmer (Temporary)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 91
+Tokens Used: 1117 | Cost: $0.0017 | Cumulative Cost: $0.2326
+──────────────────────────
+✅ Updated Notion for Job ID 4249880907
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 3
+Explanation: While Shehab Ahamed has impressive skills in full-stack development and software integration, his ex...
+Explanation Tokens: 121
+Tokens Used: 2184 | Cost: $0.0350 | Cumulative Cost: $0.2676
+──────────────────────────
+✅ Updated Notion for Job ID 4263395627
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Machine Learning Engineer, Entry Level
+Rating: 4
+Explanation: Shehab Ahamed has a strong technical background in software development, but lacks experience and sk...
+Explanation Tokens: 132
+Tokens Used: 2207 | Cost: $0.0355 | Cumulative Cost: $0.3032
+──────────────────────────
+✅ Updated Notion for Job ID 4263387659
+───────── Job Summary ─────────
+Job Title: Social Programmer - BR Open Ice (Temporary)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 110
+Tokens Used: 1139 | Cost: $0.0017 | Cumulative Cost: $0.3049
+──────────────────────────
+✅ Updated Notion for Job ID 4250058385
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 2
+Explanation: Shehab Ahamed's experience and skills do not align with the requirements for an Embedded Software En...
+Explanation Tokens: 131
+Tokens Used: 2202 | Cost: $0.0353 | Cumulative Cost: $0.3401
+──────────────────────────
+✅ Updated Notion for Job ID 4263385956
+───────── Job Summary ─────────
+Job Title: Builder – NYC (General Interest)
+Rating: 7.5
+Explanation: Shehab Ahamed's background in full-stack development, API integrations, and automation align well wi...
+Explanation Tokens: 92
+Tokens Used: 1119 | Cost: $0.0017 | Cumulative Cost: $0.3418
+──────────────────────────
+✅ Updated Notion for Job ID 4250838006
+───────── Job Summary ─────────
+Job Title: Cloud Software Developer - Entry Level
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 112
+Tokens Used: 1116 | Cost: $0.0017 | Cumulative Cost: $0.3435
+──────────────────────────
+✅ Updated Notion for Job ID 4263786965
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 6.5
+Explanation: While you have a strong technical background in full-stack development and API integrations, your la...
+Explanation Tokens: 76
+Tokens Used: 1069 | Cost: $0.0016 | Cumulative Cost: $0.3451
+──────────────────────────
+✅ Updated Notion for Job ID 4263394700
+───────── Job Summary ─────────
+Job Title: System Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 98
+Tokens Used: 1104 | Cost: $0.0017 | Cumulative Cost: $0.3468
+──────────────────────────
+✅ Updated Notion for Job ID 4261165006
+───────── Job Summary ─────────
+Job Title: Data Engineer (Entry Level)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in full-stack development, API integrations, and automation, w...
+Explanation Tokens: 89
+Tokens Used: 1104 | Cost: $0.0017 | Cumulative Cost: $0.3484
+──────────────────────────
+✅ Updated Notion for Job ID 4263782582
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 3.5
+Explanation: Shehab Ahamed, while having a strong background in software development and various programming lang...
+Explanation Tokens: 121
+Tokens Used: 2185 | Cost: $0.0350 | Cumulative Cost: $0.3834
+──────────────────────────
+✅ Updated Notion for Job ID 4263388513
+───────── Job Summary ─────────
+Job Title: Social Programmer – BR Betting (Temporary)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 105
+Tokens Used: 1133 | Cost: $0.0017 | Cumulative Cost: $0.3851
+──────────────────────────
+✅ Updated Notion for Job ID 4249887163
+───────── Job Summary ─────────
+Job Title: Backend Go Engineer
+Rating: 7.5
+Explanation: While the candidate does not have direct experience with Go programming language, they have a strong...
+Explanation Tokens: 88
+Tokens Used: 1097 | Cost: $0.0016 | Cumulative Cost: $0.3868
+──────────────────────────
+✅ Updated Notion for Job ID 4256840330
+───────── Job Summary ─────────
+Job Title: Software Engineer – Customer Success Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed possesses a strong background in full-stack development, API integrations, and automat...
+Explanation Tokens: 104
+Tokens Used: 1118 | Cost: $0.0017 | Cumulative Cost: $0.3885
+──────────────────────────
+✅ Updated Notion for Job ID 4260691962
+───────── Job Summary ─────────
+Job Title: ML Compiler Engineer, Compute
+Rating: 7.5
+Explanation: You have a strong technical background with experience in building full-stack applications, integrat...
+Explanation Tokens: 101
+Tokens Used: 1122 | Cost: $0.0017 | Cumulative Cost: $0.3901
+──────────────────────────
+✅ Updated Notion for Job ID 4143424503
+───────── Job Summary ─────────
+Job Title: Quality Assurance Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 93
+Tokens Used: 1105 | Cost: $0.0017 | Cumulative Cost: $0.3918
+──────────────────────────
+✅ Updated Notion for Job ID 4261168053
+───────── Job Summary ─────────
+Job Title: iOS Engineer
+Rating: 7
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 92
+Tokens Used: 1098 | Cost: $0.0016 | Cumulative Cost: $0.3935
+──────────────────────────
+✅ Updated Notion for Job ID 4262194299
+───────── Job Summary ─────────
+Job Title: Power BI Developer
+Rating: 6.5
+Explanation: While you have a strong technical background in full-stack development and experience with API integ...
+Explanation Tokens: 85
+Tokens Used: 1094 | Cost: $0.0016 | Cumulative Cost: $0.3951
+──────────────────────────
+✅ Updated Notion for Job ID 4261188131
+───────── Job Summary ─────────
+Job Title: Solutions Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor of Science in Computer Science and has experience in full-stack develop...
+Explanation Tokens: 105
+Tokens Used: 1113 | Cost: $0.0017 | Cumulative Cost: $0.3968
+──────────────────────────
+✅ Updated Notion for Job ID 4262177346
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer in Test
+Rating: 7
+Explanation: Shehab Ahamed has a strong foundation in C/C++ and Linux from his professional experience and educat...
+Explanation Tokens: 93
+Tokens Used: 1094 | Cost: $0.0016 | Cumulative Cost: $0.3984
+──────────────────────────
+✅ Updated Notion for Job ID 4246399815
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 6.5
+Explanation: While you have a strong background in software development and experience in building critical syste...
+Explanation Tokens: 68
+Tokens Used: 1061 | Cost: $0.0016 | Cumulative Cost: $0.4000
+──────────────────────────
+✅ Updated Notion for Job ID 4263385974
+───────── Job Summary ─────────
+Job Title: Associate Software Engineer - Data Intelligence
+Rating: 7.5
+Explanation: Shehab Ahamed has relevant experience in software engineering, including building management systems...
+Explanation Tokens: 104
+Tokens Used: 1103 | Cost: $0.0017 | Cumulative Cost: $0.4016
+──────────────────────────
+✅ Updated Notion for Job ID 4263392151
+───────── Job Summary ─────────
+Job Title: Python Developer – Model Validation (Finance)
+Rating: 7.5
+Explanation: Shehab's experience in building internal dashboards, integrating payment systems, and automating wor...
+Explanation Tokens: 89
+Tokens Used: 1091 | Cost: $0.0016 | Cumulative Cost: $0.4033
+──────────────────────────
+✅ Updated Notion for Job ID 4248510914
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 6.5
+Explanation: While the candidate has a strong technical background in full-stack development, API integrations, a...
+Explanation Tokens: 90
+Tokens Used: 1083 | Cost: $0.0016 | Cumulative Cost: $0.4049
+──────────────────────────
+✅ Updated Notion for Job ID 4263388488
+───────── Job Summary ─────────
+Job Title: Research Engineer - AI
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 104
+Tokens Used: 1109 | Cost: $0.0017 | Cumulative Cost: $0.4066
+──────────────────────────
+✅ Updated Notion for Job ID 4264752532
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 4
+Explanation: Shehab Ahamed possesses a strong background in software engineering with various programming languag...
+Explanation Tokens: 149
+Tokens Used: 2222 | Cost: $0.0358 | Cumulative Cost: $0.4424
+──────────────────────────
+✅ Updated Notion for Job ID 4263398092
+───────── Job Summary ─────────
+Job Title: Back End Developer
+Rating: 7.5
+Explanation: You have a strong foundation in back-end technologies such as Java, Spring Boot, Node.js, and MongoD...
+Explanation Tokens: 88
+Tokens Used: 1096 | Cost: $0.0016 | Cumulative Cost: $0.4440
+──────────────────────────
+✅ Updated Notion for Job ID 4259979701
+───────── Job Summary ─────────
+Job Title: Associate Software Engineer - Data Intelligence
+Rating: 8
+Explanation: Shehab Ahamed has a Bachelor of Science in Computer Science and relevant experience as a Software En...
+Explanation Tokens: 98
+Tokens Used: 1095 | Cost: $0.0016 | Cumulative Cost: $0.4457
+──────────────────────────
+✅ Updated Notion for Job ID 4263391176
+───────── Job Summary ─────────
+Job Title: Founding Research Engineer
+Rating: 7.5
+Explanation: Shehab's background in full-stack development, API integrations, and automation align well with the ...
+Explanation Tokens: 98
+Tokens Used: 1112 | Cost: $0.0017 | Cumulative Cost: $0.4474
+──────────────────────────
+✅ Updated Notion for Job ID 4259950030
+───────── Job Summary ─────────
+Job Title: Trading Systems Dev
+Rating: 7.5
+Explanation: Shehab Ahamed has a solid background in full-stack development, API integrations, and automation, wh...
+Explanation Tokens: 89
+Tokens Used: 1087 | Cost: $0.0016 | Cumulative Cost: $0.4490
+──────────────────────────
+✅ Updated Notion for Job ID 4264205579
+───────── Job Summary ─────────
+Job Title: React Developer
+Rating: 7.5
+Explanation: You have relevant experience in React development and Node.js, which are key requirements for the ro...
+Explanation Tokens: 80
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.4506
+──────────────────────────
+✅ Updated Notion for Job ID 4261608608
+───────── Job Summary ─────────
+Job Title: Design Engineer
+Rating: 7
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 93
+Tokens Used: 1104 | Cost: $0.0017 | Cumulative Cost: $0.4523
+──────────────────────────
+✅ Updated Notion for Job ID 4198817587
+───────── Job Summary ─────────
+Job Title: Associate Software Engineer - Data Intelligence
+Rating: 7.5
+Explanation: You have a strong educational background in computer science and relevant professional experience in...
+Explanation Tokens: 100
+Tokens Used: 1099 | Cost: $0.0016 | Cumulative Cost: $0.4539
+──────────────────────────
+✅ Updated Notion for Job ID 4263395272
+───────── Job Summary ─────────
+Job Title: Entry Level Machine Learning Scientist
+Rating: 6.5
+Explanation: While you have a strong technical background in full-stack development and API integrations, your ex...
+Explanation Tokens: 80
+Tokens Used: 1085 | Cost: $0.0016 | Cumulative Cost: $0.4555
+──────────────────────────
+✅ Updated Notion for Job ID 4263779319
+───────── Job Summary ─────────
+Job Title: Freelance Web Developer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 100
+Tokens Used: 1104 | Cost: $0.0017 | Cumulative Cost: $0.4572
+──────────────────────────
+✅ Updated Notion for Job ID 4254118966
+───────── Job Summary ─────────
+Job Title: Engineer
+Rating: 7
+Explanation: Shehab Ahamed has a strong technical background in full-stack development, API integrations, and aut...
+Explanation Tokens: 92
+Tokens Used: 1095 | Cost: $0.0016 | Cumulative Cost: $0.4588
+──────────────────────────
+✅ Updated Notion for Job ID 4250589815
+───────── Job Summary ─────────
+Job Title: AI/ML Engineer
+Rating: 6.5
+Explanation: While you have a strong technical background in full-stack development, API integrations, and automa...
+Explanation Tokens: 98
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.4605
+──────────────────────────
+✅ Updated Notion for Job ID 4235568776
+───────── Job Summary ─────────
+Job Title: Quantitative Developer - Commodities
+Rating: 7.5
+Explanation: You have a strong technical background with experience in building full-stack management systems, in...
+Explanation Tokens: 93
+Tokens Used: 1108 | Cost: $0.0017 | Cumulative Cost: $0.4622
+──────────────────────────
+✅ Updated Notion for Job ID 4262175120
+───────── Job Summary ─────────
+Job Title: Azure DevOps Engineer
+Rating: 6.5
+Explanation: While Shehab has a strong background in full-stack development, API integrations, and automation, he...
+Explanation Tokens: 106
+Tokens Used: 1132 | Cost: $0.0017 | Cumulative Cost: $0.4639
+──────────────────────────
+✅ Updated Notion for Job ID 4261175051
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 4
+Explanation: Shehab Ahamed has extensive experience in full-stack development, integration, and automation, with ...
+Explanation Tokens: 118
+Tokens Used: 2175 | Cost: $0.0349 | Cumulative Cost: $0.4987
+──────────────────────────
+✅ Updated Notion for Job ID 4263397199
+───────── Job Summary ─────────
+Job Title: Quantitative Developer (Macro)
+Rating: 6.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 89
+Tokens Used: 1103 | Cost: $0.0017 | Cumulative Cost: $0.5004
+──────────────────────────
+✅ Updated Notion for Job ID 4264744128
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 2
+Explanation: The candidate has strong software development skills and experience in full-stack development, but l...
+Explanation Tokens: 123
+Tokens Used: 2185 | Cost: $0.0350 | Cumulative Cost: $0.5354
+──────────────────────────
+✅ Updated Notion for Job ID 4263387608
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 3.5
+Explanation: The candidate has a strong background in software engineering with an emphasis on full-stack develop...
+Explanation Tokens: 107
+Tokens Used: 2180 | Cost: $0.0346 | Cumulative Cost: $0.5700
+──────────────────────────
+✅ Updated Notion for Job ID 4263386796
+───────── Job Summary ─────────
+Job Title: Embedded Software Engineer, New Grad
+Rating: 6.5
+Explanation: While you have a strong background in full-stack development, API integrations, and automation, your...
+Explanation Tokens: 94
+Tokens Used: 1087 | Cost: $0.0016 | Cumulative Cost: $0.5717
+──────────────────────────
+✅ Updated Notion for Job ID 4263396606
+───────── Job Summary ─────────
+Job Title: Associate Software Engineer - Data Intelligence
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 107
+Tokens Used: 1106 | Cost: $0.0017 | Cumulative Cost: $0.5733
+──────────────────────────
+✅ Updated Notion for Job ID 4263394479
+───────── Job Summary ─────────
+Job Title: BRAIN AI Researcher
+Rating: 7
+Explanation: Shehab has a strong technical background with experience in full-stack development, API integrations...
+Explanation Tokens: 103
+Tokens Used: 1102 | Cost: $0.0017 | Cumulative Cost: $0.5750
+──────────────────────────
+✅ Updated Notion for Job ID 4234728666
+───────── Job Summary ─────────
+Job Title: Full Stack Engineer
+Rating: 7.5
+Explanation: You have a strong background in full-stack development, with experience in React, Python, and Spring...
+Explanation Tokens: 99
+Tokens Used: 1126 | Cost: $0.0017 | Cumulative Cost: $0.5767
+──────────────────────────
+✅ Updated Notion for Job ID 4263717672
+───────── Job Summary ─────────
+Job Title: Software Quality Assurance Engineer - Medical Device
+Rating: 7.5
+Explanation: While Shehab has a strong background in software development and automation, he lacks specific exper...
+Explanation Tokens: 105
+Tokens Used: 1119 | Cost: $0.0017 | Cumulative Cost: $0.5783
+──────────────────────────
+✅ Updated Notion for Job ID 4229102313
+───────── Job Summary ─────────
+Job Title: Solutions Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in full-stack development, API integrations, and automation, w...
+Explanation Tokens: 94
+Tokens Used: 1095 | Cost: $0.0016 | Cumulative Cost: $0.5800
+──────────────────────────
+✅ Updated Notion for Job ID 4190704075
+───────── Job Summary ─────────
+Job Title: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus
+Rating: 7.5
+Explanation: While the candidate has strong technical skills in C/C++, they lack direct experience in low latency...
+Explanation Tokens: 80
+Tokens Used: 1121 | Cost: $0.0017 | Cumulative Cost: $0.5817
+──────────────────────────
+✅ Updated Notion for Job ID 4263658568
+───────── Job Summary ─────────
+Job Title: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus
+Rating: 6.5
+Explanation: While the candidate has a strong background in programming languages like C/C++ and experience in so...
+Explanation Tokens: 95
+Tokens Used: 1136 | Cost: $0.0017 | Cumulative Cost: $0.5834
+──────────────────────────
+✅ Updated Notion for Job ID 4264127923
+───────── Job Summary ─────────
+Job Title: Quality Assurance Automation Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 95
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.5850
+──────────────────────────
+✅ Updated Notion for Job ID 4263113887
+───────── Job Summary ─────────
+Job Title: Quantitative Developer - Equity Research Technology
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 97
+Tokens Used: 1093 | Cost: $0.0016 | Cumulative Cost: $0.5867
+──────────────────────────
+✅ Updated Notion for Job ID 4250593138
+───────── Job Summary ─────────
+Job Title: Image Processing Engineer
+Rating: 6.5
+Explanation: While Shehab has a strong technical background in programming languages, frameworks, and DevOps tool...
+Explanation Tokens: 89
+Tokens Used: 1088 | Cost: $0.0016 | Cumulative Cost: $0.5883
+──────────────────────────
+✅ Updated Notion for Job ID 4259883987
+───────── Job Summary ─────────
+Job Title: Solutions Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 89
+Tokens Used: 1082 | Cost: $0.0016 | Cumulative Cost: $0.5899
+──────────────────────────
+✅ Updated Notion for Job ID 4258853788
+───────── Job Summary ─────────
+Job Title: Cloud Software Developer (AHT) - R10199813
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 118
+Tokens Used: 1142 | Cost: $0.0017 | Cumulative Cost: $0.5916
+──────────────────────────
+✅ Updated Notion for Job ID 4262212084
+───────── Job Summary ─────────
+Job Title: Appian Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 107
+Tokens Used: 1108 | Cost: $0.0017 | Cumulative Cost: $0.5933
+──────────────────────────
+✅ Updated Notion for Job ID 3928090365
+───────── Job Summary ─────────
+Job Title: Forward Deployed Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 95
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.5949
+──────────────────────────
+✅ Updated Notion for Job ID 4221539170
+───────── Job Summary ─────────
+Job Title: Social Programmer I, B/R Gridiron (Temporary)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 95
+Tokens Used: 1126 | Cost: $0.0017 | Cumulative Cost: $0.5966
+──────────────────────────
+✅ Updated Notion for Job ID 4250055582
+───────── Job Summary ─────────
+Job Title: Asset & Wealth Management-Quantitative Engineering-Associate-New York
+Rating: 7.5
+Explanation: You have a solid technical background with experience in full-stack development, API integrations, a...
+Explanation Tokens: 98
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.5983
+──────────────────────────
+✅ Updated Notion for Job ID 4233265566
+───────── Job Summary ─────────
+Job Title: Gen AI Engineer - Marquee - Associate - NYC - GBM Public
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 101
+Tokens Used: 1108 | Cost: $0.0017 | Cumulative Cost: $0.6000
+──────────────────────────
+✅ Updated Notion for Job ID 4263664016
+───────── Job Summary ─────────
+Job Title: Software Integration Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 93
+Tokens Used: 1091 | Cost: $0.0016 | Cumulative Cost: $0.6016
+──────────────────────────
+✅ Updated Notion for Job ID 4247020984
+───────── Job Summary ─────────
+Job Title: Software Engineer, Photos, Android
+Rating: 7.5
+Explanation: You have the required Bachelor's degree in Computer Science and over 2 years of experience in softwa...
+Explanation Tokens: 83
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.6032
+──────────────────────────
+✅ Updated Notion for Job ID 4264122265
+───────── Job Summary ─────────
+Job Title: Research Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 93
+Tokens Used: 1104 | Cost: $0.0017 | Cumulative Cost: $0.6049
+──────────────────────────
+✅ Updated Notion for Job ID 4263661129
+───────── Job Summary ─────────
+Job Title: Growth Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 95
+Tokens Used: 1105 | Cost: $0.0017 | Cumulative Cost: $0.6065
+──────────────────────────
+✅ Updated Notion for Job ID 4238232936
+───────── Job Summary ─────────
+Job Title: Cloud Onboarding Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 103
+Tokens Used: 1123 | Cost: $0.0017 | Cumulative Cost: $0.6082
+──────────────────────────
+✅ Updated Notion for Job ID 4262753754
+───────── Job Summary ─────────
+Job Title: Solana Data Engineer
+Rating: 6.5
+Explanation: While you have a strong technical background in full-stack development, API integrations, and automa...
+Explanation Tokens: 97
+Tokens Used: 1105 | Cost: $0.0017 | Cumulative Cost: $0.6099
+──────────────────────────
+✅ Updated Notion for Job ID 4263478221
+───────── Job Summary ─────────
+Job Title: Build Your Own Job Description
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor's degree in Computer Science and relevant experience in full-stack deve...
+Explanation Tokens: 110
+Tokens Used: 1130 | Cost: $0.0017 | Cumulative Cost: $0.6116
+──────────────────────────
+✅ Updated Notion for Job ID 4264263756
+───────── Job Summary ─────────
+Job Title: Project Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 89
+Tokens Used: 1096 | Cost: $0.0016 | Cumulative Cost: $0.6132
+──────────────────────────
+✅ Updated Notion for Job ID 4260169369
+───────── Job Summary ─────────
+Job Title: AI Agents Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 88
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.6149
+──────────────────────────
+⚠️ No Notion entry found for Job ID 4262326260
+───────── Job Summary ─────────
+Job Title: Software Engineer, Native macOS Development
+Rating: 7.5
+Explanation: You have a solid background in full-stack development, API integrations, and automation, which are v...
+Explanation Tokens: 103
+Tokens Used: 1135 | Cost: $0.0017 | Cumulative Cost: $0.6166
+──────────────────────────
+✅ Updated Notion for Job ID 4263662155
+───────── Job Summary ─────────
+Job Title: Founding Engineer — Medical AI Agents
+Rating: 7.5
+Explanation: While Shehab has a strong technical background in full-stack development and API integrations, he ma...
+Explanation Tokens: 88
+Tokens Used: 1104 | Cost: $0.0017 | Cumulative Cost: $0.6182
+──────────────────────────
+✅ Updated Notion for Job ID 4259943990
+───────── Job Summary ─────────
+Job Title: Software Engineer, Systems
+Rating: 7.5
+Explanation: You have a solid background in software engineering with experience in building full-stack applicati...
+Explanation Tokens: 97
+Tokens Used: 1115 | Cost: $0.0017 | Cumulative Cost: $0.6199
+──────────────────────────
+✅ Updated Notion for Job ID 4262897842
+───────── Job Summary ─────────
+Job Title: Software Engineer, Systems
+Rating: 7.5
+Explanation: You have a solid foundation in software engineering with experience in building management systems, ...
+Explanation Tokens: 108
+Tokens Used: 1127 | Cost: $0.0017 | Cumulative Cost: $0.6216
+──────────────────────────
+✅ Updated Notion for Job ID 4263104033
+───────── Job Summary ─────────
+Job Title: Systems Engineer I
+Rating: 7.5
+Explanation: You have a solid foundation in software engineering with experience in building full-stack systems, ...
+Explanation Tokens: 76
+Tokens Used: 1075 | Cost: $0.0016 | Cumulative Cost: $0.6232
+──────────────────────────
+✅ Updated Notion for Job ID 4250637610
+───────── Job Summary ─────────
+Job Title: Quality Assurance Developer, Trilogy (Remote) - $60,000/year USD
+Rating: 7.5
+Explanation: You possess a strong technical background with experience in full-stack development, API integration...
+Explanation Tokens: 117
+Tokens Used: 1133 | Cost: $0.0017 | Cumulative Cost: $0.6249
+──────────────────────────
+✅ Updated Notion for Job ID 4263150679
+───────── Job Summary ─────────
+Job Title: Forward Deployed Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 80
+Tokens Used: 1094 | Cost: $0.0016 | Cumulative Cost: $0.6265
+──────────────────────────
+⚠️ No Notion entry found for Job ID 4262323437
+───────── Job Summary ─────────
+Job Title: Research Engineer — 3D Reconstruction and Rendering
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background in full-stack development, API integrations, and aut...
+Explanation Tokens: 105
+Tokens Used: 1128 | Cost: $0.0017 | Cumulative Cost: $0.6282
+──────────────────────────
+❌ Failed to update Notion for Job ID 4262033012: Request to Notion API has timed out
+───────── Job Summary ─────────
+Job Title: Associate Software Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 106
+Tokens Used: 1113 | Cost: $0.0017 | Cumulative Cost: $0.6299
+──────────────────────────
+✅ Updated Notion for Job ID 4259978694
+───────── Job Summary ─────────
+Job Title: Equity Quant Developer
+Rating: 7
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 92
+Tokens Used: 1095 | Cost: $0.0016 | Cumulative Cost: $0.6315
+──────────────────────────
+✅ Updated Notion for Job ID 4264179376
+───────── Job Summary ─────────
+Job Title: Technical Solutions Operations Engineer 2
+Rating: 7.5
+Explanation: Shehab Ahamed has relevant experience in building internal tooling and workflows, working with APIs,...
+Explanation Tokens: 90
+Tokens Used: 1096 | Cost: $0.0016 | Cumulative Cost: $0.6332
+──────────────────────────
+✅ Updated Notion for Job ID 4249297260
+───────── Job Summary ─────────
+Job Title: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus
+Rating: 6.5
+Explanation: While you have a strong background in software development with experience in C/C++, your expertise ...
+Explanation Tokens: 81
+Tokens Used: 1122 | Cost: $0.0017 | Cumulative Cost: $0.6349
+──────────────────────────
+✅ Updated Notion for Job ID 4264734725
+───────── Job Summary ─────────
+Job Title: Workday Integration Develop
+Rating: 7.5
+Explanation: You have a strong technical background with experience in API integrations, full-stack development, ...
+Explanation Tokens: 89
+Tokens Used: 1089 | Cost: $0.0016 | Cumulative Cost: $0.6365
+──────────────────────────
+✅ Updated Notion for Job ID 4248480796
+───────── Job Summary ─────────
+Job Title: MSR Quantitative Developer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 95
+Tokens Used: 1105 | Cost: $0.0017 | Cumulative Cost: $0.6382
+──────────────────────────
+✅ Updated Notion for Job ID 4264712729
+───────── Job Summary ─────────
+Job Title: Implementation Engineer
+Rating: 7.5
+Explanation: With experience in building integrations, dashboards, and payment systems, as well as working on cli...
+Explanation Tokens: 88
+Tokens Used: 1091 | Cost: $0.0016 | Cumulative Cost: $0.6398
+──────────────────────────
+✅ Updated Notion for Job ID 4264533391
+───────── Job Summary ─────────
+Job Title: Lead UX/UI Developer
+Rating: 7
+Explanation: Shehab has a strong technical background with experience in full-stack development, API integrations...
+Explanation Tokens: 101
+Tokens Used: 1116 | Cost: $0.0017 | Cumulative Cost: $0.6415
+──────────────────────────
+✅ Updated Notion for Job ID 4261738068
+───────── Job Summary ─────────
+Job Title: Oracle ADF Developer
+Rating: 7.5
+Explanation: You have a solid background in full-stack development with experience in building enterprise applica...
+Explanation Tokens: 94
+Tokens Used: 1102 | Cost: $0.0017 | Cumulative Cost: $0.6431
+──────────────────────────
+✅ Updated Notion for Job ID 4264732281
+───────── Job Summary ─────────
+Job Title: Data Scientist / Machine Learning Engineer - Personalization
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 123
+Tokens Used: 1136 | Cost: $0.0017 | Cumulative Cost: $0.6448
+──────────────────────────
+✅ Updated Notion for Job ID 4262330307
+───────── Job Summary ─────────
+Job Title: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus
+Rating: 6.5
+Explanation: While the candidate has strong technical skills in C/C++ and Linux, which are required for the role,...
+Explanation Tokens: 73
+Tokens Used: 1114 | Cost: $0.0017 | Cumulative Cost: $0.6465
+──────────────────────────
+✅ Updated Notion for Job ID 4261778599
+───────── Job Summary ─────────
+Job Title: Software Engineer, Systems
+Rating: 7.5
+Explanation: You have a strong technical background with relevant experience in full-stack development, API integ...
+Explanation Tokens: 78
+Tokens Used: 1099 | Cost: $0.0016 | Cumulative Cost: $0.6482
+──────────────────────────
+✅ Updated Notion for Job ID 4263103045
+───────── Job Summary ─────────
+Job Title: AI Automation Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed demonstrates strong technical skills in full-stack development, API integrations, and ...
+Explanation Tokens: 91
+Tokens Used: 1091 | Cost: $0.0016 | Cumulative Cost: $0.6498
+──────────────────────────
+✅ Updated Notion for Job ID 4240197236
+───────── Job Summary ─────────
+Job Title: Software Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 88
+Tokens Used: 1108 | Cost: $0.0017 | Cumulative Cost: $0.6515
+──────────────────────────
+✅ Updated Notion for Job ID 4263104050
+───────── Job Summary ─────────
+Job Title: Developer -Salesforce
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in full-stack development, API integrations, and automation, w...
+Explanation Tokens: 113
+Tokens Used: 1109 | Cost: $0.0017 | Cumulative Cost: $0.6531
+──────────────────────────
+✅ Updated Notion for Job ID 4250589790
+───────── Job Summary ─────────
+Job Title: Consultant(e) Développement E-Trading H/F – New York
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 89
+Tokens Used: 1149 | Cost: $0.0017 | Cumulative Cost: $0.6548
+──────────────────────────
+✅ Updated Notion for Job ID 4263421610
+───────── Job Summary ─────────
+Job Title: Applied Research - Artificial Intelligence - Associate
+Rating: 7.5
+Explanation: While the candidate has a strong technical background in full-stack development, API integrations, a...
+Explanation Tokens: 107
+Tokens Used: 1105 | Cost: $0.0017 | Cumulative Cost: $0.6565
+──────────────────────────
+✅ Updated Notion for Job ID 4263387943
+───────── Job Summary ─────────
+Job Title: Consultant(e) Data Engineer AWS H/F – New York
+Rating: 7.5
+Explanation: Shehab Ahamed has a solid background in full-stack development, API integrations, and automation, wh...
+Explanation Tokens: 87
+Tokens Used: 1144 | Cost: $0.0017 | Cumulative Cost: $0.6582
+──────────────────────────
+✅ Updated Notion for Job ID 4263423101
+───────── Job Summary ─────────
+Job Title: MSR Quantitative Developer
+Rating: 7.5
+Explanation: Shehab has a strong technical background in full-stack development, API integrations, and automation...
+Explanation Tokens: 107
+Tokens Used: 1120 | Cost: $0.0017 | Cumulative Cost: $0.6599
+──────────────────────────
+✅ Updated Notion for Job ID 4264737494
+───────── Job Summary ─────────
+Job Title: Platform Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 111
+Tokens Used: 1121 | Cost: $0.0017 | Cumulative Cost: $0.6616
+──────────────────────────
+✅ Updated Notion for Job ID 4233453874
+───────── Job Summary ─────────
+Job Title: Computer Systems Engineer (Ref 781)
+Rating: 7.5
+Explanation: You have a solid technical background with experience in full-stack development, API integrations, a...
+Explanation Tokens: 86
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.6632
+──────────────────────────
+✅ Updated Notion for Job ID 4263714717
+───────── Job Summary ─────────
+Job Title: Cloud Support Engineer
+Rating: 7.5
+Explanation: You have a strong background in full-stack development, API integrations, and automation, which are ...
+Explanation Tokens: 101
+Tokens Used: 1104 | Cost: $0.0017 | Cumulative Cost: $0.6649
+──────────────────────────
+✅ Updated Notion for Job ID 4262974530
+───────── Job Summary ─────────
+Job Title: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus
+Rating: 6.5
+Explanation: You have a strong background in C/C++, which is a key requirement for the role. Your experience in b...
+Explanation Tokens: 85
+Tokens Used: 1126 | Cost: $0.0017 | Cumulative Cost: $0.6666
+──────────────────────────
+✅ Updated Notion for Job ID 4264733883
+───────── Job Summary ─────────
+Job Title: Cloud Data & Analytics Engineer - Senior Associate
+Rating: 7.5
+Explanation: You have a strong technical background in full-stack development, API integration, and automation, w...
+Explanation Tokens: 100
+Tokens Used: 1121 | Cost: $0.0017 | Cumulative Cost: $0.6682
+──────────────────────────
+✅ Updated Notion for Job ID 4261269186
+───────── Job Summary ─────────
+Job Title: Software Engineer, Product
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 109
+Tokens Used: 1146 | Cost: $0.0017 | Cumulative Cost: $0.6700
+──────────────────────────
+✅ Updated Notion for Job ID 4263104065
+───────── Job Summary ─────────
+Job Title: Forward Deployed Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 89
+Tokens Used: 1118 | Cost: $0.0017 | Cumulative Cost: $0.6716
+──────────────────────────
+✅ Updated Notion for Job ID 4261735317
+───────── Job Summary ─────────
+Job Title: Software Engineer, Product
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 84
+Tokens Used: 1117 | Cost: $0.0017 | Cumulative Cost: $0.6733
+──────────────────────────
+✅ Updated Notion for Job ID 4263100492
+───────── Job Summary ─────────
+Job Title: General Inquiries
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in full-stack development, API integrations, and automation, w...
+Explanation Tokens: 108
+Tokens Used: 1075 | Cost: $0.0016 | Cumulative Cost: $0.6749
+──────────────────────────
+✅ Updated Notion for Job ID 4053482495
+───────── Job Summary ─────────
+Job Title: Developer, Business Intelligence
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor's degree in Computer Science and has hands-on experience in full-stack ...
+Explanation Tokens: 118
+Tokens Used: 1118 | Cost: $0.0017 | Cumulative Cost: $0.6766
+──────────────────────────
+✅ Updated Notion for Job ID 4252065427
+───────── Job Summary ─────────
+Job Title: MSR Quantitative Developer
+Rating: 7.5
+Explanation: You have a solid technical background with experience in full-stack development, API integrations, a...
+Explanation Tokens: 102
+Tokens Used: 1116 | Cost: $0.0017 | Cumulative Cost: $0.6783
+──────────────────────────
+✅ Updated Notion for Job ID 4264700341
+───────── Job Summary ─────────
+Job Title: Software Engineer, Product
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 99
+Tokens Used: 1132 | Cost: $0.0017 | Cumulative Cost: $0.6800
+──────────────────────────
+✅ Updated Notion for Job ID 4263104063
+───────── Job Summary ─────────
+Job Title: Full stack Java developer
+Rating: 7.5
+Explanation: You have a solid foundation in Java, which is a core requirement for the full stack Java developer r...
+Explanation Tokens: 89
+Tokens Used: 1059 | Cost: $0.0016 | Cumulative Cost: $0.6816
+──────────────────────────
+✅ Updated Notion for Job ID 4263720331
+───────── Job Summary ─────────
+Job Title: MSR Quantitative Developer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 100
+Tokens Used: 1114 | Cost: $0.0017 | Cumulative Cost: $0.6832
+──────────────────────────
+✅ Updated Notion for Job ID 4261126444
+───────── Job Summary ─────────
+Job Title: Test Engineer - Aviation
+Rating: 6.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 110
+Tokens Used: 1142 | Cost: $0.0017 | Cumulative Cost: $0.6849
+──────────────────────────
+✅ Updated Notion for Job ID 4262878124
+───────── Job Summary ─────────
+Job Title: SQL Developer - C2H - Service Broker
+Rating: 7.5
+Explanation: You have a strong technical background with experience in SQL, Python, and automation, which are rel...
+Explanation Tokens: 90
+Tokens Used: 1114 | Cost: $0.0017 | Cumulative Cost: $0.6866
+──────────────────────────
+✅ Updated Notion for Job ID 4261140109
+───────── Job Summary ─────────
+Job Title: Associate Software Engineer
+Rating: 7
+Explanation: The candidate has a Bachelor's degree in Computer Science and relevant professional experience as a ...
+Explanation Tokens: 98
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.6883
+──────────────────────────
+✅ Updated Notion for Job ID 4259979602
+───────── Job Summary ─────────
+Job Title: Collibra Technical Developer
+Rating: 7
+Explanation: Shehab has a strong technical background with experience in full-stack development, API integrations...
+Explanation Tokens: 86
+Tokens Used: 1100 | Cost: $0.0017 | Cumulative Cost: $0.6899
+──────────────────────────
+✅ Updated Notion for Job ID 4207845981
+───────── Job Summary ─────────
+Job Title: MSR Quantitative Developer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 91
+Tokens Used: 1103 | Cost: $0.0017 | Cumulative Cost: $0.6916
+──────────────────────────
+✅ Updated Notion for Job ID 4264740384
+───────── Job Summary ─────────
+Job Title: Computer Systems Engineer (Ref 785)
+Rating: 7.5
+Explanation: With a Bachelor's in Computer Science and experience in full-stack development, API integrations, an...
+Explanation Tokens: 107
+Tokens Used: 1111 | Cost: $0.0017 | Cumulative Cost: $0.6932
+──────────────────────────
+✅ Updated Notion for Job ID 4263715756
+───────── Job Summary ─────────
+Job Title: QA Test Engineer, Trilogy (Remote) - $60,000/year USD
+Rating: 7.5
+Explanation: You have a strong background in software development, API integrations, and automation, which are ke...
+Explanation Tokens: 110
+Tokens Used: 1132 | Cost: $0.0017 | Cumulative Cost: $0.6949
+──────────────────────────
+✅ Updated Notion for Job ID 4263151633
+───────── Job Summary ─────────
+Job Title: Community Engineer (multiple roles and seniority levels)
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 104
+Tokens Used: 1110 | Cost: $0.0017 | Cumulative Cost: $0.6966
+──────────────────────────
+✅ Updated Notion for Job ID 4263698914
+───────── Job Summary ─────────
+Job Title: Rust Engineer - Hybrid NYC
+Rating: 6.5
+Explanation: While you have a strong technical background with experience in Java, Python, and Node.js, there is ...
+Explanation Tokens: 96
+Tokens Used: 1121 | Cost: $0.0017 | Cumulative Cost: $0.6983
+──────────────────────────
+✅ Updated Notion for Job ID 4052734660
+───────── Job Summary ─────────
+Job Title: Community Engineer (multiple roles and seniority levels)
+Rating: 7.5
+Explanation: You have a solid foundation with a CS degree and relevant professional experience in software engine...
+Explanation Tokens: 89
+Tokens Used: 1095 | Cost: $0.0016 | Cumulative Cost: $0.6999
+──────────────────────────
+✅ Updated Notion for Job ID 4263901747
+───────── Job Summary ─────────
+Job Title: Forward Deployed Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 106
+Tokens Used: 1141 | Cost: $0.0017 | Cumulative Cost: $0.7016
+──────────────────────────
+✅ Updated Notion for Job ID 4260743559
+───────── Job Summary ─────────
+Job Title: Machine Learning Engineer
+Rating: 6.5
+Explanation: While you have a strong technical background with experience in full-stack development, API integrat...
+Explanation Tokens: 97
+Tokens Used: 1117 | Cost: $0.0017 | Cumulative Cost: $0.7033
+──────────────────────────
+✅ Updated Notion for Job ID 4261611210
+───────── Job Summary ─────────
+Job Title: Application Production Support Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 102
+Tokens Used: 1122 | Cost: $0.0017 | Cumulative Cost: $0.7050
+──────────────────────────
+✅ Updated Notion for Job ID 4256341543
+───────── Job Summary ─────────
+Job Title: ERP Software Sales
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 108
+Tokens Used: 1120 | Cost: $0.0017 | Cumulative Cost: $0.7067
+──────────────────────────
+✅ Updated Notion for Job ID 4262324635
+───────── Job Summary ─────────
+Job Title: Enterprise Architect
+Rating: 7.5
+Explanation: With a Bachelor's in Computer Science, hands-on experience in full-stack development, API integratio...
+Explanation Tokens: 101
+Tokens Used: 1099 | Cost: $0.0016 | Cumulative Cost: $0.7083
+──────────────────────────
+✅ Updated Notion for Job ID 4263124620
+───────── Job Summary ─────────
+Job Title: Forward Deployed Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 105
+Tokens Used: 1117 | Cost: $0.0017 | Cumulative Cost: $0.7100
+──────────────────────────
+✅ Updated Notion for Job ID 4263778989
+───────── Job Summary ─────────
+Job Title: Salesforce Developer
+Rating: 7.5
+Explanation: While you do not have direct experience with Salesforce development, your background in full-stack d...
+Explanation Tokens: 92
+Tokens Used: 1101 | Cost: $0.0017 | Cumulative Cost: $0.7116
+──────────────────────────
+✅ Updated Notion for Job ID 4263716934
+───────── Job Summary ─────────
+Job Title: Operations Specialist
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 81
+Tokens Used: 1075 | Cost: $0.0016 | Cumulative Cost: $0.7133
+──────────────────────────
+✅ Updated Notion for Job ID 4264264628
+───────── Job Summary ─────────
+Job Title: Salesforce Developer, Communications and Corporate Responsibility (CCR) Ops & Tech
+Rating: 7
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 102
+Tokens Used: 1109 | Cost: $0.0017 | Cumulative Cost: $0.7149
+──────────────────────────
+✅ Updated Notion for Job ID 4250977624
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: FPGA Firmware Design Engineer
+Rating: 2
+Explanation: Shehab Ahamed appears to be a software engineer with extensive experience in full-stack development ...
+Explanation Tokens: 134
+Tokens Used: 2230 | Cost: $0.0356 | Cumulative Cost: $0.7506
+──────────────────────────
+✅ Updated Notion for Job ID 4196458157
+───────── Job Summary ─────────
+Job Title: Salesforce Developer with Lightning
+Rating: 7.5
+Explanation: You have a strong background in full-stack development and API integrations with experience in clien...
+Explanation Tokens: 99
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.7522
+──────────────────────────
+✅ Updated Notion for Job ID 4263722279
+───────── Job Summary ─────────
+Job Title: Community Engineer (multiple roles and seniority levels)
+Rating: 7.5
+Explanation: Shehab Ahamed's experience in software engineering, API integrations, and client support align well ...
+Explanation Tokens: 100
+Tokens Used: 1106 | Cost: $0.0017 | Cumulative Cost: $0.7539
+──────────────────────────
+✅ Updated Notion for Job ID 4264500891
+───────── Job Summary ─────────
+Job Title: Research Scientist II - AMZ26510.1
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 87
+Tokens Used: 1091 | Cost: $0.0016 | Cumulative Cost: $0.7555
+──────────────────────────
+✅ Updated Notion for Job ID 4264122407
+───────── Job Summary ─────────
+Job Title: DevOps Engineer
+Rating: 7.5
+Explanation: You have a solid foundation in DevOps tools such as Git, Docker, CI/CD, and Linux, which are essenti...
+Explanation Tokens: 101
+Tokens Used: 1116 | Cost: $0.0017 | Cumulative Cost: $0.7572
+──────────────────────────
+✅ Updated Notion for Job ID 4245518387
+───────── Job Summary ─────────
+Job Title: Rust Engineer - Trading
+Rating: 6.5
+Explanation: While the candidate has a strong technical background in full-stack development, API integrations, a...
+Explanation Tokens: 86
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.7588
+──────────────────────────
+✅ Updated Notion for Job ID 4201154071
+───────── Job Summary ─────────
+Job Title: Security Engineer II - AMZ9160473
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 86
+Tokens Used: 1094 | Cost: $0.0016 | Cumulative Cost: $0.7605
+──────────────────────────
+✅ Updated Notion for Job ID 4264123300
+───────── Job Summary ─────────
+Job Title: Applied Research - Artificial Intelligence - Associate
+Rating: 7.5
+Explanation: Shehab Ahamed has a solid technical background with experience in full-stack development, API integr...
+Explanation Tokens: 91
+Tokens Used: 1089 | Cost: $0.0016 | Cumulative Cost: $0.7621
+──────────────────────────
+✅ Updated Notion for Job ID 4263798019
+───────── Job Summary ─────────
+Job Title: Cloud Support Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 96
+Tokens Used: 1098 | Cost: $0.0016 | Cumulative Cost: $0.7638
+──────────────────────────
+✅ Updated Notion for Job ID 4262972860
+───────── Job Summary ─────────
+Job Title: Community Engineer (multiple roles and seniority levels)
+Rating: 7.5
+Explanation: With a Bachelor's in Computer Science and experience in full-stack development, API integrations, an...
+Explanation Tokens: 81
+Tokens Used: 1088 | Cost: $0.0016 | Cumulative Cost: $0.7654
+──────────────────────────
+✅ Updated Notion for Job ID 4263900832
+───────── Job Summary ─────────
+Job Title: Application Production Support Engineer
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 109
+Tokens Used: 1127 | Cost: $0.0017 | Cumulative Cost: $0.7671
+──────────────────────────
+✅ Updated Notion for Job ID 4256345208
+───────── Job Summary ─────────
+Job Title: AdTech Solutions Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 106
+Tokens Used: 1110 | Cost: $0.0017 | Cumulative Cost: $0.7688
+──────────────────────────
+✅ Updated Notion for Job ID 4233146388
+───────── Job Summary ─────────
+Job Title: Staff Site Reliability Engineer | API Infrastructure
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 93
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.7704
+──────────────────────────
+✅ Updated Notion for Job ID 4183409726
+───────── Job Summary ─────────
+Job Title: Azure DevOps Engineer With Pyramid Analytics in New York City, NY(USC or GC Only)
+Rating: 7
+Explanation: Shehab has a strong background in full-stack development, API integrations, and automation, which ar...
+Explanation Tokens: 104
+Tokens Used: 1132 | Cost: $0.0017 | Cumulative Cost: $0.7721
+──────────────────────────
+✅ Updated Notion for Job ID 4261775111
+───────── Job Summary ─────────
+Job Title: Oracle EPM Development Analyst
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor of Science in Computer Science and has gained hands-on experience in fu...
+Explanation Tokens: 97
+Tokens Used: 1103 | Cost: $0.0017 | Cumulative Cost: $0.7738
+──────────────────────────
+✅ Updated Notion for Job ID 4264167255
+───────── Job Summary ─────────
+Job Title: .Net SOFTWARE ENGINEER (W2)
+Rating: 7.5
+Explanation: You have a solid foundation in full-stack development, API integrations, and automation, which are r...
+Explanation Tokens: 89
+Tokens Used: 1120 | Cost: $0.0017 | Cumulative Cost: $0.7754
+──────────────────────────
+✅ Updated Notion for Job ID 4261612210
+───────── Job Summary ─────────
+Job Title: IT Systems Engineer - IdM
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 87
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.7771
+──────────────────────────
+✅ Updated Notion for Job ID 4264801046
+───────── Job Summary ─────────
+Job Title: Cloud Platform Engineer
+Rating: 7.5
+Explanation: While the candidate has a strong technical background in full-stack development, API integrations, a...
+Explanation Tokens: 104
+Tokens Used: 1111 | Cost: $0.0017 | Cumulative Cost: $0.7788
+──────────────────────────
+✅ Updated Notion for Job ID 4239115586
+───────── Job Summary ─────────
+Job Title: Kafka Engineer
+Rating: 7.5
+Explanation: Shehab's experience in building and maintaining systems using various technologies like React, Pytho...
+Explanation Tokens: 89
+Tokens Used: 1094 | Cost: $0.0016 | Cumulative Cost: $0.7804
+──────────────────────────
+✅ Updated Notion for Job ID 4263363684
+───────── Job Summary ─────────
+Job Title: Mainframe Developer
+Rating: 2
+Explanation: The candidate's experience and skill set do not align well with the requirements of a Mainframe Deve...
+Explanation Tokens: 115
+Tokens Used: 1120 | Cost: $0.0017 | Cumulative Cost: $0.7821
+──────────────────────────
+✅ Updated Notion for Job ID 4261615053
+───────── Job Summary ─────────
+Job Title: GenAI Python Systems Engineer – Senior Associate
+Rating: 7
+Explanation: Shehab Ahamed has a Bachelor's in Computer Science and relevant experience in software engineering r...
+Explanation Tokens: 108
+Tokens Used: 1128 | Cost: $0.0017 | Cumulative Cost: $0.7838
+──────────────────────────
+✅ Updated Notion for Job ID 4263762925
+───────── Job Summary ─────────
+Job Title: Salesforce Architect
+Rating: 6.5
+Explanation: While you have a strong technical background with experience in full-stack development, API integrat...
+Explanation Tokens: 97
+Tokens Used: 1093 | Cost: $0.0016 | Cumulative Cost: $0.7854
+──────────────────────────
+✅ Updated Notion for Job ID 4262154921
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Instrumentation & Electrical Designer
+Rating: 2
+Explanation: Shehab Ahamed's skills and experience do not align well with the role of Instrumentation & Electrica...
+Explanation Tokens: 139
+Tokens Used: 2244 | Cost: $0.0360 | Cumulative Cost: $0.8214
+──────────────────────────
+✅ Updated Notion for Job ID 4262443573
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Junior Transmission Line Design Engineer
+Rating: 2
+Explanation: Despite your strong background in software engineering and development, your skills and experience d...
+Explanation Tokens: 111
+Tokens Used: 2228 | Cost: $0.0355 | Cumulative Cost: $0.8570
+──────────────────────────
+✅ Updated Notion for Job ID 4194883013
+───────── Job Summary ─────────
+Job Title: Core Platform Engineer
+Rating: 7.5
+Explanation: You have a solid foundation in full-stack development, DevOps tools, and client-facing experience, w...
+Explanation Tokens: 98
+Tokens Used: 1103 | Cost: $0.0017 | Cumulative Cost: $0.8586
+──────────────────────────
+✅ Updated Notion for Job ID 4263723266
+───────── Job Summary ─────────
+Job Title: SQL Developer with DBT
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong background in SQL, which is a key requirement for the SQL Developer role....
+Explanation Tokens: 99
+Tokens Used: 1126 | Cost: $0.0017 | Cumulative Cost: $0.8603
+──────────────────────────
+✅ Updated Notion for Job ID 4263718798
+───────── Job Summary ─────────
+Job Title: Developer Advocate, Developer Productivity, DevEx
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 100
+Tokens Used: 1106 | Cost: $0.0017 | Cumulative Cost: $0.8620
+──────────────────────────
+✅ Updated Notion for Job ID 4264596730
+───────── Job Summary ─────────
+Job Title: Electrical Engineer
+Rating: 2
+Explanation: While the candidate has a strong background in computer science, software development, and automatio...
+Explanation Tokens: 80
+Tokens Used: 1108 | Cost: $0.0017 | Cumulative Cost: $0.8636
+──────────────────────────
+✅ Updated Notion for Job ID 4264734961
+───────── Job Summary ─────────
+Job Title: Service AV Engineer
+Rating: 6.5
+Explanation: You have a strong technical background in full-stack development, API integrations, and automation, ...
+Explanation Tokens: 98
+Tokens Used: 1096 | Cost: $0.0016 | Cumulative Cost: $0.8653
+──────────────────────────
+✅ Updated Notion for Job ID 4263132331
+───────── Job Summary ─────────
+Job Title: MSR Quantitative Developer
+Rating: 7
+Explanation: Shehab has a Bachelor's in Computer Science and relevant experience in software engineering, API int...
+Explanation Tokens: 79
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.8669
+──────────────────────────
+✅ Updated Notion for Job ID 4261137097
+───────── Job Summary ─────────
+Job Title: Deployment Strategist - US Government
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 96
+Tokens Used: 1116 | Cost: $0.0017 | Cumulative Cost: $0.8686
+──────────────────────────
+✅ Updated Notion for Job ID 4263655780
+───────── Job Summary ─────────
+Job Title: Software Sales Specialist
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor's degree in Computer Science and has hands-on experience in full-stack ...
+Explanation Tokens: 106
+Tokens Used: 1118 | Cost: $0.0017 | Cumulative Cost: $0.8703
+──────────────────────────
+✅ Updated Notion for Job ID 4261193090
+───────── Job Summary ─────────
+Job Title: Kubernetes Engineer
+Rating: 6.5
+Explanation: While you have a solid background in full-stack development, API integrations, and automation, you l...
+Explanation Tokens: 99
+Tokens Used: 1112 | Cost: $0.0017 | Cumulative Cost: $0.8719
+──────────────────────────
+✅ Updated Notion for Job ID 4263369119
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Junior Transmission Line Design Engineer
+Rating: 2
+Explanation: The candidate's background and skills do not align with the requirements for a Junior Transmission L...
+Explanation Tokens: 110
+Tokens Used: 2236 | Cost: $0.0355 | Cumulative Cost: $0.9074
+──────────────────────────
+✅ Updated Notion for Job ID 4194884003
+───────── Job Summary ─────────
+Job Title: Quantitative Research Engineer – PhD Graduate (US)
+Rating: 6.5
+Explanation: The candidate has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 79
+Tokens Used: 1077 | Cost: $0.0016 | Cumulative Cost: $0.9091
+──────────────────────────
+✅ Updated Notion for Job ID 4261173319
+───────── Job Summary ─────────
+Job Title: Associate Solutions Architect
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor's in Computer Science, solid technical skills in multiple languages and...
+Explanation Tokens: 92
+Tokens Used: 1121 | Cost: $0.0017 | Cumulative Cost: $0.9107
+──────────────────────────
+✅ Updated Notion for Job ID 4263784124
+───────── Job Summary ─────────
+Job Title: Analytical Validation Engineer
+Rating: 6.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 77
+Tokens Used: 1071 | Cost: $0.0016 | Cumulative Cost: $0.9123
+──────────────────────────
+✅ Updated Notion for Job ID 4256530178
+───────── Job Summary ─────────
+Job Title: Core Platform Engineer
+Rating: 7.5
+Explanation: You have a strong technical background with experience in full-stack development, API integrations, ...
+Explanation Tokens: 89
+Tokens Used: 1089 | Cost: $0.0016 | Cumulative Cost: $0.9140
+──────────────────────────
+✅ Updated Notion for Job ID 4263722304
+───────── Job Summary ─────────
+Job Title: Tunnel Engineer II
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 89
+Tokens Used: 1108 | Cost: $0.0017 | Cumulative Cost: $0.9156
+──────────────────────────
+✅ Updated Notion for Job ID 4246511038
+───────── Job Summary ─────────
+Job Title: Embedded Linux Field Engineer for Devices/IoT
+Rating: 5.5
+Explanation: While you have a strong technical background in full-stack development, API integrations, and automa...
+Explanation Tokens: 85
+Tokens Used: 1092 | Cost: $0.0016 | Cumulative Cost: $0.9173
+──────────────────────────
+✅ Updated Notion for Job ID 4262778336
+───────── Job Summary ─────────
+Job Title: Managed Services - Data Engineer - Senior Associate
+Rating: 7.5
+Explanation: Shehab Ahamed has a Bachelor's degree in Computer Science and relevant experience in software engine...
+Explanation Tokens: 101
+Tokens Used: 1115 | Cost: $0.0017 | Cumulative Cost: $0.9190
+──────────────────────────
+✅ Updated Notion for Job ID 4263709698
+───────── Job Summary ─────────
+Job Title: AI Full Stack Engineer - Senior Associate - Commercial Technology & Innovation
+Rating: 7.5
+Explanation: You have a solid background in full-stack development, API integrations, and automation, which align...
+Explanation Tokens: 99
+Tokens Used: 1119 | Cost: $0.0017 | Cumulative Cost: $0.9206
+──────────────────────────
+✅ Updated Notion for Job ID 4250535107
+───────── Job Summary ─────────
+Job Title: Managed Services - Data Engineer - Senior Associate
+Rating: 7.5
+Explanation: You have a Bachelor of Science in Computer Science from Rutgers University and relevant technical ex...
+Explanation Tokens: 105
+Tokens Used: 1121 | Cost: $0.0017 | Cumulative Cost: $0.9223
+──────────────────────────
+✅ Updated Notion for Job ID 4263711526
+───────── Job Summary ─────────
+Job Title: Managed Services - Data Engineer - Senior Associate
+Rating: 7.5
+Explanation: You have a solid technical background with experience in full-stack development, API integrations, a...
+Explanation Tokens: 98
+Tokens Used: 1114 | Cost: $0.0017 | Cumulative Cost: $0.9240
+──────────────────────────
+✅ Updated Notion for Job ID 4263709699
+───────── Job Summary ─────────
+Job Title: Artificial Intelligence Solutions Consultant - User Acceptance Test Coordinator
+Rating: 7.5
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 109
+Tokens Used: 1123 | Cost: $0.0017 | Cumulative Cost: $0.9257
+──────────────────────────
+✅ Updated Notion for Job ID 4263775784
+───────── Job Summary ─────────
+Job Title: Lab Computing Analyst
+Rating: 7
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 85
+Tokens Used: 1077 | Cost: $0.0016 | Cumulative Cost: $0.9273
+──────────────────────────
+✅ Updated Notion for Job ID 4264124032
+───────── Job Summary ─────────
+Job Title: Power BI Developer with Snowflake Exp
+Rating: 7
+Explanation: While you have solid experience in building data-driven applications, your resume does not specifica...
+Explanation Tokens: 85
+Tokens Used: 1103 | Cost: $0.0017 | Cumulative Cost: $0.9289
+──────────────────────────
+✅ Updated Notion for Job ID 4261613226
+───────── Job Summary ─────────
+Job Title: Snowflake Engineer
+Rating: 7
+Explanation: You have a strong background in full-stack development, API integrations, and automation, which are ...
+Explanation Tokens: 93
+Tokens Used: 1095 | Cost: $0.0016 | Cumulative Cost: $0.9306
+──────────────────────────
+✅ Updated Notion for Job ID 4263149373
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Mainframe z/OS system programmer
+Rating: 2
+Explanation: Shehab Ahamed's skills and experience are primarily in full-stack development, integration, and auto...
+Explanation Tokens: 121
+Tokens Used: 2251 | Cost: $0.0357 | Cumulative Cost: $0.9663
+──────────────────────────
+✅ Updated Notion for Job ID 4263720337
+───────── Job Summary ─────────
+Job Title: SSIS Developer - Local to NY/NJ
+Rating: 6.5
+Explanation: While the candidate has a strong technical background in full-stack development, API integrations, a...
+Explanation Tokens: 99
+Tokens Used: 1118 | Cost: $0.0017 | Cumulative Cost: $0.9680
+──────────────────────────
+✅ Updated Notion for Job ID 4263719673
+───────── Job Summary ─────────
+Job Title: Lead Mobile QA Automation
+Rating: 7.5
+Explanation: The candidate has a solid background in software development, automation, and testing. They have exp...
+Explanation Tokens: 91
+Tokens Used: 1096 | Cost: $0.0016 | Cumulative Cost: $0.9696
+──────────────────────────
+✅ Updated Notion for Job ID 4261608553
+───────── Job Summary ─────────
+Job Title: Snowflake Dev/Ops Engineer (W2)
+Rating: 7
+Explanation: Shehab's diverse technical skills in full-stack development, API integrations, and DevOps tools make...
+Explanation Tokens: 100
+Tokens Used: 1113 | Cost: $0.0017 | Cumulative Cost: $0.9713
+──────────────────────────
+✅ Updated Notion for Job ID 4263723168
+───────── Job Summary ─────────
+Job Title: Ajera Resource Coordinator
+Rating: 7
+Explanation: You have a strong technical background with experience in full-stack development and API integration...
+Explanation Tokens: 92
+Tokens Used: 1099 | Cost: $0.0016 | Cumulative Cost: $0.9729
+──────────────────────────
+✅ Updated Notion for Job ID 4261785028
+───────── Job Summary ─────────
+Job Title: Enterprise Architect
+Rating: 7.5
+Explanation: While the candidate has a strong technical background in full-stack development, API integrations, a...
+Explanation Tokens: 94
+Tokens Used: 1090 | Cost: $0.0016 | Cumulative Cost: $0.9746
+──────────────────────────
+✅ Updated Notion for Job ID 4263780066
+───────── Job Summary ─────────
+Job Title: API Engineer
+Rating: 7.5
+Explanation: You have a strong background in backend/API development, which aligns well with the requirements of ...
+Explanation Tokens: 104
+Tokens Used: 1107 | Cost: $0.0017 | Cumulative Cost: $0.9762
+──────────────────────────
+✅ Updated Notion for Job ID 4261605934
+🔁 Using GPT-4 due to vague/mid result
+───────── Job Summary ─────────
+Job Title: Software Engineer, ML Systems and Cloud AI, Embedded and Networking, University Graduate, PhD, Campus, 2025
+Rating: 4.5
+Explanation: Shehab Ahamed has a strong background in software engineering with experience in a variety of progra...
+Explanation Tokens: 119
+Tokens Used: 2294 | Cost: $0.0366 | Cumulative Cost: $1.0128
+──────────────────────────
+✅ Updated Notion for Job ID 4230648240
+───────── Job Summary ─────────
+Job Title: Lab Computing Analyst
+Rating: 6.5
+Explanation: While Shehab has a strong technical background in full-stack development, API integrations, and auto...
+Explanation Tokens: 87
+Tokens Used: 1113 | Cost: $0.0017 | Cumulative Cost: $1.0145
+──────────────────────────
+✅ Updated Notion for Job ID 4262324152
+───────── Job Summary ─────────
+Job Title: Service AV Engineer
+Rating: 7
+Explanation: Shehab Ahamed has a strong technical background with experience in full-stack development, API integ...
+Explanation Tokens: 94
+Tokens Used: 1093 | Cost: $0.0016 | Cumulative Cost: $1.0161
+──────────────────────────
+✅ Updated Notion for Job ID 4260730899
+───────── Job Summary ─────────
+Job Title: Associate Consultant, Building Automation Controls Engineer
+Rating: 6.5
+Explanation: With a degree in Computer Science and experience in full-stack development, API integrations, and au...
+Explanation Tokens: 123
+Tokens Used: 1132 | Cost: $0.0017 | Cumulative Cost: $1.0178
+──────────────────────────
+✅ Updated Notion for Job ID 4259516651
+───────── Job Summary ─────────
+Job Title: CAD Designer II
+Rating: 6.5
+Explanation: While the candidate has a strong technical background in software development and API integrations, ...
+Explanation Tokens: 74
+Tokens Used: 1111 | Cost: $0.0017 | Cumulative Cost: $1.0195
+──────────────────────────
+✅ Updated Notion for Job ID 4264740388
+───────── Job Summary ─────────
+Job Title: OSP Design Engineer
+Rating: 7.5
+Explanation: You possess a strong technical background with experience in full-stack development, API integration...
+Explanation Tokens: 91
+Tokens Used: 1099 | Cost: $0.0016 | Cumulative Cost: $1.0211
+──────────────────────────
+✅ Updated Notion for Job ID 4263983427
+✅ Total Jobs Processed: 290
+⏩ Skipped from Cache: 0
+🫠 GPT-4 Used for: 16 jobs
+✅ All jobs processed and updated in Notion.
