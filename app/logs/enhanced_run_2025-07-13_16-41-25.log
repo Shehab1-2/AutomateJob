@@ -1,0 +1,14 @@
+2025-07-13T16:41:25.475143 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-07-13T16:41:25.475688 - INFO - Loaded 0 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-07-13_16-41-19.json
+2025-07-13T16:41:25.475723 - INFO - 📄 Resume loaded (2250 characters)
+2025-07-13T16:41:25.475749 - INFO - 📋 Found 0 cached evaluations
+2025-07-13T16:41:25.485766 - INFO - ============================================================
+2025-07-13T16:41:25.485808 - INFO - 📊 FINAL SUMMARY
+2025-07-13T16:41:25.485835 - INFO - ============================================================
+2025-07-13T16:41:25.485860 - INFO - ✅ Jobs Processed: 0
+2025-07-13T16:41:25.485883 - INFO - ⏩ Skipped (Cached): 0
+2025-07-13T16:41:25.485907 - INFO - ❌ Failed: 0
+2025-07-13T16:41:25.485930 - INFO - 🤖 GPT-4 Calls: 0
+2025-07-13T16:41:25.485954 - INFO - 🎯 Total Tokens: 0
+2025-07-13T16:41:25.485977 - INFO - 💰 Total Cost: $0.00
+2025-07-13T16:41:25.485997 - INFO - ============================================================

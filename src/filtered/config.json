@@ -1,0 +1,30 @@
+{
+  "days_limit": 7,
+  "aggregator_keywords": [
+    "jobs via dice", "jobright.ai", "lensa", "jobot", "talent.com", "jooble",
+    "hired.com", "snagajob", "wayup", "monster", "jobrapido", "adzuna",
+    "ziprecruiter", "careerbuilder", "simplyhired"
+  ],
+  "bad_companies": [
+    "Randstad", "Insight Global", "Robert Half", "Kforce", "TEKsystems",
+    "Apex Systems", "Modis", "Collabera", "Experis", "Cognizant", "Infosys",
+    "Wipro", "Tata Consultancy Services", "HCL Technologies", "Synechron",
+    "LanceSoft", "Softpath System", "Quantum World Technologies",
+    "IDC Technologies", "Saxon Global", "eTeam", "Nityo Infotech",
+    "Tech Mahindra", "Capgemini", "Mindtree", "Birlasoft", "Persistent Systems"
+  ],
+  "target_titles": [
+    "Software Engineer", "Integration Engineer", "Implementation Specialist"
+  ],
+  "excluded_keywords": [
+    "unpaid", "volunteer"
+  ],
+  "allowed_locations": [
+    "remote", "hybrid", "new york", "new jersey"
+  ],
+  "excluded_seniority": [
+    "senior", "lead", "principal", "director", "vp", "vice president", "head of",
+    "chief", "cto", "cxo", "architect", "staff", "manager", "engineering manager",
+    "program manager", "tech lead", "product lead", "executive", "distinguished", "fellow", "sr."
+  ]
+}

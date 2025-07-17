@@ -1,0 +1,390 @@
+2025-07-12 15:17:55,630 - __main__ - INFO - Browser initialized with enhanced stealth features
+2025-07-12 15:19:09,505 - __main__ - INFO - Already logged in to LinkedIn
+2025-07-12 15:19:11,115 - __main__ - INFO - Retrieved 3 job listings from Notion
+2025-07-12 15:19:11,115 - __main__ - INFO - Found 3 jobs to process
+2025-07-12 15:19:11,115 - __main__ - INFO - Processing batch 1/1
+2025-07-12 15:19:13,136 - __main__ - INFO - Processing job: Salesforce Developer, Communications and Corporate Responsibility (CCR) Ops & Tech (1) at Amazon
+2025-07-12 15:19:13,716 - __main__ - INFO - Processing job: Artificial Intelligence Solutions Consultant - User Acceptance Test Coordinator (1) at Wells Fargo
+2025-07-12 15:19:13,929 - __main__ - INFO - Processing job: Equity Quant Developer (1) at Bank of America
+2025-07-12 15:21:58,024 - __main__ - INFO - New tab opened with URL: https://www.wellsfargojobs.com/en/jobs/r-470528/artificial-intelligence-solutions-consultant-user-acceptance-test-coordinator/?jClickId=eabced77-0c2a-43dd-9268-667f9c272c20&publisher=Linkedin%20Flat%20bid&utm_source=joveo
+2025-07-12 15:21:58,068 - __main__ - INFO - Found external link: https://www.wellsfargojobs.com/en/jobs/r-470528/artificial-intelligence-solutions-consultant-user-acceptance-test-coordinator/?jClickId=eabced77-0c2a-43dd-9268-667f9c272c20&publisher=Linkedin%20Flat%20bid&utm_source=joveo
+2025-07-12 15:22:01,850 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 15:22:04,115 - __main__ - INFO - New tab opened with URL: https://careers.bankofamerica.com/en-us/job-detail/25025493/equity-quant-developer-new-york-new-york-united-states
+2025-07-12 15:22:04,146 - __main__ - INFO - Found external link: https://careers.bankofamerica.com/en-us/job-detail/25025493/equity-quant-developer-new-york-new-york-united-states
+2025-07-12 15:22:04,434 - __main__ - INFO - Closed modal with selector: button:has-text("Accept")
+2025-07-12 15:22:04,434 - __main__ - INFO - New tab opened with URL: https://www.amazon.jobs/en/jobs/3008989/salesforce-developer-communications-and-corporate-responsibility-ccr-ops-tech?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com
+2025-07-12 15:22:04,457 - __main__ - INFO - Found external link: https://www.amazon.jobs/en/jobs/3008989/salesforce-developer-communications-and-corporate-responsibility-ccr-ops-tech?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com
+2025-07-12 15:22:06,727 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 15:22:17,977 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 15:22:21,685 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 15:22:23,514 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 15:22:23,529 - __main__ - INFO - Found level 2 external link: https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Artificial-Intelligence-Solutions-Consultant---User-Acceptance-Test-Coordinator_R-470528-1
+2025-07-12 15:22:25,685 - __main__ - WARNING - Level 2 apply button clicked, but no navigation detected
+2025-07-12 15:22:34,478 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.amazon.jobs/en/jobs/3008989/salesforce-developer-communications-and-corporate-responsibility-ccr-ops-tech?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com", waiting until "networkidle"
+
+2025-07-12 15:22:40,205 - __main__ - INFO - Found level 3 apply button with selector: a:has-text("Apply")
+2025-07-12 15:22:43,284 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 15:22:43,285 - __main__ - INFO - Found level 3 external link: https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Artificial-Intelligence-Solutions-Consultant---User-Acceptance-Test-Coordinator_R-470528-1/apply
+2025-07-12 15:22:49,534 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 15:22:55,131 - __main__ - INFO - Found level 2 external link: https://passport.amazon.jobs/
+2025-07-12 15:23:12,680 - __main__ - INFO - No level 3 apply button found
+2025-07-12 15:23:14,239 - __main__ - INFO - Updated job: Artificial Intelligence Solutions Consultant - User Acceptance Test Coordinator (1)
+2025-07-12 15:23:14,703 - __main__ - INFO - Updated job: Equity Quant Developer (1)
+2025-07-12 15:23:15,356 - __main__ - INFO - Updated job: Salesforce Developer, Communications and Corporate Responsibility (CCR) Ops & Tech (1)
+2025-07-12 15:23:15,358 - __main__ - INFO - === AUTOMATION SUMMARY ===
+2025-07-12 15:23:15,358 - __main__ - INFO - Total Runtime: 322.3 seconds
+2025-07-12 15:23:15,359 - __main__ - INFO - Jobs Processed: 3
+2025-07-12 15:23:15,359 - __main__ - ERROR - Error in automation: 'external_links_found'
+2025-07-12 15:58:46,982 - __main__ - INFO - Browser initialized with enhanced stealth features
+2025-07-12 15:59:51,418 - __main__ - INFO - Please log in to LinkedIn manually in the browser window
+2025-07-12 15:59:51,419 - __main__ - INFO - Press Enter here after you've successfully logged in...
+2025-07-12 16:01:20,207 - __main__ - INFO - LinkedIn authentication successful
+2025-07-12 16:01:23,425 - __main__ - INFO - Retrieved 216 job listings from Notion
+2025-07-12 16:01:23,426 - __main__ - INFO - Found 216 jobs to process
+2025-07-12 16:01:23,426 - __main__ - INFO - Processing batch 1/44
+2025-07-12 16:01:25,184 - __main__ - INFO - Processing job: Quality Engineering Technician at Crestron Electronics
+2025-07-12 16:01:25,818 - __main__ - INFO - Processing job: Field Service Engineer at General Dynamics Information Technology
+2025-07-12 16:01:26,516 - __main__ - INFO - Processing job: Electrical Engineer at C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC
+2025-07-12 16:04:05,842 - __main__ - WARNING - Apply button clicked, but no new tab was detected
+2025-07-12 16:04:07,827 - __main__ - INFO - Processing job: CAD Designer II at C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC
+2025-07-12 16:04:21,571 - __main__ - INFO - New tab opened with URL: https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011
+2025-07-12 16:04:21,647 - __main__ - INFO - Found external link: https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011
+2025-07-12 16:04:22,013 - __main__ - INFO - Closed modal with selector: button:has-text("Accept")
+2025-07-12 16:04:22,013 - __main__ - INFO - New tab opened with URL: https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011
+2025-07-12 16:04:22,015 - __main__ - INFO - Found external link: https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011
+2025-07-12 16:04:51,673 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011", waiting until "networkidle"
+
+2025-07-12 16:04:52,019 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011", waiting until "networkidle"
+
+2025-07-12 16:05:07,108 - __main__ - INFO - Found level 2 apply button with selector: button:has-text("Apply")
+2025-07-12 16:05:08,480 - __main__ - INFO - Found level 2 apply button with selector: button:has-text("Apply")
+2025-07-12 16:05:11,154 - __main__ - INFO - Level 2 same-tab navigation to: https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011/apply?flowSelection=true
+2025-07-12 16:05:12,326 - __main__ - WARNING - Level 2 apply button clicked, but no navigation detected
+2025-07-12 16:05:15,163 - __main__ - INFO - Processing job: Embedded Linux Field Engineer for Devices/IoT at Canonical
+2025-07-12 16:05:21,219 - __main__ - INFO - Found level 2 external link: https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011/apply?flowSelection=true
+2025-07-12 16:05:40,938 - __main__ - INFO - Found level 3 apply button with selector: button:has-text("Apply")
+2025-07-12 16:05:44,560 - __main__ - INFO - Level 3 same-tab navigation to: https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011/apply/manualApplication?applicationSource=Manual
+2025-07-12 16:05:54,618 - __main__ - INFO - Found level 3 external link: https://jobs.dayforcehcm.com/en-US/crestron/candidateportal/jobs/3011/apply/manualApplication?applicationSource=Manual
+2025-07-12 16:06:49,093 - __main__ - WARNING - Apply button clicked, but no new tab was detected
+2025-07-12 16:08:00,803 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:08:00,807 - __main__ - INFO - New tab opened with URL: https://job-boards.greenhouse.io/canonicaljobs/jobs/6994306?gh_src=ag5maqh71us
+2025-07-12 16:08:00,869 - __main__ - INFO - Found external link: https://job-boards.greenhouse.io/canonicaljobs/jobs/6994306?gh_src=ag5maqh71us
+2025-07-12 16:08:13,508 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:08:13,510 - __main__ - INFO - Platform after redirect (level 1): greenhouse
+2025-07-12 16:08:30,941 - __main__ - INFO - Found level 2 apply button with selector: button[type="submit"]
+2025-07-12 16:08:34,743 - __main__ - WARNING - Level 2 apply button clicked, but no navigation detected
+2025-07-12 16:08:40,162 - __main__ - INFO - Updated job: Field Service Engineer
+2025-07-12 16:08:41,685 - __main__ - INFO - Updated job: Quality Engineering Technician
+2025-07-12 16:08:46,099 - __main__ - INFO - Updated job: Embedded Linux Field Engineer for Devices/IoT
+2025-07-12 16:08:49,755 - __main__ - INFO - Waiting 30 seconds before next batch...
+2025-07-12 16:09:19,781 - __main__ - INFO - Processing batch 2/44
+2025-07-12 16:09:22,204 - __main__ - INFO - Processing job: RF Test Automation Engineer at L3Harris Technologies
+2025-07-12 16:09:22,565 - __main__ - INFO - Processing job: Embedded Linux Field Engineer for Devices/IoT at Canonical
+2025-07-12 16:09:23,343 - __main__ - INFO - Processing job: Manufacturing Systems Engineer - Full Stack Development & DevOps at BW Design Group
+2025-07-12 16:12:15,320 - __main__ - INFO - Closed modal with selector: button:has-text("Accept")
+2025-07-12 16:12:15,327 - __main__ - INFO - New tab opened with URL: https://careers.l3harris.com/en/job/-/-/4832/82709276016?src=SNS-10240
+2025-07-12 16:12:15,329 - __main__ - INFO - Closed modal with selector: button:has-text("Accept")
+2025-07-12 16:12:15,329 - __main__ - INFO - New tab opened with URL: https://careers.l3harris.com/en/job/-/-/4832/82709276016?src=SNS-10240
+2025-07-12 16:12:15,331 - __main__ - INFO - Closed modal with selector: button:has-text("Accept")
+2025-07-12 16:12:15,331 - __main__ - INFO - New tab opened with URL: https://careers.l3harris.com/en/job/-/-/4832/82709276016?src=SNS-10240
+2025-07-12 16:12:15,694 - __main__ - INFO - Found external link: https://careers.l3harris.com/en/job/-/-/4832/82709276016?src=SNS-10240
+2025-07-12 16:12:15,705 - __main__ - INFO - Found external link: https://careers.l3harris.com/en/job/-/-/4832/82709276016?src=SNS-10240
+2025-07-12 16:12:15,710 - __main__ - INFO - Found external link: https://careers.l3harris.com/en/job/-/-/4832/82709276016?src=SNS-10240
+2025-07-12 16:12:45,723 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://careers.l3harris.com/en/job/-/-/4832/82709276016?src=SNS-10240", waiting until "networkidle"
+
+2025-07-12 16:12:45,749 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://careers.l3harris.com/en/job/-/-/4832/82709276016?src=SNS-10240", waiting until "networkidle"
+
+2025-07-12 16:12:45,751 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://careers.l3harris.com/en/job/-/-/4832/82709276016?src=SNS-10240", waiting until "networkidle"
+
+2025-07-12 16:13:00,346 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:13:02,094 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:13:02,438 - __main__ - INFO - Found level 2 external link: https://career-hcm20.ns2cloud.com/careers?company=L3HHCM20&clientId=jobs2web&career_ns=job_application&career_job_req_id=24910&src=SNS-10240
+2025-07-12 16:13:04,543 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:13:06,125 - __main__ - INFO - Found level 2 external link: https://career-hcm20.ns2cloud.com/careers?company=L3HHCM20&clientId=jobs2web&career_ns=job_application&career_job_req_id=24910&src=SNS-10240
+2025-07-12 16:13:07,494 - __main__ - INFO - Found level 2 external link: https://career-hcm20.ns2cloud.com/careers?company=L3HHCM20&clientId=jobs2web&career_ns=job_application&career_job_req_id=24910&src=SNS-10240
+2025-07-12 16:13:17,354 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:13:19,846 - __main__ - INFO - Processing job: Systems Engineer at BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD
+2025-07-12 16:13:22,341 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:13:23,254 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:13:25,963 - __main__ - INFO - Processing job: Data Engineer, Video Platform - USDS at TikTok
+2025-07-12 16:16:05,917 - __main__ - INFO - Closed modal with selector: button:has-text("Accept")
+2025-07-12 16:16:05,919 - __main__ - INFO - New tab opened with URL: https://careers.boozallen.com/jobs/JobDetail?jobId=113058
+2025-07-12 16:16:05,960 - __main__ - INFO - Found external link: https://careers.boozallen.com/jobs/JobDetail?jobId=113058
+2025-07-12 16:16:09,694 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:16:16,323 - __main__ - INFO - Closed modal with selector: button:has-text("Accept")
+2025-07-12 16:16:16,323 - __main__ - INFO - New tab opened with URL: https://lifeattiktok.com/search/7439785930728868114?spread=5MWH5CQ
+2025-07-12 16:16:16,375 - __main__ - INFO - Found external link: https://lifeattiktok.com/search/7439785930728868114?spread=5MWH5CQ
+2025-07-12 16:16:28,941 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:16:33,854 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:16:33,855 - __main__ - INFO - Found level 2 external link: https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Systems-Engineer_R0222207-1?source=CWS-17380
+2025-07-12 16:16:46,379 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://lifeattiktok.com/search/7439785930728868114?spread=5MWH5CQ", waiting until "networkidle"
+
+2025-07-12 16:16:47,033 - __main__ - INFO - Closed modal with selector: button:has-text("OK")
+2025-07-12 16:16:50,786 - __main__ - INFO - Found level 3 apply button with selector: a:has-text("Apply")
+2025-07-12 16:16:54,386 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:16:54,387 - __main__ - INFO - Found level 3 external link: https://bah.wd1.myworkdayjobs.com/BAH_Jobs/login?redirect=%2FBAH_Jobs%2Fjob%2FRome-NY%2FSystems-Engineer_R0222207-1%2Fapply%3Fsource%3DCWS-17380
+2025-07-12 16:17:01,295 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:17:06,950 - __main__ - INFO - Found level 2 external link: https://lifeattiktok.com/login?redirect_path=%2Fposition%2Fapplication
+2025-07-12 16:17:23,341 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:17:24,301 - __main__ - INFO - Updated job: Manufacturing Systems Engineer - Full Stack Development & DevOps
+2025-07-12 16:17:24,963 - __main__ - INFO - Updated job: Embedded Linux Field Engineer for Devices/IoT
+2025-07-12 16:17:25,686 - __main__ - INFO - Updated job: RF Test Automation Engineer
+2025-07-12 16:17:29,045 - __main__ - INFO - Updated job: Systems Engineer
+2025-07-12 16:17:29,951 - __main__ - INFO - Updated job: Data Engineer, Video Platform - USDS
+2025-07-12 16:17:34,443 - __main__ - INFO - Waiting 30 seconds before next batch...
+2025-07-12 16:18:04,446 - __main__ - INFO - Processing batch 3/44
+2025-07-12 16:18:07,211 - __main__ - INFO - Processing job: Production Test Engineer at BAE Systems, Inc.
+2025-07-12 16:18:07,377 - __main__ - INFO - Processing job: Associate Consultant Mechanical Engineer (Mission Critical/Data Centers) at WSP in the U.S.
+2025-07-12 16:18:07,970 - __main__ - INFO - Processing job: Associate Consultant Mechanical Engineer (Mission Critical/Data Centers) at WSP in the U.S.
+2025-07-12 16:21:03,422 - __main__ - INFO - New tab opened with URL: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/fr-CA/sites/CX_2001/job/70795?utm_medium=jobshare
+2025-07-12 16:21:03,816 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:21:03,833 - __main__ - INFO - New tab opened with URL: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/fr-CA/sites/CX_2001/job/70795?utm_medium=jobshare
+2025-07-12 16:21:05,465 - __main__ - INFO - Found external link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/fr-CA/sites/CX_2001/job/70795?utm_medium=jobshare
+2025-07-12 16:21:05,484 - __main__ - INFO - Found external link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/fr-CA/sites/CX_2001/job/70795?utm_medium=jobshare
+2025-07-12 16:21:10,380 - __main__ - INFO - Closed modal with selector: button:has-text("OK")
+2025-07-12 16:21:10,382 - __main__ - INFO - New tab opened with URL: https://jobs.baesystems.com/global/en/job/BAE1US113076BREXTERNAL/Production-Test-Engineer?utm_source=linkedin&utm_medium=phenom-feeds
+2025-07-12 16:21:10,718 - __main__ - INFO - Found external link: https://jobs.baesystems.com/global/en/job/BAE1US113076BREXTERNAL/Production-Test-Engineer?utm_source=linkedin&utm_medium=phenom-feeds
+2025-07-12 16:21:15,926 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:21:15,929 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:21:16,456 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:21:16,457 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:21:20,075 - __main__ - INFO - Closed modal with selector: button:has-text("Close")
+2025-07-12 16:21:20,090 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:21:23,066 - __main__ - INFO - Closed modal with selector: button:has-text("OK")
+2025-07-12 16:21:30,950 - __main__ - INFO - Found level 2 apply button with selector: button:has-text("Apply")
+2025-07-12 16:21:34,818 - __main__ - INFO - Level 2 same-tab navigation to: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/70795/apply/email?utm_medium=jobshare
+2025-07-12 16:21:34,925 - __main__ - INFO - Found level 2 external link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/70795/apply/email?utm_medium=jobshare
+2025-07-12 16:21:36,658 - __main__ - INFO - Found level 2 apply button with selector: button:has-text("Apply")
+2025-07-12 16:21:39,092 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:21:40,866 - __main__ - INFO - Level 2 same-tab navigation to: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/70795/apply/email?utm_medium=jobshare
+2025-07-12 16:21:42,863 - __main__ - INFO - Found level 2 external link: https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/70795/apply/email?utm_medium=jobshare
+2025-07-12 16:21:46,156 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:21:46,159 - __main__ - INFO - Level 2 new tab opened with URL: https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=286370&utm_source=linkedin&utm_medium=phenom-feeds&codes=linkedin#jobDetails=286370_5403
+2025-07-12 16:21:48,019 - __main__ - INFO - Found level 2 external link: https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25771&siteid=5403&jobid=286370&utm_source=linkedin&utm_medium=phenom-feeds&codes=linkedin#jobDetails=286370_5403
+2025-07-12 16:21:48,832 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:21:51,969 - __main__ - INFO - Found level 3 apply button with selector: a:has-text("Apply")
+2025-07-12 16:21:59,504 - __main__ - INFO - Found level 3 apply button with selector: a:has-text("Apply")
+2025-07-12 16:22:02,444 - __main__ - INFO - Found level 3 external link: https://simplify.jobs/auth/login?from=welcome
+2025-07-12 16:22:03,475 - __main__ - INFO - Found level 3 external link: https://simplify.jobs/auth/login?from=welcome
+2025-07-12 16:22:04,779 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:22:05,621 - __main__ - INFO - Processing job: Systems Engineer at BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD
+2025-07-12 16:22:06,814 - __main__ - INFO - Processing job: VDC Engineer - Buffalo, NY at Arc Building Partners
+2025-07-12 16:24:52,848 - __main__ - INFO - New tab opened with URL: https://www.arcbuildingpartners.com/jobs?gnk=job&gni=8a78839e97ae19930197f50fefcf0c3f&gns=LinkedIn%2BLimited
+2025-07-12 16:24:52,853 - __main__ - INFO - New tab opened with URL: https://www.arcbuildingpartners.com/jobs?gnk=job&gni=8a78839e97ae19930197f50fefcf0c3f&gns=LinkedIn%2BLimited
+2025-07-12 16:24:52,888 - __main__ - INFO - Found external link: https://www.arcbuildingpartners.com/jobs?gnk=job&gni=8a78839e97ae19930197f50fefcf0c3f&gns=LinkedIn%2BLimited
+2025-07-12 16:24:52,902 - __main__ - INFO - Found external link: https://www.arcbuildingpartners.com/jobs?gnk=job&gni=8a78839e97ae19930197f50fefcf0c3f&gns=LinkedIn%2BLimited
+2025-07-12 16:24:56,856 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:25:15,764 - __main__ - INFO - No level 2 apply button found
+2025-07-12 16:25:22,923 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.arcbuildingpartners.com/jobs?gnk=job&gni=8a78839e97ae19930197f50fefcf0c3f&gns=LinkedIn%2BLimited", waiting until "networkidle"
+
+2025-07-12 16:25:39,299 - __main__ - INFO - No level 2 apply button found
+2025-07-12 16:25:40,318 - __main__ - INFO - Updated job: Production Test Engineer
+2025-07-12 16:25:41,018 - __main__ - INFO - Updated job: Associate Consultant Mechanical Engineer (Mission Critical/Data Centers)
+2025-07-12 16:25:42,066 - __main__ - INFO - Updated job: Associate Consultant Mechanical Engineer (Mission Critical/Data Centers)
+2025-07-12 16:25:42,923 - __main__ - INFO - Updated job: Systems Engineer
+2025-07-12 16:25:43,702 - __main__ - INFO - Updated job: VDC Engineer - Buffalo, NY
+2025-07-12 16:25:48,604 - __main__ - INFO - Waiting 30 seconds before next batch...
+2025-07-12 16:26:18,613 - __main__ - INFO - Processing batch 4/44
+2025-07-12 16:26:20,600 - __main__ - INFO - Processing job: Design Engineer at Colliers Engineering & Design
+2025-07-12 16:26:20,831 - __main__ - INFO - Processing job: Design Engineer at Colliers Engineering & Design
+2025-07-12 16:26:23,663 - __main__ - INFO - Processing job: MSR Quantitative Developer at Community Loan Servicing, LLC
+2025-07-12 16:29:39,218 - __main__ - INFO - New tab opened with URL: https://careers.colliersengineering.com/careers-home/jobs/11097?mode=apply&iis=LinkedIn
+2025-07-12 16:29:39,223 - __main__ - INFO - New tab opened with URL: https://careers.colliersengineering.com/careers-home/jobs/11097?mode=apply&iis=LinkedIn
+2025-07-12 16:29:39,347 - __main__ - INFO - Found external link: https://careers.colliersengineering.com/careers-home/jobs/11097?mode=apply&iis=LinkedIn
+2025-07-12 16:29:39,348 - __main__ - INFO - Found external link: https://careers.colliersengineering.com/careers-home/jobs/11097?mode=apply&iis=LinkedIn
+2025-07-12 16:29:43,096 - __main__ - INFO - New tab opened with URL: https://careers.bayview.com/bam/jobs/7336/MSR%20Quantitative%20Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:29:43,168 - __main__ - INFO - Found external link: https://careers.bayview.com/bam/jobs/7336/MSR%20Quantitative%20Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:30:12,280 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:30:12,530 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:30:15,903 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:30:58,590 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:30:59,106 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:30:59,593 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:31:40,893 - __main__ - INFO - Found level 2 external link: https://careers-colliersengineering.icims.com/jobs/11097/login?iis=LinkedIn&mobile=false&width=1150&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
+2025-07-12 16:31:41,748 - __main__ - INFO - Found level 2 external link: https://careers-colliersengineering.icims.com/jobs/11097/login?iis=LinkedIn
+2025-07-12 16:31:42,110 - __main__ - INFO - Found level 2 external link: https://careers-bayview.icims.com/jobs/7336/login?iis=LinkedIn&mobile=false&width=1150&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240
+2025-07-12 16:32:26,358 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:32:27,058 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:32:27,323 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:32:29,864 - __main__ - INFO - Processing job: MSR Quantitative Developer at Silver Hill Capital
+2025-07-12 16:32:30,933 - __main__ - INFO - Processing job: Site Reliability Engineer, Data Platform - USDS at TikTok
+2025-07-12 16:35:52,108 - __main__ - INFO - New tab opened with URL: https://careers.bayview.com/bam/jobs/7336/MSR%20Quantitative%20Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:35:52,111 - __main__ - INFO - New tab opened with URL: https://careers.bayview.com/bam/jobs/7336/MSR%20Quantitative%20Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:35:52,236 - __main__ - INFO - Found external link: https://careers.bayview.com/bam/jobs/7336/MSR%20Quantitative%20Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:35:52,237 - __main__ - INFO - Found external link: https://careers.bayview.com/bam/jobs/7336/MSR%20Quantitative%20Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:36:27,875 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:36:27,974 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:37:14,139 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:37:15,967 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:37:55,538 - __main__ - INFO - Found level 2 external link: https://careers-bayview.icims.com/jobs/7336/login?iis=LinkedIn
+2025-07-12 16:37:56,682 - __main__ - INFO - Found level 2 external link: https://careers-bayview.icims.com/jobs/7336/login?iis=LinkedIn
+2025-07-12 16:38:41,237 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:38:41,512 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:38:42,160 - __main__ - INFO - Updated job: Design Engineer
+2025-07-12 16:38:46,238 - __main__ - INFO - Updated job: Design Engineer
+2025-07-12 16:38:47,444 - __main__ - INFO - Updated job: MSR Quantitative Developer
+2025-07-12 16:38:48,549 - __main__ - INFO - Updated job: MSR Quantitative Developer
+2025-07-12 16:38:54,519 - __main__ - INFO - Updated job: Site Reliability Engineer, Data Platform - USDS
+2025-07-12 16:39:01,586 - __main__ - INFO - Waiting 30 seconds before next batch...
+2025-07-12 16:39:31,593 - __main__ - INFO - Processing batch 5/44
+2025-07-12 16:39:35,060 - __main__ - INFO - Processing job: System Engineer L2 (MSP) at Bowman Williams
+2025-07-12 16:39:35,066 - __main__ - INFO - Processing job: GTM Solutions Engineer at Clay
+2025-07-12 16:39:35,846 - __main__ - INFO - Processing job: Site Reliability Engineer - AML Global Recommendation - USDS at TikTok
+2025-07-12 16:42:10,136 - __main__ - INFO - LinkedIn Quick Apply detected
+2025-07-12 16:42:15,557 - __main__ - INFO - Processing job: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus at Huxley
+2025-07-12 16:42:32,073 - __main__ - INFO - Closed modal with selector: button:has-text("OK")
+2025-07-12 16:42:32,104 - __main__ - INFO - New tab opened with URL: https://lifeattiktok.com/search/7308834445297076517?spread=5MWH5CQ
+2025-07-12 16:42:32,187 - __main__ - INFO - Closed modal with selector: button:has-text("OK")
+2025-07-12 16:42:32,187 - __main__ - INFO - New tab opened with URL: https://lifeattiktok.com/search/7308834445297076517?spread=5MWH5CQ
+2025-07-12 16:42:32,620 - __main__ - INFO - Found external link: https://lifeattiktok.com/search/7308834445297076517?spread=5MWH5CQ
+2025-07-12 16:42:32,621 - __main__ - INFO - Found external link: https://lifeattiktok.com/search/7308834445297076517?spread=5MWH5CQ
+2025-07-12 16:43:02,627 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://lifeattiktok.com/search/7308834445297076517?spread=5MWH5CQ", waiting until "networkidle"
+
+2025-07-12 16:43:02,632 - __main__ - ERROR - Error navigating to external site: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://lifeattiktok.com/search/7308834445297076517?spread=5MWH5CQ", waiting until "networkidle"
+
+2025-07-12 16:43:03,357 - __main__ - INFO - Closed modal with selector: button:has-text("OK")
+2025-07-12 16:43:03,379 - __main__ - INFO - Closed modal with selector: button:has-text("OK")
+2025-07-12 16:43:19,081 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:43:25,643 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:43:28,699 - __main__ - INFO - Found level 2 external link: https://lifeattiktok.com/login?redirect_path=%2Fposition%2Fapplication
+2025-07-12 16:43:32,101 - __main__ - INFO - Found level 2 external link: https://lifeattiktok.com/login?redirect_path=%2Fposition%2Fapplication
+2025-07-12 16:43:46,331 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:43:48,379 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:43:52,443 - __main__ - INFO - Processing job: MSR Quantitative Developer at Oceanview Life and Annuity
+2025-07-12 16:44:59,498 - __main__ - INFO - New tab opened with URL: https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTUwQHN0aHJlZXVzYTIuYXBsaXRyYWsuY29t
+2025-07-12 16:44:59,524 - __main__ - INFO - Found external link: https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTUwQHN0aHJlZXVzYTIuYXBsaXRyYWsuY29t
+2025-07-12 16:45:01,129 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:45:17,477 - __main__ - INFO - Found level 2 apply button with selector: input[type="submit"][value*="Apply"]
+2025-07-12 16:45:21,496 - __main__ - WARNING - Level 2 apply button clicked, but no navigation detected
+2025-07-12 16:47:04,428 - __main__ - INFO - New tab opened with URL: https://careers.bayview.com/bam/jobs/7336/MSR+Quantitative+Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:47:04,551 - __main__ - INFO - Found external link: https://careers.bayview.com/bam/jobs/7336/MSR+Quantitative+Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:47:36,815 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:48:21,481 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:49:02,138 - __main__ - INFO - Found level 2 external link: https://careers-bayview.icims.com/jobs/7336/login?iis=LinkedIn
+2025-07-12 16:49:51,571 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:49:52,610 - __main__ - INFO - Updated job: Site Reliability Engineer - AML Global Recommendation - USDS
+2025-07-12 16:49:53,303 - __main__ - INFO - Updated job: GTM Solutions Engineer
+2025-07-12 16:49:54,221 - __main__ - INFO - Updated job: System Engineer L2 (MSP)
+2025-07-12 16:49:54,655 - __main__ - INFO - Updated job: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus
+2025-07-12 16:49:55,574 - __main__ - INFO - Updated job: MSR Quantitative Developer
+2025-07-12 16:50:01,330 - __main__ - INFO - Waiting 30 seconds before next batch...
+2025-07-12 16:50:31,344 - __main__ - INFO - Processing batch 6/44
+2025-07-12 16:50:38,619 - __main__ - INFO - Processing job: Cloud Support Engineer at Canonical
+2025-07-12 16:50:42,825 - __main__ - INFO - Processing job: Platform Engineer at National Grid
+2025-07-12 16:50:47,922 - __main__ - INFO - Processing job: 15981 - KDB Developer - NY at Russell Tobin
+2025-07-12 16:53:21,543 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:53:21,550 - __main__ - INFO - New tab opened with URL: https://job-boards.greenhouse.io/canonicaljobs/jobs/7016151?gh_src=rbikbtp11us
+2025-07-12 16:53:21,748 - __main__ - INFO - Found external link: https://job-boards.greenhouse.io/canonicaljobs/jobs/7016151?gh_src=rbikbtp11us
+2025-07-12 16:53:25,904 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 16:53:25,906 - __main__ - INFO - Platform after redirect (level 1): greenhouse
+2025-07-12 16:53:28,583 - __main__ - INFO - New tab opened with URL: https://russelltobin.com/job/technology/15981-kdb-developer-ny-421349
+2025-07-12 16:53:28,624 - __main__ - INFO - Found external link: https://russelltobin.com/job/technology/15981-kdb-developer-ny-421349
+2025-07-12 16:53:28,980 - __main__ - INFO - Closed modal with selector: button:has-text("Allow")
+2025-07-12 16:53:28,981 - __main__ - INFO - New tab opened with URL: https://russelltobin.com/job/technology/15981-kdb-developer-ny-421349
+2025-07-12 16:53:28,983 - __main__ - INFO - Found external link: https://russelltobin.com/job/technology/15981-kdb-developer-ny-421349
+2025-07-12 16:53:31,750 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:53:31,900 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:53:42,196 - __main__ - INFO - Found level 2 apply button with selector: button[type="submit"]
+2025-07-12 16:53:46,378 - __main__ - WARNING - Level 2 apply button clicked, but no navigation detected
+2025-07-12 16:53:47,382 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:53:49,190 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:53:51,187 - __main__ - INFO - Level 2 same-tab navigation to: https://russelltobin.com/job-application/51680
+2025-07-12 16:53:51,258 - __main__ - INFO - Found level 2 external link: https://russelltobin.com/job-application/51680
+2025-07-12 16:53:53,180 - __main__ - INFO - Level 2 same-tab navigation to: https://russelltobin.com/job-application/51680
+2025-07-12 16:53:53,272 - __main__ - INFO - Found level 2 external link: https://russelltobin.com/job-application/51680
+2025-07-12 16:54:07,505 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:54:09,338 - __main__ - INFO - Processing job: MSR Quantitative Developer at Lakeview Loan Servicing, LLC.
+2025-07-12 16:54:09,591 - __main__ - INFO - No level 3 apply button found
+2025-07-12 16:54:42,729 - __main__ - INFO - Processing job: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus at Huxley
+2025-07-12 16:57:20,765 - __main__ - INFO - New tab opened with URL: https://careers.bayview.com/bam/jobs/7336/MSR+Quantitative+Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:57:20,865 - __main__ - INFO - Found external link: https://careers.bayview.com/bam/jobs/7336/MSR+Quantitative+Developer?lang=en-US&mode=apply&iis=LinkedIn
+2025-07-12 16:57:23,427 - __main__ - INFO - New tab opened with URL: https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTUwQHN0aHJlZXVzYTIuYXBsaXRyYWsuY29t
+2025-07-12 16:57:23,465 - __main__ - INFO - Found external link: https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTUwQHN0aHJlZXVzYTIuYXBsaXRyYWsuY29t
+2025-07-12 16:57:25,064 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:57:40,603 - __main__ - INFO - Found level 2 apply button with selector: input[type="submit"][value*="Apply"]
+2025-07-12 16:57:44,706 - __main__ - WARNING - Level 2 apply button clicked, but no navigation detected
+2025-07-12 16:57:54,298 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 16:58:41,159 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 16:59:21,800 - __main__ - INFO - Found level 2 external link: https://careers-bayview.icims.com/jobs/7336/login?iis=LinkedIn
+2025-07-12 17:00:07,498 - __main__ - INFO - No level 3 apply button found
+2025-07-12 17:00:08,858 - __main__ - INFO - Updated job: Cloud Support Engineer
+2025-07-12 17:00:10,994 - __main__ - INFO - Updated job: Platform Engineer
+2025-07-12 17:00:11,304 - __main__ - INFO - Updated job: 15981 - KDB Developer - NY
+2025-07-12 17:00:11,608 - __main__ - INFO - Updated job: MSR Quantitative Developer
+2025-07-12 17:00:15,993 - __main__ - INFO - Updated job: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus
+2025-07-12 17:00:19,570 - __main__ - INFO - Waiting 30 seconds before next batch...
+2025-07-12 17:00:49,572 - __main__ - INFO - Processing batch 7/44
+2025-07-12 17:01:41,654 - __main__ - INFO - Processing job: Product Engineer II at Garner Health
+2025-07-12 17:02:06,677 - __main__ - INFO - Processing job: UAS Field Application Engineer at Edison Smart®
+2025-07-12 17:02:45,806 - __main__ - INFO - Processing job: SRE / DevOps at Huxley
+2025-07-12 17:04:24,680 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 17:04:24,686 - __main__ - INFO - New tab opened with URL: https://job-boards.greenhouse.io/garnerhealth/jobs/5585556004?gh_src=Linkedin
+2025-07-12 17:04:24,791 - __main__ - INFO - Found external link: https://job-boards.greenhouse.io/garnerhealth/jobs/5585556004?gh_src=Linkedin
+2025-07-12 17:04:27,744 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 17:04:27,745 - __main__ - INFO - Platform after redirect (level 1): greenhouse
+2025-07-12 17:04:43,047 - __main__ - INFO - LinkedIn Quick Apply detected
+2025-07-12 17:04:45,006 - __main__ - INFO - Found level 2 apply button with selector: button[type="submit"]
+2025-07-12 17:04:49,227 - __main__ - WARNING - Level 2 apply button clicked, but no navigation detected
+2025-07-12 17:05:26,398 - __main__ - INFO - New tab opened with URL: https://www.aplitrak.com/?adid=bXRiZi40NDU3MS4xNTUwQHN0aHJlZXVzYTIuYXBsaXRyYWsuY29t
+2025-07-12 17:05:26,415 - __main__ - INFO - Found external link: https://www.aplitrak.com/?adid=bXRiZi40NDU3MS4xNTUwQHN0aHJlZXVzYTIuYXBsaXRyYWsuY29t
+2025-07-12 17:05:28,066 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 17:05:43,957 - __main__ - INFO - Found level 2 apply button with selector: input[type="submit"][value*="Apply"]
+2025-07-12 17:05:47,568 - __main__ - WARNING - Level 2 apply button clicked, but no navigation detected
+2025-07-12 17:07:36,480 - __main__ - INFO - Processing job: Mobile Engineer at Made Card
+2025-07-12 17:09:09,683 - __main__ - INFO - Processing job: SAP ABAP Developer at ECLARO
+2025-07-12 17:10:29,101 - __main__ - INFO - New tab opened with URL: https://wellfound.com/jobs/2978745-mobile-engineer?utm_campaign=linkedin_syndication&utm_source=linkedin
+2025-07-12 17:10:29,155 - __main__ - INFO - Found external link: https://wellfound.com/jobs/2978745-mobile-engineer?utm_campaign=linkedin_syndication&utm_source=linkedin
+2025-07-12 17:10:32,942 - __main__ - INFO - Platform after redirect (level 1): wellfound
+2025-07-12 17:10:48,379 - __main__ - INFO - No level 2 apply button found
+2025-07-12 17:11:47,320 - __main__ - INFO - LinkedIn Quick Apply detected
+2025-07-12 17:11:49,476 - __main__ - INFO - Updated job: Product Engineer II
+2025-07-12 17:11:50,072 - __main__ - INFO - Updated job: UAS Field Application Engineer
+2025-07-12 17:11:50,575 - __main__ - INFO - Updated job: SRE / DevOps
+2025-07-12 17:11:51,281 - __main__ - INFO - Updated job: Mobile Engineer
+2025-07-12 17:11:56,576 - __main__ - INFO - Updated job: SAP ABAP Developer
+2025-07-12 17:12:02,962 - __main__ - INFO - Waiting 30 seconds before next batch...
+2025-07-12 17:12:32,966 - __main__ - INFO - Processing batch 8/44
+2025-07-12 17:17:33,360 - __main__ - INFO - Processing job: AI Automation Specialist at Glocomms
+2025-07-12 17:17:34,243 - __main__ - INFO - Processing job: Big Data Engineer at KTek Resourcing
+2025-07-12 17:17:34,470 - __main__ - INFO - Processing job: Solutions Engineer, Advertiser Solutions, Activate at PubMatic
+2025-07-12 17:20:09,244 - __main__ - INFO - LinkedIn Quick Apply detected
+2025-07-12 17:20:11,298 - __main__ - INFO - LinkedIn Quick Apply detected
+2025-07-12 17:20:27,026 - __main__ - INFO - Closed modal with selector: button:has-text("Accept")
+2025-07-12 17:20:27,027 - __main__ - INFO - New tab opened with URL: https://pubmatic.com/job/?gh_jid=4608025008&gh_src=3e74313b8us
+2025-07-12 17:20:27,102 - __main__ - INFO - Found external link: https://pubmatic.com/job/?gh_jid=4608025008&gh_src=3e74313b8us
+2025-07-12 17:20:30,749 - __main__ - INFO - Closed modal with selector: [aria-label="Close"]
+2025-07-12 17:20:30,750 - __main__ - INFO - Platform after redirect (level 1): other
+2025-07-12 17:20:45,840 - __main__ - INFO - Found level 2 apply button with selector: a:has-text("Apply")
+2025-07-12 17:20:49,773 - __main__ - INFO - Found level 2 external link: https://simplify.jobs/auth/login?from=welcome
+2025-07-12 17:21:03,285 - __main__ - INFO - No level 3 apply button found
+2025-07-12 17:25:10,608 - __main__ - INFO - Processing job: Quantitative Researcher – Deep Learning & AI Signal Discovery (Equities) at Onyx Alpha Partners
+2025-07-12 17:25:12,362 - __main__ - INFO - Processing job: SAP ABAP Developer at ECLARO
+2025-07-12 17:27:46,605 - __main__ - INFO - LinkedIn Quick Apply detected
+2025-07-12 17:27:50,804 - __main__ - INFO - LinkedIn Quick Apply detected
+2025-07-12 17:27:51,573 - __main__ - INFO - Updated job: Solutions Engineer, Advertiser Solutions, Activate
+2025-07-12 17:27:53,020 - __main__ - INFO - Updated job: Big Data Engineer
+2025-07-12 17:27:53,358 - __main__ - INFO - Updated job: AI Automation Specialist
+2025-07-12 17:27:54,375 - __main__ - INFO - Updated job: Quantitative Researcher – Deep Learning & AI Signal Discovery (Equities)
+2025-07-12 17:27:55,643 - __main__ - INFO - Updated job: SAP ABAP Developer
+2025-07-12 17:27:59,677 - __main__ - INFO - Waiting 30 seconds before next batch...
+2025-07-12 17:28:29,682 - __main__ - INFO - Processing batch 9/44

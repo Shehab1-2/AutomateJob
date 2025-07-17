@@ -1,0 +1,333 @@
+2025-07-12T20:45:07.254508 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-07-12T20:45:07.255495 - INFO - Loaded 10 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-07-12_20-34-32.json
+2025-07-12T20:45:07.255534 - INFO - 📄 Resume loaded (2250 characters)
+2025-07-12T20:45:07.255560 - INFO - 📋 Found 143 cached evaluations
+2025-07-12T20:45:09.278671 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:45:14.995144 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:14.995291 - INFO - JOB: Java Software Engineer at Umanist
+2025-07-12T20:45:14.995370 - INFO - RATING: 7.5/10
+2025-07-12T20:45:14.995431 - INFO - EXPLANATION: Candidate has a strong foundation in programming languages including Java, which is essential for th...
+2025-07-12T20:45:14.995492 - INFO - TOKENS: 122 explanation | 2234 total
+2025-07-12T20:45:14.995551 - INFO - COST: $0.0354 | CUMULATIVE: $0.0354
+2025-07-12T20:45:14.995610 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:14.995728 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:45:15.267080 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:16.415681 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:18.554380 - ERROR - ❌ Failed to add job ID 4265388794 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:20.118684 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:20.118736 - INFO - JOB: Software Engineer at ABR Dynamic Funds, LLC
+2025-07-12T20:45:20.118763 - INFO - RATING: 8/10
+2025-07-12T20:45:20.118784 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:45:20.118805 - INFO - TOKENS: 89 explanation | 1092 total
+2025-07-12T20:45:20.118835 - INFO - COST: $0.0016 | CUMULATIVE: $0.0371
+2025-07-12T20:45:20.118855 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:20.118915 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:45:20.256186 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:21.403821 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:23.570487 - ERROR - ❌ Failed to add job ID 4262552305 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:24.864933 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:45:28.307398 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:28.307564 - INFO - JOB: Applied AI Engineer at Secret
+2025-07-12T20:45:28.307645 - INFO - RATING: 5.5/10
+2025-07-12T20:45:28.307714 - INFO - EXPLANATION: Candidate has a strong technical background with experience in several programming languages and fra...
+2025-07-12T20:45:28.307784 - INFO - TOKENS: 95 explanation | 2208 total
+2025-07-12T20:45:28.307901 - INFO - COST: $0.0345 | CUMULATIVE: $0.0716
+2025-07-12T20:45:28.308003 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:28.308235 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:45:28.456528 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:29.610567 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:31.756801 - ERROR - ❌ Failed to add job ID 4265251473 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:33.723850 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:45:38.748056 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:38.748181 - INFO - JOB: Software Test Engineer - Automation (Selenium/Cypress and Java/Python/C#/Javascript)  - W2/ H1Transfer at ASK IT CONSULTING
+2025-07-12T20:45:38.748266 - INFO - RATING: 7.5/10
+2025-07-12T20:45:38.748336 - INFO - EXPLANATION: Candidate has strong technical skills in Java, Python, JavaScript, and Selenium, which aligns with t...
+2025-07-12T20:45:38.748405 - INFO - TOKENS: 124 explanation | 2284 total
+2025-07-12T20:45:38.750284 - INFO - COST: $0.0363 | CUMULATIVE: $0.1079
+2025-07-12T20:45:38.751596 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:38.753672 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:45:39.001587 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:40.154910 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:42.291929 - ERROR - ❌ Failed to add job ID 4265013705 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:44.199993 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:44.200060 - INFO - JOB: AI Agents Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:45:44.200097 - INFO - RATING: 8/10
+2025-07-12T20:45:44.200126 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the AI Agents Engineer role. With a Bachelor's in Comp...
+2025-07-12T20:45:44.200152 - INFO - TOKENS: 123 explanation | 1125 total
+2025-07-12T20:45:44.200187 - INFO - COST: $0.0017 | CUMULATIVE: $0.1096
+2025-07-12T20:45:44.200210 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:44.200275 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:45:44.347352 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:45.499714 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:47.642792 - ERROR - ❌ Failed to add job ID 4262326260 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:49.083278 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:45:54.259964 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:54.260017 - INFO - JOB: Forward Deployed Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:45:54.260055 - INFO - RATING: 7.5/10
+2025-07-12T20:45:54.260076 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in several programming languages and fr...
+2025-07-12T20:45:54.260095 - INFO - TOKENS: 127 explanation | 2247 total
+2025-07-12T20:45:54.260116 - INFO - COST: $0.0356 | CUMULATIVE: $0.1452
+2025-07-12T20:45:54.260136 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:45:54.260190 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:45:55.675402 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:57.089666 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:45:59.685155 - ERROR - ❌ Failed to add job ID 4262323437 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:01.245703 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:46:07.084076 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:46:07.084227 - INFO - JOB: Software Engineer at ABR Dynamic Funds, LLC
+2025-07-12T20:46:07.084326 - INFO - RATING: 7.5/10
+2025-07-12T20:46:07.084387 - INFO - EXPLANATION: Candidate has a strong technical skill set that aligns with the Software Engineer role, including pr...
+2025-07-12T20:46:07.084444 - INFO - TOKENS: 108 explanation | 2224 total
+2025-07-12T20:46:07.084504 - INFO - COST: $0.0351 | CUMULATIVE: $0.1803
+2025-07-12T20:46:07.084560 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:46:07.084703 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:46:07.318965 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:08.454931 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:11.007237 - ERROR - ❌ Failed to add job ID 4262552305 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:12.087331 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:46:12.087428 - INFO - JOB: Java Software Engineer at Umanist
+2025-07-12T20:46:12.087497 - INFO - RATING: 9/10
+2025-07-12T20:46:12.087564 - INFO - EXPLANATION: Shehab Ahamed is a strong match for the Java Software Engineer role at Umanist. With a Bachelor's in...
+2025-07-12T20:46:12.087629 - INFO - TOKENS: 112 explanation | 1113 total
+2025-07-12T20:46:12.087702 - INFO - COST: $0.0017 | CUMULATIVE: $0.1819
+2025-07-12T20:46:12.087835 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:46:12.087951 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:46:12.219648 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:13.696855 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:16.161220 - ERROR - ❌ Failed to add job ID 4265388794 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:17.510108 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:46:17.510192 - INFO - JOB: AI Agents Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:46:17.510267 - INFO - RATING: 7.5/10
+2025-07-12T20:46:17.510335 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:46:17.510402 - INFO - TOKENS: 92 explanation | 1096 total
+2025-07-12T20:46:17.510470 - INFO - COST: $0.0016 | CUMULATIVE: $0.1836
+2025-07-12T20:46:17.510537 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:46:17.510618 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:46:17.638556 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:18.793865 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:20.965165 - ERROR - ❌ Failed to add job ID 4262326260 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:22.470884 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:46:22.470972 - INFO - JOB: Forward Deployed Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:46:22.471053 - INFO - RATING: 7.5/10
+2025-07-12T20:46:22.471166 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with proficiency in Java, Python, React N...
+2025-07-12T20:46:22.471269 - INFO - TOKENS: 152 explanation | 1157 total
+2025-07-12T20:46:22.471347 - INFO - COST: $0.0017 | CUMULATIVE: $0.1853
+2025-07-12T20:46:22.471422 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:46:22.471510 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:46:22.609549 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:23.757792 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:25.910013 - ERROR - ❌ Failed to add job ID 4262323437 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:46:25.915400 - INFO - ============================================================
+2025-07-12T20:46:25.915474 - INFO - 📊 FINAL SUMMARY
+2025-07-12T20:46:25.915508 - INFO - ============================================================
+2025-07-12T20:46:25.915535 - INFO - ✅ Jobs Processed: 0
+2025-07-12T20:46:25.915562 - INFO - ⏩ Skipped (Cached): 0
+2025-07-12T20:46:25.915583 - INFO - ❌ Failed: 10
+2025-07-12T20:46:25.915611 - INFO - 🤖 GPT-4 Calls: 5
+2025-07-12T20:46:25.915633 - INFO - 🎯 Total Tokens: 16,780
+2025-07-12T20:46:25.915655 - INFO - 💰 Total Cost: $0.19
+2025-07-12T20:46:25.915675 - INFO - ============================================================
+rprise Startup
+2025-07-12 20:46:17,510 - INFO - RATING: 7.5/10
+2025-07-12 20:46:17,510 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12 20:46:17,510 - INFO - TOKENS: 92 explanation | 1096 total
+2025-07-12 20:46:17,510 - INFO - COST: $0.0016 | CUMULATIVE: $0.1836
+2025-07-12 20:46:17,510 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:46:17,510 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12 20:46:17,637 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:46:17,638 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:46:18,792 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:46:18,793 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:46:20,954 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:46:20,964 - ERROR - ❌ Failed to add job ID 4262326260 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:46:22,463 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:46:22,470 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:46:22,470 - INFO - JOB: Forward Deployed Engineer at Stealth AI Enterprise Startup
+2025-07-12 20:46:22,470 - INFO - RATING: 7.5/10
+2025-07-12 20:46:22,471 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with proficiency in Java, Python, React N...
+2025-07-12 20:46:22,471 - INFO - TOKENS: 152 explanation | 1157 total
+2025-07-12 20:46:22,471 - INFO - COST: $0.0017 | CUMULATIVE: $0.1853
+2025-07-12 20:46:22,471 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:46:22,471 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12 20:46:22,608 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:46:22,609 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:46:23,749 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:46:23,757 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:46:25,908 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:46:25,909 - ERROR - ❌ Failed to add job ID 4262323437 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:46:25,915 - INFO - ============================================================
+2025-07-12 20:46:25,915 - INFO - 📊 FINAL SUMMARY
+2025-07-12 20:46:25,915 - INFO - ============================================================
+2025-07-12 20:46:25,915 - INFO - ✅ Jobs Processed: 0
+2025-07-12 20:46:25,915 - INFO - ⏩ Skipped (Cached): 0
+2025-07-12 20:46:25,915 - INFO - ❌ Failed: 10
+2025-07-12 20:46:25,915 - INFO - 🤖 GPT-4 Calls: 5
+2025-07-12 20:46:25,915 - INFO - 🎯 Total Tokens: 16,780
+2025-07-12 20:46:25,915 - INFO - 💰 Total Cost: $0.19
+2025-07-12 20:46:25,915 - INFO - ============================================================
+2025-07-12T20:52:51.184079 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-07-12T20:52:51.184759 - INFO - Loaded 10 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-07-12_20-34-32.json
+2025-07-12T20:52:51.184801 - INFO - 📄 Resume loaded (2250 characters)
+2025-07-12T20:52:51.184826 - INFO - 📋 Found 143 cached evaluations
+2025-07-12T20:52:52.722349 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:52:52.722461 - INFO - JOB: Java Software Engineer at Umanist
+2025-07-12T20:52:52.722530 - INFO - RATING: 9/10
+2025-07-12T20:52:52.722590 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, No...
+2025-07-12T20:52:52.722646 - INFO - TOKENS: 125 explanation | 1126 total
+2025-07-12T20:52:52.722706 - INFO - COST: $0.0017 | CUMULATIVE: $0.0017
+2025-07-12T20:52:52.722763 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:52:52.722845 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:52:53.539943 - INFO - ✅ Added job ID 4265388794 to Notion
+2025-07-12T20:52:54.574961 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:52:59.484268 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:52:59.484438 - INFO - JOB: Software Engineer at ABR Dynamic Funds, LLC
+2025-07-12T20:52:59.484537 - INFO - RATING: 7.5/10
+2025-07-12T20:52:59.484615 - INFO - EXPLANATION: Candidate has a strong technical skill set that aligns with the Software Engineer role, including pr...
+2025-07-12T20:52:59.484690 - INFO - TOKENS: 142 explanation | 2249 total
+2025-07-12T20:52:59.484808 - INFO - COST: $0.0361 | CUMULATIVE: $0.0378
+2025-07-12T20:52:59.485050 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:52:59.485459 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:53:04.397632 - INFO - ✅ Added job ID 4262552305 to Notion
+2025-07-12T20:53:05.838952 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:53:05.839091 - INFO - JOB: Applied AI Engineer at Secret
+2025-07-12T20:53:05.839203 - INFO - RATING: 8/10
+2025-07-12T20:53:05.839311 - INFO - EXPLANATION: Shehab Ahamed is a strong match for the Applied AI Engineer role. With a Bachelor's in Computer Scie...
+2025-07-12T20:53:05.839418 - INFO - TOKENS: 121 explanation | 1120 total
+2025-07-12T20:53:05.839536 - INFO - COST: $0.0017 | CUMULATIVE: $0.0394
+2025-07-12T20:53:05.839647 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:53:05.839756 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:53:06.116920 - INFO - ✅ Added job ID 4265251473 to Notion
+2025-07-12T20:53:07.957600 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:53:12.110034 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:53:12.110374 - INFO - JOB: Software Test Engineer - Automation (Selenium/Cypress and Java/Python/C#/Javascript)  - W2/ H1Transfer at ASK IT CONSULTING
+2025-07-12T20:53:12.110676 - INFO - RATING: 7.5/10
+2025-07-12T20:53:12.111134 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in required languages such as Java, Pyt...
+2025-07-12T20:53:12.111176 - INFO - TOKENS: 118 explanation | 2295 total
+2025-07-12T20:53:12.111204 - INFO - COST: $0.0361 | CUMULATIVE: $0.0756
+2025-07-12T20:53:12.111227 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:53:12.111427 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:53:12.480934 - INFO - ✅ Added job ID 4265013705 to Notion
+2025-07-12T20:53:14.532014 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:53:14.532103 - INFO - JOB: AI Agents Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:53:14.532168 - INFO - RATING: 8/10
+2025-07-12T20:53:14.532226 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with proficiency in a variety of programm...
+2025-07-12T20:53:14.532295 - INFO - TOKENS: 136 explanation | 1138 total
+2025-07-12T20:53:14.532356 - INFO - COST: $0.0017 | CUMULATIVE: $0.0773
+2025-07-12T20:53:14.532410 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:53:14.532501 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:53:14.843995 - INFO - ✅ Added job ID 4262326260 to Notion
+2025-07-12T20:53:15.963625 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:53:20.374713 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:53:20.374904 - INFO - JOB: Forward Deployed Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:53:20.375550 - INFO - RATING: 7.5/10
+2025-07-12T20:53:20.375696 - INFO - EXPLANATION: Candidate has a strong technical skills match with proficiency in several programming languages and ...
+2025-07-12T20:53:20.375787 - INFO - TOKENS: 109 explanation | 2225 total
+2025-07-12T20:53:20.375871 - INFO - COST: $0.0351 | CUMULATIVE: $0.1124
+2025-07-12T20:53:20.375946 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:53:20.376230 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:53:21.269694 - INFO - ✅ Added job ID 4262323437 to Notion
+2025-07-12T20:53:21.270643 - INFO - ⏩ Skipping cached job ID 4262552305
+2025-07-12T20:53:21.270769 - INFO - ⏩ Skipping cached job ID 4265388794
+2025-07-12T20:53:21.270916 - INFO - ⏩ Skipping cached job ID 4262326260
+2025-07-12T20:53:21.271026 - INFO - ⏩ Skipping cached job ID 4262323437
+2025-07-12T20:53:21.276130 - INFO - ============================================================
+2025-07-12T20:53:21.276238 - INFO - 📊 FINAL SUMMARY
+2025-07-12T20:53:21.276299 - INFO - ============================================================
+2025-07-12T20:53:21.276361 - INFO - ✅ Jobs Processed: 6
+2025-07-12T20:53:21.276414 - INFO - ⏩ Skipped (Cached): 4
+2025-07-12T20:53:21.276470 - INFO - ❌ Failed: 0
+2025-07-12T20:53:21.276530 - INFO - 🤖 GPT-4 Calls: 3
+2025-07-12T20:53:21.276590 - INFO - 🎯 Total Tokens: 10,153
+2025-07-12T20:53:21.276651 - INFO - 💰 Total Cost: $0.11
+2025-07-12T20:53:21.276700 - INFO - ============================================================
+ INFO - COST: $0.0351 | CUMULATIVE: $0.1124
+2025-07-12 20:53:20,375 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:53:20,376 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12 20:53:21,267 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:53:21,269 - INFO - ✅ Added job ID 4262323437 to Notion
+2025-07-12 20:53:21,270 - INFO - ⏩ Skipping cached job ID 4262552305
+2025-07-12 20:53:21,270 - INFO - ⏩ Skipping cached job ID 4265388794
+2025-07-12 20:53:21,270 - INFO - ⏩ Skipping cached job ID 4262326260
+2025-07-12 20:53:21,270 - INFO - ⏩ Skipping cached job ID 4262323437
+2025-07-12 20:53:21,275 - INFO - ============================================================
+2025-07-12 20:53:21,276 - INFO - 📊 FINAL SUMMARY
+2025-07-12 20:53:21,276 - INFO - ============================================================
+2025-07-12 20:53:21,276 - INFO - ✅ Jobs Processed: 6
+2025-07-12 20:53:21,276 - INFO - ⏩ Skipped (Cached): 4
+2025-07-12 20:53:21,276 - INFO - ❌ Failed: 0
+2025-07-12 20:53:21,276 - INFO - 🤖 GPT-4 Calls: 3
+2025-07-12 20:53:21,276 - INFO - 🎯 Total Tokens: 10,153
+2025-07-12 20:53:21,276 - INFO - 💰 Total Cost: $0.11
+2025-07-12 20:53:21,276 - INFO - ============================================================

@@ -1,0 +1,28 @@
+2025-07-15 19:22:05,642 - INFO - Browser initialized with existing profile and Simplify extension
+2025-07-15 19:22:11,050 - INFO - ✅ Simplify extension successfully loaded!
+2025-07-15 19:22:11,058 - INFO - ✅ Simplify extension is enabled
+2025-07-15 19:22:11,073 - INFO - Fetching Workday jobs from database...
+2025-07-15 19:22:11,073 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-15 19:22:11,606 - INFO - Response status: 200
+2025-07-15 19:22:11,607 - INFO - Total jobs in database: 1
+2025-07-15 19:22:11,607 - INFO - ✅ Found Workday job: Data Engineer II at Horizon Media
+2025-07-15 19:22:11,607 - INFO - 
+Found 1 Workday jobs to process
+2025-07-15 19:22:11,607 - INFO - Starting Workday automation for 1 jobs
+2025-07-15 19:22:11,608 - INFO - 
+================================================================================
+2025-07-15 19:22:11,608 - INFO - Processing job 1/1: Data Engineer II at Horizon Media
+2025-07-15 19:22:11,608 - INFO - ================================================================================
+2025-07-15 19:22:11,608 - INFO - Processing: Data Engineer II at Horizon Media
+2025-07-15 19:22:11,727 - INFO - Navigating to: https://horizonmedia.wd1.myworkdayjobs.com/CareerOpportunities/job/New-York-New-York/Data-Engineer-II_R0016008?sid=16&source=Linkedin
+2025-07-15 19:22:15,138 - INFO - 
+--- Processing Page 1 ---
+2025-07-15 19:22:15,244 - INFO - Page info: {'current_page': 3, 'total_pages': 17, 'is_final_page': False, 'has_next_button': False, 'has_submit_button': False, 'progress_text': '3 of 17 keywords'}
+2025-07-15 19:22:15,245 - INFO - Looking for Simplify autofill button...
+2025-07-15 19:22:18,375 - INFO - Found Simplify button with selector: button:has-text("Autofill")
+2025-07-15 19:22:18,615 - INFO - ✅ Clicked Simplify autofill button!
+2025-07-15 19:22:18,615 - INFO - Waiting for Simplify to autofill form...
+2025-07-15 19:22:18,828 - INFO - Simplify detected via selector: div[class*="simplify"]
+2025-07-15 19:22:20,832 - INFO - Checking for missing required fields...
+2025-07-15 19:22:20,846 - INFO - Found 0 empty required fields
+2025-07-15 19:22:20,847 - INFO - ✅ Filled 0 missing required fields

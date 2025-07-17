@@ -1,0 +1,15 @@
+[2025-07-13 19:55:46] ==================================================
+[2025-07-13 19:55:46] 🔄 STARTING AUTOMATED JOB PIPELINE
+[2025-07-13 19:55:46] ==================================================
+[2025-07-13 19:55:46] 🚀 Starting scraper (../src/scraped/scrape_apify_jobs.py)...
+[2025-07-13 20:00:11] ✅ scraper completed successfully
+[2025-07-13 20:00:11] 📄 Output: ✅ Saved 298 jobs to scraped/jobs_2025-07-13_20-00-11.json
+[2025-07-13 20:00:16] 🚀 Starting condenser (../src/condensed/condense_jobs.py)...
+[2025-07-13 20:00:16] ✅ condenser completed successfully
+[2025-07-13 20:00:21] 🚀 Starting filter (../src/filtered/filter_condensed_jobs.py)...
+[2025-07-13 20:00:23] ✅ filter completed successfully
+[2025-07-13 20:00:28] 🚀 Starting analyzer (../src/analyze/analyze_jobs.py)...
+[2025-07-13 20:00:29] ✅ analyzer completed successfully
+[2025-07-13 20:00:34] ==================================================
+[2025-07-13 20:00:34] 🎉 PIPELINE COMPLETED SUCCESSFULLY!
+[2025-07-13 20:00:34] ==================================================

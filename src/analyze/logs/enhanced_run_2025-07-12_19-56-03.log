@@ -1,0 +1,2006 @@
+2025-07-12T19:56:03.940845 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-07-12T19:56:03.947566 - INFO - Loaded 269 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-07-12_19-35-24.json
+2025-07-12T19:56:03.947605 - INFO - 📄 Resume loaded (2250 characters)
+2025-07-12T19:56:03.947632 - INFO - 📋 Found 0 cached evaluations
+2025-07-12T19:56:06.770127 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:56:10.556898 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:10.557008 - INFO - JOB: Software Engineer, C++ at Tower Research Capital
+2025-07-12T19:56:10.557090 - INFO - RATING: 5.5/10
+2025-07-12T19:56:10.557143 - INFO - EXPLANATION: Candidate has a strong background in full-stack development with various programming languages, incl...
+2025-07-12T19:56:10.557310 - INFO - TOKENS: 114 explanation | 2231 total
+2025-07-12T19:56:10.557456 - INFO - COST: $0.0353 | CUMULATIVE: $0.0353
+2025-07-12T19:56:10.557561 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:10.557870 - INFO - 🔗 Application Type: Greenhouse (https://app.greenhouse.io/embed/job_app?token=6830...)
+2025-07-12T19:56:11.545826 - INFO - ✅ Added job ID 4223918432 to Notion
+2025-07-12T19:56:13.185535 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:56:16.544581 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:16.544676 - INFO - JOB: AI Research Engineer, Handshake AI at Handshake
+2025-07-12T19:56:16.544774 - INFO - RATING: 6.5/10
+2025-07-12T19:56:16.544847 - INFO - EXPLANATION: Candidate has strong full-stack development skills and experience with Python, which could be useful...
+2025-07-12T19:56:16.544918 - INFO - TOKENS: 99 explanation | 2223 total
+2025-07-12T19:56:16.544992 - INFO - COST: $0.0349 | CUMULATIVE: $0.0701
+2025-07-12T19:56:16.545063 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:16.545206 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/handshake/be2d1e3b-9fd6-4...)
+2025-07-12T19:56:17.487308 - INFO - ✅ Added job ID 4262166020 to Notion
+2025-07-12T19:56:19.297059 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:56:22.822229 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:22.822376 - INFO - JOB: Front-End Engineer (React+Electron), All Levels - NYC at Medal
+2025-07-12T19:56:22.822480 - INFO - RATING: 7.5/10
+2025-07-12T19:56:22.822545 - INFO - EXPLANATION: Candidate has a strong technical background in JavaScript and React, which aligns with the job's fro...
+2025-07-12T19:56:22.823250 - INFO - TOKENS: 101 explanation | 2237 total
+2025-07-12T19:56:22.823342 - INFO - COST: $0.0351 | CUMULATIVE: $0.1052
+2025-07-12T19:56:22.823436 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:22.823688 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/medal/6a0efefe-4f6a-4a50-...)
+2025-07-12T19:56:23.202530 - INFO - ✅ Added job ID 4252714013 to Notion
+2025-07-12T19:56:25.176061 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:25.176157 - INFO - JOB: Backend Engineer at Ataraxis AI
+2025-07-12T19:56:25.176235 - INFO - RATING: 7.5/10
+2025-07-12T19:56:25.176302 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React...
+2025-07-12T19:56:25.176369 - INFO - TOKENS: 109 explanation | 1113 total
+2025-07-12T19:56:25.176432 - INFO - COST: $0.0017 | CUMULATIVE: $0.1069
+2025-07-12T19:56:25.176493 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:25.176585 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/ataraxis-ai/c5dc4b20-1608...)
+2025-07-12T19:56:25.678388 - INFO - ✅ Added job ID 4262900469 to Notion
+2025-07-12T19:56:26.909047 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:26.909165 - INFO - JOB: Software Developer at Aditi Consulting
+2025-07-12T19:56:26.909268 - INFO - RATING: 7.5/10
+2025-07-12T19:56:26.909351 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:56:26.909420 - INFO - TOKENS: 115 explanation | 1118 total
+2025-07-12T19:56:26.909539 - INFO - COST: $0.0017 | CUMULATIVE: $0.1086
+2025-07-12T19:56:26.909695 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:26.909793 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:56:27.319833 - INFO - ✅ Added job ID 4262542596 to Notion
+2025-07-12T19:56:28.959441 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:28.959532 - INFO - JOB: Software Engineer at Valon
+2025-07-12T19:56:28.959613 - INFO - RATING: 7.5/10
+2025-07-12T19:56:28.959685 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse set of programming languages, frame...
+2025-07-12T19:56:28.959764 - INFO - TOKENS: 128 explanation | 1130 total
+2025-07-12T19:56:28.959838 - INFO - COST: $0.0017 | CUMULATIVE: $0.1103
+2025-07-12T19:56:28.959913 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:28.960011 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/valon/jobs/426794...)
+2025-07-12T19:56:29.317905 - INFO - ✅ Added job ID 4233264658 to Notion
+2025-07-12T19:56:30.590695 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:56:34.957655 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:34.957865 - INFO - JOB: Software Engineer at Evolve Group
+2025-07-12T19:56:34.957989 - INFO - RATING: 8/10
+2025-07-12T19:56:34.958138 - INFO - EXPLANATION: Candidate has a strong match in terms of technical skills with proficiency in Java, Python, JavaScri...
+2025-07-12T19:56:34.958307 - INFO - TOKENS: 131 explanation | 2252 total
+2025-07-12T19:56:34.958439 - INFO - COST: $0.0356 | CUMULATIVE: $0.1459
+2025-07-12T19:56:34.958550 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:34.958687 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:56:35.410925 - INFO - ✅ Added job ID 4259831788 to Notion
+2025-07-12T19:56:36.840831 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:56:42.298048 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:42.298286 - INFO - JOB: Python Engineer at Publicis Sapient
+2025-07-12T19:56:42.298402 - INFO - RATING: 7.5/10
+2025-07-12T19:56:42.298496 - INFO - EXPLANATION: Candidate has a solid technical background with Python, which is crucial for the Python Engineer rol...
+2025-07-12T19:56:42.298584 - INFO - TOKENS: 114 explanation | 2225 total
+2025-07-12T19:56:42.298674 - INFO - COST: $0.0352 | CUMULATIVE: $0.1811
+2025-07-12T19:56:42.298756 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:42.299125 - INFO - 🔗 Application Type: Company Site (https://careers.publicissapient.com/job-details/20...)
+2025-07-12T19:56:42.779983 - INFO - ✅ Added job ID 4260764615 to Notion
+2025-07-12T19:56:44.161576 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:44.162571 - INFO - JOB: Software Engineer at Justworks
+2025-07-12T19:56:44.163654 - INFO - RATING: 7.5/10
+2025-07-12T19:56:44.163793 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:56:44.163954 - INFO - TOKENS: 137 explanation | 1139 total
+2025-07-12T19:56:44.164071 - INFO - COST: $0.0017 | CUMULATIVE: $0.1828
+2025-07-12T19:56:44.164178 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:44.164296 - INFO - 🔗 Application Type: Greenhouse (https://boards.greenhouse.io/justworks/jobs/691740...)
+2025-07-12T19:56:44.519979 - INFO - ✅ Added job ID 4239102532 to Notion
+2025-07-12T19:56:45.748257 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:45.748551 - INFO - JOB: Junior Java Developer at Bounteous
+2025-07-12T19:56:45.748642 - INFO - RATING: 7.5/10
+2025-07-12T19:56:45.748747 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with experience in Java, Python, React Native, Nod...
+2025-07-12T19:56:45.748854 - INFO - TOKENS: 117 explanation | 1121 total
+2025-07-12T19:56:45.748940 - INFO - COST: $0.0017 | CUMULATIVE: $0.1845
+2025-07-12T19:56:45.749017 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:45.749123 - INFO - 🔗 Application Type: Lever (https://jobs.lever.co/bounteous/dfa18426-46ef-4916...)
+2025-07-12T19:56:46.058793 - INFO - ✅ Added job ID 4262169038 to Notion
+2025-07-12T19:56:48.007959 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:56:54.586054 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:54.586387 - INFO - JOB: Software Engineer at Versana
+2025-07-12T19:56:54.586524 - INFO - RATING: 8/10
+2025-07-12T19:56:54.586603 - INFO - EXPLANATION: Candidate has a strong technical skill match with proficiency in Java, Python, JavaScript, TypeScrip...
+2025-07-12T19:56:54.586669 - INFO - TOKENS: 158 explanation | 2266 total
+2025-07-12T19:56:54.587122 - INFO - COST: $0.0364 | CUMULATIVE: $0.2209
+2025-07-12T19:56:54.587268 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:56:54.587728 - INFO - 🔗 Application Type: Lever (https://jobs.lever.co/Versana/f1f6d984-84e2-4193-b...)
+2025-07-12T19:56:54.945667 - INFO - ✅ Added job ID 4223632404 to Notion
+2025-07-12T19:56:56.911438 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:57:00.913253 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:00.913347 - INFO - JOB: Software Developer at The D. E. Shaw Group
+2025-07-12T19:57:00.913428 - INFO - RATING: 7.5/10
+2025-07-12T19:57:00.913499 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in multiple programming languages and f...
+2025-07-12T19:57:00.913578 - INFO - TOKENS: 117 explanation | 2237 total
+2025-07-12T19:57:00.913649 - INFO - COST: $0.0354 | CUMULATIVE: $0.2563
+2025-07-12T19:57:00.913809 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:00.913964 - INFO - 🔗 Application Type: Company Site (https://www.apply.deshaw.com/jobs/Ads/LinkedIn/SDN...)
+2025-07-12T19:57:01.421194 - INFO - ✅ Added job ID 3949597164 to Notion
+2025-07-12T19:57:03.022802 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:03.022915 - INFO - JOB: Agent Software Engineer at Decagon
+2025-07-12T19:57:03.023024 - INFO - RATING: 7.5/10
+2025-07-12T19:57:03.023148 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and f...
+2025-07-12T19:57:03.023230 - INFO - TOKENS: 111 explanation | 1114 total
+2025-07-12T19:57:03.023315 - INFO - COST: $0.0017 | CUMULATIVE: $0.2580
+2025-07-12T19:57:03.023397 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:03.023536 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/decagon/599cb90b-1d17-450...)
+2025-07-12T19:57:03.419209 - INFO - ✅ Added job ID 4238782007 to Notion
+2025-07-12T19:57:04.694541 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:04.694722 - INFO - JOB: Software Engineer (Java) - Parametric at Morgan Stanley
+2025-07-12T19:57:04.694820 - INFO - RATING: 7.5/10
+2025-07-12T19:57:04.694900 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node...
+2025-07-12T19:57:04.694980 - INFO - TOKENS: 132 explanation | 1140 total
+2025-07-12T19:57:04.695069 - INFO - COST: $0.0017 | CUMULATIVE: $0.2597
+2025-07-12T19:57:04.695147 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:04.695283 - INFO - 🔗 Application Type: Company Site (https://morganstanley.eightfold.ai/careers?pid=549...)
+2025-07-12T19:57:05.008655 - INFO - ✅ Added job ID 4262330122 to Notion
+2025-07-12T19:57:06.457073 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:06.457220 - INFO - JOB: Full Stack Engineer at Norm Ai
+2025-07-12T19:57:06.457321 - INFO - RATING: 7.5/10
+2025-07-12T19:57:06.457403 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:57:06.457481 - INFO - TOKENS: 95 explanation | 1098 total
+2025-07-12T19:57:06.457563 - INFO - COST: $0.0016 | CUMULATIVE: $0.2613
+2025-07-12T19:57:06.457643 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:06.457764 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/norm-ai/c1f5a1d9-c750-4cf...)
+2025-07-12T19:57:06.797854 - INFO - ✅ Added job ID 4240184395 to Notion
+2025-07-12T19:57:08.329855 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:08.330230 - INFO - JOB: Software Engineer, Global Banking & Markets, Goldman Sachs Electronic Trading (GSET) at Goldman Sachs
+2025-07-12T19:57:08.330322 - INFO - RATING: 9/10
+2025-07-12T19:57:08.330390 - INFO - EXPLANATION: Shehab Ahamed is a strong match for the Software Engineer role at Goldman Sachs. With a Bachelor's i...
+2025-07-12T19:57:08.330456 - INFO - TOKENS: 92 explanation | 1104 total
+2025-07-12T19:57:08.330519 - INFO - COST: $0.0017 | CUMULATIVE: $0.2630
+2025-07-12T19:57:08.330577 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:08.330736 - INFO - 🔗 Application Type: Company Site (https://hdpc.fa.us2.oraclecloud.com/hcmUI/Candidat...)
+2025-07-12T19:57:08.697276 - INFO - ✅ Added job ID 4223618468 to Notion
+2025-07-12T19:57:09.662651 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:57:13.096878 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:13.097011 - INFO - JOB: Software Engineer, iOS (All Teams) at DoorDash
+2025-07-12T19:57:13.097123 - INFO - RATING: 4.5/10
+2025-07-12T19:57:13.097522 - INFO - EXPLANATION: Candidate has a strong background in full-stack development with a variety of languages and framewor...
+2025-07-12T19:57:13.097843 - INFO - TOKENS: 106 explanation | 2230 total
+2025-07-12T19:57:13.097999 - INFO - COST: $0.0351 | CUMULATIVE: $0.2981
+2025-07-12T19:57:13.098097 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:13.098351 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/doordashusa/jobs/...)
+2025-07-12T19:57:13.570447 - INFO - ✅ Added job ID 3999826220 to Notion
+2025-07-12T19:57:14.809748 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:14.809953 - INFO - JOB: Software Engineer at Brigit
+2025-07-12T19:57:14.810120 - INFO - RATING: 8/10
+2025-07-12T19:57:14.810274 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:57:14.810379 - INFO - TOKENS: 97 explanation | 1096 total
+2025-07-12T19:57:14.810490 - INFO - COST: $0.0016 | CUMULATIVE: $0.2997
+2025-07-12T19:57:14.810592 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:14.811054 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/brigit/b6fd9d9c-7f4b-4a37...)
+2025-07-12T19:57:15.151834 - INFO - ✅ Added job ID 4259878641 to Notion
+2025-07-12T19:57:16.269041 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:16.269190 - INFO - JOB: Software Engineer | Frontend at Ramp
+2025-07-12T19:57:16.269311 - INFO - RATING: 7.5/10
+2025-07-12T19:57:16.269419 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:57:16.269523 - INFO - TOKENS: 113 explanation | 1118 total
+2025-07-12T19:57:16.269626 - INFO - COST: $0.0017 | CUMULATIVE: $0.3014
+2025-07-12T19:57:16.269729 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:16.269869 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b...)
+2025-07-12T19:57:16.981657 - INFO - ✅ Added job ID 4048172300 to Notion
+2025-07-12T19:57:18.417407 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:18.417496 - INFO - JOB: Software Engineer at automotiveMastermind Inc.
+2025-07-12T19:57:18.417548 - INFO - RATING: 7.5/10
+2025-07-12T19:57:18.417581 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:57:18.417652 - INFO - TOKENS: 100 explanation | 1104 total
+2025-07-12T19:57:18.417928 - INFO - COST: $0.0017 | CUMULATIVE: $0.3030
+2025-07-12T19:57:18.417967 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:18.418084 - INFO - 🔗 Application Type: Workday (https://spgi.wd5.myworkdayjobs.com/aM_Careers/job/...)
+2025-07-12T19:57:18.751793 - INFO - ✅ Added job ID 4236438705 to Notion
+2025-07-12T19:57:19.843365 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:57:23.677522 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:23.677653 - INFO - JOB: Data Engineer at Contentsquare
+2025-07-12T19:57:23.677748 - INFO - RATING: 5.5/10
+2025-07-12T19:57:23.677823 - INFO - EXPLANATION: Candidate has strong technical skills in programming languages and frameworks, but these are not dir...
+2025-07-12T19:57:23.677894 - INFO - TOKENS: 116 explanation | 2246 total
+2025-07-12T19:57:23.677966 - INFO - COST: $0.0352 | CUMULATIVE: $0.3383
+2025-07-12T19:57:23.678035 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:23.678152 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:57:23.978457 - INFO - ✅ Added job ID 4260318280 to Notion
+2025-07-12T19:57:25.419330 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:25.419462 - INFO - JOB: Full Stack Engineer (Enterprise Focus) at Roboflow
+2025-07-12T19:57:25.419565 - INFO - RATING: 7.5/10
+2025-07-12T19:57:25.419656 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in full-stack development using a var...
+2025-07-12T19:57:25.419742 - INFO - TOKENS: 86 explanation | 1093 total
+2025-07-12T19:57:25.419834 - INFO - COST: $0.0016 | CUMULATIVE: $0.3399
+2025-07-12T19:57:25.419970 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:25.420161 - INFO - 🔗 Application Type: Company Site (https://www.ycombinator.com/companies/roboflow/job...)
+2025-07-12T19:57:25.808780 - INFO - ✅ Added job ID 4262850281 to Notion
+2025-07-12T19:57:27.637570 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:27.637728 - INFO - JOB: AI Software Developer at WorldQuant
+2025-07-12T19:57:27.637820 - INFO - RATING: 8/10
+2025-07-12T19:57:27.637925 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the AI Software Developer role at WorldQuant. With a B...
+2025-07-12T19:57:27.638000 - INFO - TOKENS: 123 explanation | 1125 total
+2025-07-12T19:57:27.638078 - INFO - COST: $0.0017 | CUMULATIVE: $0.3416
+2025-07-12T19:57:27.638151 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:27.638308 - INFO - 🔗 Application Type: Company Site (https://www.worldquant.com/career-listing/?id=4424...)
+2025-07-12T19:57:28.869699 - INFO - ✅ Added job ID 4170692055 to Notion
+2025-07-12T19:57:30.400078 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:57:34.418003 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:34.418177 - INFO - JOB: Front-end Software Engineer at Affinity North
+2025-07-12T19:57:34.418277 - INFO - RATING: 7.5/10
+2025-07-12T19:57:34.418358 - INFO - EXPLANATION: Candidate has strong technical skills in JavaScript and React, which aligns with the front-end softw...
+2025-07-12T19:57:34.418438 - INFO - TOKENS: 106 explanation | 2227 total
+2025-07-12T19:57:34.418599 - INFO - COST: $0.0350 | CUMULATIVE: $0.3766
+2025-07-12T19:57:34.418724 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:34.418976 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:57:34.903614 - INFO - ✅ Added job ID 4265366990 to Notion
+2025-07-12T19:57:36.658034 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:36.658075 - INFO - JOB: Java Software Engineer at BeaconFire Inc.
+2025-07-12T19:57:36.658114 - INFO - RATING: 7.5/10
+2025-07-12T19:57:36.658135 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node...
+2025-07-12T19:57:36.658157 - INFO - TOKENS: 141 explanation | 1145 total
+2025-07-12T19:57:36.658177 - INFO - COST: $0.0017 | CUMULATIVE: $0.3783
+2025-07-12T19:57:36.658195 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:36.658242 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:57:37.048908 - INFO - ✅ Added job ID 4256470487 to Notion
+2025-07-12T19:57:39.218205 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:57:42.858165 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:42.858515 - INFO - JOB: Generative AI Engineer at Dataiku
+2025-07-12T19:57:42.858726 - INFO - RATING: 4/10
+2025-07-12T19:57:42.858875 - INFO - EXPLANATION: The candidate has a strong background in full-stack development and automation, with proficiency in ...
+2025-07-12T19:57:42.858968 - INFO - TOKENS: 128 explanation | 2271 total
+2025-07-12T19:57:42.859055 - INFO - COST: $0.0356 | CUMULATIVE: $0.4139
+2025-07-12T19:57:42.859166 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:42.859358 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/dataiku/jobs/5583...)
+2025-07-12T19:57:43.844395 - INFO - ✅ Added job ID 4263747994 to Notion
+2025-07-12T19:57:45.062486 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:45.062537 - INFO - JOB: Asset & Wealth Management - Software Engineer - Associate - New York at Goldman Sachs
+2025-07-12T19:57:45.062572 - INFO - RATING: 7.5/10
+2025-07-12T19:57:45.062598 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:57:45.062620 - INFO - TOKENS: 119 explanation | 1130 total
+2025-07-12T19:57:45.062643 - INFO - COST: $0.0017 | CUMULATIVE: $0.4156
+2025-07-12T19:57:45.062662 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:45.062758 - INFO - 🔗 Application Type: Company Site (https://hdpc.fa.us2.oraclecloud.com/hcmUI/Candidat...)
+2025-07-12T19:57:45.457951 - INFO - ✅ Added job ID 4223618466 to Notion
+2025-07-12T19:57:46.301083 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:57:50.883638 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:50.883768 - INFO - JOB: Basketball Products Software Engineer at Madison Square Garden Sports Corp.
+2025-07-12T19:57:50.883882 - INFO - RATING: 7.5/10
+2025-07-12T19:57:50.883966 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in multiple programming languages and f...
+2025-07-12T19:57:50.884047 - INFO - TOKENS: 145 explanation | 2242 total
+2025-07-12T19:57:50.884126 - INFO - COST: $0.0362 | CUMULATIVE: $0.4518
+2025-07-12T19:57:50.884197 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:50.884465 - INFO - 🔗 Application Type: Company Site (https://msgsports.com/job/4775394007?gh_jid=477539...)
+2025-07-12T19:57:52.005608 - INFO - ✅ Added job ID 4264686876 to Notion
+2025-07-12T19:57:53.210916 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:53.211028 - INFO - JOB: Associate Software Engineer at automotiveMastermind Inc.
+2025-07-12T19:57:53.211085 - INFO - RATING: 7.5/10
+2025-07-12T19:57:53.211133 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:57:53.211186 - INFO - TOKENS: 108 explanation | 1113 total
+2025-07-12T19:57:53.211233 - INFO - COST: $0.0017 | CUMULATIVE: $0.4535
+2025-07-12T19:57:53.211279 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:53.211414 - INFO - 🔗 Application Type: Workday (https://spgi.wd5.myworkdayjobs.com/aM_Careers/job/...)
+2025-07-12T19:57:53.643094 - INFO - ✅ Added job ID 4236435877 to Notion
+2025-07-12T19:57:55.045769 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:55.045856 - INFO - JOB: Java Full Stack Developer at BeaconFire Inc.
+2025-07-12T19:57:55.045920 - INFO - RATING: 7.5/10
+2025-07-12T19:57:55.046034 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node...
+2025-07-12T19:57:55.046143 - INFO - TOKENS: 147 explanation | 1153 total
+2025-07-12T19:57:55.046208 - INFO - COST: $0.0017 | CUMULATIVE: $0.4552
+2025-07-12T19:57:55.046261 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:55.046327 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:57:55.390687 - INFO - ✅ Added job ID 4263091582 to Notion
+2025-07-12T19:57:56.717501 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:56.717595 - INFO - JOB: Software Development Engineer at Newmark
+2025-07-12T19:57:56.717690 - INFO - RATING: 7.5/10
+2025-07-12T19:57:56.717759 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:57:56.717831 - INFO - TOKENS: 117 explanation | 1120 total
+2025-07-12T19:57:56.717907 - INFO - COST: $0.0017 | CUMULATIVE: $0.4569
+2025-07-12T19:57:56.717977 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:57:56.718122 - INFO - 🔗 Application Type: Company Site (https://hdow.fa.us6.oraclecloud.com/hcmUI/Candidat...)
+2025-07-12T19:57:57.434693 - INFO - ✅ Added job ID 4223258136 to Notion
+2025-07-12T19:57:58.552642 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:58:02.163089 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:02.163278 - INFO - JOB: Java Developer at Russell Tobin
+2025-07-12T19:58:02.163424 - INFO - RATING: 7.5/10
+2025-07-12T19:58:02.163533 - INFO - EXPLANATION: Candidate has a solid technical background with a CS degree and 3 years of experience in software de...
+2025-07-12T19:58:02.163648 - INFO - TOKENS: 136 explanation | 2255 total
+2025-07-12T19:58:02.163761 - INFO - COST: $0.0358 | CUMULATIVE: $0.4927
+2025-07-12T19:58:02.163873 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:02.164169 - INFO - 🔗 Application Type: Company Site (https://russelltobin.com/job/technology/java-devel...)
+2025-07-12T19:58:02.550941 - INFO - ✅ Added job ID 4245387479 to Notion
+2025-07-12T19:58:04.408465 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:58:07.960991 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:07.961105 - INFO - JOB: Java Software Engineer at Umanist
+2025-07-12T19:58:07.961179 - INFO - RATING: 7.5/10
+2025-07-12T19:58:07.961239 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in Java, which is crucial for the role....
+2025-07-12T19:58:07.961295 - INFO - TOKENS: 131 explanation | 2294 total
+2025-07-12T19:58:07.961354 - INFO - COST: $0.0358 | CUMULATIVE: $0.5285
+2025-07-12T19:58:07.961409 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:07.961483 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:58:08.186283 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T19:58:09.402087 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T19:58:11.565235 - ERROR - ❌ Failed to add job ID 4265388794 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T19:58:12.593173 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:58:16.691008 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:16.691315 - INFO - JOB: Software Engineer at Peregrine
+2025-07-12T19:58:16.691419 - INFO - RATING: 8/10
+2025-07-12T19:58:16.691500 - INFO - EXPLANATION: Candidate's technical skills align well with the role, showcasing proficiency in multiple programmin...
+2025-07-12T19:58:16.691571 - INFO - TOKENS: 102 explanation | 2207 total
+2025-07-12T19:58:16.691678 - INFO - COST: $0.0347 | CUMULATIVE: $0.5633
+2025-07-12T19:58:16.692045 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:16.692329 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/peregrinetechnolo...)
+2025-07-12T19:58:17.192442 - INFO - ✅ Added job ID 4257840110 to Notion
+2025-07-12T19:58:18.526062 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:18.526195 - INFO - JOB: Software Development Engineer - Automation QA at Fortune
+2025-07-12T19:58:18.526269 - INFO - RATING: 8/10
+2025-07-12T19:58:18.526350 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the Software Development Engineer - Automation QA role...
+2025-07-12T19:58:18.526407 - INFO - TOKENS: 119 explanation | 1122 total
+2025-07-12T19:58:18.526467 - INFO - COST: $0.0017 | CUMULATIVE: $0.5649
+2025-07-12T19:58:18.526529 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:18.526632 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/fortune/jobs/5493...)
+2025-07-12T19:58:19.174920 - INFO - ✅ Added job ID 4198566335 to Notion
+2025-07-12T19:58:20.112412 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:20.112525 - INFO - JOB: Software Engineer - Ads Identity and Attribution at TikTok
+2025-07-12T19:58:20.112621 - INFO - RATING: 7.5/10
+2025-07-12T19:58:20.112704 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and f...
+2025-07-12T19:58:20.112785 - INFO - TOKENS: 92 explanation | 1100 total
+2025-07-12T19:58:20.112871 - INFO - COST: $0.0017 | CUMULATIVE: $0.5666
+2025-07-12T19:58:20.112951 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:20.113203 - INFO - 🔗 Application Type: Company Site (https://lifeattiktok.com/search/742613625620540856...)
+2025-07-12T19:58:20.469313 - INFO - ✅ Added job ID 4262544635 to Notion
+2025-07-12T19:58:22.088479 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:22.088605 - INFO - JOB: Software Engineer at ABR Dynamic Funds, LLC
+2025-07-12T19:58:22.088709 - INFO - RATING: 7.5/10
+2025-07-12T19:58:22.088794 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:58:22.088878 - INFO - TOKENS: 108 explanation | 1113 total
+2025-07-12T19:58:22.088965 - INFO - COST: $0.0017 | CUMULATIVE: $0.5683
+2025-07-12T19:58:22.089046 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:22.089143 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:58:22.268464 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T19:58:23.421504 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T19:58:25.896286 - ERROR - ❌ Failed to add job ID 4262552305 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T19:58:27.204446 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:58:32.358650 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:32.358771 - INFO - JOB: Software Engineer at InRhythm
+2025-07-12T19:58:32.358864 - INFO - RATING: 8/10
+2025-07-12T19:58:32.358950 - INFO - EXPLANATION: Candidate has a strong technical skills match with proficiency in Java, Python, JavaScript, TypeScri...
+2025-07-12T19:58:32.359033 - INFO - TOKENS: 131 explanation | 2225 total
+2025-07-12T19:58:32.359128 - INFO - COST: $0.0356 | CUMULATIVE: $0.6039
+2025-07-12T19:58:32.359203 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:32.359390 - INFO - 🔗 Application Type: Company Site (https://inrhythm.my.salesforce-sites.com/jobboard/...)
+2025-07-12T19:58:33.016466 - INFO - ✅ Added job ID 4263604030 to Notion
+2025-07-12T19:58:34.193685 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:34.193814 - INFO - JOB: Python Developer at Korn Ferry
+2025-07-12T19:58:34.193915 - INFO - RATING: 7.5/10
+2025-07-12T19:58:34.193992 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:58:34.194065 - INFO - TOKENS: 115 explanation | 1118 total
+2025-07-12T19:58:34.194143 - INFO - COST: $0.0017 | CUMULATIVE: $0.6055
+2025-07-12T19:58:34.194212 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:34.194361 - INFO - 🔗 Application Type: Company Site (https://www.aplitrak.com/?adid=Unlhbm4uSGFsdG1hbi4...)
+2025-07-12T19:58:40.651243 - INFO - ✅ Added job ID 4264254470 to Notion
+2025-07-12T19:58:42.392837 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:42.392949 - INFO - JOB: Associate Data Engineer at Newmark
+2025-07-12T19:58:42.393052 - INFO - RATING: 7.5/10
+2025-07-12T19:58:42.393137 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in full-stack development using a var...
+2025-07-12T19:58:42.393220 - INFO - TOKENS: 103 explanation | 1106 total
+2025-07-12T19:58:42.393298 - INFO - COST: $0.0017 | CUMULATIVE: $0.6072
+2025-07-12T19:58:42.393367 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:42.393547 - INFO - 🔗 Application Type: Company Site (https://hdow.fa.us6.oraclecloud.com/hcmUI/Candidat...)
+2025-07-12T19:58:42.794894 - INFO - ✅ Added job ID 4223253655 to Notion
+2025-07-12T19:58:44.449644 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:58:48.082616 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:48.082916 - INFO - JOB: Data Engineer at Genentech
+2025-07-12T19:58:48.083051 - INFO - RATING: 4/10
+2025-07-12T19:58:48.083129 - INFO - EXPLANATION: The candidate has a strong background in full-stack development and integration, but lacks specific ...
+2025-07-12T19:58:48.083199 - INFO - TOKENS: 118 explanation | 2225 total
+2025-07-12T19:58:48.083276 - INFO - COST: $0.0352 | CUMULATIVE: $0.6424
+2025-07-12T19:58:48.083335 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:48.083583 - INFO - 🔗 Application Type: Company Site (https://careers.gene.com/us/en/job/GENEUS202506114...)
+2025-07-12T19:58:48.535610 - INFO - ✅ Added job ID 4252714539 to Notion
+2025-07-12T19:58:49.619269 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:49.619359 - INFO - JOB: Data Engineer at Newmark
+2025-07-12T19:58:49.619437 - INFO - RATING: 7.5/10
+2025-07-12T19:58:49.619514 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:58:49.619584 - INFO - TOKENS: 113 explanation | 1115 total
+2025-07-12T19:58:49.619653 - INFO - COST: $0.0017 | CUMULATIVE: $0.6441
+2025-07-12T19:58:49.619719 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:49.619829 - INFO - 🔗 Application Type: Company Site (https://hdow.fa.us6.oraclecloud.com/hcmUI/Candidat...)
+2025-07-12T19:58:49.925359 - INFO - ✅ Added job ID 4223253647 to Notion
+2025-07-12T19:58:51.497734 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:51.497856 - INFO - JOB: AI Trainer - Advanced Python Developers (US) at Prolific
+2025-07-12T19:58:51.497952 - INFO - RATING: 7.5/10
+2025-07-12T19:58:51.498033 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, No...
+2025-07-12T19:58:51.498115 - INFO - TOKENS: 129 explanation | 1138 total
+2025-07-12T19:58:51.498198 - INFO - COST: $0.0017 | CUMULATIVE: $0.6458
+2025-07-12T19:58:51.498278 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:51.498375 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:58:51.823614 - INFO - ✅ Added job ID 4204992570 to Notion
+2025-07-12T19:58:53.346498 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:53.346605 - INFO - JOB: Java Developer at Russell Tobin
+2025-07-12T19:58:53.346692 - INFO - RATING: 7.5/10
+2025-07-12T19:58:53.346764 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with experience in Java, Python, React Native, Nod...
+2025-07-12T19:58:53.346835 - INFO - TOKENS: 111 explanation | 1114 total
+2025-07-12T19:58:53.346909 - INFO - COST: $0.0017 | CUMULATIVE: $0.6474
+2025-07-12T19:58:53.347002 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:53.347148 - INFO - 🔗 Application Type: Company Site (https://russelltobin.com/job/technology/java-devel...)
+2025-07-12T19:58:53.645911 - INFO - ✅ Added job ID 4245387478 to Notion
+2025-07-12T19:58:55.158385 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:55.158764 - INFO - JOB: Backend Go Engineer at STAND 8 Technology Consulting
+2025-07-12T19:58:55.158879 - INFO - RATING: 7.5/10
+2025-07-12T19:58:55.159105 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:58:55.159249 - INFO - TOKENS: 118 explanation | 1125 total
+2025-07-12T19:58:55.159332 - INFO - COST: $0.0017 | CUMULATIVE: $0.6491
+2025-07-12T19:58:55.159409 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:55.159518 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:58:55.487651 - INFO - ✅ Added job ID 4256840330 to Notion
+2025-07-12T19:58:56.623965 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:56.624064 - INFO - JOB: Associate Software Engineer, Publishing Services at Major League Baseball (MLB)
+2025-07-12T19:58:56.624136 - INFO - RATING: 7.5/10
+2025-07-12T19:58:56.624192 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:58:56.624250 - INFO - TOKENS: 117 explanation | 1127 total
+2025-07-12T19:58:56.624306 - INFO - COST: $0.0017 | CUMULATIVE: $0.6508
+2025-07-12T19:58:56.624359 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:56.626263 - INFO - 🔗 Application Type: Company Site (https://www.mlb.com/careers/opportunities?gh_jid=7...)
+2025-07-12T19:58:56.951170 - INFO - ✅ Added job ID 4263543260 to Notion
+2025-07-12T19:58:58.455022 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:58.455075 - INFO - JOB: Research Engineer - AI at Selby Jennings
+2025-07-12T19:58:58.455112 - INFO - RATING: 8/10
+2025-07-12T19:58:58.455148 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:58:58.455178 - INFO - TOKENS: 106 explanation | 1109 total
+2025-07-12T19:58:58.455215 - INFO - COST: $0.0017 | CUMULATIVE: $0.6525
+2025-07-12T19:58:58.455244 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:58:58.455281 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:58:58.808652 - INFO - ✅ Added job ID 4264752532 to Notion
+2025-07-12T19:59:00.032745 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:00.032816 - INFO - JOB: C# developer at Radley James
+2025-07-12T19:59:00.032890 - INFO - RATING: 7.5/10
+2025-07-12T19:59:00.032933 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:59:00.032973 - INFO - TOKENS: 107 explanation | 1111 total
+2025-07-12T19:59:00.033060 - INFO - COST: $0.0017 | CUMULATIVE: $0.6542
+2025-07-12T19:59:00.033106 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:00.033162 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:59:00.420026 - INFO - ✅ Added job ID 4261993925 to Notion
+2025-07-12T19:59:01.539486 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:01.539677 - INFO - JOB: Java Developer at Russell Tobin
+2025-07-12T19:59:01.539772 - INFO - RATING: 7.5/10
+2025-07-12T19:59:01.539857 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in Java, Python, React Native, Node.j...
+2025-07-12T19:59:01.539925 - INFO - TOKENS: 116 explanation | 1119 total
+2025-07-12T19:59:01.540001 - INFO - COST: $0.0017 | CUMULATIVE: $0.6558
+2025-07-12T19:59:01.540069 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:01.540173 - INFO - 🔗 Application Type: Company Site (https://russelltobin.com/job/technology/java-devel...)
+2025-07-12T19:59:02.436906 - INFO - ✅ Added job ID 4245390313 to Notion
+2025-07-12T19:59:03.998714 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:03.998894 - INFO - JOB: Software Engineering Specialist - Human Data at xAI
+2025-07-12T19:59:03.998990 - INFO - RATING: 8/10
+2025-07-12T19:59:03.999097 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:59:03.999180 - INFO - TOKENS: 108 explanation | 1111 total
+2025-07-12T19:59:03.999270 - INFO - COST: $0.0017 | CUMULATIVE: $0.6575
+2025-07-12T19:59:03.999348 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:03.999584 - INFO - 🔗 Application Type: Company Site (https://grnh.se/5dcb051c7us?gh_src=a6d2f6637us&sou...)
+2025-07-12T19:59:04.355846 - INFO - ✅ Added job ID 4262537919 to Notion
+2025-07-12T19:59:05.631090 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:59:09.194807 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:09.194995 - INFO - JOB: Solutions Engineer at Global-e
+2025-07-12T19:59:09.195091 - INFO - RATING: 7.5/10
+2025-07-12T19:59:09.195202 - INFO - EXPLANATION: Candidate's technical skills align well with the Solutions Engineer role, showcasing proficiency in ...
+2025-07-12T19:59:09.195283 - INFO - TOKENS: 117 explanation | 2254 total
+2025-07-12T19:59:09.195366 - INFO - COST: $0.0353 | CUMULATIVE: $0.6928
+2025-07-12T19:59:09.195445 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:09.195552 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:59:11.481752 - INFO - ✅ Added job ID 4265037414 to Notion
+2025-07-12T19:59:12.597064 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:12.597251 - INFO - JOB: Trading Tools Developer at Sharp Decisions
+2025-07-12T19:59:12.597512 - INFO - RATING: 7.5/10
+2025-07-12T19:59:12.597614 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill match with a diverse programming language and framework e...
+2025-07-12T19:59:12.597684 - INFO - TOKENS: 113 explanation | 1117 total
+2025-07-12T19:59:12.597751 - INFO - COST: $0.0017 | CUMULATIVE: $0.6944
+2025-07-12T19:59:12.597809 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:12.597929 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:59:13.193571 - INFO - ✅ Added job ID 4252348881 to Notion
+2025-07-12T19:59:14.851315 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:14.851448 - INFO - JOB: Solutions Engineer I at Staffbase
+2025-07-12T19:59:14.851549 - INFO - RATING: 7.5/10
+2025-07-12T19:59:14.851628 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node...
+2025-07-12T19:59:14.851701 - INFO - TOKENS: 119 explanation | 1122 total
+2025-07-12T19:59:14.851770 - INFO - COST: $0.0017 | CUMULATIVE: $0.6961
+2025-07-12T19:59:14.851835 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:14.852070 - INFO - 🔗 Application Type: Company Site (https://grnh.se/01owc7hx2us?gh_src=915a20462us...)
+2025-07-12T19:59:15.161733 - INFO - ✅ Added job ID 4262633743 to Notion
+2025-07-12T19:59:16.482768 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:59:20.950000 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:20.950125 - INFO - JOB: Freelance Web Developer at Earthbound
+2025-07-12T19:59:20.950222 - INFO - RATING: 7.5/10
+2025-07-12T19:59:20.950283 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in several programming languages and fr...
+2025-07-12T19:59:20.950341 - INFO - TOKENS: 110 explanation | 2234 total
+2025-07-12T19:59:20.950399 - INFO - COST: $0.0351 | CUMULATIVE: $0.7312
+2025-07-12T19:59:20.950455 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:20.950684 - INFO - 🔗 Application Type: BambooHR (https://earthbound.bamboohr.com/careers/240?src=Li...)
+2025-07-12T19:59:21.400103 - INFO - ✅ Added job ID 4254118966 to Notion
+2025-07-12T19:59:23.021680 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:23.021786 - INFO - JOB: iOS Engineer at Fizz
+2025-07-12T19:59:23.021883 - INFO - RATING: 7.5/10
+2025-07-12T19:59:23.021969 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with experience in a variety of programming langua...
+2025-07-12T19:59:23.022053 - INFO - TOKENS: 102 explanation | 1103 total
+2025-07-12T19:59:23.022141 - INFO - COST: $0.0017 | CUMULATIVE: $0.7329
+2025-07-12T19:59:23.022225 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:23.022365 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/fizz?utm_source=4RzZgxXGJ...)
+2025-07-12T19:59:23.345758 - INFO - ✅ Added job ID 4262194299 to Notion
+2025-07-12T19:59:24.472718 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:59:31.186615 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:31.186728 - INFO - JOB: Junior Prompt Engineer at ConsultNet Technology Services and Solutions
+2025-07-12T19:59:31.186814 - INFO - RATING: 7.5/10
+2025-07-12T19:59:31.186863 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in several programming languages and fr...
+2025-07-12T19:59:31.186909 - INFO - TOKENS: 150 explanation | 2261 total
+2025-07-12T19:59:31.186959 - INFO - COST: $0.0364 | CUMULATIVE: $0.7692
+2025-07-12T19:59:31.187003 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:31.187154 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:59:31.638511 - INFO - ✅ Added job ID 4253266664 to Notion
+2025-07-12T19:59:33.223994 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:59:36.369957 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:36.370058 - INFO - JOB: Front End Angular Developer at STAND 8 Technology Consulting
+2025-07-12T19:59:36.370152 - INFO - RATING: 5.5/10
+2025-07-12T19:59:36.370234 - INFO - EXPLANATION: Candidate has a solid foundation in programming with experience in full-stack development, but lacks...
+2025-07-12T19:59:36.370315 - INFO - TOKENS: 107 explanation | 2227 total
+2025-07-12T19:59:36.370401 - INFO - COST: $0.0351 | CUMULATIVE: $0.8044
+2025-07-12T19:59:36.370482 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:36.370577 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:59:36.764966 - INFO - ✅ Added job ID 4256033451 to Notion
+2025-07-12T19:59:38.399682 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:38.399805 - INFO - JOB: Artificial Intelligence Intern at Intellect Design Arena Ltd
+2025-07-12T19:59:38.399903 - INFO - RATING: 7.5/10
+2025-07-12T19:59:38.399987 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:59:38.400072 - INFO - TOKENS: 108 explanation | 1115 total
+2025-07-12T19:59:38.400158 - INFO - COST: $0.0017 | CUMULATIVE: $0.8060
+2025-07-12T19:59:38.400240 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:38.400337 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T19:59:38.704338 - INFO - ✅ Added job ID 4263703229 to Notion
+2025-07-12T19:59:40.343502 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:59:44.079964 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:44.080088 - INFO - JOB: Software Engineer - App Stores at Canonical
+2025-07-12T19:59:44.080356 - INFO - RATING: 7.5/10
+2025-07-12T19:59:44.080415 - INFO - EXPLANATION: Candidate has a strong technical skills match with proficiency in multiple programming languages, in...
+2025-07-12T19:59:44.080468 - INFO - TOKENS: 92 explanation | 2209 total
+2025-07-12T19:59:44.080523 - INFO - COST: $0.0345 | CUMULATIVE: $0.8406
+2025-07-12T19:59:44.080573 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:44.081068 - INFO - 🔗 Application Type: Company Site (https://grnh.se/724qzqkw1us...)
+2025-07-12T19:59:45.148056 - INFO - ✅ Added job ID 4264881241 to Notion
+2025-07-12T19:59:46.590465 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:46.590560 - INFO - JOB: Builder – NYC (General Interest) at Perplexity
+2025-07-12T19:59:46.590643 - INFO - RATING: 7.5/10
+2025-07-12T19:59:46.590714 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:59:46.590784 - INFO - TOKENS: 96 explanation | 1103 total
+2025-07-12T19:59:46.590857 - INFO - COST: $0.0017 | CUMULATIVE: $0.8422
+2025-07-12T19:59:46.590927 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:46.591031 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/perplexityai/jobs...)
+2025-07-12T19:59:46.890875 - INFO - ✅ Added job ID 4250838006 to Notion
+2025-07-12T19:59:48.023590 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:48.023732 - INFO - JOB: Solutions Engineer, Web/Mobile at Viam
+2025-07-12T19:59:48.023857 - INFO - RATING: 7.5/10
+2025-07-12T19:59:48.023965 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T19:59:48.024071 - INFO - TOKENS: 126 explanation | 1132 total
+2025-07-12T19:59:48.024179 - INFO - COST: $0.0017 | CUMULATIVE: $0.8439
+2025-07-12T19:59:48.024283 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:48.024433 - INFO - 🔗 Application Type: Company Site (https://grnh.se/2hpjnjgu4us...)
+2025-07-12T19:59:48.429890 - INFO - ✅ Added job ID 4265268326 to Notion
+2025-07-12T19:59:49.452475 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:49.452586 - INFO - JOB: Solutions Engineer at Upside
+2025-07-12T19:59:49.452691 - INFO - RATING: 7.5/10
+2025-07-12T19:59:49.452775 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T19:59:49.452860 - INFO - TOKENS: 100 explanation | 1102 total
+2025-07-12T19:59:49.452946 - INFO - COST: $0.0017 | CUMULATIVE: $0.8456
+2025-07-12T19:59:49.453028 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:49.453165 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/upside/e0201e2a-0a95-443a...)
+2025-07-12T19:59:49.764962 - INFO - ✅ Added job ID 4262177346 to Notion
+2025-07-12T19:59:51.468361 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T19:59:56.630644 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:56.630770 - INFO - JOB: iOS Software Engineer II at Peloton Interactive
+2025-07-12T19:59:56.630863 - INFO - RATING: 4.5/10
+2025-07-12T19:59:56.630936 - INFO - EXPLANATION: The candidate's skill set is primarily in full-stack web development, with no specific mention of iO...
+2025-07-12T19:59:56.631095 - INFO - TOKENS: 123 explanation | 2240 total
+2025-07-12T19:59:56.631198 - INFO - COST: $0.0355 | CUMULATIVE: $0.8811
+2025-07-12T19:59:56.631276 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:56.631490 - INFO - 🔗 Application Type: Company Site (https://grnh.se/e4a255411us?source=LinkedIn...)
+2025-07-12T19:59:57.136166 - INFO - ✅ Added job ID 4239554312 to Notion
+2025-07-12T19:59:58.982609 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:58.982703 - INFO - JOB: Data Engineer II (NYC) at Garner Health
+2025-07-12T19:59:58.982779 - INFO - RATING: 8/10
+2025-07-12T19:59:58.982852 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the Data Engineer II role at Garner Health. With a Bac...
+2025-07-12T19:59:58.982925 - INFO - TOKENS: 142 explanation | 1146 total
+2025-07-12T19:59:58.983029 - INFO - COST: $0.0017 | CUMULATIVE: $0.8828
+2025-07-12T19:59:58.983122 - INFO - ══════════════════════════════════════════════════
+2025-07-12T19:59:58.983250 - INFO - 🔗 Application Type: Company Site (https://grnh.se/dd380fa34us?gh_src=Linkedin&source...)
+2025-07-12T19:59:59.392053 - INFO - ✅ Added job ID 4224221373 to Notion
+2025-07-12T20:00:01.337216 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:01.337404 - INFO - JOB: Design Engineer at Arena
+2025-07-12T20:00:01.337573 - INFO - RATING: 7.5/10
+2025-07-12T20:00:01.337723 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:00:01.338008 - INFO - TOKENS: 140 explanation | 1141 total
+2025-07-12T20:00:01.338220 - INFO - COST: $0.0017 | CUMULATIVE: $0.8845
+2025-07-12T20:00:01.338387 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:01.338573 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.eu.greenhouse.io/arenaai/jobs/4...)
+2025-07-12T20:00:01.725048 - INFO - ✅ Added job ID 4198817587 to Notion
+2025-07-12T20:00:03.228950 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:03.229101 - INFO - JOB: Systems Engineer at Sieve
+2025-07-12T20:00:03.229206 - INFO - RATING: 7.5/10
+2025-07-12T20:00:03.229293 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, No...
+2025-07-12T20:00:03.229392 - INFO - TOKENS: 111 explanation | 1113 total
+2025-07-12T20:00:03.229480 - INFO - COST: $0.0017 | CUMULATIVE: $0.8862
+2025-07-12T20:00:03.229565 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:03.229740 - INFO - 🔗 Application Type: Company Site (https://www.ycombinator.com/companies/sieve/jobs/6...)
+2025-07-12T20:00:03.585638 - INFO - ✅ Added job ID 4265055912 to Notion
+2025-07-12T20:00:05.256238 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:00:10.314042 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:10.314167 - INFO - JOB: Trading Systems Dev at Selby Jennings
+2025-07-12T20:00:10.314266 - INFO - RATING: 6.5/10
+2025-07-12T20:00:10.314326 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in multiple programming languages and f...
+2025-07-12T20:00:10.314384 - INFO - TOKENS: 96 explanation | 2201 total
+2025-07-12T20:00:10.314441 - INFO - COST: $0.0347 | CUMULATIVE: $0.9209
+2025-07-12T20:00:10.314496 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:10.314636 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:00:12.512217 - INFO - ✅ Added job ID 4264205579 to Notion
+2025-07-12T20:00:14.340698 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:00:21.109101 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:21.109228 - INFO - JOB: Applied AI Engineer at Secret
+2025-07-12T20:00:21.109328 - INFO - RATING: 6.5/10
+2025-07-12T20:00:21.109389 - INFO - EXPLANATION: Candidate has a strong technical background with 3 years of experience in software engineering, incl...
+2025-07-12T20:00:21.109446 - INFO - TOKENS: 107 explanation | 2216 total
+2025-07-12T20:00:21.109504 - INFO - COST: $0.0349 | CUMULATIVE: $0.9558
+2025-07-12T20:00:21.109561 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:21.109719 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:00:21.368649 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:00:22.532298 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:00:24.885412 - ERROR - ❌ Failed to add job ID 4265251473 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:00:26.012121 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:26.012232 - INFO - JOB: Solution Engineer, Enterprise Acquisition - New York/New Jersey Region (All Levels) at Snowflake
+2025-07-12T20:00:26.012347 - INFO - RATING: 7.5/10
+2025-07-12T20:00:26.012431 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:00:26.012514 - INFO - TOKENS: 100 explanation | 1115 total
+2025-07-12T20:00:26.012641 - INFO - COST: $0.0017 | CUMULATIVE: $0.9574
+2025-07-12T20:00:26.012802 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:26.013009 - INFO - 🔗 Application Type: Company Site (https://careers.snowflake.com/us/en/job/SNCOUS0753...)
+2025-07-12T20:00:26.298241 - INFO - ✅ Added job ID 4253543876 to Notion
+2025-07-12T20:00:28.574546 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:28.574625 - INFO - JOB: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus at Huxley
+2025-07-12T20:00:28.574701 - INFO - RATING: 7.5/10
+2025-07-12T20:00:28.574745 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:00:28.574785 - INFO - TOKENS: 123 explanation | 1143 total
+2025-07-12T20:00:28.574827 - INFO - COST: $0.0017 | CUMULATIVE: $0.9591
+2025-07-12T20:00:28.574867 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:28.574955 - INFO - 🔗 Application Type: Company Site (https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTU...)
+2025-07-12T20:00:28.882723 - INFO - ✅ Added job ID 4263658568 to Notion
+2025-07-12T20:00:30.419548 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:30.419739 - INFO - JOB: Solutions Engineer at FOX Tech
+2025-07-12T20:00:30.419896 - INFO - RATING: 8/10
+2025-07-12T20:00:30.420055 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:00:30.420216 - INFO - TOKENS: 117 explanation | 1117 total
+2025-07-12T20:00:30.420384 - INFO - COST: $0.0017 | CUMULATIVE: $0.9608
+2025-07-12T20:00:30.420534 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:30.420775 - INFO - 🔗 Application Type: Company Site (https://www.foxcareers.com/Search/JobDetail/R50028...)
+2025-07-12T20:00:30.826678 - INFO - ✅ Added job ID 4190704075 to Notion
+2025-07-12T20:00:32.328267 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:32.328416 - INFO - JOB: Software Test Engineer - Automation (Selenium/Cypress and Java/Python/C#/Javascript)  - W2/ H1Transfer at ASK IT CONSULTING
+2025-07-12T20:00:32.328490 - INFO - RATING: 8/10
+2025-07-12T20:00:32.328564 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with experience in Java, Python, React Native, Nod...
+2025-07-12T20:00:32.328636 - INFO - TOKENS: 135 explanation | 1162 total
+2025-07-12T20:00:32.328717 - INFO - COST: $0.0017 | CUMULATIVE: $0.9626
+2025-07-12T20:00:32.328786 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:32.328873 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:00:32.874158 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:00:34.024640 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:00:36.158272 - ERROR - ❌ Failed to add job ID 4265013705 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:00:38.505400 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:38.505450 - INFO - JOB: Quantitative Developer - Commodities at Balyasny Asset Management L.P.
+2025-07-12T20:00:38.505486 - INFO - RATING: 8/10
+2025-07-12T20:00:38.505518 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the Quantitative Developer - Commodities role at Balya...
+2025-07-12T20:00:38.505550 - INFO - TOKENS: 112 explanation | 1121 total
+2025-07-12T20:00:38.505583 - INFO - COST: $0.0017 | CUMULATIVE: $0.9642
+2025-07-12T20:00:38.505613 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:38.505677 - INFO - 🔗 Application Type: Company Site (https://bambusdev.my.site.com/s/details?jobReq=Qua...)
+2025-07-12T20:00:39.121435 - INFO - ✅ Added job ID 4262175120 to Notion
+2025-07-12T20:00:40.968271 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:40.968389 - INFO - JOB: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus at Huxley
+2025-07-12T20:00:40.968485 - INFO - RATING: 7.5/10
+2025-07-12T20:00:40.968559 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React...
+2025-07-12T20:00:40.968623 - INFO - TOKENS: 124 explanation | 1144 total
+2025-07-12T20:00:40.968682 - INFO - COST: $0.0017 | CUMULATIVE: $0.9660
+2025-07-12T20:00:40.968737 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:40.969023 - INFO - 🔗 Application Type: Company Site (https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTU...)
+2025-07-12T20:00:41.276294 - INFO - ✅ Added job ID 4264733883 to Notion
+2025-07-12T20:00:44.606782 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:44.606916 - INFO - JOB: Forward Deployed Engineer at Privy
+2025-07-12T20:00:44.607005 - INFO - RATING: 7.5/10
+2025-07-12T20:00:44.607065 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:00:44.607122 - INFO - TOKENS: 127 explanation | 1131 total
+2025-07-12T20:00:44.607180 - INFO - COST: $0.0017 | CUMULATIVE: $0.9677
+2025-07-12T20:00:44.607235 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:44.607381 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/privy/4329514d-c570-4121-...)
+2025-07-12T20:00:45.844368 - INFO - ✅ Added job ID 4221539170 to Notion
+2025-07-12T20:00:47.220389 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:00:52.948711 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:52.948865 - INFO - JOB: Growth Engineer at LogRocket
+2025-07-12T20:00:52.948967 - INFO - RATING: 7.5/10
+2025-07-12T20:00:52.949047 - INFO - EXPLANATION: Candidate has a strong technical skill set that aligns with the Growth Engineer role, including prof...
+2025-07-12T20:00:52.949121 - INFO - TOKENS: 116 explanation | 2245 total
+2025-07-12T20:00:52.949203 - INFO - COST: $0.0352 | CUMULATIVE: $1.0029
+2025-07-12T20:00:52.949272 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:52.949422 - INFO - 🔗 Application Type: Lever (https://jobs.lever.co/logrocket/e8eee927-dc7a-4234...)
+2025-07-12T20:00:53.763677 - INFO - ✅ Added job ID 4238232936 to Notion
+2025-07-12T20:00:55.200758 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:55.201047 - INFO - JOB: CONSULTANT DÉVELOPPEUR JAVA H/F – NEW YORK at QUANTEAM (RAINBOW PARTNERS Group)
+2025-07-12T20:00:55.201145 - INFO - RATING: 7.5/10
+2025-07-12T20:00:55.201224 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:00:55.201298 - INFO - TOKENS: 136 explanation | 1161 total
+2025-07-12T20:00:55.201372 - INFO - COST: $0.0017 | CUMULATIVE: $1.0046
+2025-07-12T20:00:55.201512 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:00:55.202013 - INFO - 🔗 Application Type: Company Site (https://quanteam.fr/offres-demploi/consultant-deve...)
+2025-07-12T20:00:56.908846 - INFO - ✅ Added job ID 4265182118 to Notion
+2025-07-12T20:00:58.104002 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:01:02.224693 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:02.225323 - INFO - JOB: Portal Developer (Liquid Template ) - Remote! at Scalence L.L.C.
+2025-07-12T20:01:02.225614 - INFO - RATING: 6/10
+2025-07-12T20:01:02.225763 - INFO - EXPLANATION: Candidate has strong technical skills in Java, Python, JavaScript, and TypeScript, along with experi...
+2025-07-12T20:01:02.225859 - INFO - TOKENS: 106 explanation | 2239 total
+2025-07-12T20:01:02.225962 - INFO - COST: $0.0352 | CUMULATIVE: $1.0398
+2025-07-12T20:01:02.226047 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:02.226384 - INFO - 🔗 Application Type: Company Site (https://www1.jobdiva.com/portal/?a=aljdnw0qolq9pza...)
+2025-07-12T20:01:06.085821 - INFO - ✅ Added job ID 4265129437 to Notion
+2025-07-12T20:01:07.592443 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:07.592802 - INFO - JOB: Implementation Engineer at Global-e
+2025-07-12T20:01:07.592913 - INFO - RATING: 7.5/10
+2025-07-12T20:01:07.592981 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in full-stack development using a var...
+2025-07-12T20:01:07.593043 - INFO - TOKENS: 135 explanation | 1137 total
+2025-07-12T20:01:07.593345 - INFO - COST: $0.0017 | CUMULATIVE: $1.0415
+2025-07-12T20:01:07.593448 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:07.593556 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:01:07.906693 - INFO - ✅ Added job ID 4264533391 to Notion
+2025-07-12T20:01:10.053925 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:10.054264 - INFO - JOB: ML Compiler Engineer, Compute at Waymo
+2025-07-12T20:01:10.054380 - INFO - RATING: 7.5/10
+2025-07-12T20:01:10.054469 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with experience in a variety of programming langua...
+2025-07-12T20:01:10.054556 - INFO - TOKENS: 112 explanation | 1117 total
+2025-07-12T20:01:10.054646 - INFO - COST: $0.0017 | CUMULATIVE: $1.0432
+2025-07-12T20:01:10.054730 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:10.054919 - INFO - 🔗 Application Type: Company Site (https://careers.withwaymo.com/jobs?gh_jid=6486550&...)
+2025-07-12T20:01:10.377840 - INFO - ✅ Added job ID 4143424503 to Notion
+2025-07-12T20:01:11.651254 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:11.651355 - INFO - JOB: Equity Quant Developer at Bank of America
+2025-07-12T20:01:11.651439 - INFO - RATING: 7.5/10
+2025-07-12T20:01:11.651610 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:01:11.651995 - INFO - TOKENS: 106 explanation | 1110 total
+2025-07-12T20:01:11.652106 - INFO - COST: $0.0017 | CUMULATIVE: $1.0448
+2025-07-12T20:01:11.652197 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:11.652352 - INFO - 🔗 Application Type: Company Site (https://careers.bankofamerica.com/en-us/job-detail...)
+2025-07-12T20:01:12.773718 - INFO - ✅ Added job ID 4264179376 to Notion
+2025-07-12T20:01:14.217241 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:14.217346 - INFO - JOB: Developer Platform Engineer at LSEG
+2025-07-12T20:01:14.217444 - INFO - RATING: 7.5/10
+2025-07-12T20:01:14.217527 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:01:14.217610 - INFO - TOKENS: 136 explanation | 1139 total
+2025-07-12T20:01:14.217700 - INFO - COST: $0.0017 | CUMULATIVE: $1.0465
+2025-07-12T20:01:14.217781 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:14.217893 - INFO - 🔗 Application Type: Workday (https://lseg.wd3.myworkdayjobs.com/Careers/job/Lon...)
+2025-07-12T20:01:14.531503 - INFO - ✅ Added job ID 4086259577 to Notion
+2025-07-12T20:01:17.037323 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:01:21.831432 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:21.831567 - INFO - JOB: System Engineer at AppCard, Inc.
+2025-07-12T20:01:21.831675 - INFO - RATING: 7.5/10
+2025-07-12T20:01:21.831741 - INFO - EXPLANATION: Candidate has a solid technical background with proficiency in several programming languages and too...
+2025-07-12T20:01:21.831799 - INFO - TOKENS: 99 explanation | 2232 total
+2025-07-12T20:01:21.831862 - INFO - COST: $0.0348 | CUMULATIVE: $1.0813
+2025-07-12T20:01:21.831917 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:21.832303 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:01:22.286265 - INFO - ✅ Added job ID 4261165006 to Notion
+2025-07-12T20:01:23.666897 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:01:28.683517 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:28.683614 - INFO - JOB: Bleacher Report Kicks Social Programmer I (Temporary) at Warner Bros. Discovery
+2025-07-12T20:01:28.683713 - INFO - RATING: 6.5/10
+2025-07-12T20:01:28.683787 - INFO - EXPLANATION: The candidate has a strong technical background with proficiency in several programming languages an...
+2025-07-12T20:01:28.683863 - INFO - TOKENS: 109 explanation | 2242 total
+2025-07-12T20:01:28.683936 - INFO - COST: $0.0353 | CUMULATIVE: $1.1166
+2025-07-12T20:01:28.684034 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:28.684291 - INFO - 🔗 Application Type: Company Site (https://careers.wbd.com/global/en/job/WAMEGLOBALR0...)
+2025-07-12T20:01:29.091103 - INFO - ✅ Added job ID 4252936134 to Notion
+2025-07-12T20:01:40.095189 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:40.095610 - INFO - JOB: Quantitative Developer (Macro) at Selby Jennings
+2025-07-12T20:01:40.095697 - INFO - RATING: 9/10
+2025-07-12T20:01:40.095983 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the Quantitative Developer (Macro) role at Selby Jenni...
+2025-07-12T20:01:40.096077 - INFO - TOKENS: 124 explanation | 1128 total
+2025-07-12T20:01:40.096192 - INFO - COST: $0.0017 | CUMULATIVE: $1.1183
+2025-07-12T20:01:40.096255 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:40.096418 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:01:40.765584 - INFO - ✅ Added job ID 4264744128 to Notion
+2025-07-12T20:01:42.917296 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:01:48.551765 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:48.551951 - INFO - JOB: Bleacher Report Kicks Social Programmer I (Temporary) at Warner Bros. Discovery
+2025-07-12T20:01:48.552057 - INFO - RATING: 6.5/10
+2025-07-12T20:01:48.552144 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in several programming languages and fr...
+2025-07-12T20:01:48.552231 - INFO - TOKENS: 117 explanation | 2272 total
+2025-07-12T20:01:48.552321 - INFO - COST: $0.0356 | CUMULATIVE: $1.1539
+2025-07-12T20:01:48.552404 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:48.552621 - INFO - 🔗 Application Type: Company Site (https://careers.wbd.com/global/en/job/WAMEGLOBALR0...)
+2025-07-12T20:01:52.013675 - INFO - ✅ Added job ID 4252933571 to Notion
+2025-07-12T20:01:53.876121 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:53.876211 - INFO - JOB: Data Engineer II at Horizon Media
+2025-07-12T20:01:53.876292 - INFO - RATING: 7.5/10
+2025-07-12T20:01:53.876361 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:01:53.876429 - INFO - TOKENS: 104 explanation | 1106 total
+2025-07-12T20:01:53.876498 - INFO - COST: $0.0017 | CUMULATIVE: $1.1556
+2025-07-12T20:01:53.876568 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:53.876671 - INFO - 🔗 Application Type: Workday (https://horizonmedia.wd1.myworkdayjobs.com/CareerO...)
+2025-07-12T20:01:54.291819 - INFO - ✅ Added job ID 4262546882 to Notion
+2025-07-12T20:01:55.923190 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:55.923663 - INFO - JOB: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus at Huxley
+2025-07-12T20:01:55.923808 - INFO - RATING: 7.5/10
+2025-07-12T20:01:55.924067 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React...
+2025-07-12T20:01:55.924223 - INFO - TOKENS: 125 explanation | 1145 total
+2025-07-12T20:01:55.924323 - INFO - COST: $0.0017 | CUMULATIVE: $1.1573
+2025-07-12T20:01:55.924418 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:55.924613 - INFO - 🔗 Application Type: Company Site (https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTU...)
+2025-07-12T20:01:56.244770 - INFO - ✅ Added job ID 4264127923 to Notion
+2025-07-12T20:01:58.177860 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:58.178046 - INFO - JOB: Cloud Onboarding Engineer at Align Communications & Creative
+2025-07-12T20:01:58.178367 - INFO - RATING: 7.5/10
+2025-07-12T20:01:58.178549 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:01:58.178708 - INFO - TOKENS: 113 explanation | 1119 total
+2025-07-12T20:01:58.178862 - INFO - COST: $0.0017 | CUMULATIVE: $1.1590
+2025-07-12T20:01:58.179015 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:01:58.179306 - INFO - 🔗 Application Type: Company Site (https://www.adzuna.com/details/5286806529?v=CBEEA2...)
+2025-07-12T20:01:58.481245 - INFO - ✅ Added job ID 4262753754 to Notion
+2025-07-12T20:02:00.735538 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:00.735789 - INFO - JOB: Solana Data Engineer at Selby Jennings
+2025-07-12T20:02:00.735940 - INFO - RATING: 7.5/10
+2025-07-12T20:02:00.736047 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and f...
+2025-07-12T20:02:00.736140 - INFO - TOKENS: 150 explanation | 1155 total
+2025-07-12T20:02:00.736233 - INFO - COST: $0.0017 | CUMULATIVE: $1.1607
+2025-07-12T20:02:00.736320 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:00.736464 - INFO - 🔗 Application Type: Company Site (https://www.linkedin.com...)
+2025-07-12T20:02:01.042815 - INFO - ✅ Added job ID 4263478221 to Notion
+2025-07-12T20:02:02.800125 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:02.800265 - INFO - JOB: Protocol Engineer at ether.fi
+2025-07-12T20:02:02.800368 - INFO - RATING: 7.5/10
+2025-07-12T20:02:02.800446 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React...
+2025-07-12T20:02:02.800522 - INFO - TOKENS: 97 explanation | 1099 total
+2025-07-12T20:02:02.800595 - INFO - COST: $0.0016 | CUMULATIVE: $1.1624
+2025-07-12T20:02:02.800666 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:02.801052 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/ether.fi/a90f4624-482c-44...)
+2025-07-12T20:02:03.141964 - INFO - ✅ Added job ID 4262582524 to Notion
+2025-07-12T20:02:05.225895 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:05.226082 - INFO - JOB: Solutions Engineer, Operations at Opto Investments
+2025-07-12T20:02:05.226253 - INFO - RATING: 7.5/10
+2025-07-12T20:02:05.226402 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in full-stack development using a var...
+2025-07-12T20:02:05.226549 - INFO - TOKENS: 145 explanation | 1150 total
+2025-07-12T20:02:05.226701 - INFO - COST: $0.0017 | CUMULATIVE: $1.1641
+2025-07-12T20:02:05.226846 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:05.227058 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/optoinvest/jobs/6...)
+2025-07-12T20:02:05.651965 - INFO - ✅ Added job ID 4206932785 to Notion
+2025-07-12T20:02:07.635392 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:07.635655 - INFO - JOB: Workday Integration Develop at Horizontal Talent
+2025-07-12T20:02:07.635774 - INFO - RATING: 7.5/10
+2025-07-12T20:02:07.635870 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:02:07.635963 - INFO - TOKENS: 109 explanation | 1113 total
+2025-07-12T20:02:07.636054 - INFO - COST: $0.0017 | CUMULATIVE: $1.1658
+2025-07-12T20:02:07.636136 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:07.636565 - INFO - 🔗 Application Type: Company Site (https://www.horizontaltalent.com/job-board/70672?u...)
+2025-07-12T20:02:07.933761 - INFO - ✅ Added job ID 4248480796 to Notion
+2025-07-12T20:02:09.145658 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:02:16.714653 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:16.716062 - INFO - JOB: Consultant(e) Développement E-Trading H/F – New York at QUANTEAM (RAINBOW PARTNERS Group)
+2025-07-12T20:02:16.716296 - INFO - RATING: 7.5/10
+2025-07-12T20:02:16.716409 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in multiple programming languages and f...
+2025-07-12T20:02:16.716506 - INFO - TOKENS: 137 explanation | 2280 total
+2025-07-12T20:02:16.716594 - INFO - COST: $0.0365 | CUMULATIVE: $1.2023
+2025-07-12T20:02:16.716674 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:16.716964 - INFO - 🔗 Application Type: Company Site (https://quanteam.fr/offres-demploi/consultante-dev...)
+2025-07-12T20:02:19.558577 - INFO - ✅ Added job ID 4263421610 to Notion
+2025-07-12T20:02:21.634561 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:21.634675 - INFO - JOB: Quantitative Researcher – Deep Learning & AI Signal Discovery (Equities) at Onyx Alpha Partners
+2025-07-12T20:02:21.634816 - INFO - RATING: 8/10
+2025-07-12T20:02:21.635011 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the Quantitative Researcher role at Onyx Alpha Partner...
+2025-07-12T20:02:21.635100 - INFO - TOKENS: 133 explanation | 1147 total
+2025-07-12T20:02:21.635208 - INFO - COST: $0.0017 | CUMULATIVE: $1.2040
+2025-07-12T20:02:21.635274 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:21.635393 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:02:22.366710 - INFO - ✅ Added job ID 4223325629 to Notion
+2025-07-12T20:02:23.774859 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:23.774978 - INFO - JOB: Build Your Own Job Description at Fractional AI
+2025-07-12T20:02:23.775083 - INFO - RATING: 7.5/10
+2025-07-12T20:02:23.775168 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, No...
+2025-07-12T20:02:23.775255 - INFO - TOKENS: 97 explanation | 1103 total
+2025-07-12T20:02:23.775371 - INFO - COST: $0.0017 | CUMULATIVE: $1.2057
+2025-07-12T20:02:23.775456 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:23.775640 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/fractional-ai/f38afdf3-55...)
+2025-07-12T20:02:24.104652 - INFO - ✅ Added job ID 4264263756 to Notion
+2025-07-12T20:02:25.926640 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:25.926832 - INFO - JOB: AI Automation Engineer at Conductor
+2025-07-12T20:02:25.926986 - INFO - RATING: 9/10
+2025-07-12T20:02:25.927143 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the AI Automation Engineer role at Conductor. With a B...
+2025-07-12T20:02:25.927350 - INFO - TOKENS: 120 explanation | 1120 total
+2025-07-12T20:02:25.927598 - INFO - COST: $0.0017 | CUMULATIVE: $1.2074
+2025-07-12T20:02:25.927733 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:25.927883 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/conductor/jobs/69...)
+2025-07-12T20:02:26.904809 - INFO - ✅ Added job ID 4240197236 to Notion
+2025-07-12T20:02:29.622292 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:29.622746 - INFO - JOB: Rust Engineer - Trading at Keyrock
+2025-07-12T20:02:29.622840 - INFO - RATING: 7.5/10
+2025-07-12T20:02:29.622903 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:02:29.622960 - INFO - TOKENS: 131 explanation | 1135 total
+2025-07-12T20:02:29.623024 - INFO - COST: $0.0017 | CUMULATIVE: $1.2091
+2025-07-12T20:02:29.623086 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:29.623222 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/Keyrock/237cc882-2a71-4db...)
+2025-07-12T20:02:29.919653 - INFO - ✅ Added job ID 4201154071 to Notion
+2025-07-12T20:02:31.059065 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:02:35.964150 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:35.964361 - INFO - JOB: AI Agents Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:02:35.964450 - INFO - RATING: 5.5/10
+2025-07-12T20:02:35.964597 - INFO - EXPLANATION: Candidate has strong technical skills in programming and DevOps tools, which are beneficial for an A...
+2025-07-12T20:02:35.964680 - INFO - TOKENS: 104 explanation | 2213 total
+2025-07-12T20:02:35.964759 - INFO - COST: $0.0349 | CUMULATIVE: $1.2440
+2025-07-12T20:02:35.964829 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:35.964918 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:02:36.185766 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:02:37.329452 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:02:39.478029 - ERROR - ❌ Failed to add job ID 4262326260 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:02:41.596625 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:41.596726 - INFO - JOB: AI Automation Specialist at Glocomms
+2025-07-12T20:02:41.596804 - INFO - RATING: 7.5/10
+2025-07-12T20:02:41.596864 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:02:41.596919 - INFO - TOKENS: 113 explanation | 1117 total
+2025-07-12T20:02:41.596976 - INFO - COST: $0.0017 | CUMULATIVE: $1.2456
+2025-07-12T20:02:41.597031 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:41.597101 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:02:42.720263 - INFO - ✅ Added job ID 4263088227 to Notion
+2025-07-12T20:02:43.859964 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:43.860104 - INFO - JOB: Big Data Engineer at KTek Resourcing
+2025-07-12T20:02:43.860230 - INFO - RATING: 7.5/10
+2025-07-12T20:02:43.860338 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React...
+2025-07-12T20:02:43.860453 - INFO - TOKENS: 102 explanation | 1107 total
+2025-07-12T20:02:43.860561 - INFO - COST: $0.0017 | CUMULATIVE: $1.2473
+2025-07-12T20:02:43.860647 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:43.860758 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:02:45.592149 - INFO - ✅ Added job ID 4265200514 to Notion
+2025-07-12T20:02:47.121882 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:47.122005 - INFO - JOB: Solutions Engineer, Advertiser Solutions, Activate at PubMatic
+2025-07-12T20:02:47.122100 - INFO - RATING: 7.5/10
+2025-07-12T20:02:47.122218 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:02:47.122301 - INFO - TOKENS: 112 explanation | 1122 total
+2025-07-12T20:02:47.122377 - INFO - COST: $0.0017 | CUMULATIVE: $1.2490
+2025-07-12T20:02:47.122452 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:47.122634 - INFO - 🔗 Application Type: Company Site (https://pubmatic.com/job/?gh_jid=4608025008&gh_src...)
+2025-07-12T20:02:47.413553 - INFO - ✅ Added job ID 4224377160 to Notion
+2025-07-12T20:02:48.518739 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:48.518991 - INFO - JOB: Quantitative Developer - Equity Research Technology at Millennium
+2025-07-12T20:02:48.519092 - INFO - RATING: 7.5/10
+2025-07-12T20:02:48.519179 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:02:48.519263 - INFO - TOKENS: 99 explanation | 1105 total
+2025-07-12T20:02:48.519347 - INFO - COST: $0.0017 | CUMULATIVE: $1.2506
+2025-07-12T20:02:48.519430 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:48.519575 - INFO - 🔗 Application Type: Company Site (https://mlp.eightfold.ai/careers/job/755940952399?...)
+2025-07-12T20:02:48.862149 - INFO - ✅ Added job ID 4250593138 to Notion
+2025-07-12T20:02:51.330768 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:02:56.648876 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:56.649656 - INFO - JOB: Appian Engineer at Open Systems Technologies
+2025-07-12T20:02:56.649842 - INFO - RATING: 5/10
+2025-07-12T20:02:56.649939 - INFO - EXPLANATION: Candidate has a strong full-stack development background with proficiency in multiple languages and ...
+2025-07-12T20:02:56.650019 - INFO - TOKENS: 102 explanation | 2251 total
+2025-07-12T20:02:56.650118 - INFO - COST: $0.0348 | CUMULATIVE: $1.2855
+2025-07-12T20:02:56.650193 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:56.650846 - INFO - 🔗 Application Type: ATS (Other) (https://www2.jobdiva.com/candidates/myjobs/openjob...)
+2025-07-12T20:02:57.692974 - INFO - ✅ Added job ID 3928090365 to Notion
+2025-07-12T20:02:59.041139 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:59.041244 - INFO - JOB: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus at Huxley
+2025-07-12T20:02:59.041337 - INFO - RATING: 7.5/10
+2025-07-12T20:02:59.041422 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:02:59.041505 - INFO - TOKENS: 137 explanation | 1157 total
+2025-07-12T20:02:59.041589 - INFO - COST: $0.0017 | CUMULATIVE: $1.2872
+2025-07-12T20:02:59.041669 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:02:59.041808 - INFO - 🔗 Application Type: Company Site (https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTU...)
+2025-07-12T20:03:00.134829 - INFO - ✅ Added job ID 4264734725 to Notion
+2025-07-12T20:03:02.342186 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:03:05.951260 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:05.951603 - INFO - JOB: Mobile Engineer at Made Card
+2025-07-12T20:03:05.951700 - INFO - RATING: 7.5/10
+2025-07-12T20:03:05.951786 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in Java, Python, JavaScript, TypeScript...
+2025-07-12T20:03:05.951869 - INFO - TOKENS: 119 explanation | 2215 total
+2025-07-12T20:03:05.951954 - INFO - COST: $0.0353 | CUMULATIVE: $1.3225
+2025-07-12T20:03:05.952036 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:05.952250 - INFO - 🔗 Application Type: Company Site (https://wellfound.com/jobs/2978745-mobile-engineer...)
+2025-07-12T20:03:06.476793 - INFO - ✅ Added job ID 4265254018 to Notion
+2025-07-12T20:03:07.709670 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:07.710051 - INFO - JOB: Forward Deployed Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:03:07.710174 - INFO - RATING: 7.5/10
+2025-07-12T20:03:07.710353 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:03:07.710448 - INFO - TOKENS: 100 explanation | 1105 total
+2025-07-12T20:03:07.710522 - INFO - COST: $0.0017 | CUMULATIVE: $1.3242
+2025-07-12T20:03:07.710585 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:07.710663 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:03:07.858914 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:03:12.391743 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:03:14.554109 - ERROR - ❌ Failed to add job ID 4262323437 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:03:16.128192 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:16.128481 - INFO - JOB: Data Scientist / Machine Learning Engineer - Personalization at Faire
+2025-07-12T20:03:16.128574 - INFO - RATING: 7.5/10
+2025-07-12T20:03:16.128657 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:03:16.128835 - INFO - TOKENS: 156 explanation | 1164 total
+2025-07-12T20:03:16.128944 - INFO - COST: $0.0017 | CUMULATIVE: $1.3259
+2025-07-12T20:03:16.129039 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:16.129639 - INFO - 🔗 Application Type: Greenhouse (https://boards.greenhouse.io/faire/jobs/8065536002...)
+2025-07-12T20:03:20.302902 - INFO - ✅ Added job ID 4262330307 to Notion
+2025-07-12T20:03:21.433631 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:21.433756 - INFO - JOB: Developer, Business Intelligence at Uncommon Schools
+2025-07-12T20:03:21.433853 - INFO - RATING: 7.5/10
+2025-07-12T20:03:21.433937 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, No...
+2025-07-12T20:03:21.434015 - INFO - TOKENS: 105 explanation | 1109 total
+2025-07-12T20:03:21.434095 - INFO - COST: $0.0017 | CUMULATIVE: $1.3276
+2025-07-12T20:03:21.434174 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:21.434624 - INFO - 🔗 Application Type: SmartRecruiters (https://jobs.smartrecruiters.com/UncommonSchools/7...)
+2025-07-12T20:03:21.875913 - INFO - ✅ Added job ID 4252065427 to Notion
+2025-07-12T20:03:24.193707 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:03:30.032018 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:30.032378 - INFO - JOB: Oracle ADF Developer at First Soft Solutions LLC
+2025-07-12T20:03:30.032481 - INFO - RATING: 4/10
+2025-07-12T20:03:30.032572 - INFO - EXPLANATION: The candidate has strong programming skills and experience in several languages and frameworks, but ...
+2025-07-12T20:03:30.032657 - INFO - TOKENS: 98 explanation | 2219 total
+2025-07-12T20:03:30.032756 - INFO - COST: $0.0347 | CUMULATIVE: $1.3623
+2025-07-12T20:03:30.032840 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:30.032954 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:03:30.539176 - INFO - ✅ Added job ID 4264732281 to Notion
+2025-07-12T20:03:32.589657 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:32.589855 - INFO - JOB: Cloud Support Engineer at Canonical
+2025-07-12T20:03:32.590030 - INFO - RATING: 7.5/10
+2025-07-12T20:03:32.590179 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:03:32.590340 - INFO - TOKENS: 113 explanation | 1115 total
+2025-07-12T20:03:32.590487 - INFO - COST: $0.0017 | CUMULATIVE: $1.3640
+2025-07-12T20:03:32.590632 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:32.591160 - INFO - 🔗 Application Type: Company Site (https://grnh.se/3lidm4981us...)
+2025-07-12T20:03:32.892773 - INFO - ✅ Added job ID 4262974530 to Notion
+2025-07-12T20:03:34.198464 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:34.198879 - INFO - JOB: SRE / DevOps at Huxley
+2025-07-12T20:03:34.199015 - INFO - RATING: 7.5/10
+2025-07-12T20:03:34.199116 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and f...
+2025-07-12T20:03:34.199201 - INFO - TOKENS: 130 explanation | 1136 total
+2025-07-12T20:03:34.199276 - INFO - COST: $0.0017 | CUMULATIVE: $1.3657
+2025-07-12T20:03:34.199354 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:34.199766 - INFO - 🔗 Application Type: Company Site (https://www.aplitrak.com/?adid=bXRiZi40NDU3MS4xNTU...)
+2025-07-12T20:03:37.036582 - INFO - ✅ Added job ID 4264749156 to Notion
+2025-07-12T20:03:38.336453 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:38.336642 - INFO - JOB: UAS Field Application Engineer at Edison Smart®
+2025-07-12T20:03:38.336767 - INFO - RATING: 7.5/10
+2025-07-12T20:03:38.336872 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node...
+2025-07-12T20:03:38.336981 - INFO - TOKENS: 121 explanation | 1127 total
+2025-07-12T20:03:38.337275 - INFO - COST: $0.0017 | CUMULATIVE: $1.3674
+2025-07-12T20:03:38.337410 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:38.337564 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:03:38.752916 - INFO - ✅ Added job ID 4265158180 to Notion
+2025-07-12T20:03:40.169235 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:40.169352 - INFO - JOB: Product Engineer II at Garner Health
+2025-07-12T20:03:40.169425 - INFO - RATING: 8/10
+2025-07-12T20:03:40.169487 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node...
+2025-07-12T20:03:40.169547 - INFO - TOKENS: 131 explanation | 1132 total
+2025-07-12T20:03:40.169617 - INFO - COST: $0.0017 | CUMULATIVE: $1.3691
+2025-07-12T20:03:40.169674 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:40.169803 - INFO - 🔗 Application Type: Company Site (https://grnh.se/4b6ggvoe4us?gh_src=Linkedin...)
+2025-07-12T20:03:40.477455 - INFO - ✅ Added job ID 4263006534 to Notion
+2025-07-12T20:03:41.850945 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:41.851324 - INFO - JOB: MSR Quantitative Developer at Lakeview Household Insurance Solutions
+2025-07-12T20:03:41.851456 - INFO - RATING: 7.5/10
+2025-07-12T20:03:41.851706 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and f...
+2025-07-12T20:03:41.851804 - INFO - TOKENS: 111 explanation | 1118 total
+2025-07-12T20:03:41.851873 - INFO - COST: $0.0017 | CUMULATIVE: $1.3707
+2025-07-12T20:03:41.851936 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:41.852114 - INFO - 🔗 Application Type: Company Site (https://careers.bayview.com/jobs/7336/MSR+Quantita...)
+2025-07-12T20:03:42.216101 - INFO - ✅ Added job ID 4264740384 to Notion
+2025-07-12T20:03:43.344075 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:43.344427 - INFO - JOB: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus at Huxley
+2025-07-12T20:03:43.344528 - INFO - RATING: 7.5/10
+2025-07-12T20:03:43.344707 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with proficiency in Java, Python, JavaScr...
+2025-07-12T20:03:43.344804 - INFO - TOKENS: 114 explanation | 1134 total
+2025-07-12T20:03:43.344883 - INFO - COST: $0.0017 | CUMULATIVE: $1.3724
+2025-07-12T20:03:43.344962 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:43.345091 - INFO - 🔗 Application Type: Company Site (https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTU...)
+2025-07-12T20:03:43.659400 - INFO - ✅ Added job ID 4265220392 to Notion
+2025-07-12T20:03:44.896794 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:03:50.339437 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:50.339976 - INFO - JOB: MSR Quantitative Developer at Lakeview Loan Servicing, LLC.
+2025-07-12T20:03:50.340100 - INFO - RATING: 6.5/10
+2025-07-12T20:03:50.340168 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in multiple programming languages and f...
+2025-07-12T20:03:50.340228 - INFO - TOKENS: 109 explanation | 2242 total
+2025-07-12T20:03:50.340289 - INFO - COST: $0.0352 | CUMULATIVE: $1.4077
+2025-07-12T20:03:50.340347 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:50.340953 - INFO - 🔗 Application Type: Company Site (https://careers.bayview.com/jobs/7336/MSR+Quantita...)
+2025-07-12T20:03:50.770033 - INFO - ✅ Added job ID 4265282369 to Notion
+2025-07-12T20:03:52.485125 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:52.485233 - INFO - JOB: 15981 - KDB Developer - NY at Russell Tobin
+2025-07-12T20:03:52.485396 - INFO - RATING: 7.5/10
+2025-07-12T20:03:52.485499 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:03:52.485617 - INFO - TOKENS: 119 explanation | 1129 total
+2025-07-12T20:03:52.485749 - INFO - COST: $0.0017 | CUMULATIVE: $1.4094
+2025-07-12T20:03:52.485846 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:52.486071 - INFO - 🔗 Application Type: Company Site (https://russelltobin.com/job/technology/15981-kdb-...)
+2025-07-12T20:03:54.097480 - INFO - ✅ Added job ID 4239705000 to Notion
+2025-07-12T20:03:56.199679 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:56.200089 - INFO - JOB: Quality Assurance Developer, Trilogy (Remote) - $60,000/year USD at Trilogy
+2025-07-12T20:03:56.200178 - INFO - RATING: 7.5/10
+2025-07-12T20:03:56.200257 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:03:56.200331 - INFO - TOKENS: 103 explanation | 1116 total
+2025-07-12T20:03:56.200405 - INFO - COST: $0.0017 | CUMULATIVE: $1.4110
+2025-07-12T20:03:56.200479 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:56.200883 - INFO - 🔗 Application Type: Company Site (https://www.crossover.com/roles/a0sIj000001HE3NIAW...)
+2025-07-12T20:03:56.770460 - INFO - ✅ Added job ID 4263150679 to Notion
+2025-07-12T20:03:58.643474 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:58.643666 - INFO - JOB: MSR Quantitative Developer at Oceanview Life and Annuity
+2025-07-12T20:03:58.643759 - INFO - RATING: 7.5/10
+2025-07-12T20:03:58.643835 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:03:58.643908 - INFO - TOKENS: 120 explanation | 1129 total
+2025-07-12T20:03:58.644129 - INFO - COST: $0.0017 | CUMULATIVE: $1.4127
+2025-07-12T20:03:58.644364 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:03:58.644546 - INFO - 🔗 Application Type: Company Site (https://careers.bayview.com/jobs/7336/MSR+Quantita...)
+2025-07-12T20:03:59.076888 - INFO - ✅ Added job ID 4263543817 to Notion
+2025-07-12T20:04:01.041738 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:01.041833 - INFO - JOB: Collibra Technical Developer at Kforce Inc
+2025-07-12T20:04:01.041909 - INFO - RATING: 8/10
+2025-07-12T20:04:01.041982 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node...
+2025-07-12T20:04:01.042055 - INFO - TOKENS: 124 explanation | 1127 total
+2025-07-12T20:04:01.042138 - INFO - COST: $0.0017 | CUMULATIVE: $1.4144
+2025-07-12T20:04:01.042209 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:01.042341 - INFO - 🔗 Application Type: Company Site (https://www.linkedin.com...)
+2025-07-12T20:04:01.361664 - INFO - ✅ Added job ID 4207845981 to Notion
+2025-07-12T20:04:02.796371 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:02.796482 - INFO - JOB: QA Test Engineer, Trilogy (Remote) - $60,000/year USD at Trilogy
+2025-07-12T20:04:02.796581 - INFO - RATING: 7.5/10
+2025-07-12T20:04:02.796666 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:04:02.796755 - INFO - TOKENS: 108 explanation | 1121 total
+2025-07-12T20:04:02.796842 - INFO - COST: $0.0017 | CUMULATIVE: $1.4161
+2025-07-12T20:04:02.796925 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:02.797090 - INFO - 🔗 Application Type: Company Site (https://www.crossover.com/roles/a0sIj000001HEFSIA4...)
+2025-07-12T20:04:03.079340 - INFO - ✅ Added job ID 4263151633 to Notion
+2025-07-12T20:04:04.330356 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:04.330540 - INFO - JOB: C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus at Huxley
+2025-07-12T20:04:04.330637 - INFO - RATING: 7.5/10
+2025-07-12T20:04:04.330714 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:04:04.330785 - INFO - TOKENS: 94 explanation | 1114 total
+2025-07-12T20:04:04.330858 - INFO - COST: $0.0017 | CUMULATIVE: $1.4178
+2025-07-12T20:04:04.330927 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:04.331044 - INFO - 🔗 Application Type: Company Site (https://www.aplitrak.com/?adid=SlNDUC4wNjkwNC4xNTU...)
+2025-07-12T20:04:04.814553 - INFO - ✅ Added job ID 4265004710 to Notion
+2025-07-12T20:04:06.530164 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:06.530707 - INFO - JOB: System Engineer L2 (MSP) at Bowman Williams
+2025-07-12T20:04:06.530847 - INFO - RATING: 7.5/10
+2025-07-12T20:04:06.530923 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React...
+2025-07-12T20:04:06.530991 - INFO - TOKENS: 123 explanation | 1129 total
+2025-07-12T20:04:06.531054 - INFO - COST: $0.0017 | CUMULATIVE: $1.4195
+2025-07-12T20:04:06.531119 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:06.531286 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:04:06.916996 - INFO - ✅ Added job ID 4264034908 to Notion
+2025-07-12T20:04:08.297563 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:04:13.232777 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:13.232926 - INFO - JOB: Software Engineer, SRE, Payments - USDS at TikTok
+2025-07-12T20:04:13.233034 - INFO - RATING: 7.5/10
+2025-07-12T20:04:13.233101 - INFO - EXPLANATION: Candidate has a strong technical skill set that aligns with the role, including experience with Java...
+2025-07-12T20:04:13.233174 - INFO - TOKENS: 107 explanation | 2226 total
+2025-07-12T20:04:13.233234 - INFO - COST: $0.0352 | CUMULATIVE: $1.4547
+2025-07-12T20:04:13.233290 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:13.233758 - INFO - 🔗 Application Type: Company Site (https://lifeattiktok.com/search/749713919316531841...)
+2025-07-12T20:04:13.733270 - INFO - ✅ Added job ID 4262546594 to Notion
+2025-07-12T20:04:15.374727 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:15.374875 - INFO - JOB: GTM Solutions Engineer at Clay
+2025-07-12T20:04:15.374973 - INFO - RATING: 8.2/10
+2025-07-12T20:04:15.375037 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, No...
+2025-07-12T20:04:15.375096 - INFO - TOKENS: 137 explanation | 1140 total
+2025-07-12T20:04:15.375156 - INFO - COST: $0.0017 | CUMULATIVE: $1.4564
+2025-07-12T20:04:15.375213 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:15.375479 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/claylabs/9e51bf72-0102-41...)
+2025-07-12T20:04:15.823388 - INFO - ✅ Added job ID 4221614800 to Notion
+2025-07-12T20:04:18.313191 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:04:23.818564 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:23.819282 - INFO - JOB: Junior Transmission Line Design Engineer at WSP in the U.S.
+2025-07-12T20:04:23.819363 - INFO - RATING: 2/10
+2025-07-12T20:04:23.819783 - INFO - EXPLANATION: The candidate's skills and experience are primarily in software development, with a focus on web tec...
+2025-07-12T20:04:23.819891 - INFO - TOKENS: 104 explanation | 2232 total
+2025-07-12T20:04:23.820040 - INFO - COST: $0.0350 | CUMULATIVE: $1.4914
+2025-07-12T20:04:23.820099 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:23.823381 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-07-12T20:04:24.197244 - INFO - ✅ Added job ID 4194883013 to Notion
+2025-07-12T20:04:25.764651 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:25.765161 - INFO - JOB: Forward Deployed Engineer at Addepar
+2025-07-12T20:04:25.765219 - INFO - RATING: 7.5/10
+2025-07-12T20:04:25.765407 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:04:25.765812 - INFO - TOKENS: 106 explanation | 1111 total
+2025-07-12T20:04:25.766279 - INFO - COST: $0.0017 | CUMULATIVE: $1.4931
+2025-07-12T20:04:25.766456 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:25.767806 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/addepar1/jobs/776...)
+2025-07-12T20:04:26.152971 - INFO - ✅ Added job ID 4263778989 to Notion
+2025-07-12T20:04:27.372559 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:27.372880 - INFO - JOB: Site Reliability Engineer - AML Global Recommendation - USDS at TikTok
+2025-07-12T20:04:27.373021 - INFO - RATING: 7.5/10
+2025-07-12T20:04:27.373330 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, No...
+2025-07-12T20:04:27.373507 - INFO - TOKENS: 126 explanation | 1139 total
+2025-07-12T20:04:27.373610 - INFO - COST: $0.0017 | CUMULATIVE: $1.4948
+2025-07-12T20:04:27.373729 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:27.374059 - INFO - 🔗 Application Type: Company Site (https://lifeattiktok.com/search/730883444529707651...)
+2025-07-12T20:04:27.726256 - INFO - ✅ Added job ID 4262545605 to Notion
+2025-07-12T20:04:29.533964 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:04:34.589849 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:34.590091 - INFO - JOB: Site Reliability Engineer, Data Platform - USDS at TikTok
+2025-07-12T20:04:34.590150 - INFO - RATING: 6.5/10
+2025-07-12T20:04:34.590183 - INFO - EXPLANATION: Candidate has a solid technical foundation with experience in multiple programming languages and fra...
+2025-07-12T20:04:34.590213 - INFO - TOKENS: 131 explanation | 2258 total
+2025-07-12T20:04:34.590241 - INFO - COST: $0.0359 | CUMULATIVE: $1.5307
+2025-07-12T20:04:34.590270 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:34.590436 - INFO - 🔗 Application Type: Company Site (https://lifeattiktok.com/search/740118074903322859...)
+2025-07-12T20:04:34.963682 - INFO - ✅ Added job ID 4262547468 to Notion
+2025-07-12T20:04:37.095809 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:04:43.060958 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:43.061182 - INFO - JOB: MSR Quantitative Developer at Silver Hill Capital
+2025-07-12T20:04:43.061230 - INFO - RATING: 6.5/10
+2025-07-12T20:04:43.061254 - INFO - EXPLANATION: Candidate has strong technical skills in programming languages and frameworks (Java, Python, JavaScr...
+2025-07-12T20:04:43.061357 - INFO - TOKENS: 129 explanation | 2244 total
+2025-07-12T20:04:43.061865 - INFO - COST: $0.0357 | CUMULATIVE: $1.5664
+2025-07-12T20:04:43.061907 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:43.062185 - INFO - 🔗 Application Type: Company Site (https://careers.bayview.com/jobs/7336/MSR%20Quanti...)
+2025-07-12T20:04:43.431502 - INFO - ✅ Added job ID 4265503468 to Notion
+2025-07-12T20:04:45.037470 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:45.037572 - INFO - JOB: MSR Quantitative Developer at Community Loan Servicing, LLC
+2025-07-12T20:04:45.037646 - INFO - RATING: 8/10
+2025-07-12T20:04:45.037717 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a variety of programming languages, framework...
+2025-07-12T20:04:45.037816 - INFO - TOKENS: 107 explanation | 1113 total
+2025-07-12T20:04:45.037955 - INFO - COST: $0.0017 | CUMULATIVE: $1.5680
+2025-07-12T20:04:45.038035 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:45.038178 - INFO - 🔗 Application Type: Company Site (https://careers.bayview.com/jobs/7336/MSR%20Quanti...)
+2025-07-12T20:04:45.346588 - INFO - ✅ Added job ID 4265528139 to Notion
+2025-07-12T20:04:46.289298 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:46.289416 - INFO - JOB: Associate Consultant Mechanical Engineer (Mission Critical/Data Centers) at WSP in the U.S.
+2025-07-12T20:04:46.289523 - INFO - RATING: 7.5/10
+2025-07-12T20:04:46.289609 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:04:46.289694 - INFO - TOKENS: 87 explanation | 1100 total
+2025-07-12T20:04:46.289785 - INFO - COST: $0.0017 | CUMULATIVE: $1.5697
+2025-07-12T20:04:46.289868 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:46.290007 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-07-12T20:04:46.621523 - INFO - ✅ Added job ID 4265504623 to Notion
+2025-07-12T20:04:47.954681 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:47.954729 - INFO - JOB: Associate Consultant Mechanical Engineer (Mission Critical/Data Centers) at WSP in the U.S.
+2025-07-12T20:04:47.954765 - INFO - RATING: 7.5/10
+2025-07-12T20:04:47.954797 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:04:47.954835 - INFO - TOKENS: 96 explanation | 1109 total
+2025-07-12T20:04:47.954864 - INFO - COST: $0.0017 | CUMULATIVE: $1.5714
+2025-07-12T20:04:47.954891 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:47.954936 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-07-12T20:04:48.332087 - INFO - ✅ Added job ID 4265601204 to Notion
+2025-07-12T20:04:49.602784 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:49.603356 - INFO - JOB: Data Engineer, Video Platform - USDS at TikTok
+2025-07-12T20:04:49.603515 - INFO - RATING: 7.5/10
+2025-07-12T20:04:49.603607 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:04:49.603692 - INFO - TOKENS: 113 explanation | 1122 total
+2025-07-12T20:04:49.603770 - INFO - COST: $0.0017 | CUMULATIVE: $1.5730
+2025-07-12T20:04:49.603847 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:49.604219 - INFO - 🔗 Application Type: Company Site (https://lifeattiktok.com/search/743978593072886811...)
+2025-07-12T20:04:49.884946 - INFO - ✅ Added job ID 4262551002 to Notion
+2025-07-12T20:04:51.680485 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:51.680606 - INFO - JOB: Operations Specialist at DriveWealth
+2025-07-12T20:04:51.680690 - INFO - RATING: 7.5/10
+2025-07-12T20:04:51.680763 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:04:51.680835 - INFO - TOKENS: 110 explanation | 1113 total
+2025-07-12T20:04:51.681127 - INFO - COST: $0.0017 | CUMULATIVE: $1.5747
+2025-07-12T20:04:51.681225 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:51.681425 - INFO - 🔗 Application Type: Company Site (https://www.drivewealth.com/company/job?gh_jid=459...)
+2025-07-12T20:04:51.975065 - INFO - ✅ Added job ID 4264264628 to Notion
+2025-07-12T20:04:53.092626 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:53.092664 - INFO - JOB: Artificial Intelligence Solutions Consultant - User Acceptance Test Coordinator at Wells Fargo
+2025-07-12T20:04:53.092697 - INFO - RATING: 7.5/10
+2025-07-12T20:04:53.092718 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, JavaScript, Reac...
+2025-07-12T20:04:53.092740 - INFO - TOKENS: 113 explanation | 1122 total
+2025-07-12T20:04:53.092761 - INFO - COST: $0.0017 | CUMULATIVE: $1.5764
+2025-07-12T20:04:53.092795 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:53.092858 - INFO - 🔗 Application Type: Company Site (https://tnl2.jometer.com/v2/job?jz=581jn36697f28c6...)
+2025-07-12T20:04:53.445931 - INFO - ✅ Added job ID 4263775784 to Notion
+2025-07-12T20:04:55.202577 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:04:58.833031 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:58.833512 - INFO - JOB: Oracle EPM Development Analyst at HireTalent - Staffing & Recruiting Firm
+2025-07-12T20:04:58.833599 - INFO - RATING: 4.5/10
+2025-07-12T20:04:58.833671 - INFO - EXPLANATION: Candidate has strong technical skills in Java, Python, JavaScript, TypeScript, and C/C++, along with...
+2025-07-12T20:04:58.833825 - INFO - TOKENS: 108 explanation | 2244 total
+2025-07-12T20:04:58.834002 - INFO - COST: $0.0353 | CUMULATIVE: $1.6117
+2025-07-12T20:04:58.834199 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:04:58.834724 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:05:00.114503 - INFO - ✅ Added job ID 4264167255 to Notion
+2025-07-12T20:05:01.817309 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:01.817432 - INFO - JOB: Developer Advocate, Developer Productivity, DevEx at Amazon Web Services (AWS)
+2025-07-12T20:05:01.817475 - INFO - RATING: 9/10
+2025-07-12T20:05:01.817507 - INFO - EXPLANATION: Shehab Ahamed is a strong match for the Developer Advocate role at AWS. With a Bachelor's in Compute...
+2025-07-12T20:05:01.817557 - INFO - TOKENS: 115 explanation | 1125 total
+2025-07-12T20:05:01.817845 - INFO - COST: $0.0017 | CUMULATIVE: $1.6134
+2025-07-12T20:05:01.818097 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:01.818549 - INFO - 🔗 Application Type: Company Site (https://www.amazon.jobs/jobs/3029331/developer-adv...)
+2025-07-12T20:05:03.010346 - INFO - ✅ Added job ID 4264596730 to Notion
+2025-07-12T20:05:04.193344 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:04.193606 - INFO - JOB: Salesforce Developer, Communications and Corporate Responsibility (CCR) Ops & Tech at Amazon
+2025-07-12T20:05:04.193695 - INFO - RATING: 7.5/10
+2025-07-12T20:05:04.193770 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12T20:05:04.193843 - INFO - TOKENS: 111 explanation | 1123 total
+2025-07-12T20:05:04.193915 - INFO - COST: $0.0017 | CUMULATIVE: $1.6151
+2025-07-12T20:05:04.193986 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:04.194203 - INFO - 🔗 Application Type: Company Site (https://www.amazon.jobs/jobs/3008989/salesforce-de...)
+2025-07-12T20:05:04.485175 - INFO - ✅ Added job ID 4250977624 to Notion
+2025-07-12T20:05:06.600251 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:06.600383 - INFO - JOB: Quantitative Research Engineer – PhD Graduate (US) at Citadel
+2025-07-12T20:05:06.600488 - INFO - RATING: 7.5/10
+2025-07-12T20:05:06.600571 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:05:06.600652 - INFO - TOKENS: 128 explanation | 1137 total
+2025-07-12T20:05:06.600728 - INFO - COST: $0.0017 | CUMULATIVE: $1.6168
+2025-07-12T20:05:06.600799 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:06.601030 - INFO - 🔗 Application Type: Company Site (https://www.citadel.com/careers/details/quantitati...)
+2025-07-12T20:05:06.931613 - INFO - ✅ Added job ID 4261173319 to Notion
+2025-07-12T20:05:06.932406 - INFO - ⏩ Skipping cached job ID 4252714013
+2025-07-12T20:05:06.932569 - INFO - ⏩ Skipping cached job ID 4170692055
+2025-07-12T20:05:06.932686 - INFO - ⏩ Skipping cached job ID 4223258136
+2025-07-12T20:05:06.932810 - INFO - ⏩ Skipping cached job ID 4223918432
+2025-07-12T20:05:06.932924 - INFO - ⏩ Skipping cached job ID 4260764615
+2025-07-12T20:05:06.933033 - INFO - ⏩ Skipping cached job ID 4262900469
+2025-07-12T20:05:06.933145 - INFO - ⏩ Skipping cached job ID 4262166020
+2025-07-12T20:05:06.933278 - INFO - ⏩ Skipping cached job ID 4233264658
+2025-07-12T20:05:08.915395 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:08.915638 - INFO - JOB: Front End Developer at TieTalent
+2025-07-12T20:05:08.915725 - INFO - RATING: 7.5/10
+2025-07-12T20:05:08.915985 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in front-end development technologi...
+2025-07-12T20:05:08.916361 - INFO - TOKENS: 111 explanation | 1115 total
+2025-07-12T20:05:08.916556 - INFO - COST: $0.0017 | CUMULATIVE: $1.6184
+2025-07-12T20:05:08.916669 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:08.916865 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4165255/new-york-f...)
+2025-07-12T20:05:09.306595 - INFO - ✅ Added job ID 4263658700 to Notion
+2025-07-12T20:05:09.307140 - INFO - ⏩ Skipping cached job ID 4238782007
+2025-07-12T20:05:09.307271 - INFO - ⏩ Skipping cached job ID 4239102532
+2025-07-12T20:05:09.307388 - INFO - ⏩ Skipping cached job ID 4262169038
+2025-07-12T20:05:09.307500 - INFO - ⏩ Skipping cached job ID 4259878641
+2025-07-12T20:05:09.307610 - INFO - ⏩ Skipping cached job ID 4223632404
+2025-07-12T20:05:09.307720 - INFO - ⏩ Skipping cached job ID 4259831788
+2025-07-12T20:05:09.307832 - INFO - ⏩ Skipping cached job ID 4240184395
+2025-07-12T20:05:09.307972 - INFO - ⏩ Skipping cached job ID 3949597164
+2025-07-12T20:05:09.308081 - INFO - ⏩ Skipping cached job ID 4262330122
+2025-07-12T20:05:09.308188 - INFO - ⏩ Skipping cached job ID 4048172300
+2025-07-12T20:05:09.308298 - INFO - ⏩ Skipping cached job ID 4252714539
+2025-07-12T20:05:09.308412 - INFO - ⏩ Skipping cached job ID 4263604030
+2025-07-12T20:05:10.452313 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:05:16.014317 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:16.014610 - INFO - JOB: Software Engineer, Systems at TieTalent
+2025-07-12T20:05:16.014716 - INFO - RATING: 7.5/10
+2025-07-12T20:05:16.014802 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages and frameworks required for the role, incl...
+2025-07-12T20:05:16.014887 - INFO - TOKENS: 107 explanation | 2234 total
+2025-07-12T20:05:16.014973 - INFO - COST: $0.0350 | CUMULATIVE: $1.6535
+2025-07-12T20:05:16.015056 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:16.015534 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4240598/new-york-s...)
+2025-07-12T20:05:16.833701 - INFO - ✅ Added job ID 4264123622 to Notion
+2025-07-12T20:05:16.834986 - INFO - ⏩ Skipping cached job ID 4265366990
+2025-07-12T20:05:16.835096 - INFO - ⏩ Skipping cached job ID 4262850281
+2025-07-12T20:05:16.835187 - INFO - ⏩ Skipping cached job ID 4264254470
+2025-07-12T20:05:16.835273 - INFO - ⏩ Skipping cached job ID 4236438705
+2025-07-12T20:05:16.835360 - INFO - ⏩ Skipping cached job ID 4223618468
+2025-07-12T20:05:16.835445 - INFO - ⏩ Skipping cached job ID 3999826220
+2025-07-12T20:05:16.835531 - INFO - ⏩ Skipping cached job ID 4256470487
+2025-07-12T20:05:16.835617 - INFO - ⏩ Skipping cached job ID 4262542596
+2025-07-12T20:05:16.835700 - INFO - ⏩ Skipping cached job ID 4252348881
+2025-07-12T20:05:16.835783 - INFO - ⏩ Skipping cached job ID 4245390313
+2025-07-12T20:05:16.835865 - INFO - ⏩ Skipping cached job ID 4262633743
+2025-07-12T20:05:16.835949 - INFO - ⏩ Skipping cached job ID 4263747994
+2025-07-12T20:05:16.836030 - INFO - ⏩ Skipping cached job ID 4245387479
+2025-07-12T20:05:16.836112 - INFO - ⏩ Skipping cached job ID 4245387478
+2025-07-12T20:05:16.836205 - INFO - ⏩ Skipping cached job ID 4257840110
+2025-07-12T20:05:16.838181 - INFO - ⏩ Skipping cached job ID 4236435877
+2025-07-12T20:05:16.838559 - INFO - ⏩ Skipping cached job ID 4223618466
+2025-07-12T20:05:17.970147 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:17.970200 - INFO - JOB: Software Engineer at ABR Dynamic Funds, LLC
+2025-07-12T20:05:17.970237 - INFO - RATING: 8/10
+2025-07-12T20:05:17.970274 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:05:17.970306 - INFO - TOKENS: 90 explanation | 1093 total
+2025-07-12T20:05:17.970341 - INFO - COST: $0.0016 | CUMULATIVE: $1.6551
+2025-07-12T20:05:17.970374 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:17.970413 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:05:18.123445 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:19.365101 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:21.515147 - ERROR - ❌ Failed to add job ID 4262552305 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:21.515821 - INFO - ⏩ Skipping cached job ID 4198566335
+2025-07-12T20:05:23.229702 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:05:28.718754 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:28.718874 - INFO - JOB: Java Software Engineer at Umanist
+2025-07-12T20:05:28.718910 - INFO - RATING: 7.5/10
+2025-07-12T20:05:28.718932 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in Java, which is essential for the rol...
+2025-07-12T20:05:28.718952 - INFO - TOKENS: 117 explanation | 2217 total
+2025-07-12T20:05:28.718973 - INFO - COST: $0.0352 | CUMULATIVE: $1.6904
+2025-07-12T20:05:28.718993 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:28.719048 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:05:28.954328 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:30.209574 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:32.597093 - ERROR - ❌ Failed to add job ID 4265388794 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:32.597725 - INFO - ⏩ Skipping cached job ID 4223253655
+2025-07-12T20:05:32.597810 - INFO - ⏩ Skipping cached job ID 4265268326
+2025-07-12T20:05:32.597881 - INFO - ⏩ Skipping cached job ID 4256840330
+2025-07-12T20:05:32.597954 - INFO - ⏩ Skipping cached job ID 4262177346
+2025-07-12T20:05:32.598025 - INFO - ⏩ Skipping cached job ID 4143424503
+2025-07-12T20:05:32.598417 - INFO - ⏩ Skipping cached job ID 4223253647
+2025-07-12T20:05:32.598515 - INFO - ⏩ Skipping cached job ID 4204992570
+2025-07-12T20:05:32.598590 - INFO - ⏩ Skipping cached job ID 4261993925
+2025-07-12T20:05:32.598662 - INFO - ⏩ Skipping cached job ID 4264752532
+2025-07-12T20:05:32.598733 - INFO - ⏩ Skipping cached job ID 4262537919
+2025-07-12T20:05:32.598814 - INFO - ⏩ Skipping cached job ID 4256033451
+2025-07-12T20:05:32.598897 - INFO - ⏩ Skipping cached job ID 4260318280
+2025-07-12T20:05:32.598969 - INFO - ⏩ Skipping cached job ID 4263091582
+2025-07-12T20:05:32.599038 - INFO - ⏩ Skipping cached job ID 4262544635
+2025-07-12T20:05:32.599108 - INFO - ⏩ Skipping cached job ID 4263703229
+2025-07-12T20:05:32.599177 - INFO - ⏩ Skipping cached job ID 4254118966
+2025-07-12T20:05:32.599248 - INFO - ⏩ Skipping cached job ID 4190704075
+2025-07-12T20:05:32.599316 - INFO - ⏩ Skipping cached job ID 4253266664
+2025-07-12T20:05:32.599385 - INFO - ⏩ Skipping cached job ID 4250838006
+2025-07-12T20:05:32.599452 - INFO - ⏩ Skipping cached job ID 4264881241
+2025-07-12T20:05:32.599521 - INFO - ⏩ Skipping cached job ID 4264686876
+2025-07-12T20:05:32.599590 - INFO - ⏩ Skipping cached job ID 4265037414
+2025-07-12T20:05:32.599659 - INFO - ⏩ Skipping cached job ID 4264205579
+2025-07-12T20:05:32.599727 - INFO - ⏩ Skipping cached job ID 4262194299
+2025-07-12T20:05:32.599796 - INFO - ⏩ Skipping cached job ID 4261165006
+2025-07-12T20:05:32.599874 - INFO - ⏩ Skipping cached job ID 4262330307
+2025-07-12T20:05:33.757479 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:33.762769 - INFO - JOB: AI Agents Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:05:33.765068 - INFO - RATING: 7.5/10
+2025-07-12T20:05:33.765483 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with proficiency in a variety of programming language...
+2025-07-12T20:05:33.765815 - INFO - TOKENS: 106 explanation | 1110 total
+2025-07-12T20:05:33.765914 - INFO - COST: $0.0017 | CUMULATIVE: $1.6920
+2025-07-12T20:05:33.765946 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:33.768795 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:05:33.898736 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:35.036251 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:37.565096 - ERROR - ❌ Failed to add job ID 4262326260 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:37.565902 - INFO - ⏩ Skipping cached job ID 4224221373
+2025-07-12T20:05:37.566008 - INFO - ⏩ Skipping cached job ID 4265055912
+2025-07-12T20:05:37.566107 - INFO - ⏩ Skipping cached job ID 4239554312
+2025-07-12T20:05:38.875991 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12T20:05:42.016473 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:42.016730 - INFO - JOB: Gen AI Engineer - Marquee - Associate - NYC - GBM Public at TieTalent
+2025-07-12T20:05:42.016819 - INFO - RATING: 7.5/10
+2025-07-12T20:05:42.016894 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in multiple programming languages and f...
+2025-07-12T20:05:42.016966 - INFO - TOKENS: 105 explanation | 2244 total
+2025-07-12T20:05:42.017043 - INFO - COST: $0.0353 | CUMULATIVE: $1.7273
+2025-07-12T20:05:42.017115 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:42.017308 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4200337/new-york-g...)
+2025-07-12T20:05:45.090405 - INFO - ✅ Added job ID 4263664016 to Notion
+2025-07-12T20:05:46.427819 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:46.428000 - INFO - JOB: Software Engineer, Photos, Android at TieTalent
+2025-07-12T20:05:46.428170 - INFO - RATING: 7.5/10
+2025-07-12T20:05:46.428318 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:05:46.428481 - INFO - TOKENS: 116 explanation | 1123 total
+2025-07-12T20:05:46.428634 - INFO - COST: $0.0017 | CUMULATIVE: $1.7290
+2025-07-12T20:05:46.429911 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:46.430126 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4246219/new-york-s...)
+2025-07-12T20:05:49.118116 - INFO - ✅ Added job ID 4264122265 to Notion
+2025-07-12T20:05:49.118770 - INFO - ⏩ Skipping cached job ID 4253543876
+2025-07-12T20:05:49.118886 - INFO - ⏩ Skipping cached job ID 4198817587
+2025-07-12T20:05:49.119004 - INFO - ⏩ Skipping cached job ID 4086259577
+2025-07-12T20:05:49.119115 - INFO - ⏩ Skipping cached job ID 4262175120
+2025-07-12T20:05:49.119243 - INFO - ⏩ Skipping cached job ID 4264034908
+2025-07-12T20:05:49.119355 - INFO - ⏩ Skipping cached job ID 4264533391
+2025-07-12T20:05:49.119442 - INFO - ⏩ Skipping cached job ID 4265129437
+2025-07-12T20:05:49.119525 - INFO - ⏩ Skipping cached job ID 4264734725
+2025-07-12T20:05:51.465780 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:51.465896 - INFO - JOB: Forward Deployed Engineer at Stealth AI Enterprise Startup
+2025-07-12T20:05:51.465994 - INFO - RATING: 7.5/10
+2025-07-12T20:05:51.466077 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and f...
+2025-07-12T20:05:51.466159 - INFO - TOKENS: 109 explanation | 1114 total
+2025-07-12T20:05:51.466320 - INFO - COST: $0.0017 | CUMULATIVE: $1.7307
+2025-07-12T20:05:51.466429 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:51.466907 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12T20:05:51.950075 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:53.504466 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:55.656913 - ERROR - ❌ Failed to add job ID 4262323437 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12T20:05:55.657782 - INFO - ⏩ Skipping cached job ID 4240197236
+2025-07-12T20:05:55.657955 - INFO - ⏩ Skipping cached job ID 4265200514
+2025-07-12T20:05:55.658107 - INFO - ⏩ Skipping cached job ID 4224377160
+2025-07-12T20:05:55.658192 - INFO - ⏩ Skipping cached job ID 4223325629
+2025-07-12T20:05:55.658620 - INFO - ⏩ Skipping cached job ID 4263421610
+2025-07-12T20:05:55.658704 - INFO - ⏩ Skipping cached job ID 4264732281
+2025-07-12T20:05:55.658785 - INFO - ⏩ Skipping cached job ID 4262582524
+2025-07-12T20:05:55.658863 - INFO - ⏩ Skipping cached job ID 4265182118
+2025-07-12T20:05:55.658935 - INFO - ⏩ Skipping cached job ID 4265158180
+2025-07-12T20:05:55.659007 - INFO - ⏩ Skipping cached job ID 4264733883
+2025-07-12T20:05:55.659076 - INFO - ⏩ Skipping cached job ID 4201154071
+2025-07-12T20:05:55.659145 - INFO - ⏩ Skipping cached job ID 4250593138
+2025-07-12T20:05:55.659216 - INFO - ⏩ Skipping cached job ID 3928090365
+2025-07-12T20:05:55.659629 - INFO - ⏩ Skipping cached job ID 4265254018
+2025-07-12T20:05:55.659832 - INFO - ⏩ Skipping cached job ID 4262546882
+2025-07-12T20:05:55.659932 - INFO - ⏩ Skipping cached job ID 4264749156
+2025-07-12T20:05:55.660009 - INFO - ⏩ Skipping cached job ID 4264740384
+2025-07-12T20:05:55.660084 - INFO - ⏩ Skipping cached job ID 4263006534
+2025-07-12T20:05:55.660153 - INFO - ⏩ Skipping cached job ID 4262546594
+2025-07-12T20:05:55.660222 - INFO - ⏩ Skipping cached job ID 4265004710
+2025-07-12T20:05:55.660297 - INFO - ⏩ Skipping cached job ID 4207845981
+2025-07-12T20:05:55.660366 - INFO - ⏩ Skipping cached job ID 4265220392
+2025-07-12T20:05:55.660433 - INFO - ⏩ Skipping cached job ID 4239705000
+2025-07-12T20:05:55.660500 - INFO - ⏩ Skipping cached job ID 4248480796
+2025-07-12T20:05:57.190609 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:57.190646 - INFO - JOB: Software Engineer, Native macOS Development at TieTalent
+2025-07-12T20:05:57.190677 - INFO - RATING: 7.5/10
+2025-07-12T20:05:57.190698 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:05:57.190718 - INFO - TOKENS: 109 explanation | 1116 total
+2025-07-12T20:05:57.190740 - INFO - COST: $0.0017 | CUMULATIVE: $1.7323
+2025-07-12T20:05:57.190762 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:57.190843 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4206368/new-york-s...)
+2025-07-12T20:05:57.593369 - INFO - ✅ Added job ID 4263662155 to Notion
+2025-07-12T20:05:57.599731 - INFO - ⏩ Skipping cached job ID 4263088227
+2025-07-12T20:05:57.601948 - INFO - ⏩ Skipping cached job ID 4264263756
+2025-07-12T20:05:57.604179 - INFO - ⏩ Skipping cached job ID 4263778989
+2025-07-12T20:05:57.606396 - INFO - ⏩ Skipping cached job ID 4221614800
+2025-07-12T20:05:59.186402 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:59.187420 - INFO - JOB: Security Engineer II - AMZ9160473 at TieTalent
+2025-07-12T20:05:59.187529 - INFO - RATING: 7.5/10
+2025-07-12T20:05:59.187603 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in Java, Python, JavaScript, React ...
+2025-07-12T20:05:59.191639 - INFO - TOKENS: 130 explanation | 1140 total
+2025-07-12T20:05:59.191717 - INFO - COST: $0.0017 | CUMULATIVE: $1.7341
+2025-07-12T20:05:59.191746 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:05:59.192301 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4243459/new-york-s...)
+2025-07-12T20:05:59.516339 - INFO - ✅ Added job ID 4264123300 to Notion
+2025-07-12T20:05:59.518843 - INFO - ⏩ Skipping cached job ID 4194883013
+2025-07-12T20:05:59.519042 - INFO - ⏩ Skipping cached job ID 4264167255
+2025-07-12T20:05:59.519173 - INFO - ⏩ Skipping cached job ID 4263150679
+2025-07-12T20:05:59.519402 - INFO - ⏩ Skipping cached job ID 4252065427
+2025-07-12T20:06:00.865559 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:06:00.865674 - INFO - JOB: Deployment Strategist - US Government at TieTalent
+2025-07-12T20:06:00.865771 - INFO - RATING: 7.5/10
+2025-07-12T20:06:00.865856 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12T20:06:00.865940 - INFO - TOKENS: 105 explanation | 1112 total
+2025-07-12T20:06:00.866026 - INFO - COST: $0.0017 | CUMULATIVE: $1.7357
+2025-07-12T20:06:00.866176 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:06:00.866350 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4222376/new-york-d...)
+2025-07-12T20:06:02.571010 - INFO - ✅ Added job ID 4263655780 to Notion
+2025-07-12T20:06:02.571799 - INFO - ⏩ Skipping cached job ID 4262974530
+2025-07-12T20:06:02.571923 - INFO - ⏩ Skipping cached job ID 4263151633
+2025-07-12T20:06:02.572038 - INFO - ⏩ Skipping cached job ID 4262547468
+2025-07-12T20:06:04.548772 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:06:04.548916 - INFO - JOB: Research Scientist II - AMZ26510.1 at TieTalent
+2025-07-12T20:06:04.548993 - INFO - RATING: 8/10
+2025-07-12T20:06:04.549063 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the Research Scientist II role at TieTalent. With a Ba...
+2025-07-12T20:06:04.549133 - INFO - TOKENS: 128 explanation | 1140 total
+2025-07-12T20:06:04.549209 - INFO - COST: $0.0017 | CUMULATIVE: $1.7374
+2025-07-12T20:06:04.549278 - INFO - ══════════════════════════════════════════════════
+2025-07-12T20:06:04.549379 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4242941/new-york-r...)
+2025-07-12T20:06:04.857863 - INFO - ✅ Added job ID 4264122407 to Notion
+2025-07-12T20:06:04.858242 - INFO - ⏩ Skipping cached job ID 4262551002
+2025-07-12T20:06:04.858318 - INFO - ⏩ Skipping cached job ID 4263775784
+2025-07-12T20:06:04.858393 - INFO - ⏩ Skipping cached job ID 4261173319
+2025-07-12T20:06:04.858466 - INFO - ⏩ Skipping cached job ID 4250977624
+2025-07-12T20:06:04.858539 - INFO - ⏩ Skipping cached job ID 4264264628
+2025-07-12T20:06:04.858622 - INFO - ⏩ Skipping cached job ID 4264596730
+2025-07-12T20:06:04.865908 - INFO - ============================================================
+2025-07-12T20:06:04.866346 - INFO - 📊 FINAL SUMMARY
+2025-07-12T20:06:04.866433 - INFO - ============================================================
+2025-07-12T20:06:04.866512 - INFO - ✅ Jobs Processed: 143
+2025-07-12T20:06:04.866585 - INFO - ⏩ Skipped (Cached): 116
+2025-07-12T20:06:04.866659 - INFO - ❌ Failed: 10
+2025-07-12T20:06:04.866744 - INFO - 🤖 GPT-4 Calls: 44
+2025-07-12T20:06:04.866825 - INFO - 🎯 Total Tokens: 220,827
+2025-07-12T20:06:04.866900 - INFO - 💰 Total Cost: $1.74
+2025-07-12T20:06:04.866961 - INFO - ============================================================
+811...)
+2025-07-12 20:04:49,879 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:04:49,884 - INFO - ✅ Added job ID 4262551002 to Notion
+2025-07-12 20:04:51,675 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:04:51,680 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:04:51,680 - INFO - JOB: Operations Specialist at DriveWealth
+2025-07-12 20:04:51,680 - INFO - RATING: 7.5/10
+2025-07-12 20:04:51,680 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12 20:04:51,680 - INFO - TOKENS: 110 explanation | 1113 total
+2025-07-12 20:04:51,680 - INFO - COST: $0.0017 | CUMULATIVE: $1.5747
+2025-07-12 20:04:51,681 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:04:51,681 - INFO - 🔗 Application Type: Company Site (https://www.drivewealth.com/company/job?gh_jid=459...)
+2025-07-12 20:04:51,973 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:04:51,974 - INFO - ✅ Added job ID 4264264628 to Notion
+2025-07-12 20:04:53,091 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:04:53,092 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:04:53,092 - INFO - JOB: Artificial Intelligence Solutions Consultant - User Acceptance Test Coordinator at Wells Fargo
+2025-07-12 20:04:53,092 - INFO - RATING: 7.5/10
+2025-07-12 20:04:53,092 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, JavaScript, Reac...
+2025-07-12 20:04:53,092 - INFO - TOKENS: 113 explanation | 1122 total
+2025-07-12 20:04:53,092 - INFO - COST: $0.0017 | CUMULATIVE: $1.5764
+2025-07-12 20:04:53,092 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:04:53,092 - INFO - 🔗 Application Type: Company Site (https://tnl2.jometer.com/v2/job?jz=581jn36697f28c6...)
+2025-07-12 20:04:53,444 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:04:53,445 - INFO - ✅ Added job ID 4263775784 to Notion
+2025-07-12 20:04:55,199 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:04:55,202 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12 20:04:58,829 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:04:58,832 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:04:58,833 - INFO - JOB: Oracle EPM Development Analyst at HireTalent - Staffing & Recruiting Firm
+2025-07-12 20:04:58,833 - INFO - RATING: 4.5/10
+2025-07-12 20:04:58,833 - INFO - EXPLANATION: Candidate has strong technical skills in Java, Python, JavaScript, TypeScript, and C/C++, along with...
+2025-07-12 20:04:58,833 - INFO - TOKENS: 108 explanation | 2244 total
+2025-07-12 20:04:58,833 - INFO - COST: $0.0353 | CUMULATIVE: $1.6117
+2025-07-12 20:04:58,834 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:04:58,834 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12 20:05:00,110 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:00,114 - INFO - ✅ Added job ID 4264167255 to Notion
+2025-07-12 20:05:01,810 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:01,817 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:01,817 - INFO - JOB: Developer Advocate, Developer Productivity, DevEx at Amazon Web Services (AWS)
+2025-07-12 20:05:01,817 - INFO - RATING: 9/10
+2025-07-12 20:05:01,817 - INFO - EXPLANATION: Shehab Ahamed is a strong match for the Developer Advocate role at AWS. With a Bachelor's in Compute...
+2025-07-12 20:05:01,817 - INFO - TOKENS: 115 explanation | 1125 total
+2025-07-12 20:05:01,817 - INFO - COST: $0.0017 | CUMULATIVE: $1.6134
+2025-07-12 20:05:01,817 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:01,818 - INFO - 🔗 Application Type: Company Site (https://www.amazon.jobs/jobs/3029331/developer-adv...)
+2025-07-12 20:05:03,009 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:03,010 - INFO - ✅ Added job ID 4264596730 to Notion
+2025-07-12 20:05:04,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:04,193 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:04,193 - INFO - JOB: Salesforce Developer, Communications and Corporate Responsibility (CCR) Ops & Tech at Amazon
+2025-07-12 20:05:04,193 - INFO - RATING: 7.5/10
+2025-07-12 20:05:04,193 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages...
+2025-07-12 20:05:04,193 - INFO - TOKENS: 111 explanation | 1123 total
+2025-07-12 20:05:04,193 - INFO - COST: $0.0017 | CUMULATIVE: $1.6151
+2025-07-12 20:05:04,193 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:04,194 - INFO - 🔗 Application Type: Company Site (https://www.amazon.jobs/jobs/3008989/salesforce-de...)
+2025-07-12 20:05:04,484 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:04,485 - INFO - ✅ Added job ID 4250977624 to Notion
+2025-07-12 20:05:06,593 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:06,599 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:06,600 - INFO - JOB: Quantitative Research Engineer – PhD Graduate (US) at Citadel
+2025-07-12 20:05:06,600 - INFO - RATING: 7.5/10
+2025-07-12 20:05:06,600 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12 20:05:06,600 - INFO - TOKENS: 128 explanation | 1137 total
+2025-07-12 20:05:06,600 - INFO - COST: $0.0017 | CUMULATIVE: $1.6168
+2025-07-12 20:05:06,600 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:06,600 - INFO - 🔗 Application Type: Company Site (https://www.citadel.com/careers/details/quantitati...)
+2025-07-12 20:05:06,929 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:06,931 - INFO - ✅ Added job ID 4261173319 to Notion
+2025-07-12 20:05:06,932 - INFO - ⏩ Skipping cached job ID 4252714013
+2025-07-12 20:05:06,932 - INFO - ⏩ Skipping cached job ID 4170692055
+2025-07-12 20:05:06,932 - INFO - ⏩ Skipping cached job ID 4223258136
+2025-07-12 20:05:06,932 - INFO - ⏩ Skipping cached job ID 4223918432
+2025-07-12 20:05:06,932 - INFO - ⏩ Skipping cached job ID 4260764615
+2025-07-12 20:05:06,932 - INFO - ⏩ Skipping cached job ID 4262900469
+2025-07-12 20:05:06,933 - INFO - ⏩ Skipping cached job ID 4262166020
+2025-07-12 20:05:06,933 - INFO - ⏩ Skipping cached job ID 4233264658
+2025-07-12 20:05:08,906 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:08,914 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:08,915 - INFO - JOB: Front End Developer at TieTalent
+2025-07-12 20:05:08,915 - INFO - RATING: 7.5/10
+2025-07-12 20:05:08,915 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in front-end development technologi...
+2025-07-12 20:05:08,916 - INFO - TOKENS: 111 explanation | 1115 total
+2025-07-12 20:05:08,916 - INFO - COST: $0.0017 | CUMULATIVE: $1.6184
+2025-07-12 20:05:08,916 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:08,916 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4165255/new-york-f...)
+2025-07-12 20:05:09,304 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:09,306 - INFO - ✅ Added job ID 4263658700 to Notion
+2025-07-12 20:05:09,307 - INFO - ⏩ Skipping cached job ID 4238782007
+2025-07-12 20:05:09,307 - INFO - ⏩ Skipping cached job ID 4239102532
+2025-07-12 20:05:09,307 - INFO - ⏩ Skipping cached job ID 4262169038
+2025-07-12 20:05:09,307 - INFO - ⏩ Skipping cached job ID 4259878641
+2025-07-12 20:05:09,307 - INFO - ⏩ Skipping cached job ID 4223632404
+2025-07-12 20:05:09,307 - INFO - ⏩ Skipping cached job ID 4259831788
+2025-07-12 20:05:09,307 - INFO - ⏩ Skipping cached job ID 4240184395
+2025-07-12 20:05:09,307 - INFO - ⏩ Skipping cached job ID 3949597164
+2025-07-12 20:05:09,308 - INFO - ⏩ Skipping cached job ID 4262330122
+2025-07-12 20:05:09,308 - INFO - ⏩ Skipping cached job ID 4048172300
+2025-07-12 20:05:09,308 - INFO - ⏩ Skipping cached job ID 4252714539
+2025-07-12 20:05:09,308 - INFO - ⏩ Skipping cached job ID 4263604030
+2025-07-12 20:05:10,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:10,452 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12 20:05:16,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:16,014 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:16,014 - INFO - JOB: Software Engineer, Systems at TieTalent
+2025-07-12 20:05:16,014 - INFO - RATING: 7.5/10
+2025-07-12 20:05:16,014 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages and frameworks required for the role, incl...
+2025-07-12 20:05:16,014 - INFO - TOKENS: 107 explanation | 2234 total
+2025-07-12 20:05:16,014 - INFO - COST: $0.0350 | CUMULATIVE: $1.6535
+2025-07-12 20:05:16,014 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:16,015 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4240598/new-york-s...)
+2025-07-12 20:05:16,828 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:16,833 - INFO - ✅ Added job ID 4264123622 to Notion
+2025-07-12 20:05:16,834 - INFO - ⏩ Skipping cached job ID 4265366990
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4262850281
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4264254470
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4236438705
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4223618468
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 3999826220
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4256470487
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4262542596
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4252348881
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4245390313
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4262633743
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4263747994
+2025-07-12 20:05:16,835 - INFO - ⏩ Skipping cached job ID 4245387479
+2025-07-12 20:05:16,836 - INFO - ⏩ Skipping cached job ID 4245387478
+2025-07-12 20:05:16,836 - INFO - ⏩ Skipping cached job ID 4257840110
+2025-07-12 20:05:16,836 - INFO - ⏩ Skipping cached job ID 4236435877
+2025-07-12 20:05:16,838 - INFO - ⏩ Skipping cached job ID 4223618466
+2025-07-12 20:05:17,968 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:17,970 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:17,970 - INFO - JOB: Software Engineer at ABR Dynamic Funds, LLC
+2025-07-12 20:05:17,970 - INFO - RATING: 8/10
+2025-07-12 20:05:17,970 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12 20:05:17,970 - INFO - TOKENS: 90 explanation | 1093 total
+2025-07-12 20:05:17,970 - INFO - COST: $0.0016 | CUMULATIVE: $1.6551
+2025-07-12 20:05:17,970 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:17,970 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12 20:05:18,122 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:18,123 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:19,356 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:19,362 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:21,514 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:21,515 - ERROR - ❌ Failed to add job ID 4262552305 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:21,515 - INFO - ⏩ Skipping cached job ID 4198566335
+2025-07-12 20:05:23,218 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:23,229 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12 20:05:28,710 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:28,718 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:28,718 - INFO - JOB: Java Software Engineer at Umanist
+2025-07-12 20:05:28,718 - INFO - RATING: 7.5/10
+2025-07-12 20:05:28,718 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in Java, which is essential for the rol...
+2025-07-12 20:05:28,718 - INFO - TOKENS: 117 explanation | 2217 total
+2025-07-12 20:05:28,718 - INFO - COST: $0.0352 | CUMULATIVE: $1.6904
+2025-07-12 20:05:28,718 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:28,719 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12 20:05:28,953 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:28,954 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:30,208 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:30,209 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:32,595 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:32,596 - ERROR - ❌ Failed to add job ID 4265388794 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:32,597 - INFO - ⏩ Skipping cached job ID 4223253655
+2025-07-12 20:05:32,597 - INFO - ⏩ Skipping cached job ID 4265268326
+2025-07-12 20:05:32,597 - INFO - ⏩ Skipping cached job ID 4256840330
+2025-07-12 20:05:32,597 - INFO - ⏩ Skipping cached job ID 4262177346
+2025-07-12 20:05:32,597 - INFO - ⏩ Skipping cached job ID 4143424503
+2025-07-12 20:05:32,598 - INFO - ⏩ Skipping cached job ID 4223253647
+2025-07-12 20:05:32,598 - INFO - ⏩ Skipping cached job ID 4204992570
+2025-07-12 20:05:32,598 - INFO - ⏩ Skipping cached job ID 4261993925
+2025-07-12 20:05:32,598 - INFO - ⏩ Skipping cached job ID 4264752532
+2025-07-12 20:05:32,598 - INFO - ⏩ Skipping cached job ID 4262537919
+2025-07-12 20:05:32,598 - INFO - ⏩ Skipping cached job ID 4256033451
+2025-07-12 20:05:32,598 - INFO - ⏩ Skipping cached job ID 4260318280
+2025-07-12 20:05:32,598 - INFO - ⏩ Skipping cached job ID 4263091582
+2025-07-12 20:05:32,598 - INFO - ⏩ Skipping cached job ID 4262544635
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4263703229
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4254118966
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4190704075
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4253266664
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4250838006
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4264881241
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4264686876
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4265037414
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4264205579
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4262194299
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4261165006
+2025-07-12 20:05:32,599 - INFO - ⏩ Skipping cached job ID 4262330307
+2025-07-12 20:05:33,743 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:33,755 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:33,762 - INFO - JOB: AI Agents Engineer at Stealth AI Enterprise Startup
+2025-07-12 20:05:33,764 - INFO - RATING: 7.5/10
+2025-07-12 20:05:33,765 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skill set with proficiency in a variety of programming language...
+2025-07-12 20:05:33,765 - INFO - TOKENS: 106 explanation | 1110 total
+2025-07-12 20:05:33,765 - INFO - COST: $0.0017 | CUMULATIVE: $1.6920
+2025-07-12 20:05:33,765 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:33,768 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12 20:05:33,897 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:33,898 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:35,035 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:35,036 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:37,562 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:37,564 - ERROR - ❌ Failed to add job ID 4262326260 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:37,565 - INFO - ⏩ Skipping cached job ID 4224221373
+2025-07-12 20:05:37,565 - INFO - ⏩ Skipping cached job ID 4265055912
+2025-07-12 20:05:37,566 - INFO - ⏩ Skipping cached job ID 4239554312
+2025-07-12 20:05:38,872 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:38,875 - INFO - 🔁 Using GPT-4 for higher quality evaluation
+2025-07-12 20:05:42,013 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:42,016 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:42,016 - INFO - JOB: Gen AI Engineer - Marquee - Associate - NYC - GBM Public at TieTalent
+2025-07-12 20:05:42,016 - INFO - RATING: 7.5/10
+2025-07-12 20:05:42,016 - INFO - EXPLANATION: Candidate has a strong technical background with proficiency in multiple programming languages and f...
+2025-07-12 20:05:42,016 - INFO - TOKENS: 105 explanation | 2244 total
+2025-07-12 20:05:42,016 - INFO - COST: $0.0353 | CUMULATIVE: $1.7273
+2025-07-12 20:05:42,017 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:42,017 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4200337/new-york-g...)
+2025-07-12 20:05:45,087 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:45,090 - INFO - ✅ Added job ID 4263664016 to Notion
+2025-07-12 20:05:46,423 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:46,427 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:46,427 - INFO - JOB: Software Engineer, Photos, Android at TieTalent
+2025-07-12 20:05:46,428 - INFO - RATING: 7.5/10
+2025-07-12 20:05:46,428 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12 20:05:46,428 - INFO - TOKENS: 116 explanation | 1123 total
+2025-07-12 20:05:46,428 - INFO - COST: $0.0017 | CUMULATIVE: $1.7290
+2025-07-12 20:05:46,429 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:46,430 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4246219/new-york-s...)
+2025-07-12 20:05:49,114 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:49,117 - INFO - ✅ Added job ID 4264122265 to Notion
+2025-07-12 20:05:49,118 - INFO - ⏩ Skipping cached job ID 4253543876
+2025-07-12 20:05:49,118 - INFO - ⏩ Skipping cached job ID 4198817587
+2025-07-12 20:05:49,118 - INFO - ⏩ Skipping cached job ID 4086259577
+2025-07-12 20:05:49,119 - INFO - ⏩ Skipping cached job ID 4262175120
+2025-07-12 20:05:49,119 - INFO - ⏩ Skipping cached job ID 4264034908
+2025-07-12 20:05:49,119 - INFO - ⏩ Skipping cached job ID 4264533391
+2025-07-12 20:05:49,119 - INFO - ⏩ Skipping cached job ID 4265129437
+2025-07-12 20:05:49,119 - INFO - ⏩ Skipping cached job ID 4264734725
+2025-07-12 20:05:51,459 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:51,465 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:51,465 - INFO - JOB: Forward Deployed Engineer at Stealth AI Enterprise Startup
+2025-07-12 20:05:51,465 - INFO - RATING: 7.5/10
+2025-07-12 20:05:51,466 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and f...
+2025-07-12 20:05:51,466 - INFO - TOKENS: 109 explanation | 1114 total
+2025-07-12 20:05:51,466 - INFO - COST: $0.0017 | CUMULATIVE: $1.7307
+2025-07-12 20:05:51,466 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:51,466 - INFO - 🔗 Application Type: Unknown (...)
+2025-07-12 20:05:51,948 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:51,949 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:53,503 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:53,504 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:55,653 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-07-12 20:05:55,656 - ERROR - ❌ Failed to add job ID 4262323437 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-07-12 20:05:55,657 - INFO - ⏩ Skipping cached job ID 4240197236
+2025-07-12 20:05:55,657 - INFO - ⏩ Skipping cached job ID 4265200514
+2025-07-12 20:05:55,658 - INFO - ⏩ Skipping cached job ID 4224377160
+2025-07-12 20:05:55,658 - INFO - ⏩ Skipping cached job ID 4223325629
+2025-07-12 20:05:55,658 - INFO - ⏩ Skipping cached job ID 4263421610
+2025-07-12 20:05:55,658 - INFO - ⏩ Skipping cached job ID 4264732281
+2025-07-12 20:05:55,658 - INFO - ⏩ Skipping cached job ID 4262582524
+2025-07-12 20:05:55,658 - INFO - ⏩ Skipping cached job ID 4265182118
+2025-07-12 20:05:55,658 - INFO - ⏩ Skipping cached job ID 4265158180
+2025-07-12 20:05:55,658 - INFO - ⏩ Skipping cached job ID 4264733883
+2025-07-12 20:05:55,659 - INFO - ⏩ Skipping cached job ID 4201154071
+2025-07-12 20:05:55,659 - INFO - ⏩ Skipping cached job ID 4250593138
+2025-07-12 20:05:55,659 - INFO - ⏩ Skipping cached job ID 3928090365
+2025-07-12 20:05:55,659 - INFO - ⏩ Skipping cached job ID 4265254018
+2025-07-12 20:05:55,659 - INFO - ⏩ Skipping cached job ID 4262546882
+2025-07-12 20:05:55,659 - INFO - ⏩ Skipping cached job ID 4264749156
+2025-07-12 20:05:55,659 - INFO - ⏩ Skipping cached job ID 4264740384
+2025-07-12 20:05:55,660 - INFO - ⏩ Skipping cached job ID 4263006534
+2025-07-12 20:05:55,660 - INFO - ⏩ Skipping cached job ID 4262546594
+2025-07-12 20:05:55,660 - INFO - ⏩ Skipping cached job ID 4265004710
+2025-07-12 20:05:55,660 - INFO - ⏩ Skipping cached job ID 4207845981
+2025-07-12 20:05:55,660 - INFO - ⏩ Skipping cached job ID 4265220392
+2025-07-12 20:05:55,660 - INFO - ⏩ Skipping cached job ID 4239705000
+2025-07-12 20:05:55,660 - INFO - ⏩ Skipping cached job ID 4248480796
+2025-07-12 20:05:57,188 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:57,190 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:57,190 - INFO - JOB: Software Engineer, Native macOS Development at TieTalent
+2025-07-12 20:05:57,190 - INFO - RATING: 7.5/10
+2025-07-12 20:05:57,190 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12 20:05:57,190 - INFO - TOKENS: 109 explanation | 1116 total
+2025-07-12 20:05:57,190 - INFO - COST: $0.0017 | CUMULATIVE: $1.7323
+2025-07-12 20:05:57,190 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:57,190 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4206368/new-york-s...)
+2025-07-12 20:05:57,590 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:57,593 - INFO - ✅ Added job ID 4263662155 to Notion
+2025-07-12 20:05:57,599 - INFO - ⏩ Skipping cached job ID 4263088227
+2025-07-12 20:05:57,601 - INFO - ⏩ Skipping cached job ID 4264263756
+2025-07-12 20:05:57,604 - INFO - ⏩ Skipping cached job ID 4263778989
+2025-07-12 20:05:57,606 - INFO - ⏩ Skipping cached job ID 4221614800
+2025-07-12 20:05:59,162 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:05:59,186 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:59,187 - INFO - JOB: Security Engineer II - AMZ9160473 at TieTalent
+2025-07-12 20:05:59,187 - INFO - RATING: 7.5/10
+2025-07-12 20:05:59,187 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with expertise in Java, Python, JavaScript, React ...
+2025-07-12 20:05:59,188 - INFO - TOKENS: 130 explanation | 1140 total
+2025-07-12 20:05:59,191 - INFO - COST: $0.0017 | CUMULATIVE: $1.7341
+2025-07-12 20:05:59,191 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:05:59,192 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4243459/new-york-s...)
+2025-07-12 20:05:59,513 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:05:59,516 - INFO - ✅ Added job ID 4264123300 to Notion
+2025-07-12 20:05:59,518 - INFO - ⏩ Skipping cached job ID 4194883013
+2025-07-12 20:05:59,518 - INFO - ⏩ Skipping cached job ID 4264167255
+2025-07-12 20:05:59,519 - INFO - ⏩ Skipping cached job ID 4263150679
+2025-07-12 20:05:59,519 - INFO - ⏩ Skipping cached job ID 4252065427
+2025-07-12 20:06:00,860 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:06:00,865 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:06:00,865 - INFO - JOB: Deployment Strategist - US Government at TieTalent
+2025-07-12 20:06:00,865 - INFO - RATING: 7.5/10
+2025-07-12 20:06:00,865 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with a diverse programming language and framework ...
+2025-07-12 20:06:00,865 - INFO - TOKENS: 105 explanation | 1112 total
+2025-07-12 20:06:00,865 - INFO - COST: $0.0017 | CUMULATIVE: $1.7357
+2025-07-12 20:06:00,866 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:06:00,866 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4222376/new-york-d...)
+2025-07-12 20:06:02,568 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:06:02,570 - INFO - ✅ Added job ID 4263655780 to Notion
+2025-07-12 20:06:02,571 - INFO - ⏩ Skipping cached job ID 4262974530
+2025-07-12 20:06:02,571 - INFO - ⏩ Skipping cached job ID 4263151633
+2025-07-12 20:06:02,571 - INFO - ⏩ Skipping cached job ID 4262547468
+2025-07-12 20:06:04,546 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-12 20:06:04,548 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:06:04,548 - INFO - JOB: Research Scientist II - AMZ26510.1 at TieTalent
+2025-07-12 20:06:04,548 - INFO - RATING: 8/10
+2025-07-12 20:06:04,549 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong match for the Research Scientist II role at TieTalent. With a Ba...
+2025-07-12 20:06:04,549 - INFO - TOKENS: 128 explanation | 1140 total
+2025-07-12 20:06:04,549 - INFO - COST: $0.0017 | CUMULATIVE: $1.7374
+2025-07-12 20:06:04,549 - INFO - ══════════════════════════════════════════════════
+2025-07-12 20:06:04,549 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-4242941/new-york-r...)
+2025-07-12 20:06:04,855 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-07-12 20:06:04,857 - INFO - ✅ Added job ID 4264122407 to Notion
+2025-07-12 20:06:04,858 - INFO - ⏩ Skipping cached job ID 4262551002
+2025-07-12 20:06:04,858 - INFO - ⏩ Skipping cached job ID 4263775784
+2025-07-12 20:06:04,858 - INFO - ⏩ Skipping cached job ID 4261173319
+2025-07-12 20:06:04,858 - INFO - ⏩ Skipping cached job ID 4250977624
+2025-07-12 20:06:04,858 - INFO - ⏩ Skipping cached job ID 4264264628
+2025-07-12 20:06:04,858 - INFO - ⏩ Skipping cached job ID 4264596730
+2025-07-12 20:06:04,865 - INFO - ============================================================
+2025-07-12 20:06:04,866 - INFO - 📊 FINAL SUMMARY
+2025-07-12 20:06:04,866 - INFO - ============================================================
+2025-07-12 20:06:04,866 - INFO - ✅ Jobs Processed: 143
+2025-07-12 20:06:04,866 - INFO - ⏩ Skipped (Cached): 116
+2025-07-12 20:06:04,866 - INFO - ❌ Failed: 10
+2025-07-12 20:06:04,866 - INFO - 🤖 GPT-4 Calls: 44
+2025-07-12 20:06:04,866 - INFO - 🎯 Total Tokens: 220,827
+2025-07-12 20:06:04,866 - INFO - 💰 Total Cost: $1.74
+2025-07-12 20:06:04,866 - INFO - ============================================================

@@ -1,0 +1,79 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "Simplify Copilot - Autofill job applications, job tracker & AI resumes",
+  "version": "2.1.10",
+  "icons": {
+    "16": "assets/icons/favicon-16.png",
+    "32": "assets/icons/favicon-32.png",
+    "48": "assets/icons/favicon-48.png",
+    "128": "assets/icons/favicon-128.png"
+  },
+  "description": "The better way to job search. Quick apply and autofill job applications in one click. Track jobs, companies, resumes & more!",
+  "homepage_url": "https://simplify.jobs/",
+  "short_name": "Simplify Copilot",
+  "permissions": [
+    "activeTab",
+    "alarms",
+    "cookies",
+    "contextMenus",
+    "offscreen",
+    "storage",
+    "tabs",
+    "unlimitedStorage",
+    "webNavigation",
+    "webRequest"
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "content_security_policy": {
+    "extension_pages": "default-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'wasm-unsafe-eval' 'sha256-p9ZiOd7f9dJhTZCQXDnv1mMXzX1CSCY3DevRUA9ivXM='; connect-src *; img-src 'self' https://storage.googleapis.com https://res.cloudinary.com https://ui-avatars.com data:"
+  },
+  "author": "Simplify Jobs Inc.",
+  "minimum_chrome_version": "109",
+  "action": {
+    "default_icon": {
+      "16": "assets/icons/favicon-16.png",
+      "32": "assets/icons/favicon-32.png",
+      "48": "assets/icons/favicon-48.png",
+      "128": "assets/icons/favicon-128.png"
+    },
+    "default_title": "Simplify Copilot",
+    "chrome_style": false
+  },
+  "background": {
+    "service_worker": "js/background.bundle.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+      "js": [
+        "js/contentScript.bundle.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ],
+  "externally_connectable": {
+    "matches": [
+      "https://*.simplify.jobs/*",
+      "https://*.village.do/*"
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "assets/*",
+        "css/*",
+        "js/*"
+      ],
+      "matches": [
+        "*://*/*"
+      ]
+    }
+  ]
+}

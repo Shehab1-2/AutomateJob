@@ -1,0 +1,550 @@
+2025-07-14 18:56:08,489 - INFO - Browser initialized with existing profile
+2025-07-14 18:56:08,831 - ERROR - Failed to fetch jobs: 400
+2025-07-14 18:56:08,831 - INFO - No Greenhouse jobs found to process
+2025-07-14 18:56:35,291 - INFO - Browser initialized with existing profile
+2025-07-14 18:56:35,557 - ERROR - Failed to fetch jobs: 400
+2025-07-14 18:56:35,558 - INFO - No Greenhouse jobs found to process
+2025-07-14 18:57:26,806 - INFO - Browser initialized with existing profile
+2025-07-14 18:57:28,085 - ERROR - Failed to fetch jobs: 400
+2025-07-14 18:57:28,086 - INFO - No Greenhouse jobs found to process
+2025-07-14 18:57:55,130 - INFO - Browser initialized with existing profile
+2025-07-14 18:57:55,463 - INFO - Found 0 Greenhouse jobs to process
+2025-07-14 18:57:55,463 - INFO - No Greenhouse jobs found to process
+2025-07-14 18:58:26,168 - INFO - Browser initialized with existing profile
+2025-07-14 18:58:26,474 - INFO - Found 0 Greenhouse jobs to process
+2025-07-14 18:58:26,474 - INFO - No Greenhouse jobs found to process
+2025-07-14 19:00:20,264 - INFO - Browser initialized with existing profile
+2025-07-14 19:00:20,934 - INFO - Found 0 Greenhouse jobs to process
+2025-07-14 19:00:20,935 - INFO - No Greenhouse jobs found to process
+2025-07-14 19:00:49,634 - INFO - Browser initialized with existing profile
+2025-07-14 19:00:49,888 - INFO - Found 0 Greenhouse jobs to process
+2025-07-14 19:00:49,888 - INFO - No Greenhouse jobs found to process
+2025-07-14 19:01:43,492 - INFO - Browser initialized with existing profile
+2025-07-14 19:01:43,495 - INFO - Fetching all jobs from database for debugging...
+2025-07-14 19:01:43,495 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-14 19:01:44,005 - INFO - Response status: 200
+2025-07-14 19:01:44,006 - INFO - Total jobs in database: 1
+2025-07-14 19:01:44,006 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-14 19:01:44,006 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-14 19:01:44,006 - INFO - Company: 'Fortune'
+2025-07-14 19:01:44,006 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-14 19:01:44,006 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-14 19:01:44,006 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-14 19:01:44,006 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-14 19:01:44,006 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-14 19:01:44,007 - INFO - Starting automation for 1 jobs
+2025-07-14 19:01:44,007 - INFO - 
+--- Processing job 1/1 ---
+2025-07-14 19:01:44,007 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-14 19:01:44,118 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-14 19:01:46,489 - INFO - Waiting for Simplify to autofill form...
+2025-07-14 19:04:45,574 - INFO - Browser initialized with existing profile (Simplify should be available)
+2025-07-14 19:04:49,045 - WARNING - ⚠️  Simplify extension not visible - but may still work
+2025-07-14 19:04:49,062 - INFO - Fetching all jobs from database for debugging...
+2025-07-14 19:04:49,062 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-14 19:04:49,542 - INFO - Response status: 200
+2025-07-14 19:04:49,543 - INFO - Total jobs in database: 1
+2025-07-14 19:04:49,543 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-14 19:04:49,543 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-14 19:04:49,543 - INFO - Company: 'Fortune'
+2025-07-14 19:04:49,543 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-14 19:04:49,543 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-14 19:04:49,543 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-14 19:04:49,543 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-14 19:04:49,543 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-14 19:04:49,543 - INFO - Starting automation for 1 jobs
+2025-07-14 19:04:49,543 - INFO - 
+--- Processing job 1/1 ---
+2025-07-14 19:04:49,543 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-14 19:04:49,640 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-14 19:04:52,012 - INFO - Waiting for Simplify to autofill form...
+2025-07-14 19:05:22,919 - WARNING - Simplify autofill timeout - proceeding anyway
+2025-07-14 19:05:22,921 - INFO - Looking for submit button...
+2025-07-14 19:05:22,957 - INFO - Found submit button: button[type="submit"]:has-text("Submit Application")
+2025-07-14 19:05:23,571 - INFO - Submit button clicked!
+2025-07-14 19:05:23,571 - INFO - Waiting for submission confirmation...
+2025-07-14 19:06:56,630 - WARNING - Could not confirm submission success
+2025-07-14 19:06:56,633 - WARNING - ⚠️  Submitted but couldn't confirm success for Software Development Engineer - Automation QA (1)
+2025-07-14 19:06:57,029 - WARNING - Failed to update status: 400
+2025-07-14 19:06:57,030 - INFO - 
+=== AUTOMATION COMPLETE ===
+2025-07-14 19:06:57,030 - INFO - Total jobs: 1
+2025-07-14 19:06:57,030 - INFO - Successful: 1
+2025-07-14 19:06:57,030 - INFO - Failed: 0
+2025-07-14 19:06:57,031 - INFO - Success rate: 100.0%
+2025-07-15 18:07:08,237 - INFO - Browser initialized with existing profile and Simplify extension
+2025-07-15 18:07:13,695 - INFO - ✅ Simplify extension successfully loaded!
+2025-07-15 18:07:13,704 - INFO - ✅ Simplify extension is enabled
+2025-07-15 18:07:13,722 - INFO - Fetching all jobs from database for debugging...
+2025-07-15 18:07:13,722 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-15 18:07:14,811 - INFO - Response status: 200
+2025-07-15 18:07:14,811 - INFO - Total jobs in database: 1
+2025-07-15 18:07:14,811 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-15 18:07:14,811 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-15 18:07:14,811 - INFO - Company: 'Fortune'
+2025-07-15 18:07:14,811 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-15 18:07:14,811 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-15 18:07:14,811 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-15 18:07:14,811 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:07:14,811 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-15 18:07:14,811 - INFO - Starting automation for 1 jobs
+2025-07-15 18:07:14,811 - INFO - 
+--- Processing job 1/1 ---
+2025-07-15 18:07:14,811 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:07:14,883 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-15 18:07:17,363 - INFO - Waiting for Simplify to autofill form...
+2025-07-15 18:07:17,383 - INFO - Simplify detected via selector: div[class*="simplify"]
+2025-07-15 18:07:19,384 - INFO - Looking for submit button...
+2025-07-15 18:07:19,401 - INFO - Found submit button: button[type="submit"]:has-text("Submit Application")
+2025-07-15 18:07:49,953 - INFO - Found submit button: button[type="submit"]:has-text("Submit")
+2025-07-15 18:08:20,527 - INFO - Found submit button: button:has-text("Submit Application")
+2025-07-15 18:08:51,097 - INFO - Found submit button: button:has-text("Apply")
+2025-07-15 18:09:21,852 - ERROR - No submit button found!
+2025-07-15 18:09:21,853 - ERROR - Failed to find/click submit button
+2025-07-15 18:09:22,199 - WARNING - Failed to update status: 400
+2025-07-15 18:09:22,200 - INFO - 
+=== AUTOMATION COMPLETE ===
+2025-07-15 18:09:22,200 - INFO - Total jobs: 1
+2025-07-15 18:09:22,200 - INFO - Successful: 0
+2025-07-15 18:09:22,200 - INFO - Failed: 1
+2025-07-15 18:09:22,200 - INFO - Success rate: 0.0%
+2025-07-15 18:09:28,949 - INFO - Browser initialized with existing profile and Simplify extension
+2025-07-15 18:09:34,364 - INFO - ✅ Simplify extension successfully loaded!
+2025-07-15 18:09:34,372 - INFO - ✅ Simplify extension is enabled
+2025-07-15 18:09:34,388 - INFO - Fetching all jobs from database for debugging...
+2025-07-15 18:09:34,388 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-15 18:09:34,794 - INFO - Response status: 200
+2025-07-15 18:09:34,794 - INFO - Total jobs in database: 1
+2025-07-15 18:09:34,795 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-15 18:09:34,795 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-15 18:09:34,795 - INFO - Company: 'Fortune'
+2025-07-15 18:09:34,795 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-15 18:09:34,795 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-15 18:09:34,795 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-15 18:09:34,795 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:09:34,795 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-15 18:09:34,795 - INFO - Starting automation for 1 jobs
+2025-07-15 18:09:34,795 - INFO - 
+--- Processing job 1/1 ---
+2025-07-15 18:09:34,795 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:09:34,895 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-15 18:09:37,252 - INFO - Waiting for Simplify to autofill form...
+2025-07-15 18:09:37,268 - INFO - Simplify detected via selector: div[class*="simplify"]
+2025-07-15 18:09:39,269 - INFO - Looking for submit button...
+2025-07-15 18:09:39,289 - INFO - Found submit button: button[type="submit"]:has-text("Submit Application")
+2025-07-15 18:10:09,856 - INFO - Found submit button: button[type="submit"]:has-text("Submit")
+2025-07-15 18:10:40,714 - INFO - Found submit button: button:has-text("Submit Application")
+2025-07-15 18:10:43,507 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - attempting click action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class="simplify-jobs-shadow-root"></div> intercepts pointer events\n    - retrying click action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not stable\n    - retrying click action\n      - waiting 100ms\n    - waiting for element to be visible, enabled and stable\n    - element is not stable\n  3 × retrying click action\n      - waiting 500ms\n      - waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div class="simplify-jobs-shadow-root"></div> intercepts pointer events\n  - retrying click action\n    - waiting 500ms\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="simplify-jobs-shadow-root"></div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not stable
+    - retrying click action
+      - waiting 100ms
+    - waiting for element to be visible, enabled and stable
+    - element is not stable
+  3 × retrying click action
+      - waiting 500ms
+      - waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div class="simplify-jobs-shadow-root"></div> intercepts pointer events
+  - retrying click action
+    - waiting 500ms
+
+2025-07-15 18:10:48,153 - INFO - Browser initialized with existing profile and Simplify extension
+2025-07-15 18:10:53,505 - INFO - ✅ Simplify extension successfully loaded!
+2025-07-15 18:10:53,513 - INFO - ✅ Simplify extension is enabled
+2025-07-15 18:10:53,527 - INFO - Fetching all jobs from database for debugging...
+2025-07-15 18:10:53,527 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-15 18:10:53,947 - INFO - Response status: 200
+2025-07-15 18:10:53,948 - INFO - Total jobs in database: 1
+2025-07-15 18:10:53,948 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-15 18:10:53,948 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-15 18:10:53,948 - INFO - Company: 'Fortune'
+2025-07-15 18:10:53,948 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-15 18:10:53,948 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-15 18:10:53,948 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-15 18:10:53,949 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:10:53,949 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-15 18:10:53,949 - INFO - Starting automation for 1 jobs
+2025-07-15 18:10:53,949 - INFO - 
+--- Processing job 1/1 ---
+2025-07-15 18:10:53,949 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:10:54,046 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-15 18:10:56,519 - INFO - Waiting for Simplify to autofill form...
+2025-07-15 18:10:56,573 - INFO - Simplify detected via selector: div[class*="simplify"]
+2025-07-15 18:10:58,574 - INFO - Looking for submit button...
+2025-07-15 18:10:58,585 - INFO - Found submit button: button[type="submit"]:has-text("Submit Application")
+2025-07-15 18:11:29,124 - INFO - Found submit button: button[type="submit"]:has-text("Submit")
+2025-07-15 18:11:59,672 - INFO - Found submit button: button:has-text("Submit Application")
+2025-07-15 18:12:30,223 - INFO - Found submit button: button:has-text("Apply")
+2025-07-15 18:13:00,791 - ERROR - No submit button found!
+2025-07-15 18:13:00,792 - ERROR - Failed to find/click submit button
+2025-07-15 18:13:01,121 - WARNING - Failed to update status: 400
+2025-07-15 18:13:01,121 - INFO - 
+=== AUTOMATION COMPLETE ===
+2025-07-15 18:13:01,121 - INFO - Total jobs: 1
+2025-07-15 18:13:01,121 - INFO - Successful: 0
+2025-07-15 18:13:01,121 - INFO - Failed: 1
+2025-07-15 18:13:01,122 - INFO - Success rate: 0.0%
+2025-07-15 18:13:19,877 - INFO - Browser initialized with existing profile and Simplify extension
+2025-07-15 18:13:25,253 - INFO - ✅ Simplify extension successfully loaded!
+2025-07-15 18:13:25,262 - INFO - ✅ Simplify extension is enabled
+2025-07-15 18:13:25,278 - INFO - Fetching all jobs from database for debugging...
+2025-07-15 18:13:25,278 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-15 18:13:25,808 - INFO - Response status: 200
+2025-07-15 18:13:25,809 - INFO - Total jobs in database: 1
+2025-07-15 18:13:25,809 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-15 18:13:25,809 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-15 18:13:25,809 - INFO - Company: 'Fortune'
+2025-07-15 18:13:25,809 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-15 18:13:25,809 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-15 18:13:25,809 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-15 18:13:25,809 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:13:25,809 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-15 18:13:25,810 - INFO - Starting automation for 1 jobs
+2025-07-15 18:13:25,810 - INFO - 
+--- Processing job 1/1 ---
+2025-07-15 18:13:25,810 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:13:25,905 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-15 18:13:28,340 - INFO - Looking for Simplify autofill button...
+2025-07-15 18:13:31,354 - INFO - Found Simplify button with selector: button:has-text("Autofill this page")
+2025-07-15 18:13:31,483 - INFO - ✅ Clicked Simplify autofill button!
+2025-07-15 18:13:31,483 - INFO - Waiting for Simplify to autofill form...
+2025-07-15 18:13:31,503 - INFO - Simplify detected via selector: div[class*="simplify"]
+2025-07-15 18:13:33,505 - INFO - Looking for submit button...
+2025-07-15 18:13:34,120 - INFO - Found submit button: button[type="submit"]:has-text("Submit Application")
+2025-07-15 18:13:39,647 - INFO - Submit button clicked!
+2025-07-15 18:13:39,648 - INFO - Waiting for submission confirmation...
+2025-07-15 18:15:12,690 - WARNING - Could not confirm submission success
+2025-07-15 18:15:12,692 - WARNING - ⚠️  Submitted but couldn't confirm success for Software Development Engineer - Automation QA (1)
+2025-07-15 18:15:13,050 - WARNING - Failed to update status: 400
+2025-07-15 18:15:13,050 - INFO - 
+=== AUTOMATION COMPLETE ===
+2025-07-15 18:15:13,050 - INFO - Total jobs: 1
+2025-07-15 18:15:13,050 - INFO - Successful: 1
+2025-07-15 18:15:13,050 - INFO - Failed: 0
+2025-07-15 18:15:13,050 - INFO - Success rate: 100.0%
+2025-07-15 18:16:54,616 - INFO - Browser initialized with existing profile and Simplify extension
+2025-07-15 18:17:00,003 - INFO - ✅ Simplify extension successfully loaded!
+2025-07-15 18:17:00,009 - INFO - ✅ Simplify extension is enabled
+2025-07-15 18:17:00,026 - INFO - Fetching all jobs from database for debugging...
+2025-07-15 18:17:00,026 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-15 18:17:00,448 - INFO - Response status: 200
+2025-07-15 18:17:00,449 - INFO - Total jobs in database: 1
+2025-07-15 18:17:00,449 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-15 18:17:00,449 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-15 18:17:00,449 - INFO - Company: 'Fortune'
+2025-07-15 18:17:00,450 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-15 18:17:00,450 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-15 18:17:00,450 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-15 18:17:00,450 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:17:00,450 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-15 18:17:00,450 - INFO - Starting automation for 1 jobs
+2025-07-15 18:17:00,450 - INFO - 
+--- Processing job 1/1 ---
+2025-07-15 18:17:00,450 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:17:00,548 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-15 18:17:02,989 - INFO - Looking for Simplify autofill button...
+2025-07-15 18:17:06,009 - INFO - Found Simplify button with selector: button:has-text("Autofill this page")
+2025-07-15 18:17:06,142 - INFO - ✅ Clicked Simplify autofill button!
+2025-07-15 18:17:06,142 - INFO - Waiting for Simplify to autofill form...
+2025-07-15 18:17:06,153 - INFO - Simplify detected via selector: div[class*="simplify"]
+2025-07-15 18:17:08,154 - INFO - Checking for missing required fields...
+2025-07-15 18:17:08,179 - INFO - Found 11 empty required fields
+2025-07-15 18:17:08,179 - INFO - Processing field: input -  - 
+2025-07-15 18:17:08,590 - INFO - ✅ Filled generic field: 
+2025-07-15 18:17:08,590 - INFO - Processing field: input -  - 
+2025-07-15 18:17:08,982 - INFO - ✅ Filled generic field: 
+2025-07-15 18:17:08,982 - INFO - Processing field: input -  - 
+2025-07-15 18:17:09,120 - INFO - ✅ Filled generic field: 
+2025-07-15 18:17:09,120 - INFO - Processing field: input -  - 
+2025-07-15 18:17:09,547 - INFO - ✅ Filled generic field: 
+2025-07-15 18:17:09,547 - INFO - Processing field: input -  - 
+2025-07-15 18:17:09,913 - INFO - ✅ Filled generic field: 
+2025-07-15 18:17:09,913 - INFO - Processing field: input -  - 
+2025-07-15 18:17:10,316 - INFO - ✅ Filled generic field: 
+2025-07-15 18:17:10,316 - INFO - Processing field: input -  - 
+2025-07-15 18:17:10,589 - INFO - Processing field: input -  - 
+2025-07-15 18:17:10,907 - INFO - ✅ Filled generic field: 
+2025-07-15 18:17:10,908 - INFO - Processing field: input -  - 
+2025-07-15 18:17:11,005 - INFO - Processing field: input -  - 
+2025-07-15 18:17:11,310 - INFO - ✅ Filled generic field: 
+2025-07-15 18:17:11,310 - INFO - Processing field: input -  - 
+2025-07-15 18:17:11,400 - INFO - ✅ Filled 11 missing required fields
+2025-07-15 18:21:49,926 - INFO - Browser initialized with existing profile and Simplify extension
+2025-07-15 18:21:55,317 - INFO - ✅ Simplify extension successfully loaded!
+2025-07-15 18:21:55,326 - INFO - ✅ Simplify extension is enabled
+2025-07-15 18:21:55,343 - INFO - Fetching all jobs from database for debugging...
+2025-07-15 18:21:55,343 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-15 18:21:55,736 - INFO - Response status: 200
+2025-07-15 18:21:55,737 - INFO - Total jobs in database: 1
+2025-07-15 18:21:55,737 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-15 18:21:55,737 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-15 18:21:55,737 - INFO - Company: 'Fortune'
+2025-07-15 18:21:55,737 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-15 18:21:55,737 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-15 18:21:55,737 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-15 18:21:55,737 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:21:55,737 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-15 18:21:55,738 - INFO - Starting automation for 1 jobs
+2025-07-15 18:21:55,738 - INFO - 
+--- Processing job 1/1 ---
+2025-07-15 18:21:55,738 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:21:55,847 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-15 18:21:58,505 - INFO - Looking for Simplify autofill button...
+2025-07-15 18:22:01,567 - INFO - Found Simplify button with selector: button:has-text("Autofill this page")
+2025-07-15 18:22:01,707 - INFO - ✅ Clicked Simplify autofill button!
+2025-07-15 18:22:01,707 - INFO - Waiting for Simplify to autofill form...
+2025-07-15 18:22:01,719 - INFO - Simplify detected via selector: div[class*="simplify"]
+2025-07-15 18:22:03,721 - INFO - Checking for missing required fields...
+2025-07-15 18:22:03,772 - INFO - Found 11 empty required fields
+2025-07-15 18:22:03,772 - INFO - Processing field: Email*
+2025-07-15 18:22:04,080 - INFO - 🤖 Generating AI response for: 'Email*'
+2025-07-15 18:22:05,736 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:05,739 - INFO - ✅ Generated AI response for question: 'Email*...'
+2025-07-15 18:22:05,790 - INFO - ✅ Filled field with AI response (length: 20)
+2025-07-15 18:22:05,790 - INFO - Processing field: When can you start a new position?*
+2025-07-15 18:22:06,044 - INFO - 🤖 Generating AI response for: 'When can you start a new position?*'
+2025-07-15 18:22:07,249 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:07,253 - INFO - ✅ Generated AI response for question: 'When can you start a new position?*...'
+2025-07-15 18:22:07,531 - INFO - ✅ Filled field with AI response (length: 156)
+2025-07-15 18:22:07,531 - INFO - Processing field: What Level of Software Engineering role would you like to interview for, L1, L2, L3, L4 or L5?*
+2025-07-15 18:22:08,003 - INFO - 🤖 Generating AI response for: 'What Level of Software Engineering role would you like to interview for, L1, L2, L3, L4 or L5?*'
+2025-07-15 18:22:10,297 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:10,300 - INFO - ✅ Generated AI response for question: 'What Level of Software Engineering role would you ...'
+2025-07-15 18:22:10,364 - INFO - ✅ Filled field with AI response (length: 576)
+2025-07-15 18:22:10,364 - INFO - Processing field: What is your desired total compensation range, base and bonus?*
+2025-07-15 18:22:10,414 - INFO - 🤖 Generating AI response for: 'What is your desired total compensation range, base and bonus?*'
+2025-07-15 18:22:13,680 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:13,685 - INFO - ✅ Generated AI response for question: 'What is your desired total compensation range, bas...'
+2025-07-15 18:22:13,772 - INFO - ✅ Filled field with AI response (length: 762)
+2025-07-15 18:22:13,772 - INFO - Processing field: Were you referred by a Fortune Employee? If yes, please provide their full name.*
+2025-07-15 18:22:13,842 - INFO - 🤖 Generating AI response for: 'Were you referred by a Fortune Employee? If yes, please provide their full name.*'
+2025-07-15 18:22:14,274 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:14,275 - INFO - ✅ Generated AI response for question: 'Were you referred by a Fortune Employee? If yes, p...'
+2025-07-15 18:22:14,395 - INFO - ✅ Filled field with AI response (length: 45)
+2025-07-15 18:22:14,395 - INFO - Processing field: Please provide information
+2025-07-15 18:22:14,482 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:22:20,876 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:20,898 - INFO - ✅ Generated AI response for question: 'Please provide information...'
+2025-07-15 18:22:20,984 - INFO - ✅ Filled field with AI response (length: 1160)
+2025-07-15 18:22:20,984 - INFO - Processing field: Please provide information
+2025-07-15 18:22:21,051 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:22:24,745 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:24,747 - INFO - ✅ Generated AI response for question: 'Please provide information...'
+2025-07-15 18:22:24,754 - WARNING - Could not find element with selector: [id=""]
+2025-07-15 18:22:24,757 - INFO - Processing field: Please provide information
+2025-07-15 18:22:24,803 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:22:28,525 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:28,528 - INFO - ✅ Generated AI response for question: 'Please provide information...'
+2025-07-15 18:22:28,620 - INFO - ✅ Filled field with AI response (length: 1243)
+2025-07-15 18:22:28,620 - INFO - Processing field: Please provide information
+2025-07-15 18:22:28,675 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:22:32,623 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:32,626 - INFO - ✅ Generated AI response for question: 'Please provide information...'
+2025-07-15 18:22:32,633 - WARNING - Could not find element with selector: [id=""]
+2025-07-15 18:22:32,636 - INFO - Processing field: Please provide information
+2025-07-15 18:22:32,678 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:22:39,344 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:39,348 - INFO - ✅ Generated AI response for question: 'Please provide information...'
+2025-07-15 18:22:39,420 - INFO - ✅ Filled field with AI response (length: 1340)
+2025-07-15 18:22:39,420 - INFO - Processing field: Please provide information
+2025-07-15 18:22:39,475 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:22:43,664 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:22:43,669 - INFO - ✅ Generated AI response for question: 'Please provide information...'
+2025-07-15 18:22:43,678 - WARNING - Could not find element with selector: [id=""]
+2025-07-15 18:22:43,681 - INFO - ✅ Filled 11 missing required fields
+2025-07-15 18:36:32,967 - INFO - Browser initialized with existing profile and Simplify extension
+2025-07-15 18:36:38,340 - INFO - ✅ Simplify extension successfully loaded!
+2025-07-15 18:36:38,348 - INFO - ✅ Simplify extension is enabled
+2025-07-15 18:36:38,364 - INFO - Fetching all jobs from database for debugging...
+2025-07-15 18:36:38,364 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-15 18:36:39,009 - INFO - Response status: 200
+2025-07-15 18:36:39,010 - INFO - Total jobs in database: 1
+2025-07-15 18:36:39,010 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-15 18:36:39,010 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-15 18:36:39,010 - INFO - Company: 'Fortune'
+2025-07-15 18:36:39,010 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-15 18:36:39,010 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-15 18:36:39,010 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-15 18:36:39,010 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:36:39,010 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-15 18:36:39,010 - INFO - Starting automation for 1 jobs
+2025-07-15 18:36:39,010 - INFO - 
+--- Processing job 1/1 ---
+2025-07-15 18:36:39,011 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:36:39,104 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-15 18:36:41,589 - INFO - Looking for Simplify autofill button...
+2025-07-15 18:36:44,604 - INFO - Found Simplify button with selector: button:has-text("Autofill this page")
+2025-07-15 18:36:44,781 - INFO - ✅ Clicked Simplify autofill button!
+2025-07-15 18:36:44,781 - INFO - Waiting for Simplify to autofill form...
+2025-07-15 18:36:44,794 - INFO - Simplify detected via selector: div[class*="simplify"]
+2025-07-15 18:36:46,795 - INFO - Checking for missing required fields...
+2025-07-15 18:36:46,823 - INFO - Found 11 empty required fields
+2025-07-15 18:36:46,823 - INFO - Processing field: Email*
+2025-07-15 18:36:47,187 - INFO - 🤖 Generating AI response for: 'Email*'
+2025-07-15 18:36:47,805 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:36:47,809 - INFO - ✅ Generated AI response for: 'Email*...'
+2025-07-15 18:36:47,984 - INFO - ✅ Filled field with AI response (length: 21)
+2025-07-15 18:36:47,984 - INFO - Processing field: When can you start a new position?*
+2025-07-15 18:36:48,306 - INFO - 🤖 Generating AI response for: 'When can you start a new position?*'
+2025-07-15 18:36:48,306 - INFO - ✅ Used quick response for: 'When can you start a new position?*...'
+2025-07-15 18:36:48,379 - INFO - ✅ Filled field with AI response (length: 7)
+2025-07-15 18:36:48,379 - INFO - Processing field: What Level of Software Engineering role would you like to interview for, L1, L2, L3, L4 or L5?*
+2025-07-15 18:36:48,404 - INFO - 🤖 Generating AI response for: 'What Level of Software Engineering role would you like to interview for, L1, L2, L3, L4 or L5?*'
+2025-07-15 18:36:49,674 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:36:49,675 - INFO - ✅ Generated AI response for: 'What Level of Software Engineering role would you ...'
+2025-07-15 18:36:49,730 - INFO - ✅ Filled field with AI response (length: 2)
+2025-07-15 18:36:49,730 - INFO - Processing field: What is your desired total compensation range, base and bonus?*
+2025-07-15 18:36:50,067 - INFO - 🤖 Generating AI response for: 'What is your desired total compensation range, base and bonus?*'
+2025-07-15 18:36:50,067 - INFO - ✅ Used quick response for: 'What is your desired total compensation range, bas...'
+2025-07-15 18:36:50,117 - INFO - ✅ Filled field with AI response (length: 5)
+2025-07-15 18:36:50,117 - INFO - Processing field: Were you referred by a Fortune Employee? If yes, please provide their full name.*
+2025-07-15 18:36:50,293 - INFO - 🤖 Generating AI response for: 'Were you referred by a Fortune Employee? If yes, please provide their full name.*'
+2025-07-15 18:36:51,166 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:36:51,168 - INFO - ✅ Generated AI response for: 'Were you referred by a Fortune Employee? If yes, p...'
+2025-07-15 18:36:51,498 - INFO - ✅ Filled field with AI response (length: 3)
+2025-07-15 18:36:51,498 - INFO - Processing field: Please provide information
+2025-07-15 18:36:51,818 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:36:53,550 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:36:53,553 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:36:53,616 - INFO - ✅ Filled field with AI response (length: 410)
+2025-07-15 18:36:53,616 - INFO - Processing field: Please provide information
+2025-07-15 18:36:53,667 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:36:56,108 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:36:56,110 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:36:56,116 - WARNING - Could not find element with selector: [id=""]
+2025-07-15 18:36:56,119 - INFO - Processing field: Please provide information
+2025-07-15 18:36:56,163 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:36:57,848 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:36:57,849 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:36:57,915 - INFO - ✅ Filled field with AI response (length: 415)
+2025-07-15 18:36:57,915 - INFO - Processing field: Please provide information
+2025-07-15 18:36:57,969 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:37:00,102 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:37:00,105 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:37:00,113 - WARNING - Could not find element with selector: [id=""]
+2025-07-15 18:37:00,116 - INFO - Processing field: Please provide information
+2025-07-15 18:37:00,158 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:37:03,159 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:37:03,164 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:37:03,207 - INFO - ✅ Filled field with AI response (length: 551)
+2025-07-15 18:37:03,207 - INFO - Processing field: Please provide information
+2025-07-15 18:37:03,266 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:37:05,021 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:37:05,024 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:37:05,031 - WARNING - Could not find element with selector: [id=""]
+2025-07-15 18:37:05,034 - INFO - ✅ Filled 11 missing required fields
+2025-07-15 18:39:20,950 - INFO - Browser initialized with existing profile and Simplify extension
+2025-07-15 18:39:26,318 - INFO - ✅ Simplify extension successfully loaded!
+2025-07-15 18:39:26,327 - INFO - ✅ Simplify extension is enabled
+2025-07-15 18:39:26,343 - INFO - Fetching all jobs from database for debugging...
+2025-07-15 18:39:26,343 - INFO - Using database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-07-15 18:39:26,744 - INFO - Response status: 200
+2025-07-15 18:39:26,745 - INFO - Total jobs in database: 1
+2025-07-15 18:39:26,745 - INFO - 
+--- Job 1 Debug Info ---
+2025-07-15 18:39:26,745 - INFO - Title: 'Software Development Engineer - Automation QA (1)'
+2025-07-15 18:39:26,745 - INFO - Company: 'Fortune'
+2025-07-15 18:39:26,745 - INFO - Type: 'Greenhouse' (looking for 'greenhouse')
+2025-07-15 18:39:26,745 - INFO - Apply URL: 'https://job-boards.greenhouse.io/fortune/jobs/5493900004' (has URL: True)
+2025-07-15 18:39:26,745 - INFO - Available properties: ['Company Description', 'Company', 'Job Function', 'Apply URL', 'Job ID', 'Link', 'Explanation', 'Date Posted', 'Seniority Level', 'Rating', 'Industries', 'Type', 'Employment Type', 'Location', 'Company Size', 'Job Title']
+2025-07-15 18:39:26,745 - INFO - ✅ Found Greenhouse job: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:39:26,745 - INFO - 
+Found 1 Greenhouse jobs to process
+2025-07-15 18:39:26,745 - INFO - Starting automation for 1 jobs
+2025-07-15 18:39:26,745 - INFO - 
+--- Processing job 1/1 ---
+2025-07-15 18:39:26,746 - INFO - Processing: Software Development Engineer - Automation QA (1) at Fortune
+2025-07-15 18:39:26,845 - INFO - Navigating to: https://job-boards.greenhouse.io/fortune/jobs/5493900004
+2025-07-15 18:39:29,228 - INFO - Looking for Simplify autofill button...
+2025-07-15 18:39:32,247 - INFO - Found Simplify button with selector: button:has-text("Autofill this page")
+2025-07-15 18:39:32,425 - INFO - ✅ Clicked Simplify autofill button!
+2025-07-15 18:39:32,425 - INFO - Waiting for Simplify to autofill form...
+2025-07-15 18:39:32,439 - INFO - Simplify detected via selector: div[class*="simplify"]
+2025-07-15 18:39:34,440 - INFO - Checking for missing required fields...
+2025-07-15 18:39:34,457 - INFO - Found 11 empty required fields
+2025-07-15 18:39:34,457 - INFO - Processing field: Email*
+2025-07-15 18:39:34,826 - INFO - 🤖 Generating AI response for: 'Email*'
+2025-07-15 18:39:35,650 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:39:35,654 - INFO - ✅ Generated AI response for: 'Email*...'
+2025-07-15 18:39:35,906 - INFO - ✅ Filled field with AI response (length: 21)
+2025-07-15 18:39:35,906 - INFO - Processing field: When can you start a new position?*
+2025-07-15 18:39:35,934 - INFO - 🤖 Generating AI response for: 'When can you start a new position?*'
+2025-07-15 18:39:35,934 - INFO - ✅ Used quick response for: 'When can you start a new position?*...'
+2025-07-15 18:39:35,983 - INFO - ✅ Filled field with AI response (length: 7)
+2025-07-15 18:39:35,983 - INFO - Processing field: What Level of Software Engineering role would you like to interview for, L1, L2, L3, L4 or L5?*
+2025-07-15 18:39:36,235 - INFO - 🤖 Generating AI response for: 'What Level of Software Engineering role would you like to interview for, L1, L2, L3, L4 or L5?*'
+2025-07-15 18:39:36,615 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:39:36,617 - INFO - ✅ Generated AI response for: 'What Level of Software Engineering role would you ...'
+2025-07-15 18:39:36,800 - INFO - ✅ Filled field with AI response (length: 2)
+2025-07-15 18:39:36,800 - INFO - Processing field: What is your desired total compensation range, base and bonus?*
+2025-07-15 18:39:37,002 - INFO - 🤖 Generating AI response for: 'What is your desired total compensation range, base and bonus?*'
+2025-07-15 18:39:37,003 - INFO - ✅ Used quick response for: 'What is your desired total compensation range, bas...'
+2025-07-15 18:39:37,054 - INFO - ✅ Filled field with AI response (length: 5)
+2025-07-15 18:39:37,055 - INFO - Processing field: Were you referred by a Fortune Employee? If yes, please provide their full name.*
+2025-07-15 18:39:37,188 - INFO - 🤖 Generating AI response for: 'Were you referred by a Fortune Employee? If yes, please provide their full name.*'
+2025-07-15 18:39:37,689 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:39:37,690 - INFO - ✅ Generated AI response for: 'Were you referred by a Fortune Employee? If yes, p...'
+2025-07-15 18:39:38,044 - INFO - ✅ Filled field with AI response (length: 3)
+2025-07-15 18:39:38,044 - INFO - Processing field: Please provide information
+2025-07-15 18:39:38,412 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:39:40,270 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:39:40,273 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:39:40,359 - INFO - ✅ Filled field with AI response (length: 523)
+2025-07-15 18:39:40,359 - INFO - Processing field: Please provide information
+2025-07-15 18:39:40,383 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:39:42,613 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:39:42,615 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:39:42,620 - WARNING - Could not find element with selector: [id=""]
+2025-07-15 18:39:42,623 - INFO - Processing field: Please provide information
+2025-07-15 18:39:42,663 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:39:44,894 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:39:44,897 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:39:44,962 - INFO - ✅ Filled field with AI response (length: 622)
+2025-07-15 18:39:44,963 - INFO - Processing field: Please provide information
+2025-07-15 18:39:45,012 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:39:52,649 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:39:52,653 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:39:52,660 - WARNING - Could not find element with selector: [id=""]
+2025-07-15 18:39:52,663 - INFO - Processing field: Please provide information
+2025-07-15 18:39:52,704 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:39:54,902 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:39:54,904 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:39:54,995 - INFO - ✅ Filled field with AI response (length: 484)
+2025-07-15 18:39:54,995 - INFO - Processing field: Please provide information
+2025-07-15 18:39:55,043 - INFO - 🤖 Generating AI response for: 'Please provide information'
+2025-07-15 18:39:57,462 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:39:57,465 - INFO - ✅ Generated AI response for: 'Please provide information...'
+2025-07-15 18:39:57,472 - WARNING - Could not find element with selector: [id=""]
+2025-07-15 18:39:57,476 - INFO - ✅ Filled 11 missing required fields

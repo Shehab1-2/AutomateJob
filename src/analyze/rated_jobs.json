@@ -1,0 +1,747 @@
+[
+  {
+    "id": "4223918432",
+    "rating": 5.5,
+    "explanation": "Candidate has a strong background in full-stack development with various programming languages, including C/C++, which is required for the role. However, the role is specifically for a C++ Software Engineer, and the candidate's experience seems to be more diverse and not focused on C++. The candidate's experience in payment systems and insurance industries may not directly translate to the financial trading systems at Tower Research Capital. Soft skills seem to be strong, with evidence of client-facing roles and teamwork. Overall, the candidate may need a significant ramp-up period to specialize in C++ for financial systems."
+  },
+  {
+    "id": "4262166020",
+    "rating": 6.5,
+    "explanation": "Candidate has strong full-stack development skills and experience with Python, which could be useful in an AI research role. However, there's no evidence of direct experience with AI or machine learning technologies, which are typically crucial for an AI Research Engineer role. The candidate's experience in client-facing roles and automation could be beneficial, but the lack of domain-specific knowledge in AI research presents a significant learning curve. The candidate's experience in healthcare and payment systems doesn't directly align with Handshake's business model."
+  },
+  {
+    "id": "4252714013",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical background in JavaScript and React, which aligns with the job's front-end requirements. Experience with React Native suggests a potential to adapt to Electron. However, no direct experience with Electron is a skill gap. The candidate has about a year of professional software engineering experience, which fits the entry-level seniority. Domain relevance is not clear due to missing job description. Soft skills seem strong with client-facing roles and teamwork in previous jobs. Some ramp-up time may be needed for Electron."
+  },
+  {
+    "id": "4262900469",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React Native, Node.js, and more. With 2+ years of professional experience in software engineering roles, including building full-stack systems and dashboards, he demonstrates a solid foundation. His experience in payment systems integration and automation align well with backend engineering responsibilities. While he may require some ramp-up time for specific domain knowledge, his overall skill set and experience level make him a strong candidate for the entry-level Backend Engineer position at Ataraxis AI."
+  },
+  {
+    "id": "4262542596",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the software developer role. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build full-stack systems, integrate payment processing solutions, and automate workflows. While he may be considered slightly overqualified for an entry-level position, his background in building dashboards, APIs, and automation tools align well with the job requirements. His hands-on experience with React, Python, Node.js, and Docker make him a strong candidate for this role."
+  },
+  {
+    "id": "4233264658",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse set of programming languages, frameworks, and DevOps tools. With 1+ year of experience as a Software Engineer and prior internships, he demonstrates a good level of experience for an entry-level role. His work on building internal dashboards, payment systems, and automation projects shows domain relevance in fintech and software development. While lacking specific details on client-facing experience, his project work and responsibilities indicate potential for strong soft skills alignment. Overall, Shehab is a solid match for the Software Engineer position at Valon, with room for growth and development in a new environment."
+  },
+  {
+    "id": "4259831788",
+    "rating": 8,
+    "explanation": "Candidate has a strong match in terms of technical skills with proficiency in Java, Python, JavaScript, and TypeScript, along with experience in React Native, Node.js, and Spring Boot. They have worked with DevOps tools like Docker, AWS, and CI/CD, which are often required in software engineering roles. With 3 years of professional experience, including a role as an Integration/Implementation Specialist, they have demonstrated responsibility and growth. Their experience in building dashboards and integrating payment systems is relevant. However, the domain relevance is not explicitly clear due to the lack of job description. Soft skills are demonstrated through client-facing roles and teamwork in previous jobs."
+  },
+  {
+    "id": "4260764615",
+    "rating": 7.5,
+    "explanation": "Candidate has a solid technical background with Python, which is crucial for the Python Engineer role. His experience in building full-stack systems and automating workflows indicates a good understanding of software development. However, his experience level is slightly above the entry-level requirement, which might lead to over-qualification concerns. The candidate's experience in the payment and insurance industries doesn't directly align with Publicis Sapient's business model, but his ability to adapt to different domains is evident. His client-facing experience and teamwork skills are a plus, but more evidence of communication skills would be beneficial."
+  },
+  {
+    "id": "4239102532",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the software engineer role at Justworks. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build full-stack systems, integrate payment processing solutions, and automate workflows. While he may be considered entry-level in terms of seniority, his hands-on experience and project work showcase a solid foundation. His background in building internal dashboards, PCI-DSS compliant tools, and automation align well with the technical requirements of the role. With some additional mentorship and guidance, Shehab could quickly ramp up and contribute effectively to the team at Justworks."
+  },
+  {
+    "id": "4262169038",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with experience in Java, Python, React Native, Node.js, and Spring Boot, which align well with the Junior Java Developer role at Bounteous. His background in building full-stack management systems and dashboards demonstrates his ability to work on end-to-end development projects. While his current role focuses on payment systems, the transition to Java development may require a learning curve, but his experience in CI/CD pipelines and automation tools like Selenium could be valuable. Overall, he is a solid candidate with the potential to excel in this role."
+  },
+  {
+    "id": "4223632404",
+    "rating": 8,
+    "explanation": "Candidate has a strong technical skill match with proficiency in Java, Python, JavaScript, TypeScript, and C/C++, as well as experience with React Native, Node.js, Spring Boot, and Django. They have also used DevOps tools such as SQL, MongoDB, Git, Docker, Linux, AWS, Agile/Scrum, JIRA, CI/CD, Selenium, Jest, and JUnit, which aligns with the software engineer role. With a Bachelor's degree in Computer Science and over a year of professional experience, the candidate's experience level is suitable for an entry-level position. They have worked in the payment systems and education industries, which may not directly relate to Versana's domain but shows versatility. Their experience in client-facing roles and teamwork is evident from their previous roles."
+  },
+  {
+    "id": "3949597164",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical background with proficiency in multiple programming languages and frameworks, aligning well with the Software Developer role. His experience with React, Node.js, and Python is particularly valuable. However, his professional experience is slightly under the required level, with only one year in a non-intern role. He has demonstrated the ability to work in client-facing roles and has experience in different industries, but it's unclear how relevant his domain knowledge is to the D. E. Shaw Group. His project experience in business workflow automation could be beneficial depending on the specific needs of the role."
+  },
+  {
+    "id": "4238782007",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and framework expertise. With 1+ year of professional experience and relevant internships, he shows a good level of experience for an entry-level role. His background in building dashboards, integrating payment systems, and automating workflows align well with the Agent Software Engineer position. While lacking specific domain experience, his ability to reduce manual labor and automate processes showcases his potential for contributing to Decagon's projects. Overall, Shehab is a solid match with potential for growth in this role."
+  },
+  {
+    "id": "4262330122",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node.js, and Spring Boot, aligning well with the Software Engineer role at Morgan Stanley. With 1 year of full-time experience and relevant internships, he demonstrates a good level of experience for an entry-level position. His background in building internal dashboards, payment systems, and automation tools shows domain relevance in fintech. Additionally, his experience in client support and onboarding indicates soft skills alignment for collaborative work. While he may need some ramp-up time for specific technologies used at Morgan Stanley, his overall profile makes him a solid candidate for the role."
+  },
+  {
+    "id": "4240184395",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework proficiency. With 1+ year of professional experience and relevant internships, he demonstrates a solid foundation. His work on building internal dashboards, payment systems, and automation tools showcases practical application of skills. While he may need some ramp-up time for a full stack engineer role, his background in DevOps tools and client-facing experience provide a good foundation for growth in an entry-level position."
+  },
+  {
+    "id": "4223618468",
+    "rating": 9,
+    "explanation": "Shehab Ahamed is a strong match for the Software Engineer role at Goldman Sachs. With a Bachelor's in Computer Science and 3+ years of full-stack experience, he has a solid technical foundation. His expertise in React, Python, Node.js, and Spring Boot align well with the tech stack requirements. Experience in building payment systems, integrating APIs, and ensuring compliance demonstrates domain relevance. Strong communication skills from client-facing roles are beneficial for teamwork and collaboration."
+  },
+  {
+    "id": "3999826220",
+    "rating": 4.5,
+    "explanation": "Candidate has a strong background in full-stack development with a variety of languages and frameworks. However, the role is specifically for an iOS Software Engineer, and the candidate does not demonstrate any experience or skills in iOS development or related technologies like Swift or Objective-C. While the candidate's general software engineering experience is valuable, there would be a significant learning curve to become proficient in iOS development. Additionally, the candidate's experience and projects do not show any relevance to the food delivery industry, which could also contribute to a longer ramp-up time."
+  },
+  {
+    "id": "4259878641",
+    "rating": 8,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building dashboards, integrating payment systems, and developing APIs align well with the software engineer role at Brigit. The candidate's background in automation and compliance also adds value to the DevOps aspect of the position. While he may be slightly junior in terms of experience level, his track record of reducing manual labor and onboarding time demonstrates a proactive approach to problem-solving."
+  },
+  {
+    "id": "4048172300",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the frontend software engineer role at Ramp. His experience in building internal dashboards, management systems, and automation tools demonstrates his ability to work on frontend development projects. While he is an entry-level candidate, his hands-on experience in software engineering roles and relevant projects showcase his potential to succeed in this position. With a solid foundation in computer science from Rutgers University, Shehab is well-equipped to handle the responsibilities of a frontend software engineer at Ramp."
+  },
+  {
+    "id": "4236438705",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His previous roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with relevant technologies like React, Python, Spring Boot, and Node.js. The project on Business Workflow Automation showcases his ability to automate processes effectively. While he may be considered slightly overqualified for an entry-level position, his experience level and domain relevance make him a solid candidate for the Software Engineer role at automotiveMastermind Inc."
+  },
+  {
+    "id": "4260318280",
+    "rating": 5.5,
+    "explanation": "Candidate has strong technical skills in programming languages and frameworks, but these are not directly relevant to the data engineer role, which typically requires expertise in data warehousing, ETL, and big data technologies. The candidate's experience level is suitable for an entry-level position, but the previous roles were more focused on software engineering and integration, not data engineering. Domain relevance is unclear as the job description details are not provided. The candidate has demonstrated soft skills in client-facing roles and teamwork. Overall, the candidate could potentially adapt to the role, but there would be a significant learning curve."
+  },
+  {
+    "id": "4262850281",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in full-stack development using a variety of languages and frameworks. His experience in building internal dashboards, payment systems, and automation tools demonstrates his ability to deliver solutions. While he may lack specific enterprise focus experience, his background in integration, compliance, and automation align well with the role requirements. With some ramp-up time, he could be a valuable addition to the team."
+  },
+  {
+    "id": "4170692055",
+    "rating": 8,
+    "explanation": "Shehab Ahamed demonstrates a strong match for the AI Software Developer role at WorldQuant. With a Bachelor's in Computer Science and 1+ year of professional experience in software engineering, he meets the experience level criteria. His proficiency in Java, Python, React Native, Node.js, and Spring Boot align well with the required technical skills. The experience in building dashboards, integrating payment systems, and ensuring compliance shows domain relevance. While lacking specific AI experience, his background in automation and API development suggests a manageable learning curve for AI-related tasks. Overall, Shehab is a solid fit for this entry-level position."
+  },
+  {
+    "id": "4265366990",
+    "rating": 7.5,
+    "explanation": "Candidate has strong technical skills in JavaScript and React, which aligns with the front-end software engineer role. Experience with Node.js, Docker, and AWS could be beneficial for understanding back-end processes. However, the role's seniority level is associate, and the candidate's experience seems slightly above this level with a full-stack background and leadership in integration projects. The candidate's domain relevance is not clear due to lack of industry information in the job details. Soft skills seem strong with evidence of client-facing roles and teamwork in previous positions."
+  },
+  {
+    "id": "4256470487",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node.js, and Spring Boot, aligning well with the Java Software Engineer role requirements. With 1 year of experience as a Software Engineer and 1 year as an Integration/Implementation Specialist, he demonstrates a good level of experience for an entry-level position. His background in building internal dashboards, payment systems, and management systems shows domain relevance in software development. Additionally, his experience in automation and CI/CD pipelines showcases a proactive approach to software development. While he may need some ramp-up time for specific Java-related tasks, his overall skill set and experience make him a solid candidate for the role."
+  },
+  {
+    "id": "4263747994",
+    "rating": 4,
+    "explanation": "The candidate has a strong background in full-stack development and automation, with proficiency in several programming languages and frameworks. However, the role is for a Generative AI Engineer, which requires expertise in AI, machine learning, and possibly deep learning, none of which are mentioned in the candidate's resume. The candidate's experience level is appropriate for an entry-level position, but their domain relevance is low as they have not worked in AI or data science. Soft skills alignment is difficult to assess without job description details, but the candidate has demonstrated client-facing and teamwork skills in previous roles. Significant training would be required to fill the skill gap in AI."
+  },
+  {
+    "id": "4223618466",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the asset and wealth management industry. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build complex systems, automate workflows, and work with payment processing systems. While he may lack specific experience in asset and wealth management, his background in building dashboards, APIs, and automation tools showcases his ability to adapt to new domains. With his solid technical foundation and relevant project experience, he is a strong candidate for the Software Engineer Associate role at Goldman Sachs."
+  },
+  {
+    "id": "4264686876",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical background with proficiency in multiple programming languages and frameworks, including Java, Python, JavaScript, TypeScript, and React Native, which aligns well with the technical skills requirement (8/10). With a year of full-time experience and an additional year as an intern, the candidate's experience level is suitable for an entry-level position (7/10). However, there's no evidence of domain relevance in sports or basketball products (5/10). The candidate has shown client-facing and teamwork skills in previous roles, which is a positive for soft skills alignment (8/10). Overall, the candidate's technical skills and experience level are strong, but the lack of domain relevance could require additional ramp-up time."
+  },
+  {
+    "id": "4236435877",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the Associate Software Engineer role. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build full-stack systems, integrate payment processing, and automate workflows. While he may lack specific domain experience in automotive or AI, his background in building tools for merchants and educators shows adaptability. With his strong technical skills and experience level, he is well-positioned for this entry-level role with potential for growth."
+  },
+  {
+    "id": "4263091582",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node.js, and Spring Boot, aligning well with the Java Full Stack Developer role at BeaconFire Inc. With 1+ year of experience in software engineering roles, including building management systems and dashboards, he demonstrates a good level of experience for an entry-level position. His background in building internal dashboards, integrating payment systems, and automating workflows shows domain relevance in fintech and software development. Additionally, his experience in client-facing support and teamwork in previous roles indicates good soft skills alignment. While he may need some ramp-up time to adapt to specific project requirements, his overall profile makes him a strong candidate for the position."
+  },
+  {
+    "id": "4223258136",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building internal dashboards, payment systems, and APIs align well with the software development engineer role. While he is an entry-level candidate, his internship and full-time experience demonstrate a solid foundation in software engineering. The project on business workflow automation showcases his ability to streamline processes. The only potential gap is the lack of specific details on the job description, which may impact domain relevance assessment. Overall, Shehab is a promising candidate with the potential to grow within the role."
+  },
+  {
+    "id": "4245387479",
+    "rating": 7.5,
+    "explanation": "Candidate has a solid technical background with a CS degree and 3 years of experience in software development, including Java. However, the role is focused on Java development, and the candidate's experience seems more diverse, with a focus on full-stack development using various languages and frameworks. The candidate's experience with Agile/Scrum, JIRA, and CI/CD is a plus, but there's no specific mention of extensive Java development. Domain relevance is not clear from the resume, and the candidate's soft skills are implied through teamwork and client-facing roles but not explicitly stated. Overall, the candidate could potentially fit the role but might require some ramp-up time to focus on Java."
+  },
+  {
+    "id": "4257840110",
+    "rating": 8,
+    "explanation": "Candidate's technical skills align well with the role, showcasing proficiency in multiple programming languages and frameworks. Experience with Agile/Scrum, CI/CD, and JIRA indicates familiarity with software development workflows. The candidate's 2+ years of professional experience, including an internship, aligns with the entry-level requirement. However, the lack of specific domain relevance and the absence of soft skills evidence slightly reduce the overall match. The candidate's demonstrated ability to learn and apply new technologies suggests a manageable ramp-up time."
+  },
+  {
+    "id": "4198566335",
+    "rating": 8,
+    "explanation": "Shehab Ahamed demonstrates a strong match for the Software Development Engineer - Automation QA role. With a Bachelor's in Computer Science and relevant work experience in software engineering, he has a solid technical foundation. His proficiency in languages like Python, Java, and frameworks like React Native and Spring Boot align well with the tech stack requirements. Experience in building internal dashboards, automation tools, and CI/CD pipelines showcases his expertise in automation and quality assurance. While he may need some ramp-up time to familiarize himself with specific QA processes, his background and skills make him a strong candidate for the role."
+  },
+  {
+    "id": "4262544635",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and framework experience. His work on building internal dashboards, payment systems, and APIs align well with the Software Engineer role at TikTok. While he has limited experience in the ads industry, his background in automation and integration can be valuable for the domain. With a Bachelor's in Computer Science and relevant internships, he shows the potential for growth and adaptation to the role's requirements."
+  },
+  {
+    "id": "4263604030",
+    "rating": 8,
+    "explanation": "Candidate has a strong technical skills match with proficiency in Java, Python, JavaScript, TypeScript, and C/C++, as well as experience with React Native, Node.js, Spring Boot, and Django. These skills align well with the Software Engineer role. The candidate has over a year of professional experience in software engineering roles, which is appropriate for an entry-level position. Domain relevance is not clear due to lack of job description details, but the candidate has experience in different industries. Soft skills are demonstrated through client-facing roles and teamwork in previous positions. However, the candidate might need some ramp-up time to adapt to the company's specific business model and problem space."
+  },
+  {
+    "id": "4264254470",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the Python Developer role. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build complex systems, integrate third-party services, and automate processes. While he may be slightly overqualified for an entry-level position, his background in building dashboards, payment processing systems, and automation tools make him a strong candidate for the role. His experience in client support and reducing onboarding time also showcases his soft skills alignment for teamwork and communication."
+  },
+  {
+    "id": "4223253655",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in full-stack development using a variety of languages and frameworks. His experience in building internal dashboards, payment systems, and automation tools demonstrates his ability to handle complex projects. While his current role is not directly related to data engineering, his background in software engineering and integration work provides a solid foundation for transitioning into an associate data engineer role. With some additional training and ramp-up time, Shehab could quickly adapt to the requirements of the position at Newmark."
+  },
+  {
+    "id": "4252714539",
+    "rating": 4,
+    "explanation": "The candidate has a strong background in full-stack development and integration, but lacks specific experience in data engineering. The role requires proficiency in data manipulation and analysis tools, which are not demonstrated in the candidate's skill set. While the candidate has experience with SQL and MongoDB, there is no evidence of working with big data tools like Hadoop or Spark. The candidate's experience in the healthcare and payment industries does not align with the biotechnology focus of Genentech. The candidate's soft skills, such as client-facing and teamwork abilities, are strong but not directly relevant to the Data Engineer role."
+  },
+  {
+    "id": "4223253647",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His previous roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with React, Python, Node.js, and Spring Boot, aligning well with the Data Engineer role. The project on Business Workflow Automation showcases his ability to reduce manual workflows through automation. While he may lack specific data engineering experience, his background in building management systems and dashboards indicates a solid foundation for this role. With some ramp-up time, he could excel in this entry-level position."
+  },
+  {
+    "id": "4204992570",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, Node.js, and Spring Boot, aligning well with the AI Trainer role's advanced Python developer requirement. With 1+ year of experience building full-stack systems and integrating payment processing solutions, Shehab demonstrates the ability to handle complex technical tasks. While the candidate lacks specific AI-related experience, the background in automation and API integration shows adaptability and problem-solving skills. Some client-facing experience from previous roles also indicates potential for teamwork and communication. Overall, Shehab is a solid match with a moderate learning curve to ramp up on AI-specific tasks."
+  },
+  {
+    "id": "4245387478",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with experience in Java, Python, React Native, Node.js, and Spring Boot, aligning well with the Java Developer role at Russell Tobin. His background in building full-stack management systems and dashboards demonstrates his ability to work on complex projects. While he may be slightly overqualified for an entry-level position, his experience in integrating payment systems and automating workflows adds value. With some client-facing experience, he also shows potential for cross-functional collaboration. Overall, a solid fit with potential for growth."
+  },
+  {
+    "id": "4256840330",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with React, Python, Node.js, and Spring Boot, aligning well with the backend Go Engineer position. His DevOps and automation skills, such as using Docker, Git, CI/CD, and Selenium, show readiness for the role's technical requirements. While the candidate may lack specific Go language experience, his overall skill set and project work indicate a solid foundation to quickly learn and adapt to the new technology stack."
+  },
+  {
+    "id": "4263543260",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the Associate Software Engineer role at Major League Baseball. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build full-stack systems, integrate payment processing solutions, and automate workflows. While he may lack specific experience in the publishing industry, his background in building dashboards and tools for different business domains showcases his adaptability. With his solid technical foundation and demonstrated ability to learn new technologies, Shehab is a strong candidate for this entry-level position."
+  },
+  {
+    "id": "4264752532",
+    "rating": 8,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework expertise. His experience as an Integration/Implementation Specialist and Software Engineer showcases his ability to build and integrate systems effectively. The project on Business Workflow Automation demonstrates his problem-solving skills. While the job details for Research Engineer - AI are not provided, Shehab's background in building dashboards, APIs, and automation tools align well with AI research roles. His client-facing experience and ability to reduce manual workflows show potential for collaboration and innovation in AI projects."
+  },
+  {
+    "id": "4261993925",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience, including React, Python, Node.js, and Spring Boot. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build complex systems and automate processes. While he lacks direct experience with C#, his background in full-stack development and DevOps tools like Docker and CI/CD pipelines show his ability to adapt to new technologies. With some ramp-up time, he could excel in the C# developer role at Radley James."
+  },
+  {
+    "id": "4245390313",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in Java, Python, React Native, Node.js, and Spring Boot, which align well with the Java Developer role at Russell Tobin. His experience in building full-stack management systems and integrating payment processing systems demonstrates his ability to work on complex projects. While he may be slightly overqualified for an entry-level position, his background in automation and client-facing support could be beneficial for the team. Some gaps in specific Java experience may require a short ramp-up period, but overall, he presents a solid match for the role."
+  },
+  {
+    "id": "4262537919",
+    "rating": 8,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His work in building internal dashboards, payment systems, and APIs align well with the software engineering specialist role. The experience level of 2+ years in software engineering positions, including internships, demonstrates a solid foundation. The domain relevance in fintech and healthcare industries from previous roles adds value. His client-facing experience and automation projects showcase soft skills alignment. Overall, Shehab is a strong match for the software engineering specialist role at xAI."
+  },
+  {
+    "id": "4265037414",
+    "rating": 7.5,
+    "explanation": "Candidate's technical skills align well with the Solutions Engineer role, showcasing proficiency in Python, Java, JavaScript, and various frameworks and tools. His experience as an Integration/Implementation Specialist and Software Engineer, although not extensive, demonstrates capability in problem-solving and system integration. His domain relevance is moderate, with experience in payment systems and insurance but no specific mention of working in a global e-commerce environment. Soft skills are evidenced by his client-facing roles and teamwork in previous positions. However, the candidate may require some ramp-up time to fully understand the specific business model and problem space of Global-e."
+  },
+  {
+    "id": "4252348881",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill match with a diverse programming language and framework experience. His previous roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with React, Python, Node.js, and Spring Boot, aligning well with the Trading Tools Developer position. The project on Business Workflow Automation showcases his ability to automate processes, a valuable skill for this role. While he may be slightly junior in terms of experience level, his background in building management systems and dashboards makes him a solid candidate for an entry-level position with potential for growth."
+  },
+  {
+    "id": "4262633743",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node.js, and more, aligning well with the Solutions Engineer I role requirements. With 2+ years of experience in software engineering roles, including building management systems and dashboards, he demonstrates the necessary experience level. His background in building internal tools and automation projects shows domain relevance. While lacking specific details on client-facing experience, his role in providing support and reducing onboarding time indicates potential soft skills alignment. Overall, Shehab is a solid fit for the entry-level Solutions Engineer I position."
+  },
+  {
+    "id": "4254118966",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical background with proficiency in several programming languages and frameworks, including JavaScript, TypeScript, React, and Node.js, which are often used in web development. Experience in building full-stack systems and integrating payment processing aligns with the freelance web developer role. However, the role is entry-level and the candidate's experience exceeds this, potentially indicating an over-qualification. The candidate's domain relevance is not clear as the industry and business model of the company are not specified. Soft skills are demonstrated through client-facing roles and teamwork in previous positions."
+  },
+  {
+    "id": "4262194299",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with experience in a variety of programming languages, frameworks, and DevOps tools relevant to the iOS Engineer role. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build full-stack systems, integrate payment processing, and automate workflows. While he may need to ramp up on iOS-specific technologies, his background in building dashboards and APIs align well with the role requirements. Overall, he is a solid candidate with potential for success in the position."
+  },
+  {
+    "id": "4253266664",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical background with proficiency in several programming languages and frameworks, including Java, Python, JavaScript, TypeScript, React Native, Node.js, and Spring Boot, which aligns well with the technical skills required for a Junior Prompt Engineer. He has 2 years of professional experience, which is suitable for an entry-level position. However, the candidate's experience is more focused on payment systems and education software, which might not be directly relevant to ConsultNet's business model or problem space. His experience in client-facing roles and teamwork is a plus, as these soft skills are often important in engineering roles. Overall, the candidate seems capable of handling the responsibilities of the role, but there might be a slight learning curve in understanding the specific domain."
+  },
+  {
+    "id": "4256033451",
+    "rating": 5.5,
+    "explanation": "Candidate has a solid foundation in programming with experience in full-stack development, but lacks specific experience with Angular, which is crucial for the role. They have demonstrated adaptability by working with various frameworks such as React Native, Node.js, and Spring Boot. However, the learning curve to become proficient in Angular could be significant. Their experience level aligns with the entry-level requirement. Domain relevance is not clear due to lack of job description details. Soft skills seem to align well as evidenced by their client-facing roles and teamwork in previous positions."
+  },
+  {
+    "id": "4263703229",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building internal dashboards, payment systems, and REST APIs demonstrates practical application of skills. While the candidate is relatively junior in terms of experience, his contributions in reducing onboarding time and automating workflows show initiative and problem-solving ability. The lack of specific AI-related projects or experience may require some ramp-up time, but the overall technical proficiency and adaptability make him a solid candidate for the entry-level Artificial Intelligence Intern role."
+  },
+  {
+    "id": "4264881241",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical skills match with proficiency in multiple programming languages, including Java and Python, and experience with various frameworks and tools like React Native, Docker, and AWS. With 3 years of experience in software engineering roles, the candidate aligns with the entry-level requirement. However, there's no direct experience with app stores, which might require some ramp-up time. The candidate has demonstrated good soft skills with client-facing roles and teamwork in previous positions."
+  },
+  {
+    "id": "4250838006",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the job requirements. His experience as an Integration/Implementation Specialist and Software Engineer demonstrates his ability to build internal dashboards, automate processes, and work with payment systems. While the job description is not provided, his background in software development, DevOps, and client-facing roles make him a solid candidate for an entry-level position at Perplexity in NYC."
+  },
+  {
+    "id": "4265268326",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the Solutions Engineer role at Viam. His experience as an Integration/Implementation Specialist and Software Engineer demonstrates his ability to work on web and mobile projects, build dashboards, integrate payment systems, and automate workflows. While he may lack specific details about the job description, his background in building management systems and working with APIs shows domain relevance. With his hands-on experience in DevOps tools and client-facing roles, Shehab is well-positioned to contribute effectively to Viam's team with a moderate learning curve."
+  },
+  {
+    "id": "4262177346",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His background as an Integration/Implementation Specialist and Software Engineer demonstrates hands-on experience with React, Python, Spring Boot, and Node.js, aligning well with the Solutions Engineer role. The project on Business Workflow Automation showcases his ability to reduce manual workflows through automation. While he may lack specific experience in the Solutions Engineer role, his technical skills and project experience make him a solid candidate with a moderate learning curve."
+  },
+  {
+    "id": "4239554312",
+    "rating": 4.5,
+    "explanation": "The candidate's skill set is primarily in full-stack web development, with no specific mention of iOS development experience or familiarity with Swift, which is crucial for an iOS Software Engineer role. While the candidate has a strong background in various programming languages and frameworks, these do not directly align with the iOS development stack. The candidate's experience level is suitable for an entry-level position, but the domain relevance is low as there's no evidence of work in a similar industry or problem space. Soft skills seem adequate with evidence of teamwork and client-facing roles. The candidate would require significant ramp-up time to become proficient in iOS development."
+  },
+  {
+    "id": "4224221373",
+    "rating": 8,
+    "explanation": "Shehab Ahamed demonstrates a strong match for the Data Engineer II role at Garner Health. With a Bachelor's in Computer Science from Rutgers University and 2+ years of professional experience in software engineering roles, he meets the experience level criteria. His proficiency in a variety of programming languages, frameworks, and tools such as Python, React Native, Node.js, and SQL align well with the technical skills required for the position. His experience in building internal dashboards, payment processing systems, and automation tools showcases his ability to work on data-related projects. While he may need some ramp-up time to fully grasp the specific domain of healthcare data, his overall skill set and experience make him a strong candidate for this role."
+  },
+  {
+    "id": "4198817587",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His previous roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with React, Python, Node.js, and Spring Boot, aligning well with the Design Engineer position. While his experience level is entry-level, his responsibilities in previous roles show a good scope of technical work. The domain relevance is slightly lower as he has mainly worked in payment systems and education technology, but his project on Business Workflow Automation shows adaptability. Soft skills alignment is not explicitly mentioned but inferred from client-facing support in previous roles. Overall, Shehab is a strong technical fit with potential for growth in this role."
+  },
+  {
+    "id": "4265055912",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, Node.js, and Spring Boot, which align well with the Systems Engineer role requirements. With 1+ year of professional experience and relevant projects in automation and full-stack development, he demonstrates the ability to handle complex technical tasks. While lacking specific domain experience in the job description, his background in payment systems and software engineering provides a solid foundation for learning and adapting to new domains. Overall, Shehab is a promising candidate with potential for growth in the role."
+  },
+  {
+    "id": "4264205579",
+    "rating": 6.5,
+    "explanation": "Candidate has a strong technical background with proficiency in multiple programming languages and frameworks, which is a positive. However, there's no direct experience with trading systems or financial domain, which could be a gap for the Trading Systems Dev role. The candidate's experience in building dashboards and working with APIs could be transferable skills. The candidate has client-facing experience and has demonstrated teamwork and communication skills in previous roles. Overall, the candidate could potentially fit the role with some domain-specific training."
+  },
+  {
+    "id": "4253543876",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the Solution Engineer role at Snowflake. His experience as an Integration/Implementation Specialist and Software Engineer demonstrates his ability to work on complex projects, build dashboards, and automate processes. While his current seniority level may be slightly below the entry-level requirement, his hands-on experience in software development and DevOps tools make him a strong candidate with potential for growth in the role."
+  },
+  {
+    "id": "4263658568",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His previous roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with React, Python, Node.js, and Spring Boot, aligning well with the job requirements. While the job description is not provided, the candidate's experience in building management systems, dashboards, and automation tools showcases his ability to work on complex systems. The candidate may need to ramp up on C++ and low latency trading systems, but his overall technical proficiency and problem-solving skills make him a solid candidate for this entry-level role."
+  },
+  {
+    "id": "4190704075",
+    "rating": 8,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building dashboards, integrating payment systems, and automating workflows directly aligns with the Solutions Engineer role. The use of React, Python, Node.js, and Spring Boot showcases his ability to work on full-stack projects. His experience in reducing onboarding time and manual labor demonstrates efficiency and problem-solving skills. While he may need some ramp-up time for specific tools or processes at FOX Tech, his overall skill set and experience make him a solid candidate for the position."
+  },
+  {
+    "id": "4262175120",
+    "rating": 8,
+    "explanation": "Shehab Ahamed demonstrates a strong match for the Quantitative Developer - Commodities role at Balyasny Asset Management. With a Bachelor's in Computer Science and 3+ years of experience in software engineering, including building full-stack systems and integrating payment processing tools, he shows a solid technical skills match. His experience with Python, React, Node.js, and Docker align well with the required technologies. While he may need to ramp up on the finance domain, his track record of building dashboards and automation tools showcases his ability to tackle complex problems effectively."
+  },
+  {
+    "id": "4264733883",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React Native, Node.js, and more. With 2+ years of professional experience in software engineering roles, including building management systems and dashboards, he demonstrates a solid foundation. While the current role focuses on payment systems integration, the transition to low latency trading systems may require some learning curve in C++ and specific domain knowledge. However, his track record of reducing manual workflows and automating processes shows potential for adapting to new challenges. Overall, a promising candidate with a moderate match for the entry-level trading systems developer position."
+  },
+  {
+    "id": "4221539170",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building internal dashboards, management systems, and REST APIs align well with the Forward Deployed Engineer role. While he may be considered entry-level, his previous roles demonstrate a solid foundation in software development. The project on Business Workflow Automation showcases his ability to streamline processes, which is relevant to Privy's business model. His client-facing experience at Priority Payment Systems Local adds value for potential client interactions at Privy. Overall, Shehab is a strong candidate with a moderate learning curve for the specific requirements of this role."
+  },
+  {
+    "id": "4238232936",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical skill set that aligns with the Growth Engineer role, including proficiency in Java, Python, JavaScript, and familiarity with various frameworks and tools like React Native, Node.js, and AWS. His experience in building full-stack systems and automating workflows is also relevant. However, he has less than two years of professional experience post-graduation, which may limit his ability to independently handle complex tasks. His domain relevance is moderate, with no specific growth or marketing experience mentioned. Soft skills seem strong, as evidenced by client-facing roles and teamwork in previous positions."
+  },
+  {
+    "id": "4265182118",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His work as an Integration/Implementation Specialist and Software Engineer demonstrates hands-on experience with React, Python, Spring Boot, and Node.js, aligning well with the Java developer role. While his experience level is entry-level, his projects showcase a practical application of his skills. The lack of specific details about the job description makes it challenging to assess domain relevance, but his background in building tools for merchants and educators suggests adaptability. His client-facing experience and automation projects indicate good soft skills alignment. With some additional guidance and training, Shehab could quickly ramp up to excel in this role."
+  },
+  {
+    "id": "4265129437",
+    "rating": 6,
+    "explanation": "Candidate has strong technical skills in Java, Python, JavaScript, and TypeScript, along with experience in several relevant frameworks and tools. However, there's no evidence of experience with Liquid Template, which is crucial for the Portal Developer role. His experience level is suitable for an entry-level position, and he has demonstrated ability to work in client-facing roles. However, the domain relevance is unclear as the job description is not provided. The candidate's soft skills seem to align with the role, as indicated by his experience in teamwork and communication."
+  },
+  {
+    "id": "4264533391",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in full-stack development using a variety of languages and frameworks. His work on building internal dashboards, payment systems, and automation tools demonstrates his ability to handle complex projects. While the candidate is relatively junior in terms of experience, his hands-on work in real-world projects and internships show a solid foundation. The candidate's experience in the fintech industry and working with payment systems align well with the Integration Engineer role at Global-e. His client-facing experience and ability to reduce onboarding time showcase strong soft skills. With some additional mentoring and guidance, Shehab could quickly ramp up and excel in this entry-level position."
+  },
+  {
+    "id": "4143424503",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with experience in a variety of programming languages, frameworks, and DevOps tools relevant to the ML Compiler Engineer role at Waymo. His experience as a Software Engineer and Integration/Implementation Specialist showcases his ability to build complex systems, integrate third-party tools, and automate processes. While he may lack specific experience in ML compiler engineering, his background in software development and automation projects demonstrates his ability to learn new technologies quickly. With some additional training and ramp-up time, Shehab could be a valuable addition to the team."
+  },
+  {
+    "id": "4264179376",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the role. His experience as an Integration/Implementation Specialist and Software Engineer showcases his ability to build and integrate systems effectively. While he lacks specific experience in the finance industry or with quantitative analysis, his background in building management systems and automation projects demonstrates his ability to learn new domains quickly. With some additional training and ramp-up time, he could be a valuable asset to Bank of America as an Equity Quant Developer."
+  },
+  {
+    "id": "4086259577",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His work as an Integration/Implementation Specialist and Software Engineer demonstrates hands-on experience with React, Python, Node.js, and Spring Boot, aligning well with the Developer Platform Engineer role. The projects he has worked on show a focus on automation and system integration, which could be beneficial for the DevOps responsibilities of the new role. While he may lack specific experience in the financial industry, his background in building tools for merchants and educators showcases his ability to adapt to different domains. Overall, Shehab is a solid candidate with the potential to excel in the entry-level Developer Platform Engineer position."
+  },
+  {
+    "id": "4261165006",
+    "rating": 7.5,
+    "explanation": "Candidate has a solid technical background with proficiency in several programming languages and tools, aligning well with the System Engineer role. Experience in building and integrating systems, as well as in DevOps, is a strong match. However, the candidate's experience level is slightly lower than ideal, with only 1 year in a full-time role post-graduation and no specific system engineering experience. Domain relevance is unclear without job description details. Soft skills seem adequate with evidence of teamwork and client-facing roles."
+  },
+  {
+    "id": "4252936134",
+    "rating": 6.5,
+    "explanation": "The candidate has a strong technical background with proficiency in several programming languages and frameworks. However, the job role is not clearly defined, making it difficult to assess the exact skill match. The candidate's experience level is suitable for an entry-level position. There is no clear domain relevance as the candidate's previous roles were in different industries and the job role does not specify the industry. The candidate has demonstrated good soft skills through client-facing roles and teamwork in previous jobs. However, without a clearer job description, it is challenging to assess the exact fit."
+  },
+  {
+    "id": "4264744128",
+    "rating": 9,
+    "explanation": "Shehab Ahamed demonstrates a strong match for the Quantitative Developer (Macro) role at Selby Jennings. With a Bachelor's in Computer Science from Rutgers University and 2+ years of experience in software engineering roles, he has a solid foundation. His proficiency in Java, Python, React Native, Node.js, and Spring Boot align well with the tech stack requirements. Experience in building management systems, integrating payment processing, and automating workflows showcases his ability to handle complex projects. While lacking specific experience in quantitative finance, his technical skills and problem-solving abilities make him a strong candidate with potential for growth in this domain."
+  },
+  {
+    "id": "4252933571",
+    "rating": 6.5,
+    "explanation": "Candidate has a strong technical background with proficiency in several programming languages and frameworks, which is a positive. However, the job title 'Bleacher Report Kicks Social Programmer' suggests a role that may involve social media or digital marketing, which isn't reflected in the candidate's experience. The candidate has solid experience in software engineering and implementation, but the relevance to the specific domain of the role is unclear without a job description. Soft skills seem to be strong, with evidence of client-facing roles and teamwork. Overall, a moderate match with potential, but domain relevance is a question mark."
+  },
+  {
+    "id": "4262546882",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building internal dashboards, payment systems, and APIs align well with the Data Engineer II role at Horizon Media. While his experience level is relatively junior, his track record of reducing manual workflows and automating processes demonstrates a proactive approach to problem-solving. His lack of specific data engineering experience may require some ramp-up time, but his overall technical proficiency and project work make him a solid candidate for the position."
+  },
+  {
+    "id": "4264127923",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React Native, Node.js, and more. With 2+ years of professional experience in software engineering roles, he has built full-stack systems, integrated payment processing, and automated workflows. While his current role focuses on payment systems, his experience in building dashboards, APIs, and automation align well with the C++ Low Latency Trading Systems Dev role. Shehab may need to ramp up on C++ and low latency trading specifics, but his overall technical proficiency and project experience make him a solid candidate for this entry-level position."
+  },
+  {
+    "id": "4262753754",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the Cloud Onboarding Engineer role. His experience as an Integration/Implementation Specialist and Software Engineer demonstrates his ability to work on complex projects, automate processes, and collaborate with cross-functional teams. While he may lack specific cloud onboarding experience, his background in building management systems, dashboards, and automation tools showcases his ability to adapt and learn quickly. With some additional training and ramp-up time, Shehab could excel in this entry-level position."
+  },
+  {
+    "id": "4263478221",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and framework experience. His work as an Integration/Implementation Specialist and Software Engineer showcases hands-on experience with React, Python, Spring Boot, and Node.js, aligning well with the Solana Data Engineer role. The project on Business Workflow Automation highlights his ability to automate processes, a valuable skill for data engineering. While his experience level is entry-level, his practical experience and project work demonstrate a solid foundation. Domain relevance is strong in fintech and software development. Soft skills alignment is not explicitly mentioned but can be assumed based on his client-facing support and teamwork in previous roles. Overall, Shehab is a strong candidate with potential for growth in the Solana Data Engineer position."
+  },
+  {
+    "id": "4262582524",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React Native, Node.js, and more. With 1+ year of full-time experience and relevant internships, he demonstrates a solid foundation. His work on building dashboards, integrating payment systems, and automating workflows showcases his ability to handle complex projects. While lacking specific protocol engineering experience, his general software engineering background and adaptability suggest a moderate learning curve for this entry-level role."
+  },
+  {
+    "id": "4206932785",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in full-stack development using a variety of languages and frameworks. His experience in building internal dashboards, payment systems, and automation tools demonstrates his ability to handle complex projects. While he has only 1 year of professional experience, his internship at Centene and current role at Priority Payment Systems show growth potential. The lack of specific details about the job role at Opto Investments makes it challenging to assess domain relevance, but his background in fintech and software development could be beneficial. Shehab's experience in client support and automation align well with potential client-facing and operations responsibilities. Overall, he is a solid match for an entry-level Solutions Engineer position with room for growth."
+  },
+  {
+    "id": "4248480796",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building dashboards, integrating payment systems, and developing APIs align well with the Workday Integration Developer role. The use of Docker and CI/CD pipelines in previous roles demonstrates readiness for similar responsibilities. While the candidate may lack specific experience in Workday integration, the ability to learn quickly and adapt based on past projects suggests a moderate learning curve. Overall, Shehab's background makes him a solid candidate for this entry-level position."
+  },
+  {
+    "id": "4263421610",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical background with proficiency in multiple programming languages and frameworks, aligning well with the technical skills requirement (8/10). With a year of professional experience and an internship, the candidate is slightly under the desired seniority level but still suitable for an entry-level role (7/10). The candidate's experience in payment systems and insurance may not directly translate to the E-Trading domain, resulting in a moderate score for domain relevance (6/10). However, the candidate has demonstrated client-facing and teamwork skills in previous roles, which aligns well with the soft skills requirement (8/10). Overall, the candidate is a moderate to strong match for the role."
+  },
+  {
+    "id": "4223325629",
+    "rating": 8,
+    "explanation": "Shehab Ahamed demonstrates a strong match for the Quantitative Researcher role at Onyx Alpha Partners. With a Bachelor's in Computer Science and 3+ years of software engineering experience, including building management systems and dashboards, he has the technical skills and experience level required. His background in Python, React, Node.js, and Spring Boot align well with the tech stack typically used in AI signal discovery. Additionally, his experience in automation and compliance (PCI-DSS, HIPAA) shows attention to detail and domain relevance. While he may need to ramp up on equities and deep learning specifics, his overall profile makes him a solid candidate for this role."
+  },
+  {
+    "id": "4264263756",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, Node.js, and more. With 2+ years of experience in software engineering roles, including building management systems and dashboards, he demonstrates the ability to handle complex projects. His experience in integrating payment systems and ensuring compliance adds value. While lacking specific domain relevance to AI, his overall skill set and experience level make him a solid candidate for an entry-level position at Fractional AI."
+  },
+  {
+    "id": "4240197236",
+    "rating": 9,
+    "explanation": "Shehab Ahamed demonstrates a strong match for the AI Automation Engineer role at Conductor. With a Bachelor's in Computer Science and 2+ years of experience in software engineering roles, he has a solid technical foundation. His proficiency in Java, Python, React Native, Node.js, and Spring Boot align well with the required tech stack. Experience in building internal dashboards, integrating payment systems, and automating workflows showcases his ability to work on automation projects. While he may need some ramp-up time in AI-specific technologies, his overall skill set and experience make him a strong candidate for the role."
+  },
+  {
+    "id": "4201154071",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the Rust Engineer - Trading role. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to work on complex projects, integrate payment systems, and automate workflows. While he may not have direct experience with Rust, his background in building full-stack systems and working with diverse technologies suggests he could quickly ramp up on the language. His education in Computer Science from Rutgers University also provides a solid foundation for learning new technologies. Overall, Shehab is a strong candidate with the potential to excel in this entry-level Rust Engineer position."
+  },
+  {
+    "id": "4263088227",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building dashboards, integrating payment systems, and automating workflows demonstrates practical skills. While he is relatively new to the workforce, his internships and current role show a progression in responsibilities. The domain relevance is high with experience in fintech and healthcare-related projects. His client-facing experience and ability to reduce manual workflows through automation are valuable soft skills. With some additional experience, he could be a strong fit for an entry-level AI Automation Specialist role."
+  },
+  {
+    "id": "4265200514",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React Native, Node.js, and more. With 2+ years of experience in software engineering roles, including building management systems and dashboards, he demonstrates a solid foundation. His experience in building PCI-DSS compliant tools and automating workflows shows domain relevance in fintech and automation. While lacking specific big data engineering experience, his background in handling large datasets and APIs could facilitate a moderate learning curve for this role."
+  },
+  {
+    "id": "4224377160",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the Solutions Engineer role at PubMatic. His experience as an Integration/Implementation Specialist and Software Engineer demonstrates his ability to work on complex projects, build dashboards, integrate payment systems, and automate workflows. While he may lack direct experience in the advertising industry, his background in software development and automation align well with the technical requirements of the role. With some domain-specific training, Shehab could quickly ramp up and excel in this position."
+  },
+  {
+    "id": "4250593138",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the job requirements. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build systems, integrate payment processing, and automate workflows. While he may be slightly junior for an entry-level Quantitative Developer role, his background in building dashboards, REST APIs, and automation projects showcases his potential to grow into the position with some additional training and mentorship."
+  },
+  {
+    "id": "3928090365",
+    "rating": 5,
+    "explanation": "Candidate has a strong full-stack development background with proficiency in multiple languages and frameworks, but none specifically related to Appian. Experience in integration and implementation roles shows potential to adapt to the Appian platform, but there will be a learning curve. The candidate's experience with workflow automation and payment systems could be beneficial, but the lack of direct experience in the Appian platform is a significant gap. The candidate's soft skills, such as client-facing experience and teamwork, are well-demonstrated in past roles."
+  },
+  {
+    "id": "4264734725",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework background, including Java, Python, React Native, and Node.js, aligning well with the job requirements. With 1 year of full-time experience and relevant internships, he demonstrates a good level of experience for an entry-level position. His previous roles in software engineering and integration specialist positions show domain relevance in payment systems and education management. The candidate's experience in building dashboards, integrating payment systems, and automating workflows showcases his ability to handle complex projects. While lacking direct experience in low latency trading systems, his technical acumen and problem-solving skills suggest a moderate learning curve for this role."
+  },
+  {
+    "id": "4265254018",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical background with proficiency in Java, Python, JavaScript, TypeScript, and C/C++, which aligns with the technical skills required for the role. Experience with React Native is particularly relevant for a Mobile Engineer role. However, the job is entry-level, and the candidate has over 3 years of experience, which may suggest they are slightly overqualified. The candidate's experience in building full-stack management systems and integrating payment processing systems could be beneficial, but it's not directly related to the mobile engineering domain. Soft skills are demonstrated through client-facing roles and teamwork in previous positions."
+  },
+  {
+    "id": "4262330307",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience, including React Native, Node.js, and Spring Boot, which align well with the Data Scientist/Machine Learning Engineer role at Faire. With 1+ year of professional experience in software engineering and internships at Centene, he has demonstrated the ability to build complex systems and work on large-scale projects. The project on Business Workflow Automation showcases his ability to reduce manual workflows through automation, which is relevant to the role's focus on personalization. While he may benefit from more experience in data science and machine learning, his background in building dashboards and APIs could be leveraged in this role. Overall, Shehab is a strong candidate with potential for growth in the data science domain."
+  },
+  {
+    "id": "4252065427",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, Node.js, and Spring Boot, aligning well with the developer role. With 1 year as a Software Engineer and experience building management systems and dashboards, he demonstrates the required experience level. His background in building PCI-DSS compliant tools and automating workflows shows domain relevance in the fintech industry. While lacking specific BI experience, his technical skills and project work indicate a solid foundation for the role with potential for growth."
+  },
+  {
+    "id": "4264732281",
+    "rating": 4,
+    "explanation": "The candidate has strong programming skills and experience in several languages and frameworks, but none of them are Oracle ADF, which is a critical requirement for this role. His experience is mainly in web development and payment systems, not in the specific domain of Oracle ADF development. The candidate's experience level is suitable for an entry-level position, and he has demonstrated good client-facing and teamwork skills. However, the lack of Oracle ADF knowledge and experience would require significant ramp-up time and training."
+  },
+  {
+    "id": "4262974530",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His previous roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with React, Python, Node.js, and Spring Boot, aligning well with the Cloud Support Engineer role requirements. His DevOps experience with Docker, CI/CD, and AWS is beneficial. While he may lack specific cloud support experience, his background in building management systems and dashboards shows relevant problem-solving skills. With some ramp-up time, he could excel in this entry-level position."
+  },
+  {
+    "id": "4264749156",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and framework proficiency, along with experience in DevOps tools and practices. His recent role as an Integration/Implementation Specialist showcases his ability to build internal dashboards, automate processes, and work with payment systems. The Software Engineer roles at FediSoft and Centene further solidify his full-stack development capabilities and experience with CI/CD pipelines. While he lacks specific SRE/DevOps title experience, his background in automation, CI/CD, and cloud services like AWS make him a strong candidate for an entry-level SRE/DevOps role with a moderate learning curve."
+  },
+  {
+    "id": "4265158180",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node.js, and Spring Boot, aligning well with the UAS Field Application Engineer role requirements. With 1+ year of experience building full-stack systems and integrating payment processing solutions, he demonstrates the ability to work on complex projects. While lacking specific domain experience in UAS, his background in developing dashboards and automation tools shows adaptability and problem-solving skills. Client-facing experience and automation projects indicate good soft skills alignment. Overall, Shehab is a solid fit for the role with potential for growth."
+  },
+  {
+    "id": "4263006534",
+    "rating": 8,
+    "explanation": "Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node.js, and more, aligning well with the tech stack required for the Product Engineer II role at Garner Health. With 1+ year of experience as a Software Engineer and hands-on projects like building management systems and automation tools, he demonstrates the ability to handle responsibilities at an entry-level seniority. His background in developing PCI-DSS compliant tools and integrating payment systems shows domain relevance in the fintech industry. While he may need some ramp-up time for specific domain knowledge, his solid technical foundation and experience make him a strong candidate for the role."
+  },
+  {
+    "id": "4264740384",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed demonstrates a strong technical skills match with a diverse programming language and framework expertise, including React, Python, Node.js, and Spring Boot. His experience as a Software Engineer and Integration/Implementation Specialist showcases his ability to build and integrate systems effectively. While the candidate lacks specific MSR Quantitative Developer experience, his background in building management systems, dashboards, and automation projects align well with the technical requirements of the role. With some ramp-up time to learn the domain specifics, Shehab could be a valuable addition to Lakeview Household Insurance Solutions."
+  },
+  {
+    "id": "4265220392",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed demonstrates a strong technical skills match with proficiency in Java, Python, JavaScript, React Native, Node.js, and Spring Boot, aligning well with the required tech stack. With 1+ year of professional experience and relevant internships, he shows a good level of experience for an entry-level position. While his current role focuses on payment systems, the transition to low latency trading systems may require some domain knowledge adjustment. However, his background in automation and integration projects showcases adaptability and problem-solving skills, which are valuable in a fast-paced trading environment."
+  },
+  {
+    "id": "4265282369",
+    "rating": 6.5,
+    "explanation": "Candidate has a strong technical background with proficiency in multiple programming languages and frameworks, aligning with the technical skills requirement. However, the role is for a Quantitative Developer which may require more experience in financial modeling and statistical analysis, areas not evident in the candidate's resume. The candidate has experience in the software and payment systems industries, but no direct experience in the mortgage or financial services industry. Soft skills seem to be strong, with evidence of client-facing roles and teamwork. Overall, the candidate could potentially fit with additional training in the financial domain."
+  },
+  {
+    "id": "4239705000",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the job requirements. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to work on full-stack projects, integrate payment systems, and automate workflows. While the job is entry-level and Shehab has some experience, his background in building management systems and dashboards align well with the role. His familiarity with DevOps tools like Docker and CI/CD pipelines is a plus. However, he may need some ramp-up time to learn KDB development specifics."
+  },
+  {
+    "id": "4263150679",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the Quality Assurance Developer role. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to work on complex projects, automate processes, and collaborate with cross-functional teams. While he may need some ramp-up time to familiarize himself with the specific requirements of the role, his background in building management systems, dashboards, and automation tools make him a solid candidate for this position."
+  },
+  {
+    "id": "4263543817",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools relevant to the MSR Quantitative Developer role. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build complex systems, integrate third-party APIs, and automate processes. While he may lack specific experience in the financial industry, his background in building dashboards, payment processing systems, and automation projects shows his ability to adapt to new domains. With some ramp-up time to learn the specific requirements of the financial industry, Shehab could be a valuable addition to the team."
+  },
+  {
+    "id": "4207845981",
+    "rating": 8,
+    "explanation": "Shehab Ahamed has a strong technical skills match with expertise in Java, Python, React Native, Node.js, and more, directly aligning with the Collibra Technical Developer role requirements. With 1+ year of experience as a Software Engineer and current role as an Integration/Implementation Specialist, he has demonstrated hands-on experience in building dashboards, integrating payment systems, and automating workflows. His background in building management systems and REST APIs further strengthens his fit for this role. While lacking specific Collibra experience, his overall technical proficiency and project work showcase his ability to adapt and learn quickly in new domains."
+  },
+  {
+    "id": "4263151633",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His previous roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with React, Python, Node.js, and Spring Boot, aligning well with the QA Test Engineer role. His project on Business Workflow Automation showcases his ability to reduce manual workflows through automation, a valuable skill for QA testing. While he may need to ramp up on specific QA testing tools and methodologies, his overall technical background makes him a solid candidate for the position."
+  },
+  {
+    "id": "4265004710",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building dashboards, integrating payment systems, and developing APIs align well with the job requirements. While his current role focuses more on payment systems and automation, his background in software engineering and internships provide a solid foundation for transitioning to low latency trading systems development. With some additional training and ramp-up time, Shehab could excel in this entry-level position."
+  },
+  {
+    "id": "4264034908",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse stack including Java, Python, React Native, Node.js, and more. With 2+ years of professional experience in software engineering roles, he has demonstrated the ability to build full-stack systems, integrate payment processing solutions, and automate workflows. His experience in building internal dashboards, PCI-DSS compliant tools, and CI/CD pipelines align well with the System Engineer L2 role. While he may benefit from more seniority and domain relevance in the MSP industry, his solid technical foundation and experience level make him a strong candidate with potential for growth."
+  },
+  {
+    "id": "4262546594",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical skill set that aligns with the role, including experience with Java, Python, JavaScript, and various frameworks and tools. The experience with payment systems integration at Priority Payment Systems Local is particularly relevant for a Payments role. However, the candidate is slightly underqualified in terms of experience level, with only one year of full-time software engineering experience after graduation. The candidate has demonstrated client-facing and teamwork skills, but there is no specific mention of experience with site reliability engineering (SRE), which could require additional training."
+  },
+  {
+    "id": "4221614800",
+    "rating": 8.2,
+    "explanation": "Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, Node.js, and Spring Boot, aligning well with the GTM Solutions Engineer role requirements. With 1+ year of experience in integration and implementation, Shehab has demonstrated the ability to build internal dashboards, automate processes, and work on full-stack projects. The experience in PCI-DSS compliance and HIPAA regulations shows domain relevance. While lacking specific details on client-facing experience, the candidate's background in reducing manual workflows through automation and supporting onboarding demonstrates potential for effective communication and teamwork. Overall, Shehab is a solid fit for the Associate level GTM Solutions Engineer position."
+  },
+  {
+    "id": "4194883013",
+    "rating": 2,
+    "explanation": "The candidate's skills and experience are primarily in software development, with a focus on web technologies and automation. However, the job role is for a Junior Transmission Line Design Engineer, which likely requires a background in electrical engineering and knowledge of power systems. The candidate's experience and skills do not align with the job requirements. The domain relevance is low as the candidate's experience is in the payment and education sectors, not in power transmission or infrastructure. The candidate would require significant training and ramp-up time to fit into this role."
+  },
+  {
+    "id": "4263778989",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building internal dashboards, payment systems, and APIs align well with the forward deployed engineer role. While he is an entry-level candidate, his track record of reducing onboarding time and automating workflows demonstrates a proactive approach to problem-solving. His client-facing experience at Priority Payment Systems Local also indicates potential for effective communication and collaboration. With some additional experience, Shehab could be a valuable asset to Addepar."
+  },
+  {
+    "id": "4262545605",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, Node.js, and other relevant technologies for the Site Reliability Engineer role at TikTok. With 1+ year of professional experience in software engineering and integration, he demonstrates the ability to work with diverse tech stacks and frameworks. His experience in building internal dashboards, payment systems, and automation tools showcases his problem-solving skills. While lacking specific AML or recommendation system experience, his adaptable nature and quick learning ability suggest he could quickly ramp up in the new domain. Overall, a solid fit with potential for growth in the role."
+  },
+  {
+    "id": "4262547468",
+    "rating": 6.5,
+    "explanation": "Candidate has a solid technical foundation with experience in multiple programming languages and frameworks, including Java, Python, and JavaScript, which could be beneficial for a Site Reliability Engineer role. However, the role is focused on data platforms, and the candidate's experience seems more centered around web development and payment systems integration. While the candidate has worked with SQL and MongoDB, there's no clear evidence of extensive data platform experience. The candidate's experience with DevOps tools like Docker, AWS, and CI/CD is a plus, but the lack of explicit site reliability engineering experience is a gap. Soft skills appear strong with client-facing roles and teamwork evident in past roles."
+  },
+  {
+    "id": "4265503468",
+    "rating": 6.5,
+    "explanation": "Candidate has strong technical skills in programming languages and frameworks (Java, Python, JavaScript, React, Node.js, Spring Boot), which are valuable for a Quantitative Developer role. However, the job description does not specify the exact technologies required, making it difficult to assess a direct match. The candidate has about 2 years of relevant work experience, which is suitable for an entry-level position. However, there's no evidence of experience in financial domain or quantitative development, which could require additional training. Soft skills seem strong, with evidence of client-facing roles and teamwork. Overall, a moderate match with potential, but may require domain-specific ramp-up."
+  },
+  {
+    "id": "4265528139",
+    "rating": 8,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a variety of programming languages, frameworks, and DevOps tools that align well with the MSR Quantitative Developer role. His experience as an Integration/Implementation Specialist and Software Engineer demonstrates his ability to build complex systems, integrate payment processing solutions, and automate workflows. The project on Business Workflow Automation showcases his ability to reduce manual processes through automation. While he may be considered slightly overqualified for an entry-level position, his technical expertise and project experience make him a strong fit for the role."
+  },
+  {
+    "id": "4265504623",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building dashboards, payment systems, and APIs align well with the Associate Consultant Mechanical Engineer role. While his background is more software-focused, his ability to automate workflows and ensure compliance demonstrate a strong problem-solving mindset. With some ramp-up time on the mechanical engineering aspects, he could be a valuable addition to the team."
+  },
+  {
+    "id": "4265601204",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His hands-on experience in building internal dashboards, payment systems, and REST APIs align well with the Associate Consultant Mechanical Engineer role. While his focus has been on software development, his ability to automate workflows and ensure compliance demonstrates a strong problem-solving mindset. With some ramp-up time to learn the specific domain of Mission Critical/Data Centers, Shehab could be a valuable addition to the team."
+  },
+  {
+    "id": "4262551002",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His previous roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with React, Python, Node.js, and Spring Boot, which align well with the Data Engineer role at TikTok. The project experience in business workflow automation showcases his ability to reduce manual workflows through automation. While the candidate may lack specific experience in the video platform industry, his technical skills and project experience make him a strong candidate with a moderate learning curve to ramp up in the new domain."
+  },
+  {
+    "id": "4264264628",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and DevOps tools. His experience as an Integration/Implementation Specialist and Software Engineer align well with the Operations Specialist role at DriveWealth. His work on building internal dashboards, integrating payment systems, and automating workflows demonstrate his ability to handle operational tasks efficiently. While he may need some ramp-up time to familiarize himself with the specific domain of DriveWealth, his overall skill set and experience make him a solid candidate for the role."
+  },
+  {
+    "id": "4263775784",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, JavaScript, React Native, Node.js, Spring Boot, and more. With 1+ year of experience as an Integration/Implementation Specialist and Software Engineer, he has demonstrated the ability to build internal dashboards, automate processes, and integrate payment systems. His project on Business Workflow Automation showcases his ability to reduce manual workflows through automation. While he may need some ramp-up time for specific AI solutions, his background in software development and automation align well with the technical requirements of the role."
+  },
+  {
+    "id": "4264167255",
+    "rating": 4.5,
+    "explanation": "Candidate has strong technical skills in Java, Python, JavaScript, TypeScript, and C/C++, along with experience in various frameworks and tools. However, there's no evidence of Oracle EPM or any related Oracle technologies, which is a significant gap for this role. While the candidate has relevant experience in software development, the lack of domain-specific knowledge in Oracle EPM is a concern. Soft skills seem adequate, with evidence of client-facing roles and teamwork. Overall, the candidate might require substantial training and ramp-up time to fill the skill gap."
+  },
+  {
+    "id": "4264596730",
+    "rating": 9,
+    "explanation": "Shehab Ahamed is a strong match for the Developer Advocate role at AWS. With a Bachelor's in Computer Science and 2+ years of experience in software engineering roles, he has a solid technical foundation. His expertise in React, Python, Node.js, and Docker align well with the tech stack at AWS. His experience in building dashboards, integrating payment systems, and automating workflows demonstrates his ability to drive developer productivity. While he may need some ramp-up time on AWS-specific tools, his overall skill set and experience make him a highly suitable candidate for this role."
+  },
+  {
+    "id": "4250977624",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skill set with experience in a variety of programming languages, frameworks, and tools that align well with the Salesforce Developer role at Amazon. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to work on complex projects, integrate systems, and develop solutions. While he may not have direct experience in Salesforce development, his background in building management systems, dashboards, and automation tools showcases his ability to learn new technologies quickly. With some additional training and ramp-up time, Shehab could excel in this role."
+  },
+  {
+    "id": "4261173319",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His roles as an Integration/Implementation Specialist and Software Engineer demonstrate hands-on experience with React, Python, Spring Boot, and Node.js, aligning well with the job requirements. The projects he worked on, such as building internal dashboards and management systems, showcase his ability to deliver impactful solutions. While he may lack specific experience in quantitative research, his background in automation and development could be valuable for Citadel's technology-driven environment. With some ramp-up time to learn the domain specifics, Shehab could be a solid entry-level candidate for this role."
+  },
+  {
+    "id": "4263658700",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with expertise in front-end development technologies like React Native and JavaScript. His experience as a Software Engineer and Integration/Implementation Specialist demonstrates his ability to build and integrate complex systems. While he may be slightly overqualified for an entry-level position, his hands-on experience with CI/CD pipelines, automation, and client-facing support make him a valuable candidate for the role at TieTalent. With a minor learning curve to adapt to the specific requirements of the new company, he is a solid match for the position."
+  },
+  {
+    "id": "4264123622",
+    "rating": 7.5,
+    "explanation": "Candidate has a solid foundation in programming languages and frameworks required for the role, including Java, Python, JavaScript, and experience with AWS and Docker. However, the role is entry-level and the candidate's experience is slightly above that, having worked as a Software Engineer and Integration/Implementation Specialist. The candidate has demonstrated ability to work in client-facing roles and has experience in different industries, but there's no specific evidence of experience in system-level software development. The candidate's experience in automation and CI/CD could be beneficial for the role."
+  },
+  {
+    "id": "4263664016",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical background with proficiency in multiple programming languages and frameworks, aligning well with the role's technical requirements. His experience with full-stack development, API integration, and automation are valuable. However, the role is entry-level, and the candidate's experience level is slightly higher, having worked as a Software Engineer and Integration Specialist. The candidate's domain relevance is not directly stated, but his experience in payment systems and insurance may be transferable. His client-facing experience and demonstrated teamwork are beneficial for soft skills alignment."
+  },
+  {
+    "id": "4264122265",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His background in building internal dashboards, payment systems, and automation tools demonstrates his ability to handle software engineering responsibilities. While he is relatively new to the industry with 2 years of experience, his hands-on work with real-time data validation and compliance requirements shows a good level of domain relevance. His experience in client support and reducing onboarding time also highlights soft skills alignment. With some additional experience, he could be a solid fit for the entry-level software engineer role at TieTalent."
+  },
+  {
+    "id": "4263662155",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework expertise, including React Native, Node.js, and Python, which align well with the software engineer role. With 1+ year of full-stack experience and a relevant internship at Centene, he demonstrates a solid foundation. His experience in building internal dashboards, integrating payment systems, and automating workflows showcases his ability to handle complex projects. While lacking specific macOS development experience, his general software engineering skills and adaptability suggest a moderate learning curve for this role."
+  },
+  {
+    "id": "4264123300",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with expertise in Java, Python, JavaScript, React Native, Node.js, and Spring Boot, which align well with the requirements for the Security Engineer II role. His experience as an Integration/Implementation Specialist and Software Engineer demonstrates his ability to work with complex systems, integrate payment processing solutions, and build secure applications. While he may need to deepen his knowledge in security-specific tools and practices, his background in PCI-DSS compliance and HIPAA regulations shows a foundation in security principles. With some additional training and ramp-up time, Shehab could be a valuable asset to the security team at TieTalent."
+  },
+  {
+    "id": "4263655780",
+    "rating": 7.5,
+    "explanation": "Shehab Ahamed has a strong technical skills match with a diverse programming language and framework experience. His background in building internal dashboards, payment systems, and automation tools demonstrates hands-on experience. While he is relatively new to the workforce, his internships and current role show a progression in responsibilities. The deployment strategist role may require more client-facing experience, but his ability to reduce onboarding time and automate processes showcases potential for effective communication and teamwork. Overall, Shehab is a solid match with room for growth in client interactions."
+  },
+  {
+    "id": "4264122407",
+    "rating": 8,
+    "explanation": "Shehab Ahamed demonstrates a strong match for the Research Scientist II role at TieTalent. With a Bachelor's in Computer Science and 3+ years of full-stack development experience, he has the technical skills required for the position. His experience in building management systems, integrating payment processing, and automating workflows align well with the job responsibilities. Additionally, his background in working with APIs, CI/CD pipelines, and compliance standards showcases his ability to handle complex technical challenges. While he may need some ramp-up time to familiarize himself with the specific domain of research science, his overall skill set makes him a solid candidate for the role."
+  },
+  {
+    "id": "4265388794",
+    "rating": 9,
+    "explanation": "Shehab Ahamed has a strong technical skills match with proficiency in Java, Python, React Native, Node.js, and Spring Boot, aligning well with the Java Software Engineer role requirements. With 3+ years of experience in software engineering roles, including building full-stack systems and integrating payment processing solutions, he demonstrates the necessary experience level for the position. His background in developing PCI-DSS compliant tools and automating workflows showcases domain relevance. Additionally, his experience in client support and collaboration on projects indicates strong soft skills alignment. Overall, Shehab is a highly suitable candidate for the Java Software Engineer role at Umanist."
+  },
+  {
+    "id": "4262552305",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical skill set that aligns with the Software Engineer role, including proficiency in Java, Python, JavaScript, and familiarity with frameworks such as React Native, Node.js, and Spring Boot. Experience with DevOps tools like Docker, AWS, and CI/CD is also a plus. However, the candidate's experience level is relatively low, with only about 3 years in the field. The candidate has experience in the payment and insurance industries, which may not directly translate to the needs of a financial investment firm. Soft skills seem strong, with evidence of client-facing roles and teamwork. Overall, the candidate could be a good fit but may require some ramp-up time to understand the specific domain."
+  },
+  {
+    "id": "4265251473",
+    "rating": 8,
+    "explanation": "Shehab Ahamed is a strong match for the Applied AI Engineer role. With a Bachelor's in Computer Science and 3+ years of experience in software engineering, he demonstrates a solid technical foundation. His proficiency in Java, Python, React Native, Node.js, and Spring Boot align well with the required tech stack. Experience in building dashboards, integrating payment systems, and ensuring compliance showcases his domain relevance. Additionally, his automation project highlights his ability to streamline workflows. While lacking specific AI experience, his overall skill set and experience level make him a promising candidate with a potential learning curve in AI concepts."
+  },
+  {
+    "id": "4265013705",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical background with proficiency in required languages such as Java, Python, and JavaScript. Experience with Selenium aligns with the automation testing requirement. However, the role is for a Software Test Engineer, and the candidate's experience is primarily in software development, not testing. While they have worked with CI/CD and automated invoice generation, it's not clear if they have experience designing and executing test plans. The candidate has experience in client-facing roles, which could be beneficial for teamwork and communication. Domain relevance is moderate, with no specific industry alignment but broad experience in software engineering."
+  },
+  {
+    "id": "4262326260",
+    "rating": 8,
+    "explanation": "Shehab Ahamed demonstrates a strong technical skills match with proficiency in a variety of programming languages, frameworks, and tools relevant to the AI Agents Engineer role. With 1+ year of experience in software engineering roles, including building full-stack systems and integrating payment processing solutions, he shows a solid foundation. While his current role focuses on payment systems, the experience in building dashboards, automation tools, and REST APIs align well with the technical requirements of the AI Agents Engineer position. Shehab's background in Computer Science from Rutgers University further supports his qualifications for this role. With some exposure to client-facing responsibilities, he shows potential for collaboration and communication skills development in a client-facing role."
+  },
+  {
+    "id": "4262323437",
+    "rating": 7.5,
+    "explanation": "Candidate has a strong technical skills match with proficiency in several programming languages and frameworks (40%). His experience level is moderate with over a year of professional experience in software engineering roles, but lacks seniority (25%). Domain relevance is not clear due to lack of job description, but his experience in building dashboards and automating workflows could be beneficial (20%). He has demonstrated soft skills through client-facing roles and teamwork in his previous positions (15%). However, the lack of specific job details makes it hard to fully assess his fit for the role."
+  }
+]

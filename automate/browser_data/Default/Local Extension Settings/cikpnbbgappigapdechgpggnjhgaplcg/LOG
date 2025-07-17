@@ -1,0 +1,19 @@
+2025/07/15-19:22:05.872 2ff0f Reusing MANIFEST /Users/shehabahamed/linkedin-job-rater-py/automate/browser_data/Default/Local Extension Settings/cikpnbbgappigapdechgpggnjhgaplcg/MANIFEST-000001
+2025/07/15-19:22:05.874 2ff0f Recovering log #240
+2025/07/15-19:22:05.883 2ff0f Reusing old log /Users/shehabahamed/linkedin-job-rater-py/automate/browser_data/Default/Local Extension Settings/cikpnbbgappigapdechgpggnjhgaplcg/000240.log 
+2025/07/15-19:22:12.649 2ff11 Level-0 table #245: started
+2025/07/15-19:22:12.662 2ff11 Level-0 table #245: 987541 bytes OK
+2025/07/15-19:22:12.667 2ff11 Delete type=0 #240
+2025/07/15-19:22:30.811 2ff11 Compacting 1@1 + 1@2 files
+2025/07/15-19:22:30.826 2ff11 Generated table #246@1: 260 keys, 1164603 bytes
+2025/07/15-19:22:30.826 2ff11 Compacted 1@1 + 1@2 files => 1164603 bytes
+2025/07/15-19:22:30.828 2ff11 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/15-19:22:31.225 2ff11 Level-0 table #248: started
+2025/07/15-19:22:31.230 2ff11 Level-0 table #248: 882540 bytes OK
+2025/07/15-19:22:31.232 2ff11 Delete type=0 #244
+2025/07/15-19:22:31.232 2ff11 Delete type=2 #242
+2025/07/15-19:22:31.232 2ff11 Delete type=2 #245
+2025/07/15-19:24:05.869 2ff11 Compacting 1@1 + 1@2 files
+2025/07/15-19:24:05.899 2ff11 Generated table #249@1: 276 keys, 1372421 bytes
+2025/07/15-19:24:05.899 2ff11 Compacted 1@1 + 1@2 files => 1372421 bytes
+2025/07/15-19:24:05.902 2ff11 compacted to: files[ 0 0 1 0 0 0 0 ]
