@@ -1,5 +1,6 @@
 {
-  "days_limit": 7,
+  "days_limit": 10,
+  "use_location_filter": false,
   "aggregator_keywords": [
     "jobs via dice", "jobright.ai", "lensa", "jobot", "talent.com", "jooble",
     "hired.com", "snagajob", "wayup", "monster", "jobrapido", "adzuna",

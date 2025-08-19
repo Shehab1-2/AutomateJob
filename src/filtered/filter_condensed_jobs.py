@@ -135,20 +135,25 @@ def passes_filter(job, existing_ids):
     if any(term in title for term in config["excluded_seniority"]):
         return False, "senior_role"
 
-    location_match = False
-    if location:
-        # Check if location matches allowed locations
-        if any(allowed in location for allowed in config["allowed_locations"]):
+    # ✅ Location filter (optional)
+    if config.get("use_location_filter", True):  # default True if not present
+        location_match = False
+        if location:
+            # Check if location matches allowed locations
+            if any(allowed in location for allowed in config["allowed_locations"]):
+                location_match = True
+
+        # Also check description for remote work indicators
+        remote_indicators = [
+            "remote", "work from home", "wfh", "telecommute", 
+            "distributed team", "remote-friendly", "100% remote"
+        ]
+        if any(indicator in description for indicator in remote_indicators):
             location_match = True
-    
-    # Also check description for remote work indicators
-    remote_indicators = ["remote", "work from home", "wfh", "telecommute", "distributed team", "remote-friendly", "100% remote"]
-    if any(indicator in description for indicator in remote_indicators):
-        location_match = True
-    
-    # If we have location data but no match, filter out
-    if location and not location_match:
-        return False, "location_mismatch"
+
+        # If we have location data but no match, filter out
+        if location and not location_match:
+            return False, "location_mismatch"
 
     # Age filter
     posted = job.get("postedAt")
@@ -161,6 +166,7 @@ def passes_filter(job, existing_ids):
             pass
 
     return True, "passed"
+
 
 def filter_jobs(jobs, existing_ids):
     """Filter jobs based on all criteria"""

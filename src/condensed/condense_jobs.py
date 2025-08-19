@@ -5,7 +5,7 @@ from typing import Dict, List, Optional
 import logging
 
 # Configuration
-SCRAPED_DIR = Path(__file__).parent.parent / "scraped" / "scraped_data"
+SCRAPED_DIR = Path(__file__).parent.parent / "scraped" / "scraped"
 OUTPUT_DIR = Path(__file__).parent / "condense_data"
 LOG_DIR = Path(__file__).parent / "log"
 DESCRIPTION_MAX_LENGTH = 500

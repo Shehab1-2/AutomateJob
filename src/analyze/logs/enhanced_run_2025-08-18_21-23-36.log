@@ -1,0 +1,914 @@
+2025-08-18T21:23:36.496757 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-08-18T21:23:36.498570 - INFO - Loaded 73 jobs from ../filtered/filter_data/filtered_jobs_2025-08-18_21-23-20.json
+2025-08-18T21:23:36.498610 - INFO - 📄 Resume loaded (2250 characters)
+2025-08-18T21:23:36.498636 - INFO - 📋 Found 228 cached evaluations
+2025-08-18T21:23:39.373529 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:23:42.435061 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:23:42.435272 - INFO - JOB: NextService Implementation Consultant at Caravel | BPM Technology Solutions
+2025-08-18T21:23:42.435583 - INFO - RATING: 7/10
+2025-08-18T21:23:42.435692 - INFO - EXPLANATION: Candidate has strong technical skills in Java, Python, and JavaScript, aligning well with the likely...
+2025-08-18T21:23:42.435786 - INFO - TOKENS: 96 explanation | 2199 total
+2025-08-18T21:23:42.436088 - INFO - COST: $0.0056 | CUMULATIVE: $0.0056
+2025-08-18T21:23:42.436254 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:23:42.436439 - INFO - 🔗 Application Type: Lever (https://jobs.lever.co/bpmcpa/2d978118-f6ef-4147-81...)
+2025-08-18T21:23:43.866921 - INFO - ✅ Added job ID 4156593893 to Notion
+2025-08-18T21:23:46.227601 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:23:46.227759 - INFO - JOB: Implementation Specialist - Remote - Provision IAM at Talentify.io
+2025-08-18T21:23:46.227856 - INFO - RATING: 7/10
+2025-08-18T21:23:46.227933 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:23:46.228218 - INFO - TOKENS: 111 explanation | 1102 total
+2025-08-18T21:23:46.228407 - INFO - COST: $0.0002 | CUMULATIVE: $0.0058
+2025-08-18T21:23:46.228509 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:23:46.228810 - INFO - 🔗 Application Type: Company Site (https://www.talentify.io/job/implementation-specia...)
+2025-08-18T21:23:46.606948 - INFO - ✅ Added job ID 4287382540 to Notion
+2025-08-18T21:23:50.673682 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:23:50.673781 - INFO - JOB: PACS IT Implementation Specialist at Radiology Partners
+2025-08-18T21:23:50.673840 - INFO - RATING: 7/10
+2025-08-18T21:23:50.673892 - INFO - EXPLANATION: Candidate has a solid technical foundation with relevant skills in Java, Python, and JavaScript, whi...
+2025-08-18T21:23:50.673940 - INFO - TOKENS: 123 explanation | 1111 total
+2025-08-18T21:23:50.674006 - INFO - COST: $0.0002 | CUMULATIVE: $0.0059
+2025-08-18T21:23:50.674051 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:23:50.674458 - INFO - 🔗 Application Type: Company Site (https://radpartners.avature.net/careersmarketplace...)
+2025-08-18T21:23:51.060729 - INFO - ✅ Added job ID 4273747969 to Notion
+2025-08-18T21:23:53.493031 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:23:57.190378 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:23:57.190947 - INFO - JOB: Implementation Specialist at SS&C Technologies
+2025-08-18T21:23:57.191091 - INFO - RATING: 7.5/10
+2025-08-18T21:23:57.191164 - INFO - EXPLANATION: Candidate has relevant experience as an Integration/Implementation Specialist and Software Engineer,...
+2025-08-18T21:23:57.191229 - INFO - TOKENS: 89 explanation | 2177 total
+2025-08-18T21:23:57.191291 - INFO - COST: $0.0056 | CUMULATIVE: $0.0115
+2025-08-18T21:23:57.191349 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:23:57.191725 - INFO - 🔗 Application Type: Company Site (https://wd1.myworkdaysite.com/recruiting/ssctech/S...)
+2025-08-18T21:24:01.021442 - INFO - ✅ Added job ID 4275319187 to Notion
+2025-08-18T21:24:03.904588 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:24:09.782347 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:09.782456 - INFO - JOB: Client Implementation Specialist at Sage
+2025-08-18T21:24:09.782526 - INFO - RATING: 7/10
+2025-08-18T21:24:09.782587 - INFO - EXPLANATION: Shehab Ahamed's technical skills in Java, Python, and JavaScript, along with experience in framework...
+2025-08-18T21:24:09.782642 - INFO - TOKENS: 110 explanation | 2189 total
+2025-08-18T21:24:09.782708 - INFO - COST: $0.0057 | CUMULATIVE: $0.0171
+2025-08-18T21:24:09.782762 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:09.782960 - INFO - 🔗 Application Type: Company Site (https://grnh.se/b5ho93gl4us...)
+2025-08-18T21:24:10.694411 - INFO - ✅ Added job ID 4284942406 to Notion
+2025-08-18T21:24:12.949580 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:24:16.945929 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:16.946061 - INFO - JOB: Implementation (New Build) Specialist at Risk Strategies Company
+2025-08-18T21:24:16.946129 - INFO - RATING: 7/10
+2025-08-18T21:24:16.946188 - INFO - EXPLANATION: Candidate has relevant technical skills in JavaScript, Python, and React, aligning well with the lik...
+2025-08-18T21:24:16.946247 - INFO - TOKENS: 97 explanation | 2193 total
+2025-08-18T21:24:16.946339 - INFO - COST: $0.0056 | CUMULATIVE: $0.0228
+2025-08-18T21:24:16.946396 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:16.946573 - INFO - 🔗 Application Type: Workday (https://insbrk.wd5.myworkdayjobs.com/RSCareers/job...)
+2025-08-18T21:24:19.797283 - INFO - ✅ Added job ID 4287967622 to Notion
+2025-08-18T21:24:21.980177 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:24:26.155462 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:26.155580 - INFO - JOB: Cloud Support & Implementation Specialist (REMOTE) at Samaritan's Purse
+2025-08-18T21:24:26.155675 - INFO - RATING: 7.5/10
+2025-08-18T21:24:26.155778 - INFO - EXPLANATION: Candidate has strong technical skills with Java, Python, JavaScript, and relevant frameworks like Re...
+2025-08-18T21:24:26.155875 - INFO - TOKENS: 85 explanation | 2174 total
+2025-08-18T21:24:26.155955 - INFO - COST: $0.0056 | CUMULATIVE: $0.0283
+2025-08-18T21:24:26.156029 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:26.156245 - INFO - 🔗 Application Type: Company Site (https://careers.samaritanspurse.org/jobs/15482248-...)
+2025-08-18T21:24:27.592199 - INFO - ✅ Added job ID 4287981338 to Notion
+2025-08-18T21:24:29.745729 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:24:34.047657 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:34.047789 - INFO - JOB: Implementation Specialist at LeadVenture®
+2025-08-18T21:24:34.047904 - INFO - RATING: 7.5/10
+2025-08-18T21:24:34.047976 - INFO - EXPLANATION: Candidate has relevant technical skills with experience in Java, Python, and JavaScript, which align...
+2025-08-18T21:24:34.048048 - INFO - TOKENS: 119 explanation | 2202 total
+2025-08-18T21:24:34.048123 - INFO - COST: $0.0057 | CUMULATIVE: $0.0340
+2025-08-18T21:24:34.048191 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:34.048361 - INFO - 🔗 Application Type: Jobvite (https://jobs.jobvite.com/leadventure/job/o26Cwfw0?...)
+2025-08-18T21:24:34.861597 - INFO - ✅ Added job ID 4286546744 to Notion
+2025-08-18T21:24:37.114593 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:24:39.959027 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:39.959367 - INFO - JOB: Technical Implementation Specialist, Systems Engagements Team at Chime
+2025-08-18T21:24:39.959657 - INFO - RATING: 7.5/10
+2025-08-18T21:24:39.959766 - INFO - EXPLANATION: Candidate's experience as an Integration/Implementation Specialist and Software Engineer aligns well...
+2025-08-18T21:24:39.959840 - INFO - TOKENS: 102 explanation | 2181 total
+2025-08-18T21:24:39.959908 - INFO - COST: $0.0056 | CUMULATIVE: $0.0396
+2025-08-18T21:24:39.959983 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:39.960080 - INFO - 🔗 Application Type: Greenhouse (https://boards.greenhouse.io/chime/jobs/8033244002...)
+2025-08-18T21:24:40.686586 - INFO - ✅ Added job ID 4282286062 to Notion
+2025-08-18T21:24:42.958737 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:24:45.066281 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:45.066415 - INFO - JOB: Implementation Consultant at Storable
+2025-08-18T21:24:45.066495 - INFO - RATING: 7/10
+2025-08-18T21:24:45.066560 - INFO - EXPLANATION: Candidate has relevant technical skills in Java, Python, and JavaScript, aligning well with the like...
+2025-08-18T21:24:45.066620 - INFO - TOKENS: 80 explanation | 2168 total
+2025-08-18T21:24:45.066702 - INFO - COST: $0.0055 | CUMULATIVE: $0.0451
+2025-08-18T21:24:45.066757 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:45.067062 - INFO - 🔗 Application Type: Company Site (https://grnh.se/0b33f7474us?source=LinkedIn...)
+2025-08-18T21:24:50.951387 - INFO - ✅ Added job ID 4230610534 to Notion
+2025-08-18T21:24:53.421467 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:53.421528 - INFO - JOB: HCM Implementation Specialist at Viventium
+2025-08-18T21:24:53.422483 - INFO - RATING: 7/10
+2025-08-18T21:24:53.422649 - INFO - EXPLANATION: Candidate has a solid foundation in software engineering with relevant programming languages (Java, ...
+2025-08-18T21:24:53.422762 - INFO - TOKENS: 126 explanation | 1114 total
+2025-08-18T21:24:53.422827 - INFO - COST: $0.0002 | CUMULATIVE: $0.0453
+2025-08-18T21:24:53.422852 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:53.423244 - INFO - 🔗 Application Type: Company Site (http://recruit.hirebridge.com/v3/application/AppLi...)
+2025-08-18T21:24:53.800176 - INFO - ✅ Added job ID 4283726822 to Notion
+2025-08-18T21:24:56.147043 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:24:58.604212 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:58.604279 - INFO - JOB: Implementation Consultant at Abrigo
+2025-08-18T21:24:58.604327 - INFO - RATING: 7.5/10
+2025-08-18T21:24:58.604356 - INFO - EXPLANATION: Candidate has relevant technical skills including Java, Python, and React, aligning with the likely ...
+2025-08-18T21:24:58.604384 - INFO - TOKENS: 95 explanation | 2179 total
+2025-08-18T21:24:58.604413 - INFO - COST: $0.0056 | CUMULATIVE: $0.0508
+2025-08-18T21:24:58.604466 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:24:58.604589 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:24:58.943778 - INFO - ✅ Added job ID 4286561424 to Notion
+2025-08-18T21:25:01.184484 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:25:03.741943 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:03.742287 - INFO - JOB: ERP Implementation Specialist at Hotel Investor Apps (HIA)
+2025-08-18T21:25:03.742392 - INFO - RATING: 7/10
+2025-08-18T21:25:03.742472 - INFO - EXPLANATION: Candidate has relevant experience as an Integration/Implementation Specialist, aligning with ERP Imp...
+2025-08-18T21:25:03.742547 - INFO - TOKENS: 91 explanation | 2171 total
+2025-08-18T21:25:03.742641 - INFO - COST: $0.0056 | CUMULATIVE: $0.0564
+2025-08-18T21:25:03.742713 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:03.742838 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:25:04.149278 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:25:05.424370 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:25:07.922968 - ERROR - ❌ Failed to add job ID 4285020778 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:25:10.372822 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:10.375733 - INFO - JOB: Payroll Implementation Associate at Payroll Processors
+2025-08-18T21:25:10.376127 - INFO - RATING: 6.5/10
+2025-08-18T21:25:10.376230 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:25:10.376293 - INFO - TOKENS: 104 explanation | 1092 total
+2025-08-18T21:25:10.376347 - INFO - COST: $0.0002 | CUMULATIVE: $0.0566
+2025-08-18T21:25:10.376401 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:10.376493 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:25:11.419122 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:25:13.869152 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:25:16.309246 - ERROR - ❌ Failed to add job ID 4287520371 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:25:18.504061 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:25:21.453944 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:21.454319 - INFO - JOB: Leave Specialist at Sparrow
+2025-08-18T21:25:21.454446 - INFO - RATING: 4.5/10
+2025-08-18T21:25:21.454495 - INFO - EXPLANATION: Candidate has strong technical skills in software engineering, particularly in Java, Python, and Jav...
+2025-08-18T21:25:21.454538 - INFO - TOKENS: 82 explanation | 2164 total
+2025-08-18T21:25:21.454581 - INFO - COST: $0.0055 | CUMULATIVE: $0.0621
+2025-08-18T21:25:21.454681 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:21.455417 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/sparrow/jobs/4238...)
+2025-08-18T21:25:22.070736 - INFO - ✅ Added job ID 3986246464 to Notion
+2025-08-18T21:25:24.470215 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:25:27.090410 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:27.090556 - INFO - JOB: Implementation Specialist, Talent at Rippling
+2025-08-18T21:25:27.090648 - INFO - RATING: 7/10
+2025-08-18T21:25:27.090736 - INFO - EXPLANATION: Candidate has 1 year of experience as an Integration/Implementation Specialist, aligning with the en...
+2025-08-18T21:25:27.090821 - INFO - TOKENS: 91 explanation | 2187 total
+2025-08-18T21:25:27.090965 - INFO - COST: $0.0056 | CUMULATIVE: $0.0676
+2025-08-18T21:25:27.091134 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:27.091872 - INFO - 🔗 Application Type: Company Site (https://ats.rippling.com/rippling/jobs/4c9b32f2-bb...)
+2025-08-18T21:25:28.232122 - INFO - ✅ Added job ID 4285381092 to Notion
+2025-08-18T21:25:30.579620 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:25:32.908981 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:32.909134 - INFO - JOB: Implementation Specialist at ImagineSoftware™ (Technology Partners, LLC)
+2025-08-18T21:25:32.909262 - INFO - RATING: 8/10
+2025-08-18T21:25:32.909409 - INFO - EXPLANATION: Candidate has relevant experience as an Integration/Implementation Specialist, directly aligning wit...
+2025-08-18T21:25:32.909516 - INFO - TOKENS: 91 explanation | 2196 total
+2025-08-18T21:25:32.909629 - INFO - COST: $0.0056 | CUMULATIVE: $0.0732
+2025-08-18T21:25:32.909740 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:32.909889 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:25:37.240594 - INFO - ✅ Added job ID 4285913990 to Notion
+2025-08-18T21:25:39.496115 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:25:42.022302 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:25:42.022446 - ERROR - Raw content: ```json
+{
+  "rating": 7.5,
+  "explanation": "Candidate has relevant technical skills in Java, Python, and JavaScript, aligning with the likely stack for an Implementation Specialist role. Experience in integration and implementation at Priority Payment Systems is directly applicable. However, the candidate's experience is slightly more technical than typically required for an associate-level role, which may lead to a short learning curve. Domain experience in payment systems is relevant but not directly aligned with Beacon Specialized Living's industry. Client-facing experience is evident from support roles, enhancing soft skills alignment."
+}
+```
+2025-08-18T21:25:42.022677 - ERROR - ❌ Error processing job 'Implementation Specialist' at 'Beacon Specialized Living': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:25:44.281781 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:25:46.858715 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:25:46.858894 - ERROR - Raw content: ```json
+{
+  "rating": 7.5,
+  "explanation": "Candidate has relevant technical skills in Java, Python, and JavaScript, aligning well with the Implementation Specialist role. Experience with React, Node.js, and Docker matches the tech stack requirements. Recent professional experience in integration and support roles is directly applicable. However, the candidate's experience is slightly above entry-level, which may require adjustment. Strong client-facing skills demonstrated through merchant support and onboarding tasks. Minimal learning curve expected."
+}
+```
+2025-08-18T21:25:46.859128 - ERROR - ❌ Error processing job 'Implementation Specialist (Remote - US)' at 'Jobgether': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:25:49.002284 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:49.002380 - INFO - JOB: Solutions Engineer at Overstory
+2025-08-18T21:25:49.002435 - INFO - RATING: 7/10
+2025-08-18T21:25:49.002490 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:25:49.002562 - INFO - TOKENS: 106 explanation | 1091 total
+2025-08-18T21:25:49.002618 - INFO - COST: $0.0002 | CUMULATIVE: $0.0734
+2025-08-18T21:25:49.002734 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:49.003189 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.eu.greenhouse.io/overstory/jobs...)
+2025-08-18T21:25:49.715671 - INFO - ✅ Added job ID 4284431788 to Notion
+2025-08-18T21:25:52.900520 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:52.900676 - INFO - JOB: Northeast Region K-12 Implementation Specialist: Ohio/Pennsylvania at EVERFI
+2025-08-18T21:25:52.900783 - INFO - RATING: 6.5/10
+2025-08-18T21:25:52.900841 - INFO - EXPLANATION: Candidate has a solid technical foundation with experience in Java, Python, and JavaScript, which al...
+2025-08-18T21:25:52.900898 - INFO - TOKENS: 118 explanation | 1114 total
+2025-08-18T21:25:52.900953 - INFO - COST: $0.0002 | CUMULATIVE: $0.0735
+2025-08-18T21:25:52.901007 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:52.901412 - INFO - 🔗 Application Type: Company Site (https://ats.rippling.com/everfi/jobs/8618094e-372b...)
+2025-08-18T21:25:53.143097 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:25:54.310541 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:25:56.473507 - ERROR - ❌ Failed to add job ID 4285638980 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:25:58.425821 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:58.425925 - INFO - JOB: Supervisory IT Specialist (SYSANALYSIS) at Defense Logistics Agency
+2025-08-18T21:25:58.426006 - INFO - RATING: 7/10
+2025-08-18T21:25:58.426081 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T21:25:58.426157 - INFO - TOKENS: 104 explanation | 1096 total
+2025-08-18T21:25:58.426240 - INFO - COST: $0.0002 | CUMULATIVE: $0.0737
+2025-08-18T21:25:58.426490 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:25:58.426683 - INFO - 🔗 Application Type: Company Site (https://www.wayup.com/i-Government-Relations-j-Sup...)
+2025-08-18T21:25:58.865255 - INFO - ✅ Added job ID 4287219247 to Notion
+2025-08-18T21:26:01.195684 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:01.195877 - INFO - JOB: Supervisory IT Specialist (SYSANALYSIS) at Defense Logistics Agency
+2025-08-18T21:26:01.195959 - INFO - RATING: 7/10
+2025-08-18T21:26:01.196018 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:26:01.196086 - INFO - TOKENS: 114 explanation | 1108 total
+2025-08-18T21:26:01.196158 - INFO - COST: $0.0002 | CUMULATIVE: $0.0739
+2025-08-18T21:26:01.196212 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:01.196455 - INFO - 🔗 Application Type: Company Site (https://www.wayup.com/i-Government-Relations-j-Sup...)
+2025-08-18T21:26:01.605054 - INFO - ✅ Added job ID 4287222097 to Notion
+2025-08-18T21:26:03.954721 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:26:07.744773 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:26:07.744959 - ERROR - Raw content: ```json
+{
+  "rating": 7,
+  "explanation": "Candidate has strong technical skills in Java, Python, and JavaScript, aligning with common financial tech stacks. Experience in payment systems and PCI-DSS compliance is relevant to financial domain. However, lacks specific experience in financial training or consulting. Client-facing skills evidenced by merchant support and onboarding roles. Would require moderate ramp-up to adapt to training consultant responsibilities."
+}
+```
+2025-08-18T21:26:07.745479 - ERROR - ❌ Error processing job 'Implementation Training Consultant, Financial' at 'Hearst Health': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:26:10.218245 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:10.218338 - INFO - JOB: Grant Implementation Specialist - Department Specialist 13 at State of Michigan
+2025-08-18T21:26:10.218420 - INFO - RATING: 6.5/10
+2025-08-18T21:26:10.218519 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and diverse programming skills (Java, Py...
+2025-08-18T21:26:10.218661 - INFO - TOKENS: 121 explanation | 1114 total
+2025-08-18T21:26:10.218745 - INFO - COST: $0.0002 | CUMULATIVE: $0.0740
+2025-08-18T21:26:10.218821 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:10.219027 - INFO - 🔗 Application Type: Company Site (https://www.governmentjobs.com/careers/michigan/jo...)
+2025-08-18T21:26:10.756067 - INFO - ✅ Added job ID 4284884580 to Notion
+2025-08-18T21:26:13.303586 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:13.303685 - INFO - JOB: Supervisory IT Specialist (SYSANALYSIS) at Defense Logistics Agency
+2025-08-18T21:26:13.303764 - INFO - RATING: 6.5/10
+2025-08-18T21:26:13.303814 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages (Java, Python, JavaScript) and relevant fr...
+2025-08-18T21:26:13.303863 - INFO - TOKENS: 130 explanation | 1128 total
+2025-08-18T21:26:13.303912 - INFO - COST: $0.0002 | CUMULATIVE: $0.0742
+2025-08-18T21:26:13.303976 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:13.304133 - INFO - 🔗 Application Type: Company Site (https://www.wayup.com/i-Government-Relations-j-Sup...)
+2025-08-18T21:26:14.011310 - INFO - ✅ Added job ID 4287215778 to Notion
+2025-08-18T21:26:16.231180 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:26:19.625714 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:19.626057 - INFO - JOB: Software Implementation Consultant at EleVia Software
+2025-08-18T21:26:19.626218 - INFO - RATING: 7/10
+2025-08-18T21:26:19.626265 - INFO - EXPLANATION: Shehab Ahamed's technical skills in Java, Python, and JavaScript, along with frameworks like React a...
+2025-08-18T21:26:19.626435 - INFO - TOKENS: 105 explanation | 2190 total
+2025-08-18T21:26:19.626643 - INFO - COST: $0.0056 | CUMULATIVE: $0.0798
+2025-08-18T21:26:19.626747 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:19.626955 - INFO - 🔗 Application Type: Company Site (https://newforma.rec.pro.ukg.net/NEW1505NFOR/JobBo...)
+2025-08-18T21:26:20.287847 - INFO - ✅ Added job ID 4281701151 to Notion
+2025-08-18T21:26:22.598566 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:22.598682 - INFO - JOB: Supervisory IT Specialist (SYSANALYSIS) at Defense Logistics Agency
+2025-08-18T21:26:22.598771 - INFO - RATING: 6.5/10
+2025-08-18T21:26:22.598832 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:26:22.598889 - INFO - TOKENS: 119 explanation | 1115 total
+2025-08-18T21:26:22.598946 - INFO - COST: $0.0002 | CUMULATIVE: $0.0800
+2025-08-18T21:26:22.599001 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:22.599205 - INFO - 🔗 Application Type: Company Site (https://www.wayup.com/i-Government-Relations-j-Sup...)
+2025-08-18T21:26:23.512187 - INFO - ✅ Added job ID 4287215771 to Notion
+2025-08-18T21:26:26.278212 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:26.278400 - INFO - JOB: Core Services Specialist at Sharetec Systems
+2025-08-18T21:26:26.278460 - INFO - RATING: 7/10
+2025-08-18T21:26:26.278507 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:26:26.278551 - INFO - TOKENS: 118 explanation | 1107 total
+2025-08-18T21:26:26.278620 - INFO - COST: $0.0002 | CUMULATIVE: $0.0802
+2025-08-18T21:26:26.278663 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:26.278834 - INFO - 🔗 Application Type: Company Site (https://recruiting.paylocity.com/Recruiting/Jobs/D...)
+2025-08-18T21:26:26.712328 - INFO - ✅ Added job ID 4286568385 to Notion
+2025-08-18T21:26:29.048166 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:26:31.909696 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:31.909865 - INFO - JOB: Hedge Fund Data Implementation/ Integration Analyst (SQL/ Python) at NYLON Search - Recruitment and Executive Search
+2025-08-18T21:26:31.909959 - INFO - RATING: 7/10
+2025-08-18T21:26:31.910048 - INFO - EXPLANATION: Candidate has strong Python and SQL skills relevant to the role, as evidenced by their experience wi...
+2025-08-18T21:26:31.910137 - INFO - TOKENS: 86 explanation | 2204 total
+2025-08-18T21:26:31.910240 - INFO - COST: $0.0056 | CUMULATIVE: $0.0857
+2025-08-18T21:26:31.910321 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:31.910437 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:26:32.750832 - INFO - ✅ Added job ID 4286504785 to Notion
+2025-08-18T21:26:35.191069 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:35.191163 - INFO - JOB: ServiceNow Developer WSD - 100% Remote (REF1825A - TO3) at Citizant
+2025-08-18T21:26:35.191248 - INFO - RATING: 6.5/10
+2025-08-18T21:26:35.191458 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages (Java, Python, JavaScript) and frameworks ...
+2025-08-18T21:26:35.191782 - INFO - TOKENS: 103 explanation | 1109 total
+2025-08-18T21:26:35.191997 - INFO - COST: $0.0002 | CUMULATIVE: $0.0859
+2025-08-18T21:26:35.192182 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:35.192403 - INFO - 🔗 Application Type: Company Site (https://www.wayup.com/i-j-ServiceNow-Developer-WSD...)
+2025-08-18T21:26:35.594846 - INFO - ✅ Added job ID 4285676655 to Notion
+2025-08-18T21:26:37.849042 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:37.849155 - INFO - JOB: Implementation Training Specialist at Hearst Health
+2025-08-18T21:26:37.849249 - INFO - RATING: 7/10
+2025-08-18T21:26:37.849336 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Pytho...
+2025-08-18T21:26:37.849425 - INFO - TOKENS: 119 explanation | 1106 total
+2025-08-18T21:26:37.849530 - INFO - COST: $0.0002 | CUMULATIVE: $0.0861
+2025-08-18T21:26:37.849617 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:37.849776 - INFO - 🔗 Application Type: Company Site (https://eevd.fa.us6.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18T21:26:38.222483 - INFO - ✅ Added job ID 4270789662 to Notion
+2025-08-18T21:26:40.833243 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:26:42.782249 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:42.782316 - INFO - JOB: Administrative Analyst at ArborMetrics Solutions, LLC
+2025-08-18T21:26:42.782362 - INFO - RATING: 5.5/10
+2025-08-18T21:26:42.782389 - INFO - EXPLANATION: Candidate has strong technical skills in programming languages and frameworks, but lacks direct expe...
+2025-08-18T21:26:42.782414 - INFO - TOKENS: 70 explanation | 2153 total
+2025-08-18T21:26:42.782439 - INFO - COST: $0.0055 | CUMULATIVE: $0.0915
+2025-08-18T21:26:42.782462 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:42.782625 - INFO - 🔗 Application Type: Company Site (https://careers.asplundhengineering.com/jobs/16607...)
+2025-08-18T21:26:43.236192 - INFO - ✅ Added job ID 4288300446 to Notion
+2025-08-18T21:26:45.354620 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:45.354738 - INFO - JOB: Implementation Training Consultant, Financial at Hearst Health
+2025-08-18T21:26:45.354838 - INFO - RATING: 7/10
+2025-08-18T21:26:45.354922 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:26:45.355010 - INFO - TOKENS: 116 explanation | 1106 total
+2025-08-18T21:26:45.355099 - INFO - COST: $0.0002 | CUMULATIVE: $0.0917
+2025-08-18T21:26:45.355180 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:45.355339 - INFO - 🔗 Application Type: Company Site (https://eevd.fa.us6.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18T21:26:46.283117 - INFO - ✅ Added job ID 4175884925 to Notion
+2025-08-18T21:26:48.336971 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:26:51.438602 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:51.438735 - INFO - JOB: Associate Data Analyst ((Renewable Energy) at DTE Energy
+2025-08-18T21:26:51.438822 - INFO - RATING: 4/10
+2025-08-18T21:26:51.438907 - INFO - EXPLANATION: Candidate has strong software engineering skills with experience in Java, Python, and JavaScript, bu...
+2025-08-18T21:26:51.438991 - INFO - TOKENS: 82 explanation | 2182 total
+2025-08-18T21:26:51.439088 - INFO - COST: $0.0055 | CUMULATIVE: $0.0972
+2025-08-18T21:26:51.439170 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:51.439341 - INFO - 🔗 Application Type: Company Site (https://careers.dteenergy.com/job/Detroit-Associat...)
+2025-08-18T21:26:51.865945 - INFO - ✅ Added job ID 4287363935 to Notion
+2025-08-18T21:26:54.028463 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:26:57.006731 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:57.007136 - INFO - JOB: Recruitment Coordinator at Nebius
+2025-08-18T21:26:57.007232 - INFO - RATING: 3/10
+2025-08-18T21:26:57.007300 - INFO - EXPLANATION: The candidate's technical skills in software development (Java, Python, React, etc.) do not align wi...
+2025-08-18T21:26:57.007360 - INFO - TOKENS: 92 explanation | 2167 total
+2025-08-18T21:26:57.007452 - INFO - COST: $0.0055 | CUMULATIVE: $0.1028
+2025-08-18T21:26:57.007511 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:26:57.007846 - INFO - 🔗 Application Type: Company Site (https://grnh.se/qm3kk662teu...)
+2025-08-18T21:26:57.610254 - INFO - ✅ Added job ID 4287524650 to Notion
+2025-08-18T21:26:59.500804 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:27:01.674754 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:01.675092 - INFO - JOB: Social Media Coordinator and Editor at Hello Sunshine
+2025-08-18T21:27:01.675425 - INFO - RATING: 3/10
+2025-08-18T21:27:01.675596 - INFO - EXPLANATION: Candidate has a strong technical background in software engineering with skills in Java, Python, and...
+2025-08-18T21:27:01.675695 - INFO - TOKENS: 78 explanation | 2163 total
+2025-08-18T21:27:01.675854 - INFO - COST: $0.0055 | CUMULATIVE: $0.1083
+2025-08-18T21:27:01.675959 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:01.676131 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:27:02.180836 - INFO - ✅ Added job ID 4284481538 to Notion
+2025-08-18T21:27:04.858884 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:27:07.170092 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:07.170154 - INFO - JOB: Associate at BlackRock
+2025-08-18T21:27:07.170184 - INFO - RATING: 7/10
+2025-08-18T21:27:07.170211 - INFO - EXPLANATION: Candidate has a solid technical foundation with Java, Python, JavaScript, and relevant frameworks li...
+2025-08-18T21:27:07.170237 - INFO - TOKENS: 87 explanation | 2196 total
+2025-08-18T21:27:07.170278 - INFO - COST: $0.0055 | CUMULATIVE: $0.1138
+2025-08-18T21:27:07.170302 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:07.170436 - INFO - 🔗 Application Type: Company Site (https://careers.blackrock.com/job/-/-/45831/850550...)
+2025-08-18T21:27:08.877475 - INFO - ✅ Added job ID 4286958807 to Notion
+2025-08-18T21:27:11.849456 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:27:14.363510 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:14.363581 - INFO - JOB: Professional Services Consultant at Asana
+2025-08-18T21:27:14.363615 - INFO - RATING: 7/10
+2025-08-18T21:27:14.363647 - INFO - EXPLANATION: Candidate's skills in Java, Python, and JavaScript align well with the technical requirements for a ...
+2025-08-18T21:27:14.363678 - INFO - TOKENS: 86 explanation | 2199 total
+2025-08-18T21:27:14.363724 - INFO - COST: $0.0055 | CUMULATIVE: $0.1194
+2025-08-18T21:27:14.363753 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:14.363823 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:27:14.962119 - INFO - ✅ Added job ID 4283563256 to Notion
+2025-08-18T21:27:17.281047 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:27:19.685818 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:19.686621 - INFO - JOB: Operations Assistant at Glow Natural Wellness
+2025-08-18T21:27:19.687004 - INFO - RATING: 4/10
+2025-08-18T21:27:19.687144 - INFO - EXPLANATION: Candidate has strong technical skills in software development, particularly in Java, Python, and Jav...
+2025-08-18T21:27:19.687275 - INFO - TOKENS: 76 explanation | 2148 total
+2025-08-18T21:27:19.687491 - INFO - COST: $0.0055 | CUMULATIVE: $0.1248
+2025-08-18T21:27:19.687603 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:19.687778 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:27:20.355098 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:27:21.497810 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:27:23.646380 - ERROR - ❌ Failed to add job ID 4287747389 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T21:27:26.353433 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:27:29.039741 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:29.039861 - INFO - JOB: QA Tester at Crash Champions
+2025-08-18T21:27:29.039964 - INFO - RATING: 5.5/10
+2025-08-18T21:27:29.040050 - INFO - EXPLANATION: Candidate has strong programming skills (Java, Python, JavaScript) and experience with testing tools...
+2025-08-18T21:27:29.040116 - INFO - TOKENS: 84 explanation | 2165 total
+2025-08-18T21:27:29.040246 - INFO - COST: $0.0055 | CUMULATIVE: $0.1304
+2025-08-18T21:27:29.040330 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:29.040506 - INFO - 🔗 Application Type: iCIMS (https://corporate-crashchampions.icims.com/jobs/15...)
+2025-08-18T21:27:29.721001 - INFO - ✅ Added job ID 4287986707 to Notion
+2025-08-18T21:27:31.900373 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:31.900599 - INFO - JOB: Operations Strategist at Modern.ai
+2025-08-18T21:27:31.900845 - INFO - RATING: 6.5/10
+2025-08-18T21:27:31.900915 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:27:31.900944 - INFO - TOKENS: 109 explanation | 1097 total
+2025-08-18T21:27:31.900970 - INFO - COST: $0.0002 | CUMULATIVE: $0.1305
+2025-08-18T21:27:31.900992 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:31.901055 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:27:32.347658 - INFO - ✅ Added job ID 4285286748 to Notion
+2025-08-18T21:27:34.663543 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:34.663673 - INFO - JOB: Implementation Support Engineer at Raptor Technologies
+2025-08-18T21:27:34.663786 - INFO - RATING: 7/10
+2025-08-18T21:27:34.663892 - INFO - EXPLANATION: Candidate has a solid foundation in relevant technologies, including Python and React, which align w...
+2025-08-18T21:27:34.664004 - INFO - TOKENS: 103 explanation | 1090 total
+2025-08-18T21:27:34.664092 - INFO - COST: $0.0002 | CUMULATIVE: $0.1307
+2025-08-18T21:27:34.664178 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:34.664273 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:27:35.227579 - INFO - ✅ Added job ID 4287975742 to Notion
+2025-08-18T21:27:37.981851 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:27:40.610770 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:40.610888 - INFO - JOB: Data Analyst, eCommerce at RevolutionParts
+2025-08-18T21:27:40.611000 - INFO - RATING: 4.5/10
+2025-08-18T21:27:40.611086 - INFO - EXPLANATION: Candidate has strong software engineering skills with Java, Python, and JavaScript, but lacks direct...
+2025-08-18T21:27:40.611169 - INFO - TOKENS: 71 explanation | 2159 total
+2025-08-18T21:27:40.611253 - INFO - COST: $0.0055 | CUMULATIVE: $0.1362
+2025-08-18T21:27:40.611361 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:40.611497 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:27:44.478410 - INFO - ✅ Added job ID 4286216518 to Notion
+2025-08-18T21:27:47.589076 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:27:49.842048 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:49.842197 - INFO - JOB: Lock Desk Specialist (Remote - US) at Jobgether
+2025-08-18T21:27:49.842331 - INFO - RATING: 3.5/10
+2025-08-18T21:27:49.842435 - INFO - EXPLANATION: Candidate's experience in software engineering and integration does not align with the Lock Desk Spe...
+2025-08-18T21:27:49.842538 - INFO - TOKENS: 65 explanation | 2176 total
+2025-08-18T21:27:49.842642 - INFO - COST: $0.0055 | CUMULATIVE: $0.1416
+2025-08-18T21:27:49.842743 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:49.842954 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:27:50.752378 - INFO - ✅ Added job ID 4285013649 to Notion
+2025-08-18T21:27:53.294004 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:53.294119 - INFO - JOB: Course Assistant (Course Support) - Spring 2025 at Rutgers University
+2025-08-18T21:27:53.294191 - INFO - RATING: 7/10
+2025-08-18T21:27:53.294257 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T21:27:53.294323 - INFO - TOKENS: 99 explanation | 1096 total
+2025-08-18T21:27:53.294401 - INFO - COST: $0.0002 | CUMULATIVE: $0.1418
+2025-08-18T21:27:53.294466 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:53.294748 - INFO - 🔗 Application Type: Company Site (https://www.adzuna.com/details/5349879751?v=07C716...)
+2025-08-18T21:27:53.643740 - INFO - ✅ Added job ID 4284500339 to Notion
+2025-08-18T21:27:56.719263 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:56.720008 - INFO - JOB: Onboarding Specialist, Retail at Centerfield
+2025-08-18T21:27:56.720493 - INFO - RATING: 7/10
+2025-08-18T21:27:56.720816 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T21:27:56.721150 - INFO - TOKENS: 118 explanation | 1102 total
+2025-08-18T21:27:56.721283 - INFO - COST: $0.0002 | CUMULATIVE: $0.1419
+2025-08-18T21:27:56.721474 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:27:56.721792 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/centerfield/671a889d-76b3...)
+2025-08-18T21:27:57.106647 - INFO - ✅ Added job ID 4287904055 to Notion
+2025-08-18T21:27:59.670662 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:28:02.143351 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:02.143396 - INFO - JOB: Data Analyst at Jackson Healthcare
+2025-08-18T21:28:02.143434 - INFO - RATING: 5.5/10
+2025-08-18T21:28:02.143461 - INFO - EXPLANATION: Candidate has strong programming skills in Python and SQL, relevant for data analysis. However, lack...
+2025-08-18T21:28:02.143482 - INFO - TOKENS: 76 explanation | 2167 total
+2025-08-18T21:28:02.143502 - INFO - COST: $0.0055 | CUMULATIVE: $0.1474
+2025-08-18T21:28:02.143521 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:02.143660 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:28:02.879316 - INFO - ✅ Added job ID 4287553693 to Notion
+2025-08-18T21:28:05.203816 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:28:07.450771 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:07.450859 - INFO - JOB: Business Analyst at National Hockey League (NHL)
+2025-08-18T21:28:07.450936 - INFO - RATING: 5.5/10
+2025-08-18T21:28:07.450987 - INFO - EXPLANATION: Candidate has strong technical skills in software engineering with experience in Java, Python, and J...
+2025-08-18T21:28:07.451037 - INFO - TOKENS: 92 explanation | 2187 total
+2025-08-18T21:28:07.451086 - INFO - COST: $0.0056 | CUMULATIVE: $0.1530
+2025-08-18T21:28:07.451132 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:07.451341 - INFO - 🔗 Application Type: Company Site (https://www.teamworkonline.com/hockey-jobs/hockeyj...)
+2025-08-18T21:28:07.863198 - INFO - ✅ Added job ID 4287991957 to Notion
+2025-08-18T21:28:09.869673 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:09.869807 - INFO - JOB: Legal Data Entry Operator at Fortis Risk Solutions
+2025-08-18T21:28:09.869879 - INFO - RATING: 3/10
+2025-08-18T21:28:09.869943 - INFO - EXPLANATION: The candidate has a strong technical background in software engineering and development, but the rol...
+2025-08-18T21:28:09.870000 - INFO - TOKENS: 98 explanation | 1087 total
+2025-08-18T21:28:09.870082 - INFO - COST: $0.0002 | CUMULATIVE: $0.1532
+2025-08-18T21:28:09.870138 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:09.870440 - INFO - 🔗 Application Type: Company Site (https://fortisrisk.zohorecruit.com/jobs/Careers/82...)
+2025-08-18T21:28:10.316460 - INFO - ✅ Added job ID 4287579714 to Notion
+2025-08-18T21:28:12.409502 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:12.409665 - INFO - JOB: Coordinator, Media Relations at Paramount
+2025-08-18T21:28:12.409752 - INFO - RATING: 3/10
+2025-08-18T21:28:12.409854 - INFO - EXPLANATION: The candidate's experience is primarily in software engineering and integration roles, focusing on p...
+2025-08-18T21:28:12.409948 - INFO - TOKENS: 106 explanation | 1094 total
+2025-08-18T21:28:12.410038 - INFO - COST: $0.0002 | CUMULATIVE: $0.1534
+2025-08-18T21:28:12.410127 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:12.410293 - INFO - 🔗 Application Type: Company Site (https://careers.paramount.com/job/Hollywood-Coordi...)
+2025-08-18T21:28:17.081089 - INFO - ✅ Added job ID 4284511992 to Notion
+2025-08-18T21:28:20.048370 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:28:22.092903 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:22.092997 - INFO - JOB: Valuation Analyst at Waterfall Asset Management LLC
+2025-08-18T21:28:22.093074 - INFO - RATING: 3/10
+2025-08-18T21:28:22.093145 - INFO - EXPLANATION: Candidate's background in software engineering and integration does not align with the valuation ana...
+2025-08-18T21:28:22.093214 - INFO - TOKENS: 69 explanation | 2175 total
+2025-08-18T21:28:22.093290 - INFO - COST: $0.0055 | CUMULATIVE: $0.1588
+2025-08-18T21:28:22.093412 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:22.093897 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:28:22.574268 - INFO - ✅ Added job ID 4285925546 to Notion
+2025-08-18T21:28:24.463185 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:28:26.499765 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:28:26.499953 - ERROR - Raw content: ```json
+{
+  "rating": 2,
+  "explanation": "Candidate has a strong technical background in software engineering, focusing on programming languages and frameworks, which does not align with the sales-focused role. No sales experience or neuroscience industry exposure is evident. Significant skill gap exists; would require extensive retraining in sales and industry-specific knowledge. Not a cost-effective hire for this sales position."
+}
+```
+2025-08-18T21:28:26.500181 - ERROR - ❌ Error processing job 'Neuroscience Sales Representative - Asheville, NC' at 'Intra-Cellular Therapies': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:28:28.752625 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:28.752731 - INFO - JOB: Emerging Programs Specialist at Regional Food Bank
+2025-08-18T21:28:28.752823 - INFO - RATING: 7/10
+2025-08-18T21:28:28.752912 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:28:28.752997 - INFO - TOKENS: 120 explanation | 1109 total
+2025-08-18T21:28:28.753087 - INFO - COST: $0.0002 | CUMULATIVE: $0.1590
+2025-08-18T21:28:28.753170 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:28.753466 - INFO - 🔗 Application Type: Company Site (https://regionalfoodbank.isolvedhire.com/jobs/1570...)
+2025-08-18T21:28:29.262086 - INFO - ✅ Added job ID 4281758444 to Notion
+2025-08-18T21:28:31.282041 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:28:33.743442 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:28:33.743529 - ERROR - Raw content: ```json
+{
+  "rating": 3,
+  "explanation": "The candidate has a strong technical background in software engineering with experience in programming languages and frameworks like Java, Python, React, and Node.js, which are not relevant for a Neuroscience Sales Representative role. The experience level is focused on software development, lacking any sales or neuroscience industry experience. Soft skills related to client-facing roles are present but insufficient for a specialized sales position. Significant retraining in sales and neuroscience would be required, making the learning curve steep and the fit poor."
+}
+```
+2025-08-18T21:28:33.743711 - ERROR - ❌ Error processing job 'Neuroscience Sales Representative - College Station, TX' at 'Intra-Cellular Therapies': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:28:36.131933 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:36.131977 - INFO - JOB: Associate Metrics/Air Emission Software Implementation Consultant at WSP in the U.S.
+2025-08-18T21:28:36.132006 - INFO - RATING: 7/10
+2025-08-18T21:28:36.132028 - INFO - EXPLANATION: Candidate has a solid foundation in relevant programming languages (Java, Python, JavaScript) and fr...
+2025-08-18T21:28:36.132049 - INFO - TOKENS: 118 explanation | 1114 total
+2025-08-18T21:28:36.132072 - INFO - COST: $0.0002 | CUMULATIVE: $0.1592
+2025-08-18T21:28:36.132093 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:36.132187 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18T21:28:36.636375 - INFO - ✅ Added job ID 4236179151 to Notion
+2025-08-18T21:28:39.656870 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:39.656933 - INFO - JOB: Associate Metrics/Air Emission Software Implementation Consultant at WSP in the U.S.
+2025-08-18T21:28:39.656959 - INFO - RATING: 7/10
+2025-08-18T21:28:39.656980 - INFO - EXPLANATION: Candidate possesses a solid technical foundation with a CS degree and experience in relevant program...
+2025-08-18T21:28:39.657002 - INFO - TOKENS: 105 explanation | 1100 total
+2025-08-18T21:28:39.657032 - INFO - COST: $0.0002 | CUMULATIVE: $0.1593
+2025-08-18T21:28:39.657054 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:39.657180 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18T21:28:40.024939 - INFO - ✅ Added job ID 4236179150 to Notion
+2025-08-18T21:28:42.480466 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:28:44.615871 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:44.615998 - INFO - JOB: Spanish Language Media Relations Specialist at American Psychiatric Association
+2025-08-18T21:28:44.616095 - INFO - RATING: 2/10
+2025-08-18T21:28:44.616184 - INFO - EXPLANATION: The role of Spanish Language Media Relations Specialist requires expertise in media relations and li...
+2025-08-18T21:28:44.616268 - INFO - TOKENS: 88 explanation | 2167 total
+2025-08-18T21:28:44.616374 - INFO - COST: $0.0056 | CUMULATIVE: $0.1649
+2025-08-18T21:28:44.616456 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:44.616691 - INFO - 🔗 Application Type: Company Site (https://www.paycomonline.net/v4/ats/web.php/jobs/V...)
+2025-08-18T21:28:51.454519 - INFO - ✅ Added job ID 4282242284 to Notion
+2025-08-18T21:28:53.649965 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:28:56.399610 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:56.399740 - INFO - JOB: Administrative Analyst at ArborMetrics Solutions, LLC
+2025-08-18T21:28:56.399793 - INFO - RATING: 5.5/10
+2025-08-18T21:28:56.399819 - INFO - EXPLANATION: Candidate has strong technical skills in programming and frameworks, but lacks direct experience in ...
+2025-08-18T21:28:56.399842 - INFO - TOKENS: 81 explanation | 2158 total
+2025-08-18T21:28:56.399865 - INFO - COST: $0.0055 | CUMULATIVE: $0.1704
+2025-08-18T21:28:56.399886 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:28:56.400037 - INFO - 🔗 Application Type: Company Site (https://careers.asplundhengineering.com/jobs/16607...)
+2025-08-18T21:28:57.013560 - INFO - ✅ Added job ID 4287998628 to Notion
+2025-08-18T21:28:59.287489 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:29:01.953753 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:01.953840 - INFO - JOB: Associate Metrics/Air Emission Software Implementation Consultant at WSP in the U.S.
+2025-08-18T21:29:01.953874 - INFO - RATING: 7/10
+2025-08-18T21:29:01.954050 - INFO - EXPLANATION: Candidate has strong technical skills in Java, Python, and JavaScript, aligning with typical softwar...
+2025-08-18T21:29:01.954089 - INFO - TOKENS: 86 explanation | 2200 total
+2025-08-18T21:29:01.954164 - INFO - COST: $0.0056 | CUMULATIVE: $0.1760
+2025-08-18T21:29:01.954234 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:01.954499 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18T21:29:02.645729 - INFO - ✅ Added job ID 4236179152 to Notion
+2025-08-18T21:29:04.669509 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:04.669613 - INFO - JOB: Associate Metrics/Air Emission Software Implementation Consultant at WSP in the U.S.
+2025-08-18T21:29:04.669701 - INFO - RATING: 7/10
+2025-08-18T21:29:04.669788 - INFO - EXPLANATION: Candidate possesses a solid technical foundation with a CS degree and relevant programming skills in...
+2025-08-18T21:29:04.669871 - INFO - TOKENS: 101 explanation | 1099 total
+2025-08-18T21:29:04.669961 - INFO - COST: $0.0002 | CUMULATIVE: $0.1762
+2025-08-18T21:29:04.670045 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:04.670166 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18T21:29:05.100710 - INFO - ✅ Added job ID 4236177363 to Notion
+2025-08-18T21:29:07.970944 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:07.971049 - INFO - JOB: Kitchen and Bath Specialist at CCA Global Partners
+2025-08-18T21:29:07.971147 - INFO - RATING: 3/10
+2025-08-18T21:29:07.971217 - INFO - EXPLANATION: Candidate has a solid technical background in web development and integration, but lacks direct expe...
+2025-08-18T21:29:07.971286 - INFO - TOKENS: 101 explanation | 1092 total
+2025-08-18T21:29:07.971378 - INFO - COST: $0.0002 | CUMULATIVE: $0.1763
+2025-08-18T21:29:07.971448 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:07.971583 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:29:08.480831 - INFO - ✅ Added job ID 4282266284 to Notion
+2025-08-18T21:29:11.246835 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:29:13.197436 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:13.197584 - INFO - JOB: Assistant, Professional Development & Attorney Training at Weil, Gotshal & Manges LLP
+2025-08-18T21:29:13.197699 - INFO - RATING: 3/10
+2025-08-18T21:29:13.197809 - INFO - EXPLANATION: The role is for an entry-level position in professional development and attorney training, which doe...
+2025-08-18T21:29:13.197932 - INFO - TOKENS: 78 explanation | 2186 total
+2025-08-18T21:29:13.198052 - INFO - COST: $0.0055 | CUMULATIVE: $0.1819
+2025-08-18T21:29:13.198156 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:13.198327 - INFO - 🔗 Application Type: Workday (http://weil.wd1.myworkdayjobs.com/en-US/work_at_we...)
+2025-08-18T21:29:15.140675 - INFO - ✅ Added job ID 4285916021 to Notion
+2025-08-18T21:29:17.801678 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:17.802263 - INFO - JOB: Associate Metrics/Air Emission Software Implementation Consultant at WSP in the U.S.
+2025-08-18T21:29:17.802391 - INFO - RATING: 7/10
+2025-08-18T21:29:17.802476 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:29:17.802556 - INFO - TOKENS: 105 explanation | 1104 total
+2025-08-18T21:29:17.802638 - INFO - COST: $0.0002 | CUMULATIVE: $0.1820
+2025-08-18T21:29:17.802715 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:17.803282 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18T21:29:18.142821 - INFO - ✅ Added job ID 4236177364 to Notion
+2025-08-18T21:29:20.350936 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:20.351035 - INFO - JOB: Virtual Intervention Specialist at ACCEL Schools
+2025-08-18T21:29:20.351110 - INFO - RATING: 7/10
+2025-08-18T21:29:20.351179 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages (Java, Python, JavaScript) and frameworks ...
+2025-08-18T21:29:20.351251 - INFO - TOKENS: 103 explanation | 1092 total
+2025-08-18T21:29:20.351326 - INFO - COST: $0.0002 | CUMULATIVE: $0.1822
+2025-08-18T21:29:20.351394 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:20.351515 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/accelschools/jobs...)
+2025-08-18T21:29:20.772026 - INFO - ✅ Added job ID 4248539807 to Notion
+2025-08-18T21:29:23.904954 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:23.905064 - INFO - JOB: Managed Services Specialist at Cellcom
+2025-08-18T21:29:23.905165 - INFO - RATING: 6.5/10
+2025-08-18T21:29:23.905237 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages (Java, Python, JavaScript) and frameworks ...
+2025-08-18T21:29:23.905313 - INFO - TOKENS: 123 explanation | 1115 total
+2025-08-18T21:29:23.905388 - INFO - COST: $0.0002 | CUMULATIVE: $0.1824
+2025-08-18T21:29:23.905461 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:23.905566 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T21:29:24.252433 - INFO - ✅ Added job ID 4286802463 to Notion
+2025-08-18T21:29:26.791770 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:29:29.259777 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:29.259835 - INFO - JOB: Construction Services Selection and Bidding Specialist Hybrid #250808-6685FS-001 at State of Connecticut
+2025-08-18T21:29:29.259872 - INFO - RATING: 3.5/10
+2025-08-18T21:29:29.259894 - INFO - EXPLANATION: Candidate has a strong software development background with experience in Java, Python, and JavaScri...
+2025-08-18T21:29:29.259916 - INFO - TOKENS: 91 explanation | 2203 total
+2025-08-18T21:29:29.259941 - INFO - COST: $0.0056 | CUMULATIVE: $0.1880
+2025-08-18T21:29:29.259961 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:29.260085 - INFO - 🔗 Application Type: Company Site (https://www.jobapscloud.com/CT/sup/bulpreview.asp?...)
+2025-08-18T21:29:34.832940 - INFO - ✅ Added job ID 4284063005 to Notion
+2025-08-18T21:29:37.262280 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:29:38.970665 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:38.970796 - INFO - JOB: State Regulatory Affairs Specialist, Medicaid and Health Policy at National Organization for Rare Disorders
+2025-08-18T21:29:38.970911 - INFO - RATING: 3/10
+2025-08-18T21:29:38.971019 - INFO - EXPLANATION: Role requires expertise in Medicaid and health policy, which is not evident in the candidate's resum...
+2025-08-18T21:29:38.971127 - INFO - TOKENS: 72 explanation | 2171 total
+2025-08-18T21:29:38.971238 - INFO - COST: $0.0055 | CUMULATIVE: $0.1935
+2025-08-18T21:29:38.971345 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:38.971576 - INFO - 🔗 Application Type: Company Site (https://workforcenow.adp.com/jobs/apply/posting.ht...)
+2025-08-18T21:29:39.403156 - INFO - ✅ Added job ID 4268371478 to Notion
+2025-08-18T21:29:41.499140 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:29:43.298088 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:43.298202 - INFO - JOB: Zoning Compliance Analyst at City of New York
+2025-08-18T21:29:43.298337 - INFO - RATING: 3.5/10
+2025-08-18T21:29:43.298446 - INFO - EXPLANATION: Candidate's experience in software engineering and payment systems integration does not align with t...
+2025-08-18T21:29:43.298550 - INFO - TOKENS: 67 explanation | 2170 total
+2025-08-18T21:29:43.298659 - INFO - COST: $0.0055 | CUMULATIVE: $0.1990
+2025-08-18T21:29:43.298768 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:43.298992 - INFO - 🔗 Application Type: Company Site (https://cityjobs.nyc.gov/job/zoning-compliance-ana...)
+2025-08-18T21:29:43.723096 - INFO - ✅ Added job ID 4283607613 to Notion
+2025-08-18T21:29:45.916914 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:45.917184 - INFO - JOB: Associate, Commercial Insurance Program Evaluation & Implementation at AXIS (AXIS Capital)
+2025-08-18T21:29:45.917453 - INFO - RATING: 7/10
+2025-08-18T21:29:45.917496 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T21:29:45.917532 - INFO - TOKENS: 109 explanation | 1106 total
+2025-08-18T21:29:45.917791 - INFO - COST: $0.0002 | CUMULATIVE: $0.1991
+2025-08-18T21:29:45.918018 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:45.918186 - INFO - 🔗 Application Type: Workday (https://axiscapital.wd1.myworkdayjobs.com/axiscare...)
+2025-08-18T21:29:47.382112 - INFO - ✅ Added job ID 4206217703 to Notion
+2025-08-18T21:29:49.347023 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:29:51.359993 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:51.360138 - INFO - JOB: Pharmacy Informatics Specialist- Epic Willow (FT- 1.0 FTE, Day Shift, Remote) at Bozeman Health
+2025-08-18T21:29:51.360265 - INFO - RATING: 3.5/10
+2025-08-18T21:29:51.360359 - INFO - EXPLANATION: Candidate has a strong software engineering background with experience in Java, Python, and JavaScri...
+2025-08-18T21:29:51.360451 - INFO - TOKENS: 84 explanation | 2206 total
+2025-08-18T21:29:51.360544 - INFO - COST: $0.0056 | CUMULATIVE: $0.2048
+2025-08-18T21:29:51.360634 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:51.360836 - INFO - 🔗 Application Type: Workday (https://bozemanhealth.wd1.myworkdayjobs.com/Bozema...)
+2025-08-18T21:29:51.992322 - INFO - ✅ Added job ID 4271850468 to Notion
+2025-08-18T21:29:54.057176 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T21:29:56.172131 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:29:56.178374 - ERROR - Raw content: ```json
+{
+  "rating": 2,
+  "explanation": "The candidate's background is in software engineering and integration, focusing on programming and technical implementations. The role of Neuroscience Sales Representative requires expertise in sales, neuroscience, and client relationship management, which are not evident in the candidate's resume. The skill gap is substantial, requiring significant retraining in sales and industry-specific knowledge. Not a cost-effective hire for this sales-focused position."
+}
+```
+2025-08-18T21:29:56.178483 - ERROR - ❌ Error processing job 'Neuroscience Sales Representative - Spokane, WA' at 'Intra-Cellular Therapies': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T21:29:58.397098 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:58.397457 - INFO - JOB: Patient Intake Automation Implementation Consultant- Remote at Med-Metrix
+2025-08-18T21:29:58.397753 - INFO - RATING: 7/10
+2025-08-18T21:29:58.397818 - INFO - EXPLANATION: Candidate has a solid technical foundation with relevant skills in Python, React, and SQL, which ali...
+2025-08-18T21:29:58.397866 - INFO - TOKENS: 110 explanation | 1101 total
+2025-08-18T21:29:58.397974 - INFO - COST: $0.0002 | CUMULATIVE: $0.2049
+2025-08-18T21:29:58.398020 - INFO - ══════════════════════════════════════════════════
+2025-08-18T21:29:58.398326 - INFO - 🔗 Application Type: Company Site (https://jobs.dayforcehcm.com/en-US/medmetrix/CANDI...)
+2025-08-18T21:29:58.780621 - INFO - ✅ Added job ID 4284497717 to Notion
+2025-08-18T21:29:58.788979 - INFO - ============================================================
+2025-08-18T21:29:58.790860 - INFO - 📊 FINAL SUMMARY
+2025-08-18T21:29:58.790932 - INFO - ============================================================
+2025-08-18T21:29:58.790993 - INFO - ✅ Jobs Processed: 63
+2025-08-18T21:29:58.791048 - INFO - ⏩ Skipped (Cached): 0
+2025-08-18T21:29:58.791096 - INFO - ❌ Failed: 10
+2025-08-18T21:29:58.791147 - INFO - 🤖 Backup Model Calls: 42
+2025-08-18T21:29:58.791202 - INFO - 🎯 Total Tokens: 112,683
+2025-08-18T21:29:58.791260 - INFO - 💰 Total Cost: $0.20
+2025-08-18T21:29:58.791305 - INFO - ============================================================
+on
+2025-08-18 21:29:01,928 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:01,953 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:01,953 - INFO - JOB: Associate Metrics/Air Emission Software Implementation Consultant at WSP in the U.S.
+2025-08-18 21:29:01,953 - INFO - RATING: 7/10
+2025-08-18 21:29:01,953 - INFO - EXPLANATION: Candidate has strong technical skills in Java, Python, and JavaScript, aligning with typical softwar...
+2025-08-18 21:29:01,954 - INFO - TOKENS: 86 explanation | 2200 total
+2025-08-18 21:29:01,954 - INFO - COST: $0.0056 | CUMULATIVE: $0.1760
+2025-08-18 21:29:01,954 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:01,954 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18 21:29:02,644 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:02,645 - INFO - ✅ Added job ID 4236179152 to Notion
+2025-08-18 21:29:04,666 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:04,669 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:04,669 - INFO - JOB: Associate Metrics/Air Emission Software Implementation Consultant at WSP in the U.S.
+2025-08-18 21:29:04,669 - INFO - RATING: 7/10
+2025-08-18 21:29:04,669 - INFO - EXPLANATION: Candidate possesses a solid technical foundation with a CS degree and relevant programming skills in...
+2025-08-18 21:29:04,669 - INFO - TOKENS: 101 explanation | 1099 total
+2025-08-18 21:29:04,669 - INFO - COST: $0.0002 | CUMULATIVE: $0.1762
+2025-08-18 21:29:04,669 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:04,670 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18 21:29:05,099 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:05,100 - INFO - ✅ Added job ID 4236177363 to Notion
+2025-08-18 21:29:07,967 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:07,970 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:07,970 - INFO - JOB: Kitchen and Bath Specialist at CCA Global Partners
+2025-08-18 21:29:07,971 - INFO - RATING: 3/10
+2025-08-18 21:29:07,971 - INFO - EXPLANATION: Candidate has a solid technical background in web development and integration, but lacks direct expe...
+2025-08-18 21:29:07,971 - INFO - TOKENS: 101 explanation | 1092 total
+2025-08-18 21:29:07,971 - INFO - COST: $0.0002 | CUMULATIVE: $0.1763
+2025-08-18 21:29:07,971 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:07,971 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 21:29:08,478 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:08,480 - INFO - ✅ Added job ID 4282266284 to Notion
+2025-08-18 21:29:11,243 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:11,246 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 21:29:13,193 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:13,197 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:13,197 - INFO - JOB: Assistant, Professional Development & Attorney Training at Weil, Gotshal & Manges LLP
+2025-08-18 21:29:13,197 - INFO - RATING: 3/10
+2025-08-18 21:29:13,197 - INFO - EXPLANATION: The role is for an entry-level position in professional development and attorney training, which doe...
+2025-08-18 21:29:13,197 - INFO - TOKENS: 78 explanation | 2186 total
+2025-08-18 21:29:13,197 - INFO - COST: $0.0055 | CUMULATIVE: $0.1819
+2025-08-18 21:29:13,198 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:13,198 - INFO - 🔗 Application Type: Workday (http://weil.wd1.myworkdayjobs.com/en-US/work_at_we...)
+2025-08-18 21:29:15,138 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:15,140 - INFO - ✅ Added job ID 4285916021 to Notion
+2025-08-18 21:29:17,797 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:17,801 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:17,801 - INFO - JOB: Associate Metrics/Air Emission Software Implementation Consultant at WSP in the U.S.
+2025-08-18 21:29:17,802 - INFO - RATING: 7/10
+2025-08-18 21:29:17,802 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18 21:29:17,802 - INFO - TOKENS: 105 explanation | 1104 total
+2025-08-18 21:29:17,802 - INFO - COST: $0.0002 | CUMULATIVE: $0.1820
+2025-08-18 21:29:17,802 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:17,803 - INFO - 🔗 Application Type: Company Site (https://emit.fa.ca3.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18 21:29:18,139 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:18,142 - INFO - ✅ Added job ID 4236177364 to Notion
+2025-08-18 21:29:20,346 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:20,350 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:20,350 - INFO - JOB: Virtual Intervention Specialist at ACCEL Schools
+2025-08-18 21:29:20,351 - INFO - RATING: 7/10
+2025-08-18 21:29:20,351 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages (Java, Python, JavaScript) and frameworks ...
+2025-08-18 21:29:20,351 - INFO - TOKENS: 103 explanation | 1092 total
+2025-08-18 21:29:20,351 - INFO - COST: $0.0002 | CUMULATIVE: $0.1822
+2025-08-18 21:29:20,351 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:20,351 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/accelschools/jobs...)
+2025-08-18 21:29:20,770 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:20,771 - INFO - ✅ Added job ID 4248539807 to Notion
+2025-08-18 21:29:23,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:23,904 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:23,905 - INFO - JOB: Managed Services Specialist at Cellcom
+2025-08-18 21:29:23,905 - INFO - RATING: 6.5/10
+2025-08-18 21:29:23,905 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages (Java, Python, JavaScript) and frameworks ...
+2025-08-18 21:29:23,905 - INFO - TOKENS: 123 explanation | 1115 total
+2025-08-18 21:29:23,905 - INFO - COST: $0.0002 | CUMULATIVE: $0.1824
+2025-08-18 21:29:23,905 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:23,905 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 21:29:24,250 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:24,252 - INFO - ✅ Added job ID 4286802463 to Notion
+2025-08-18 21:29:26,788 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:26,791 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 21:29:29,244 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:29,259 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:29,259 - INFO - JOB: Construction Services Selection and Bidding Specialist Hybrid #250808-6685FS-001 at State of Connecticut
+2025-08-18 21:29:29,259 - INFO - RATING: 3.5/10
+2025-08-18 21:29:29,259 - INFO - EXPLANATION: Candidate has a strong software development background with experience in Java, Python, and JavaScri...
+2025-08-18 21:29:29,259 - INFO - TOKENS: 91 explanation | 2203 total
+2025-08-18 21:29:29,259 - INFO - COST: $0.0056 | CUMULATIVE: $0.1880
+2025-08-18 21:29:29,259 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:29,260 - INFO - 🔗 Application Type: Company Site (https://www.jobapscloud.com/CT/sup/bulpreview.asp?...)
+2025-08-18 21:29:34,611 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:34,832 - INFO - ✅ Added job ID 4284063005 to Notion
+2025-08-18 21:29:37,250 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:37,262 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 21:29:38,961 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:38,970 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:38,970 - INFO - JOB: State Regulatory Affairs Specialist, Medicaid and Health Policy at National Organization for Rare Disorders
+2025-08-18 21:29:38,970 - INFO - RATING: 3/10
+2025-08-18 21:29:38,970 - INFO - EXPLANATION: Role requires expertise in Medicaid and health policy, which is not evident in the candidate's resum...
+2025-08-18 21:29:38,971 - INFO - TOKENS: 72 explanation | 2171 total
+2025-08-18 21:29:38,971 - INFO - COST: $0.0055 | CUMULATIVE: $0.1935
+2025-08-18 21:29:38,971 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:38,971 - INFO - 🔗 Application Type: Company Site (https://workforcenow.adp.com/jobs/apply/posting.ht...)
+2025-08-18 21:29:39,402 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:39,403 - INFO - ✅ Added job ID 4268371478 to Notion
+2025-08-18 21:29:41,495 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:41,499 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 21:29:43,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:43,297 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:43,298 - INFO - JOB: Zoning Compliance Analyst at City of New York
+2025-08-18 21:29:43,298 - INFO - RATING: 3.5/10
+2025-08-18 21:29:43,298 - INFO - EXPLANATION: Candidate's experience in software engineering and payment systems integration does not align with t...
+2025-08-18 21:29:43,298 - INFO - TOKENS: 67 explanation | 2170 total
+2025-08-18 21:29:43,298 - INFO - COST: $0.0055 | CUMULATIVE: $0.1990
+2025-08-18 21:29:43,298 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:43,298 - INFO - 🔗 Application Type: Company Site (https://cityjobs.nyc.gov/job/zoning-compliance-ana...)
+2025-08-18 21:29:43,721 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:43,723 - INFO - ✅ Added job ID 4283607613 to Notion
+2025-08-18 21:29:45,910 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:45,916 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:45,917 - INFO - JOB: Associate, Commercial Insurance Program Evaluation & Implementation at AXIS (AXIS Capital)
+2025-08-18 21:29:45,917 - INFO - RATING: 7/10
+2025-08-18 21:29:45,917 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18 21:29:45,917 - INFO - TOKENS: 109 explanation | 1106 total
+2025-08-18 21:29:45,917 - INFO - COST: $0.0002 | CUMULATIVE: $0.1991
+2025-08-18 21:29:45,917 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:45,918 - INFO - 🔗 Application Type: Workday (https://axiscapital.wd1.myworkdayjobs.com/axiscare...)
+2025-08-18 21:29:47,381 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:47,382 - INFO - ✅ Added job ID 4206217703 to Notion
+2025-08-18 21:29:49,341 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:49,346 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 21:29:51,355 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:51,359 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:51,360 - INFO - JOB: Pharmacy Informatics Specialist- Epic Willow (FT- 1.0 FTE, Day Shift, Remote) at Bozeman Health
+2025-08-18 21:29:51,360 - INFO - RATING: 3.5/10
+2025-08-18 21:29:51,360 - INFO - EXPLANATION: Candidate has a strong software engineering background with experience in Java, Python, and JavaScri...
+2025-08-18 21:29:51,360 - INFO - TOKENS: 84 explanation | 2206 total
+2025-08-18 21:29:51,360 - INFO - COST: $0.0056 | CUMULATIVE: $0.2048
+2025-08-18 21:29:51,360 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:51,360 - INFO - 🔗 Application Type: Workday (https://bozemanhealth.wd1.myworkdayjobs.com/Bozema...)
+2025-08-18 21:29:51,991 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:51,992 - INFO - ✅ Added job ID 4271850468 to Notion
+2025-08-18 21:29:54,036 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:54,057 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 21:29:56,142 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:56,170 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18 21:29:56,175 - ERROR - Raw content: ```json
+{
+  "rating": 2,
+  "explanation": "The candidate's background is in software engineering and integration, focusing on programming and technical implementations. The role of Neuroscience Sales Representative requires expertise in sales, neuroscience, and client relationship management, which are not evident in the candidate's resume. The skill gap is substantial, requiring significant retraining in sales and industry-specific knowledge. Not a cost-effective hire for this sales-focused position."
+}
+```
+2025-08-18 21:29:56,178 - ERROR - ❌ Error processing job 'Neuroscience Sales Representative - Spokane, WA' at 'Intra-Cellular Therapies': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18 21:29:58,389 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 21:29:58,396 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:58,397 - INFO - JOB: Patient Intake Automation Implementation Consultant- Remote at Med-Metrix
+2025-08-18 21:29:58,397 - INFO - RATING: 7/10
+2025-08-18 21:29:58,397 - INFO - EXPLANATION: Candidate has a solid technical foundation with relevant skills in Python, React, and SQL, which ali...
+2025-08-18 21:29:58,397 - INFO - TOKENS: 110 explanation | 1101 total
+2025-08-18 21:29:58,397 - INFO - COST: $0.0002 | CUMULATIVE: $0.2049
+2025-08-18 21:29:58,397 - INFO - ══════════════════════════════════════════════════
+2025-08-18 21:29:58,398 - INFO - 🔗 Application Type: Company Site (https://jobs.dayforcehcm.com/en-US/medmetrix/CANDI...)
+2025-08-18 21:29:58,779 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 21:29:58,780 - INFO - ✅ Added job ID 4284497717 to Notion
+2025-08-18 21:29:58,788 - INFO - ============================================================
+2025-08-18 21:29:58,790 - INFO - 📊 FINAL SUMMARY
+2025-08-18 21:29:58,790 - INFO - ============================================================
+2025-08-18 21:29:58,790 - INFO - ✅ Jobs Processed: 63
+2025-08-18 21:29:58,791 - INFO - ⏩ Skipped (Cached): 0
+2025-08-18 21:29:58,791 - INFO - ❌ Failed: 10
+2025-08-18 21:29:58,791 - INFO - 🤖 Backup Model Calls: 42
+2025-08-18 21:29:58,791 - INFO - 🎯 Total Tokens: 112,683
+2025-08-18 21:29:58,791 - INFO - 💰 Total Cost: $0.20
+2025-08-18 21:29:58,791 - INFO - ============================================================

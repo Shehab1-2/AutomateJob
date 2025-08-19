@@ -1,0 +1,1172 @@
+2025-08-18T19:52:10.472323 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-08-18T19:52:10.473723 - INFO - Loaded 94 jobs from ../filtered/filter_data/filtered_jobs_2025-08-17_19-53-07.json
+2025-08-18T19:52:10.473758 - INFO - 📄 Resume loaded (2250 characters)
+2025-08-18T19:52:10.473785 - INFO - 📋 Found 149 cached evaluations
+2025-08-18T19:52:13.995448 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:13.995552 - INFO - JOB: Software Engineer I (San Francisco) at Jerry
+2025-08-18T19:52:13.995618 - INFO - RATING: 7/10
+2025-08-18T19:52:13.995677 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T19:52:13.995733 - INFO - TOKENS: 115 explanation | 1105 total
+2025-08-18T19:52:13.995792 - INFO - COST: $0.0002 | CUMULATIVE: $0.0002
+2025-08-18T19:52:13.995854 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:13.995985 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/Jerry.ai/a08b2b5b-5bed-4b...)
+2025-08-18T19:52:15.006438 - INFO - ✅ Added job ID 4282849407 to Notion
+2025-08-18T19:52:17.763860 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:17.763988 - INFO - JOB: Python Developer at The Value Maximizer
+2025-08-18T19:52:17.764059 - INFO - RATING: 7/10
+2025-08-18T19:52:17.764119 - INFO - EXPLANATION: Candidate has a solid foundation in Python, which is the primary requirement for the role. Their exp...
+2025-08-18T19:52:17.764182 - INFO - TOKENS: 127 explanation | 1116 total
+2025-08-18T19:52:17.764242 - INFO - COST: $0.0002 | CUMULATIVE: $0.0003
+2025-08-18T19:52:17.764298 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:17.764385 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:52:18.094682 - INFO - ✅ Added job ID 4283783599 to Notion
+2025-08-18T19:52:21.786512 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:21.786687 - INFO - JOB: Founding Backend Software Engineer at Rebolt (YC W25)
+2025-08-18T19:52:21.786778 - INFO - RATING: 7/10
+2025-08-18T19:52:21.786855 - INFO - EXPLANATION: Candidate has a solid foundation in relevant programming languages (Java, Python, JavaScript) and fr...
+2025-08-18T19:52:21.786921 - INFO - TOKENS: 118 explanation | 1112 total
+2025-08-18T19:52:21.786989 - INFO - COST: $0.0002 | CUMULATIVE: $0.0005
+2025-08-18T19:52:21.787267 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:21.787669 - INFO - 🔗 Application Type: Company Site (https://www.ycombinator.com/companies/rebolt/jobs/...)
+2025-08-18T19:52:22.106215 - INFO - ✅ Added job ID 4283853218 to Notion
+2025-08-18T19:52:24.938522 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:52:29.442677 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:29.443591 - INFO - JOB: Full-stack Software Engineer at hackajob
+2025-08-18T19:52:29.443769 - INFO - RATING: 9/10
+2025-08-18T19:52:29.443901 - INFO - EXPLANATION: Shehab Ahamed's skills in Java, Python, JavaScript, and frameworks like React Native and Spring Boot...
+2025-08-18T19:52:29.444017 - INFO - TOKENS: 105 explanation | 2203 total
+2025-08-18T19:52:29.444137 - INFO - COST: $0.0056 | CUMULATIVE: $0.0061
+2025-08-18T19:52:29.444460 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:29.444773 - INFO - 🔗 Application Type: Company Site (https://www.hackajob.com/job/258dbbef-749a-11f0-a0...)
+2025-08-18T19:52:30.097057 - INFO - ✅ Added job ID 4283515504 to Notion
+2025-08-18T19:52:33.030816 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:33.030925 - INFO - JOB: Junior FullStack Software Engineer at Clearstory
+2025-08-18T19:52:33.031025 - INFO - RATING: 7/10
+2025-08-18T19:52:33.031090 - INFO - EXPLANATION: Candidate has a solid technical foundation with a Bachelor's in Computer Science and relevant skills...
+2025-08-18T19:52:33.031155 - INFO - TOKENS: 127 explanation | 1116 total
+2025-08-18T19:52:33.031226 - INFO - COST: $0.0002 | CUMULATIVE: $0.0063
+2025-08-18T19:52:33.031290 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:33.031372 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:52:33.398933 - INFO - ✅ Added job ID 4272802067 to Notion
+2025-08-18T19:52:36.278816 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:52:38.578858 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:38.578969 - INFO - JOB: Software Engineer, Product at Asana
+2025-08-18T19:52:38.579076 - INFO - RATING: 7.5/10
+2025-08-18T19:52:38.579168 - INFO - EXPLANATION: Candidate has strong technical skills in JavaScript, Python, and React, aligning well with typical A...
+2025-08-18T19:52:38.579253 - INFO - TOKENS: 80 explanation | 2186 total
+2025-08-18T19:52:38.579342 - INFO - COST: $0.0055 | CUMULATIVE: $0.0118
+2025-08-18T19:52:38.579425 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:38.579542 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:52:39.282103 - INFO - ✅ Added job ID 4270307948 to Notion
+2025-08-18T19:52:42.003535 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:52:44.740578 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:44.740724 - INFO - JOB: Full-Stack Engineer at HappyRobot
+2025-08-18T19:52:44.740851 - INFO - RATING: 7.5/10
+2025-08-18T19:52:44.740958 - INFO - EXPLANATION: Candidate has relevant full-stack experience with React, Node.js, and Spring Boot, aligning well wit...
+2025-08-18T19:52:44.741068 - INFO - TOKENS: 101 explanation | 2192 total
+2025-08-18T19:52:44.741179 - INFO - COST: $0.0056 | CUMULATIVE: $0.0174
+2025-08-18T19:52:44.741284 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:44.741478 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/happyrobot.ai/cbe3137c-23...)
+2025-08-18T19:52:45.776322 - INFO - ✅ Added job ID 4149719910 to Notion
+2025-08-18T19:52:49.802457 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:52:52.135977 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:52.136071 - INFO - JOB: Software Engineer I at Coalition, Inc.
+2025-08-18T19:52:52.136148 - INFO - RATING: 9/10
+2025-08-18T19:52:52.136252 - INFO - EXPLANATION: Shehab Ahamed's technical skills in Java, Python, JavaScript, and frameworks like React and Spring B...
+2025-08-18T19:52:52.136366 - INFO - TOKENS: 103 explanation | 2200 total
+2025-08-18T19:52:52.136457 - INFO - COST: $0.0056 | CUMULATIVE: $0.0230
+2025-08-18T19:52:52.136534 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:52.136629 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:52:53.832370 - INFO - ✅ Added job ID 4259158611 to Notion
+2025-08-18T19:52:56.168606 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:56.168744 - INFO - JOB: Software Engineer at The Construction Index Ltd
+2025-08-18T19:52:56.168833 - INFO - RATING: 7/10
+2025-08-18T19:52:56.168922 - INFO - EXPLANATION: Candidate possesses a solid foundation in software engineering with relevant skills in Java, Python,...
+2025-08-18T19:52:56.169013 - INFO - TOKENS: 112 explanation | 1102 total
+2025-08-18T19:52:56.169111 - INFO - COST: $0.0002 | CUMULATIVE: $0.0232
+2025-08-18T19:52:56.169193 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:52:56.169398 - INFO - 🔗 Application Type: Company Site (https://www.theconstructionindex.co.uk/constructio...)
+2025-08-18T19:52:56.821107 - INFO - ✅ Added job ID 4284506564 to Notion
+2025-08-18T19:52:59.729132 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:53:02.396525 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:02.396835 - INFO - JOB: Software Engineer at Ren
+2025-08-18T19:53:02.396963 - INFO - RATING: 9/10
+2025-08-18T19:53:02.397080 - INFO - EXPLANATION: Shehab Ahamed's skills in Java, Python, JavaScript, and frameworks like React, Node.js, and Spring B...
+2025-08-18T19:53:02.397248 - INFO - TOKENS: 110 explanation | 2200 total
+2025-08-18T19:53:02.397337 - INFO - COST: $0.0056 | CUMULATIVE: $0.0288
+2025-08-18T19:53:02.397422 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:02.400557 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:53:03.030752 - INFO - ✅ Added job ID 4286541982 to Notion
+2025-08-18T19:53:06.036493 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:53:08.415795 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:08.415979 - INFO - JOB: Full-Stack Software Engineer (2+ years experience: United States) at Wanderlog
+2025-08-18T19:53:08.416108 - INFO - RATING: 7.5/10
+2025-08-18T19:53:08.416221 - INFO - EXPLANATION: Candidate has 2+ years of full-stack experience with relevant technologies like React, Node.js, and ...
+2025-08-18T19:53:08.416332 - INFO - TOKENS: 103 explanation | 2211 total
+2025-08-18T19:53:08.416439 - INFO - COST: $0.0057 | CUMULATIVE: $0.0345
+2025-08-18T19:53:08.416523 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:08.416833 - INFO - 🔗 Application Type: Company Site (https://app.dover.com/apply/wanderlog/a0023ce1-e54...)
+2025-08-18T19:53:09.006217 - INFO - ✅ Added job ID 4286639358 to Notion
+2025-08-18T19:53:12.135334 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:12.135827 - INFO - JOB: Full Stack Developer at Hyphen Connect
+2025-08-18T19:53:12.135940 - INFO - RATING: 7.5/10
+2025-08-18T19:53:12.136024 - INFO - EXPLANATION: Candidate has a solid foundation in full-stack development with experience in React, Node.js, and Sp...
+2025-08-18T19:53:12.136101 - INFO - TOKENS: 128 explanation | 1116 total
+2025-08-18T19:53:12.136179 - INFO - COST: $0.0002 | CUMULATIVE: $0.0347
+2025-08-18T19:53:12.136253 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:12.136420 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/hyphenconnect/job...)
+2025-08-18T19:53:13.285594 - INFO - ✅ Added job ID 4272076419 to Notion
+2025-08-18T19:53:16.238121 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:53:18.906484 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:18.906602 - INFO - JOB: Software Engineer, Frontend at Glean
+2025-08-18T19:53:18.906673 - INFO - RATING: 7/10
+2025-08-18T19:53:18.906745 - INFO - EXPLANATION: Candidate has a CS degree and relevant experience in frontend development using React, matching the ...
+2025-08-18T19:53:18.906844 - INFO - TOKENS: 92 explanation | 2190 total
+2025-08-18T19:53:18.906923 - INFO - COST: $0.0056 | CUMULATIVE: $0.0402
+2025-08-18T19:53:18.907096 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:18.907394 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/gleanwork/jobs/40...)
+2025-08-18T19:53:23.267275 - INFO - ✅ Added job ID 4195258183 to Notion
+2025-08-18T19:53:25.692732 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:53:27.624673 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:27.624787 - INFO - JOB: Software Engineer - Python at The Construction Index Ltd
+2025-08-18T19:53:27.624876 - INFO - RATING: 8/10
+2025-08-18T19:53:27.624963 - INFO - EXPLANATION: Candidate has a CS degree and relevant experience in Python, JavaScript, and React, aligning well wi...
+2025-08-18T19:53:27.625048 - INFO - TOKENS: 81 explanation | 2173 total
+2025-08-18T19:53:27.625140 - INFO - COST: $0.0055 | CUMULATIVE: $0.0458
+2025-08-18T19:53:27.625222 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:27.625463 - INFO - 🔗 Application Type: Company Site (https://www.theconstructionindex.co.uk/constructio...)
+2025-08-18T19:53:27.937111 - INFO - ✅ Added job ID 4285383926 to Notion
+2025-08-18T19:53:30.804980 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:30.805152 - INFO - JOB: Software Engineer (Python or Java) at Pegasus: IT Value Acceleration Services
+2025-08-18T19:53:30.805261 - INFO - RATING: 7.5/10
+2025-08-18T19:53:30.805341 - INFO - EXPLANATION: Candidate possesses a solid foundation in Python and Java, aligning well with the role's requirement...
+2025-08-18T19:53:30.805416 - INFO - TOKENS: 124 explanation | 1119 total
+2025-08-18T19:53:30.805489 - INFO - COST: $0.0002 | CUMULATIVE: $0.0459
+2025-08-18T19:53:30.805559 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:30.805823 - INFO - 🔗 Application Type: Company Site (https://www.pegasus-consultancy.com/software-engin...)
+2025-08-18T19:53:31.236029 - INFO - ✅ Added job ID 4287309399 to Notion
+2025-08-18T19:53:34.055112 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:34.056025 - INFO - JOB: Software Engineer at Nourish
+2025-08-18T19:53:34.056135 - INFO - RATING: 7/10
+2025-08-18T19:53:34.056233 - INFO - EXPLANATION: Candidate has a solid foundation with a CS degree and relevant technical skills, including Java, Pyt...
+2025-08-18T19:53:34.056321 - INFO - TOKENS: 113 explanation | 1101 total
+2025-08-18T19:53:34.056409 - INFO - COST: $0.0002 | CUMULATIVE: $0.0461
+2025-08-18T19:53:34.056517 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:34.056609 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/usenourish/jobs/4...)
+2025-08-18T19:53:34.569756 - INFO - ✅ Added job ID 4246782478 to Notion
+2025-08-18T19:53:36.964437 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:53:39.897967 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:39.898082 - INFO - JOB: Software Engineer at hackajob
+2025-08-18T19:53:39.898181 - INFO - RATING: 7.5/10
+2025-08-18T19:53:39.898265 - INFO - EXPLANATION: Candidate has a CS degree and recent experience in software engineering roles, aligning well with en...
+2025-08-18T19:53:39.898348 - INFO - TOKENS: 85 explanation | 2166 total
+2025-08-18T19:53:39.898432 - INFO - COST: $0.0055 | CUMULATIVE: $0.0516
+2025-08-18T19:53:39.898511 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:39.898729 - INFO - 🔗 Application Type: Company Site (https://www.hackajob.com/job/0a5b5dd0-6319-11f0-a0...)
+2025-08-18T19:53:40.403763 - INFO - ✅ Added job ID 4269034266 to Notion
+2025-08-18T19:53:43.291044 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:53:45.628393 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:53:45.628638 - ERROR - Raw content: ```json
+{
+  "rating": 7,
+  "explanation": "Candidate has a solid technical foundation with Java, Python, JavaScript, and relevant frameworks like React and Node.js, aligning well with a software engineering role. Experience in building dashboards and full-stack systems is relevant for growth engineering. However, lacks direct experience with Notion's specific domain or business model. Client-facing roles and automation projects indicate strong soft skills. Learning curve expected for domain-specific knowledge but technical skills are a strong match."
+}
+```
+2025-08-18T19:53:45.628803 - ERROR - ❌ Error processing job 'Software Engineer, Growth' at 'Notion': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:53:48.486984 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:53:50.521291 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:50.521430 - INFO - JOB: Full-Stack Software Engineer (New graduates: United States) at Wanderlog
+2025-08-18T19:53:50.521771 - INFO - RATING: 9/10
+2025-08-18T19:53:50.521942 - INFO - EXPLANATION: Shehab Ahamed's technical skills align closely with the Full-Stack Software Engineer role, with prof...
+2025-08-18T19:53:50.522065 - INFO - TOKENS: 93 explanation | 2218 total
+2025-08-18T19:53:50.522186 - INFO - COST: $0.0056 | CUMULATIVE: $0.0572
+2025-08-18T19:53:50.522303 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:50.522530 - INFO - 🔗 Application Type: Company Site (https://app.dover.com/apply/wanderlog/b27927f9-dd0...)
+2025-08-18T19:53:51.196529 - INFO - ✅ Added job ID 4286633939 to Notion
+2025-08-18T19:53:53.411447 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:53:56.079368 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:56.079506 - INFO - JOB: Software Engineer - Parametric at Morgan Stanley
+2025-08-18T19:53:56.079592 - INFO - RATING: 7.5/10
+2025-08-18T19:53:56.079663 - INFO - EXPLANATION: Candidate has a strong technical skills match with Java, Python, JavaScript, and relevant frameworks...
+2025-08-18T19:53:56.079734 - INFO - TOKENS: 102 explanation | 2192 total
+2025-08-18T19:53:56.080184 - INFO - COST: $0.0056 | CUMULATIVE: $0.0629
+2025-08-18T19:53:56.080386 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:53:56.080651 - INFO - 🔗 Application Type: Company Site (https://morganstanley.eightfold.ai/careers?pid=549...)
+2025-08-18T19:53:56.481492 - INFO - ✅ Added job ID 4275432002 to Notion
+2025-08-18T19:53:59.147455 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:54:03.449255 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:03.449370 - INFO - JOB: Back End Software Engineer at Buxton
+2025-08-18T19:54:03.449458 - INFO - RATING: 7/10
+2025-08-18T19:54:03.449544 - INFO - EXPLANATION: Candidate has relevant backend experience with Java, Python, and Spring Boot, aligning with typical ...
+2025-08-18T19:54:03.449625 - INFO - TOKENS: 95 explanation | 2180 total
+2025-08-18T19:54:03.449715 - INFO - COST: $0.0056 | CUMULATIVE: $0.0684
+2025-08-18T19:54:03.449796 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:03.450005 - INFO - 🔗 Application Type: Company Site (https://ats.rippling.com/buxtoncocareers/jobs/7003...)
+2025-08-18T19:54:04.061502 - INFO - ✅ Added job ID 4286631283 to Notion
+2025-08-18T19:54:07.248160 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:54:09.696435 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:09.696554 - INFO - JOB: Software Developer I at KNAPP North America
+2025-08-18T19:54:09.696644 - INFO - RATING: 7.5/10
+2025-08-18T19:54:09.696725 - INFO - EXPLANATION: Candidate has a CS degree and relevant experience in software engineering roles, aligning with the e...
+2025-08-18T19:54:09.696814 - INFO - TOKENS: 93 explanation | 2212 total
+2025-08-18T19:54:09.696897 - INFO - COST: $0.0056 | CUMULATIVE: $0.0740
+2025-08-18T19:54:09.697280 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:09.697636 - INFO - 🔗 Application Type: Company Site (https://workforcenow.adp.com/mascsr/default/mdf/re...)
+2025-08-18T19:54:10.101013 - INFO - ✅ Added job ID 4268379464 to Notion
+2025-08-18T19:54:12.669372 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:54:15.862081 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:54:15.862842 - ERROR - Raw content: ```json
+{
+  "rating": 7.5,
+  "explanation": "Candidate has a solid technical skills match with Java, Python, JavaScript, and React Native experience aligning with common software engineering stacks. Experience level is appropriate for an entry-level role, with relevant internships and full-time roles. Domain relevance is moderate; while payments and education tech experience is valuable, it may not directly align with Advisor360°'s industry. Strong client-facing and teamwork skills demonstrated through integration and support roles. Minimal learning curve expected, making candidate a good fit with room for growth in domain-specific knowledge."
+}
+```
+2025-08-18T19:54:15.863855 - ERROR - ❌ Error processing job 'Software Engineer I' at 'Advisor360°': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:54:18.454674 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:18.454827 - INFO - JOB: Software Development Engineer at RedSail Technologies
+2025-08-18T19:54:18.454917 - INFO - RATING: 7/10
+2025-08-18T19:54:18.455002 - INFO - EXPLANATION: Candidate possesses a solid foundation in software development with a CS degree and relevant interns...
+2025-08-18T19:54:18.455086 - INFO - TOKENS: 108 explanation | 1095 total
+2025-08-18T19:54:18.455172 - INFO - COST: $0.0002 | CUMULATIVE: $0.0742
+2025-08-18T19:54:18.455252 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:18.455483 - INFO - 🔗 Application Type: Company Site (https://recruiting2.ultipro.com/SMI1009KONA/JobBoa...)
+2025-08-18T19:54:18.909665 - INFO - ✅ Added job ID 4251560276 to Notion
+2025-08-18T19:54:21.881687 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:21.881817 - INFO - JOB: Junior Software Development Engineer at Veracyte, Inc.
+2025-08-18T19:54:21.881903 - INFO - RATING: 7/10
+2025-08-18T19:54:21.881988 - INFO - EXPLANATION: Candidate has a solid foundation with a CS degree and relevant technical skills, including Java, Pyt...
+2025-08-18T19:54:21.882071 - INFO - TOKENS: 123 explanation | 1116 total
+2025-08-18T19:54:21.882169 - INFO - COST: $0.0002 | CUMULATIVE: $0.0743
+2025-08-18T19:54:21.882250 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:21.882406 - INFO - 🔗 Application Type: Company Site (https://veracyte.com/job-detail?gh_jid=4824434007&...)
+2025-08-18T19:54:22.279962 - INFO - ✅ Added job ID 4287207352 to Notion
+2025-08-18T19:54:25.320624 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:54:27.065635 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:27.065906 - INFO - JOB: Software Engineer at Take2 Consulting, LLC
+2025-08-18T19:54:27.066043 - INFO - RATING: 9/10
+2025-08-18T19:54:27.066290 - INFO - EXPLANATION: Candidate's skills in Java, Python, JavaScript, and frameworks like React Native and Spring Boot ali...
+2025-08-18T19:54:27.066413 - INFO - TOKENS: 83 explanation | 2179 total
+2025-08-18T19:54:27.066533 - INFO - COST: $0.0055 | CUMULATIVE: $0.0799
+2025-08-18T19:54:27.066644 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:27.066774 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:54:27.954832 - INFO - ✅ Added job ID 4283967581 to Notion
+2025-08-18T19:54:30.731201 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:54:33.339763 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:33.340024 - INFO - JOB: Frontend Engineer | All Levels at Ramp
+2025-08-18T19:54:33.340195 - INFO - RATING: 7/10
+2025-08-18T19:54:33.340284 - INFO - EXPLANATION: Shehab Ahamed has a solid foundation in frontend technologies like React, which aligns with the Fron...
+2025-08-18T19:54:33.340368 - INFO - TOKENS: 99 explanation | 2195 total
+2025-08-18T19:54:33.340455 - INFO - COST: $0.0056 | CUMULATIVE: $0.0855
+2025-08-18T19:54:33.340528 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:33.340694 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b...)
+2025-08-18T19:54:33.785178 - INFO - ✅ Added job ID 4285933578 to Notion
+2025-08-18T19:54:36.416667 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:54:38.772985 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:38.773031 - INFO - JOB: Software Engineer - Backend / San Francisco at Motive
+2025-08-18T19:54:38.773064 - INFO - RATING: 7/10
+2025-08-18T19:54:38.773092 - INFO - EXPLANATION: Candidate has relevant backend experience with Java, Python, and Spring Boot, aligning with typical ...
+2025-08-18T19:54:38.773122 - INFO - TOKENS: 95 explanation | 2195 total
+2025-08-18T19:54:38.773153 - INFO - COST: $0.0056 | CUMULATIVE: $0.0910
+2025-08-18T19:54:38.773182 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:38.773219 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/gomotive/jobs/803...)
+2025-08-18T19:54:39.306209 - INFO - ✅ Added job ID 4269231166 to Notion
+2025-08-18T19:54:41.652856 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:54:44.561351 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:54:44.561511 - ERROR - Raw content: ```json
+{
+  "rating": 7.5,
+  "explanation": "Candidate has a solid foundation in full-stack development with experience in JavaScript, React, and Python, aligning well with the full-stack role. Experience with CI/CD, Docker, and AWS supports technical skills match. Limited experience (2 years) slightly below typical entry-level expectations but compensated by relevant projects and internships. Domain relevance is moderate; experience in payment systems and education tech is tangentially related to unspecified company domain. Client-facing roles and teamwork in previous positions suggest good soft skills alignment. Learning curve expected to be minimal."
+}
+```
+2025-08-18T19:54:44.561641 - ERROR - ❌ Error processing job 'Software Engineer - Fullstack' at 'Pave': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:54:47.283741 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:54:50.094409 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:50.094731 - INFO - JOB: Software Development Engineer I at EVgo
+2025-08-18T19:54:50.094887 - INFO - RATING: 7.5/10
+2025-08-18T19:54:50.095011 - INFO - EXPLANATION: Candidate's skills in Java, Python, JavaScript, and frameworks like React and Spring Boot align well...
+2025-08-18T19:54:50.095124 - INFO - TOKENS: 124 explanation | 2222 total
+2025-08-18T19:54:50.095267 - INFO - COST: $0.0057 | CUMULATIVE: $0.0968
+2025-08-18T19:54:50.095424 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:54:50.095824 - INFO - 🔗 Application Type: Jobvite (https://jobs.jobvite.com/evgo/job/oD8wwfwx?__jvst=...)
+2025-08-18T19:54:54.338160 - INFO - ✅ Added job ID 4271031438 to Notion
+2025-08-18T19:54:57.146547 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:55:00.185867 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:00.186028 - INFO - JOB: Frontend Engineer at Meter
+2025-08-18T19:55:00.186462 - INFO - RATING: 7/10
+2025-08-18T19:55:00.186593 - INFO - EXPLANATION: Candidate has a solid foundation in frontend technologies with experience in React, which aligns wit...
+2025-08-18T19:55:00.186670 - INFO - TOKENS: 99 explanation | 2194 total
+2025-08-18T19:55:00.186753 - INFO - COST: $0.0056 | CUMULATIVE: $0.1024
+2025-08-18T19:55:00.186817 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:00.187074 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/meter/573a3c40-5242-44a5-...)
+2025-08-18T19:55:03.224525 - INFO - ✅ Added job ID 4283465915 to Notion
+2025-08-18T19:55:06.633884 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:06.634006 - INFO - JOB: Software Engineer at SHI International Corp.
+2025-08-18T19:55:06.634091 - INFO - RATING: 7.5/10
+2025-08-18T19:55:06.634160 - INFO - EXPLANATION: Candidate possesses a solid technical foundation with a CS degree and relevant programming skills in...
+2025-08-18T19:55:06.634528 - INFO - TOKENS: 131 explanation | 1122 total
+2025-08-18T19:55:06.634662 - INFO - COST: $0.0002 | CUMULATIVE: $0.1025
+2025-08-18T19:55:06.634736 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:06.634981 - INFO - 🔗 Application Type: Workday (https://shi.wd12.myworkdayjobs.com/shicareers/job/...)
+2025-08-18T19:55:07.073007 - INFO - ✅ Added job ID 4282869441 to Notion
+2025-08-18T19:55:09.865121 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:55:13.302596 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:13.302703 - INFO - JOB: Software Engineer at Runway (runway.team)
+2025-08-18T19:55:13.302751 - INFO - RATING: 7.5/10
+2025-08-18T19:55:13.302778 - INFO - EXPLANATION: Candidate has a CS degree and recent experience as a Software Engineer, aligning well with the Softw...
+2025-08-18T19:55:13.302801 - INFO - TOKENS: 75 explanation | 2174 total
+2025-08-18T19:55:13.302825 - INFO - COST: $0.0055 | CUMULATIVE: $0.1080
+2025-08-18T19:55:13.302846 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:13.302918 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:55:13.999295 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:55:15.132080 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:55:17.294246 - ERROR - ❌ Failed to add job ID 4283951862 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:55:19.843973 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:19.844078 - INFO - JOB: Software Engineer, Capital Insights at Upstart
+2025-08-18T19:55:19.844164 - INFO - RATING: 7.5/10
+2025-08-18T19:55:19.844234 - INFO - EXPLANATION: Candidate has a relevant CS degree and 1.5 years of software engineering experience, aligning well w...
+2025-08-18T19:55:19.844331 - INFO - TOKENS: 109 explanation | 1098 total
+2025-08-18T19:55:19.844398 - INFO - COST: $0.0002 | CUMULATIVE: $0.1082
+2025-08-18T19:55:19.844463 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:19.844616 - INFO - 🔗 Application Type: Greenhouse (https://app.greenhouse.io/embed/job_app?token=7099...)
+2025-08-18T19:55:20.528570 - INFO - ✅ Added job ID 4269241654 to Notion
+2025-08-18T19:55:23.627545 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:55:25.937850 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:25.937982 - INFO - JOB: Software Engineer, Backend (Consumer - Coinbase One) at TieTalent
+2025-08-18T19:55:25.938066 - INFO - RATING: 7/10
+2025-08-18T19:55:25.938149 - INFO - EXPLANATION: Candidate has strong backend skills in Java, Python, and Node.js, aligning well with backend enginee...
+2025-08-18T19:55:25.938230 - INFO - TOKENS: 79 explanation | 2189 total
+2025-08-18T19:55:25.938318 - INFO - COST: $0.0055 | CUMULATIVE: $0.1137
+2025-08-18T19:55:25.938490 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:25.938748 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-5848200/united-sta...)
+2025-08-18T19:55:26.701098 - INFO - ✅ Added job ID 4285712050 to Notion
+2025-08-18T19:55:29.681436 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:55:32.536868 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:32.537255 - INFO - JOB: Software Engineer at Mayo Clinic Healthcare
+2025-08-18T19:55:32.537528 - INFO - RATING: 7/10
+2025-08-18T19:55:32.537900 - INFO - EXPLANATION: Candidate has a CS degree and relevant experience in software engineering, aligning with the entry-l...
+2025-08-18T19:55:32.538021 - INFO - TOKENS: 89 explanation | 2175 total
+2025-08-18T19:55:32.538206 - INFO - COST: $0.0055 | CUMULATIVE: $0.1192
+2025-08-18T19:55:32.538330 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:32.538694 - INFO - 🔗 Application Type: Company Site (https://jobs.mayoclinic.org/job/rochester/software...)
+2025-08-18T19:55:33.048763 - INFO - ✅ Added job ID 4286171530 to Notion
+2025-08-18T19:55:37.273785 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:55:41.025241 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:41.025350 - INFO - JOB: Junior Full-Stack Web Developer at Get Found Fast
+2025-08-18T19:55:41.025453 - INFO - RATING: 7.5/10
+2025-08-18T19:55:41.025633 - INFO - EXPLANATION: Candidate has a solid technical skills match with JavaScript, React, Node.js, and CI/CD experience, ...
+2025-08-18T19:55:41.025741 - INFO - TOKENS: 103 explanation | 2203 total
+2025-08-18T19:55:41.025830 - INFO - COST: $0.0056 | CUMULATIVE: $0.1249
+2025-08-18T19:55:41.025914 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:41.026023 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:55:41.547556 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:55:43.184406 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:55:45.908913 - ERROR - ❌ Failed to add job ID 4286533391 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:55:48.918910 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:55:51.454602 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:51.454754 - INFO - JOB: Software Engineer I at Worldpay
+2025-08-18T19:55:51.454858 - INFO - RATING: 7.5/10
+2025-08-18T19:55:51.454947 - INFO - EXPLANATION: Candidate has a CS degree and relevant experience in software engineering roles, aligning with entry...
+2025-08-18T19:55:51.455033 - INFO - TOKENS: 102 explanation | 2185 total
+2025-08-18T19:55:51.455132 - INFO - COST: $0.0056 | CUMULATIVE: $0.1305
+2025-08-18T19:55:51.455217 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:55:51.455450 - INFO - 🔗 Application Type: Company Site (https://jobs.worldpay.com/jobs/JR0606637-0?source=...)
+2025-08-18T19:55:51.896406 - INFO - ✅ Added job ID 4284466985 to Notion
+2025-08-18T19:55:54.630776 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:55:57.929029 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:55:57.929215 - ERROR - Raw content: ```json
+{
+  "rating": 7.5,
+  "explanation": "Candidate has a CS degree and relevant experience in software engineering roles, aligning well with an entry-level software engineer position. Proficient in JavaScript, Python, and frameworks like React and Node.js, which are commonly used in software engineering roles. Experience with CI/CD, Docker, and AWS supports DevOps aspects. Domain experience in payment systems and education tech is relevant but not directly specified for Q2's industry. Strong client-facing and teamwork skills demonstrated through integration and support roles. Minimal learning curve expected for entry-level responsibilities."
+}
+```
+2025-08-18T19:55:57.929343 - ERROR - ❌ Error processing job 'Software Engineer' at 'Q2': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:56:00.697652 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:00.697764 - INFO - JOB: Junior Data Engineer at Bath & Body Works
+2025-08-18T19:56:00.697858 - INFO - RATING: 6.5/10
+2025-08-18T19:56:00.697942 - INFO - EXPLANATION: Candidate possesses a solid foundation in programming languages (Java, Python, SQL) and relevant fra...
+2025-08-18T19:56:00.698025 - INFO - TOKENS: 128 explanation | 1118 total
+2025-08-18T19:56:00.700180 - INFO - COST: $0.0002 | CUMULATIVE: $0.1307
+2025-08-18T19:56:00.700385 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:00.700544 - INFO - 🔗 Application Type: Company Site (https://careers.bathandbodyworks.com/job/22241974?...)
+2025-08-18T19:56:01.226242 - INFO - ✅ Added job ID 4275478361 to Notion
+2025-08-18T19:56:04.033751 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:56:07.040235 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:07.040360 - INFO - JOB: Software Engineer at BlackRock
+2025-08-18T19:56:07.040427 - INFO - RATING: 8/10
+2025-08-18T19:56:07.040489 - INFO - EXPLANATION: Candidate has a CS degree and relevant experience as a Software Engineer and Integration Specialist....
+2025-08-18T19:56:07.040546 - INFO - TOKENS: 99 explanation | 2197 total
+2025-08-18T19:56:07.040623 - INFO - COST: $0.0056 | CUMULATIVE: $0.1363
+2025-08-18T19:56:07.040679 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:07.041030 - INFO - 🔗 Application Type: Company Site (https://careers.blackrock.com/job/-/-/45831/850628...)
+2025-08-18T19:56:09.131567 - INFO - ✅ Added job ID 4287476381 to Notion
+2025-08-18T19:56:12.270291 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:12.270402 - INFO - JOB: Software Development Engineer I at GM Financial
+2025-08-18T19:56:12.270502 - INFO - RATING: 7.5/10
+2025-08-18T19:56:12.270586 - INFO - EXPLANATION: Candidate possesses a solid foundation in relevant programming languages (Java, Python, JavaScript) ...
+2025-08-18T19:56:12.270674 - INFO - TOKENS: 122 explanation | 1113 total
+2025-08-18T19:56:12.270760 - INFO - COST: $0.0002 | CUMULATIVE: $0.1364
+2025-08-18T19:56:12.270845 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:12.270986 - INFO - 🔗 Application Type: Company Site (https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com...)
+2025-08-18T19:56:14.731767 - INFO - ✅ Added job ID 4270518544 to Notion
+2025-08-18T19:56:17.636253 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:56:20.156632 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:20.156770 - INFO - JOB: Software Engineer, Edge Platforms at The New York Times
+2025-08-18T19:56:20.156864 - INFO - RATING: 7.5/10
+2025-08-18T19:56:20.156944 - INFO - EXPLANATION: Candidate has a CS degree and recent experience in full-stack development, aligning well with the en...
+2025-08-18T19:56:20.157022 - INFO - TOKENS: 89 explanation | 2206 total
+2025-08-18T19:56:20.157102 - INFO - COST: $0.0056 | CUMULATIVE: $0.1420
+2025-08-18T19:56:20.157179 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:20.157429 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/thenewyorktimes/j...)
+2025-08-18T19:56:22.416479 - INFO - ✅ Added job ID 4283201596 to Notion
+2025-08-18T19:56:25.170158 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:56:28.109100 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:28.109693 - INFO - JOB: Software Engineer, Perception, Limited Duration at Waymo
+2025-08-18T19:56:28.109825 - INFO - RATING: 7/10
+2025-08-18T19:56:28.109911 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages (Java, Python, JavaScript) and frameworks ...
+2025-08-18T19:56:28.109993 - INFO - TOKENS: 95 explanation | 2194 total
+2025-08-18T19:56:28.110072 - INFO - COST: $0.0056 | CUMULATIVE: $0.1476
+2025-08-18T19:56:28.110148 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:28.110392 - INFO - 🔗 Application Type: Company Site (https://careers.withwaymo.com/jobs?gh_jid=6714667&...)
+2025-08-18T19:56:28.656317 - INFO - ✅ Added job ID 4182801755 to Notion
+2025-08-18T19:56:31.109460 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:56:33.261924 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:33.262017 - INFO - JOB: Software Engineer at All Hands AI
+2025-08-18T19:56:33.262087 - INFO - RATING: 8/10
+2025-08-18T19:56:33.262149 - INFO - EXPLANATION: Candidate's technical skills in Java, Python, JavaScript, and frameworks like React and Spring Boot ...
+2025-08-18T19:56:33.262206 - INFO - TOKENS: 95 explanation | 2179 total
+2025-08-18T19:56:33.262269 - INFO - COST: $0.0056 | CUMULATIVE: $0.1532
+2025-08-18T19:56:33.262327 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:33.262646 - INFO - 🔗 Application Type: Company Site (https://app.jazz.co/apply/job/vKiSaGtlzV?source=LI...)
+2025-08-18T19:56:33.557795 - INFO - ✅ Added job ID 4281728485 to Notion
+2025-08-18T19:56:36.381397 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:36.381546 - INFO - JOB: Java Developer at hackajob
+2025-08-18T19:56:36.381655 - INFO - RATING: 7/10
+2025-08-18T19:56:36.381759 - INFO - EXPLANATION: Candidate has a solid foundation in Java and relevant frameworks like Spring Boot, which aligns with...
+2025-08-18T19:56:36.381861 - INFO - TOKENS: 118 explanation | 1104 total
+2025-08-18T19:56:36.382098 - INFO - COST: $0.0002 | CUMULATIVE: $0.1533
+2025-08-18T19:56:36.382246 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:36.382454 - INFO - 🔗 Application Type: Company Site (https://www.hackajob.com/job/fa563b3d-76ac-11f0-a0...)
+2025-08-18T19:56:36.741125 - INFO - ✅ Added job ID 4286437776 to Notion
+2025-08-18T19:56:39.093639 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:39.093672 - INFO - JOB: Backend Engineer (New Grad) [32283] at Stealth AI Startup
+2025-08-18T19:56:39.093696 - INFO - RATING: 7.5/10
+2025-08-18T19:56:39.093718 - INFO - EXPLANATION: Candidate possesses a solid foundation in relevant programming languages (Java, Python, JavaScript) ...
+2025-08-18T19:56:39.093737 - INFO - TOKENS: 108 explanation | 1105 total
+2025-08-18T19:56:39.093757 - INFO - COST: $0.0002 | CUMULATIVE: $0.1535
+2025-08-18T19:56:39.093777 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:39.093801 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:56:39.482590 - INFO - ✅ Added job ID 4282596933 to Notion
+2025-08-18T19:56:42.605274 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:56:45.406293 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:45.406453 - INFO - JOB: Software Engineer, Full Stack (NYC) at Evertune AI
+2025-08-18T19:56:45.406568 - INFO - RATING: 9/10
+2025-08-18T19:56:45.406679 - INFO - EXPLANATION: Shehab Ahamed's technical skills in JavaScript, React, and Node.js directly align with the full-stac...
+2025-08-18T19:56:45.406788 - INFO - TOKENS: 106 explanation | 2195 total
+2025-08-18T19:56:45.406904 - INFO - COST: $0.0057 | CUMULATIVE: $0.1592
+2025-08-18T19:56:45.407010 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:45.407262 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/evertune/033a87a5-daeb-44...)
+2025-08-18T19:56:45.858773 - INFO - ✅ Added job ID 4285251595 to Notion
+2025-08-18T19:56:48.956058 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:48.956169 - INFO - JOB: Software Engineer at Docusign
+2025-08-18T19:56:48.956224 - INFO - RATING: 7/10
+2025-08-18T19:56:48.956274 - INFO - EXPLANATION: Candidate possesses a solid foundation in relevant programming languages (Java, Python, JavaScript) ...
+2025-08-18T19:56:48.956318 - INFO - TOKENS: 139 explanation | 1126 total
+2025-08-18T19:56:48.956365 - INFO - COST: $0.0002 | CUMULATIVE: $0.1593
+2025-08-18T19:56:48.956408 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:56:48.956518 - INFO - 🔗 Application Type: Company Site (https://careers.docusign.com/jobs/26822?lang=en-us...)
+2025-08-18T19:56:52.413265 - INFO - ✅ Added job ID 4217793985 to Notion
+2025-08-18T19:56:54.847276 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:56:57.968043 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:56:57.968147 - ERROR - Raw content: ```json
+{
+  "rating": 7,
+  "explanation": "Candidate has a solid foundation in software engineering with a CS degree and relevant experience in full-stack development using React, Python, and Java, matching the entry-level software engineer role. Experience with AWS, Docker, and CI/CD aligns with modern development practices. However, lacks specific information on domain relevance to Barco's industry. Strong client-facing skills and teamwork demonstrated in previous roles. Some ramp-up time may be needed for industry-specific knowledge."
+}
+```
+2025-08-18T19:56:57.968335 - ERROR - ❌ Error processing job 'Software Engineer' at 'Barco': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:57:01.012118 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:57:04.292942 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:04.293492 - INFO - JOB: Software Engineer, Backend (Institutional - Staking) at Coinbase
+2025-08-18T19:57:04.293798 - INFO - RATING: 7/10
+2025-08-18T19:57:04.293911 - INFO - EXPLANATION: Candidate has relevant backend experience with Java, Python, and Node.js, aligning with Coinbase's l...
+2025-08-18T19:57:04.293991 - INFO - TOKENS: 93 explanation | 2198 total
+2025-08-18T19:57:04.294062 - INFO - COST: $0.0056 | CUMULATIVE: $0.1649
+2025-08-18T19:57:04.294127 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:04.294233 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:57:04.869409 - INFO - ✅ Added job ID 4235376738 to Notion
+2025-08-18T19:57:07.974725 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:57:10.110188 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:10.110344 - INFO - JOB: Front End Developer (JavaScript) at Miva, Inc.
+2025-08-18T19:57:10.110436 - INFO - RATING: 7.5/10
+2025-08-18T19:57:10.110539 - INFO - EXPLANATION: Candidate has strong JavaScript, React, and frontend development skills matching the Front End Devel...
+2025-08-18T19:57:10.110612 - INFO - TOKENS: 81 explanation | 2180 total
+2025-08-18T19:57:10.110684 - INFO - COST: $0.0055 | CUMULATIVE: $0.1704
+2025-08-18T19:57:10.110916 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:10.111438 - INFO - 🔗 Application Type: Company Site (https://www.wiraa.com/job-description/usE6AD86FA49...)
+2025-08-18T19:57:12.172458 - INFO - ✅ Added job ID 4287741500 to Notion
+2025-08-18T19:57:15.795652 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:57:19.166248 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:57:19.166599 - ERROR - Raw content: ```json
+{
+  "rating": 7,
+  "explanation": "Candidate has strong technical skills in Java, Python, and JavaScript, aligning well with backend engineering. Experience with Spring Boot and Node.js is relevant for backend development. However, lacks specific experience in the AI domain and the job description is not provided, making domain relevance unclear. Experience level is appropriate for entry-level, with solid project and internship experience. Client-facing roles and teamwork in previous positions suggest good soft skills alignment. Some learning curve expected for domain-specific knowledge at xAI."
+}
+```
+2025-08-18T19:57:19.166846 - ERROR - ❌ Error processing job 'Backend Engineer - Product' at 'xAI': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:57:22.176026 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:57:25.072297 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:25.072665 - INFO - JOB: Software Engineer, Full Stack (Seattle) at Evertune AI
+2025-08-18T19:57:25.072737 - INFO - RATING: 7.5/10
+2025-08-18T19:57:25.072800 - INFO - EXPLANATION: Candidate has a solid technical skills match with experience in JavaScript, React, Node.js, and Dock...
+2025-08-18T19:57:25.072857 - INFO - TOKENS: 102 explanation | 2219 total
+2025-08-18T19:57:25.072911 - INFO - COST: $0.0056 | CUMULATIVE: $0.1761
+2025-08-18T19:57:25.072961 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:25.073192 - INFO - 🔗 Application Type: Ashby (https://jobs.ashbyhq.com/evertune/49d8060d-93e0-41...)
+2025-08-18T19:57:25.603947 - INFO - ✅ Added job ID 4285250861 to Notion
+2025-08-18T19:57:28.623036 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:28.623366 - INFO - JOB: Software Engineer, Backend (Consumer - Stablecoin) at TieTalent
+2025-08-18T19:57:28.623481 - INFO - RATING: 7/10
+2025-08-18T19:57:28.623644 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T19:57:28.623860 - INFO - TOKENS: 115 explanation | 1108 total
+2025-08-18T19:57:28.624004 - INFO - COST: $0.0002 | CUMULATIVE: $0.1762
+2025-08-18T19:57:28.624127 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:28.624401 - INFO - 🔗 Application Type: Company Site (https://tietalent.com/en/jobs/p-5865180/united-sta...)
+2025-08-18T19:57:29.374239 - INFO - ✅ Added job ID 4285760461 to Notion
+2025-08-18T19:57:32.144319 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:32.144600 - INFO - JOB: Associate Software Engineer at Bridgeway Benefit Technologies
+2025-08-18T19:57:32.144672 - INFO - RATING: 7/10
+2025-08-18T19:57:32.144735 - INFO - EXPLANATION: Candidate has a solid foundation in programming languages (Java, Python, JavaScript) and frameworks ...
+2025-08-18T19:57:32.144794 - INFO - TOKENS: 116 explanation | 1106 total
+2025-08-18T19:57:32.144866 - INFO - COST: $0.0002 | CUMULATIVE: $0.1764
+2025-08-18T19:57:32.144922 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:32.145121 - INFO - 🔗 Application Type: Company Site (https://grnh.se/yzqvll132us...)
+2025-08-18T19:57:32.555989 - INFO - ✅ Added job ID 4286963736 to Notion
+2025-08-18T19:57:36.224247 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:36.224536 - INFO - JOB: Software Engineer, Full Stack (EAA) at Coinbase
+2025-08-18T19:57:36.224619 - INFO - RATING: 7.5/10
+2025-08-18T19:57:36.224691 - INFO - EXPLANATION: Candidate has a solid foundation in full-stack development with relevant skills in JavaScript, React...
+2025-08-18T19:57:36.224762 - INFO - TOKENS: 118 explanation | 1111 total
+2025-08-18T19:57:36.224834 - INFO - COST: $0.0002 | CUMULATIVE: $0.1766
+2025-08-18T19:57:36.224908 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:36.225056 - INFO - 🔗 Application Type: Company Site (https://grnh.se/79b6d1971us?gh_src=20687b321us&sou...)
+2025-08-18T19:57:36.627038 - INFO - ✅ Added job ID 4203553189 to Notion
+2025-08-18T19:57:39.277969 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:57:42.177079 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:57:42.177368 - ERROR - Raw content: ```json
+{
+  "rating": 7.5,
+  "explanation": "Candidate has strong technical skills in Java, Python, and JavaScript, aligning well with typical software engineering stacks. Experience with React, Node.js, and Spring Boot matches common frameworks. 2 years of professional experience is slightly below typical associate level but compensated by relevant project work and internships. Domain experience in payment systems and education tech is somewhat related to software engineering but lacks specific industry focus for Waters Corporation. Client-facing and teamwork skills demonstrated through integration and support roles. Moderate learning curve expected for domain-specific knowledge."
+}
+```
+2025-08-18T19:57:42.177509 - ERROR - ❌ Error processing job 'Software Engineer' at 'Waters Corporation': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:57:45.524898 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:45.525247 - INFO - JOB: Software Engineer I/II at Multi Media, LLC
+2025-08-18T19:57:45.525349 - INFO - RATING: 7.5/10
+2025-08-18T19:57:45.525453 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T19:57:45.525627 - INFO - TOKENS: 149 explanation | 1141 total
+2025-08-18T19:57:45.525722 - INFO - COST: $0.0002 | CUMULATIVE: $0.1767
+2025-08-18T19:57:45.525801 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:45.526031 - INFO - 🔗 Application Type: Company Site (https://apply.workable.com/multimediallc/j/7E8EE3B...)
+2025-08-18T19:57:46.270449 - INFO - ✅ Added job ID 4231985097 to Notion
+2025-08-18T19:57:49.549953 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:49.550141 - INFO - JOB: Software Engineer, Core HRIS at Lattice
+2025-08-18T19:57:49.550306 - INFO - RATING: 7/10
+2025-08-18T19:57:49.550460 - INFO - EXPLANATION: Candidate has a solid foundation in relevant programming languages (Java, Python, JavaScript) and fr...
+2025-08-18T19:57:49.550619 - INFO - TOKENS: 117 explanation | 1106 total
+2025-08-18T19:57:49.550777 - INFO - COST: $0.0002 | CUMULATIVE: $0.1769
+2025-08-18T19:57:49.550924 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:49.551135 - INFO - 🔗 Application Type: Company Site (https://lattice.com/job?gh_jid=8114685002...)
+2025-08-18T19:57:50.156989 - INFO - ✅ Added job ID 4282873913 to Notion
+2025-08-18T19:57:53.802605 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:57:56.091956 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:56.092094 - INFO - JOB: Full Stack Backend Engineer - Python at Voice AI
+2025-08-18T19:57:56.092189 - INFO - RATING: 7.5/10
+2025-08-18T19:57:56.092275 - INFO - EXPLANATION: Candidate has strong Python and full-stack development experience, aligning well with the Full Stack...
+2025-08-18T19:57:56.092364 - INFO - TOKENS: 82 explanation | 2194 total
+2025-08-18T19:57:56.092450 - INFO - COST: $0.0055 | CUMULATIVE: $0.1824
+2025-08-18T19:57:56.092534 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:57:56.092677 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:57:56.416565 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:57:57.581132 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:57:59.751038 - ERROR - ❌ Failed to add job ID 4283072188 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:58:02.487409 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:02.487595 - INFO - JOB: Software Engineer, Router at Waymo
+2025-08-18T19:58:02.487754 - INFO - RATING: 7/10
+2025-08-18T19:58:02.487910 - INFO - EXPLANATION: Candidate has a solid foundation in software engineering with a CS degree and relevant internships. ...
+2025-08-18T19:58:02.488060 - INFO - TOKENS: 107 explanation | 1095 total
+2025-08-18T19:58:02.488222 - INFO - COST: $0.0002 | CUMULATIVE: $0.1826
+2025-08-18T19:58:02.488366 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:02.488751 - INFO - 🔗 Application Type: Company Site (https://careers.withwaymo.com/jobs?gh_jid=6760514&...)
+2025-08-18T19:58:04.491883 - INFO - ✅ Added job ID 4284183819 to Notion
+2025-08-18T19:58:08.087712 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:58:11.232511 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:11.232620 - INFO - JOB: Software Engineer/Developer at Northstrat Incorporated
+2025-08-18T19:58:11.232704 - INFO - RATING: 7.5/10
+2025-08-18T19:58:11.232777 - INFO - EXPLANATION: Candidate has 1+ year of professional experience in software engineering, aligning with entry-level ...
+2025-08-18T19:58:11.232849 - INFO - TOKENS: 98 explanation | 2215 total
+2025-08-18T19:58:11.232923 - INFO - COST: $0.0056 | CUMULATIVE: $0.1882
+2025-08-18T19:58:11.232998 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:11.233232 - INFO - 🔗 Application Type: Company Site (https://www.resume-library.com/feed/click/551/2233...)
+2025-08-18T19:58:11.743961 - INFO - ✅ Added job ID 4284309531 to Notion
+2025-08-18T19:58:14.840921 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:58:17.815035 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:17.815178 - INFO - JOB: Front End Developer at Crate and Barrel
+2025-08-18T19:58:17.815268 - INFO - RATING: 7/10
+2025-08-18T19:58:17.815351 - INFO - EXPLANATION: Candidate has strong technical skills in JavaScript, React, and Node.js, aligning well with front-en...
+2025-08-18T19:58:17.815435 - INFO - TOKENS: 104 explanation | 2210 total
+2025-08-18T19:58:17.815535 - INFO - COST: $0.0056 | CUMULATIVE: $0.1939
+2025-08-18T19:58:17.815633 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:17.815817 - INFO - 🔗 Application Type: Company Site (https://ad.doubleclick.net/ddm/clk/464361346;26971...)
+2025-08-18T19:58:19.779673 - INFO - ✅ Added job ID 4287488872 to Notion
+2025-08-18T19:58:22.837477 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:22.837868 - INFO - JOB: Software Engineer at Point of Rental Software
+2025-08-18T19:58:22.837980 - INFO - RATING: 7.5/10
+2025-08-18T19:58:22.838252 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T19:58:22.838325 - INFO - TOKENS: 129 explanation | 1119 total
+2025-08-18T19:58:22.838524 - INFO - COST: $0.0002 | CUMULATIVE: $0.1940
+2025-08-18T19:58:22.838819 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:22.839891 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:58:23.455114 - INFO - ✅ Added job ID 4286529300 to Notion
+2025-08-18T19:58:26.558674 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:26.559006 - INFO - JOB: Software Engineer - PDB at Parathon
+2025-08-18T19:58:26.559214 - INFO - RATING: 7.5/10
+2025-08-18T19:58:26.559455 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T19:58:26.559727 - INFO - TOKENS: 152 explanation | 1143 total
+2025-08-18T19:58:26.559819 - INFO - COST: $0.0002 | CUMULATIVE: $0.1942
+2025-08-18T19:58:26.559891 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:26.559979 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:58:27.417429 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:58:29.082037 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:58:31.297285 - ERROR - ❌ Failed to add job ID 4286542388 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:58:34.093233 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:58:37.111085 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:37.111263 - INFO - JOB: OR Software Engineer at Optimal Dynamics
+2025-08-18T19:58:37.111363 - INFO - RATING: 7/10
+2025-08-18T19:58:37.111453 - INFO - EXPLANATION: Candidate has 1 year of professional experience in software engineering, aligning with an associate-...
+2025-08-18T19:58:37.111542 - INFO - TOKENS: 90 explanation | 2192 total
+2025-08-18T19:58:37.111717 - INFO - COST: $0.0055 | CUMULATIVE: $0.1997
+2025-08-18T19:58:37.111849 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:37.111999 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/optimaldynamics/j...)
+2025-08-18T19:58:38.807563 - INFO - ✅ Added job ID 4233066284 to Notion
+2025-08-18T19:58:41.493137 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:41.493273 - INFO - JOB: Solutions Engineer at Asana
+2025-08-18T19:58:41.493506 - INFO - RATING: 7.5/10
+2025-08-18T19:58:41.493670 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T19:58:41.493777 - INFO - TOKENS: 114 explanation | 1102 total
+2025-08-18T19:58:41.493915 - INFO - COST: $0.0002 | CUMULATIVE: $0.1999
+2025-08-18T19:58:41.494003 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:41.494107 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:58:41.851798 - INFO - ✅ Added job ID 4268917010 to Notion
+2025-08-18T19:58:45.116488 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:58:48.122928 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:58:48.123046 - ERROR - Raw content: ```json
+{
+  "rating": 7,
+  "explanation": "Candidate's experience with React, Python, and data integration aligns with data visualization role. Strong technical skills in JavaScript, Python, and frameworks like React Native and Django match well with BI tools. Experience in building dashboards and automation is relevant. However, lacks direct BI or data visualization tool experience (e.g., Tableau, Power BI). Learning curve expected for domain-specific tools. Client-facing and teamwork skills evident from integration and support roles, beneficial for cross-functional work."
+}
+```
+2025-08-18T19:58:48.123186 - ERROR - ❌ Error processing job 'Engineer, Data Visualization and Business Intelligence' at 'KPMG US': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T19:58:51.164620 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:51.164728 - INFO - JOB: Full Stack Engineer at MeshyAI
+2025-08-18T19:58:51.164813 - INFO - RATING: 7.5/10
+2025-08-18T19:58:51.164885 - INFO - EXPLANATION: Candidate has a solid technical foundation with experience in Java, Python, JavaScript, and framewor...
+2025-08-18T19:58:51.164956 - INFO - TOKENS: 131 explanation | 1118 total
+2025-08-18T19:58:51.165026 - INFO - COST: $0.0002 | CUMULATIVE: $0.2001
+2025-08-18T19:58:51.165095 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:51.165386 - INFO - 🔗 Application Type: Company Site (https://www.wiraa.com/job-description/usB3BC80B3C0...)
+2025-08-18T19:58:51.592544 - INFO - ✅ Added job ID 4287740555 to Notion
+2025-08-18T19:58:54.484610 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:54.485219 - INFO - JOB: Software Engineer at Abacus.AI
+2025-08-18T19:58:54.485353 - INFO - RATING: 7.5/10
+2025-08-18T19:58:54.485436 - INFO - EXPLANATION: Candidate possesses a solid foundation with a CS degree and relevant full-stack experience, particul...
+2025-08-18T19:58:54.485515 - INFO - TOKENS: 128 explanation | 1113 total
+2025-08-18T19:58:54.485593 - INFO - COST: $0.0002 | CUMULATIVE: $0.2002
+2025-08-18T19:58:54.485669 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:58:54.485766 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:58:54.664137 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:58:55.808689 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:58:57.969654 - ERROR - ❌ Failed to add job ID 4286540632 to Notion after 3 attempts: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-18T19:59:00.822420 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:00.822548 - INFO - JOB: Software Engineer II at Progressive Data Jobs
+2025-08-18T19:59:00.822640 - INFO - RATING: 7/10
+2025-08-18T19:59:00.822724 - INFO - EXPLANATION: The candidate has a solid foundation in relevant programming languages (Java, Python, JavaScript) an...
+2025-08-18T19:59:00.822810 - INFO - TOKENS: 125 explanation | 1115 total
+2025-08-18T19:59:00.822905 - INFO - COST: $0.0002 | CUMULATIVE: $0.2004
+2025-08-18T19:59:00.822987 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:00.823347 - INFO - 🔗 Application Type: Company Site (https://www.progressivedatajobs.org/job-posting/so...)
+2025-08-18T19:59:02.766281 - INFO - ✅ Added job ID 4286889887 to Notion
+2025-08-18T19:59:06.255466 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:59:09.469479 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:09.469757 - INFO - JOB: Software Engineer, Microservices Developer at Centric Software
+2025-08-18T19:59:09.469810 - INFO - RATING: 7.5/10
+2025-08-18T19:59:09.469854 - INFO - EXPLANATION: Candidate's experience with Java, Python, and Spring Boot aligns well with microservices development...
+2025-08-18T19:59:09.469977 - INFO - TOKENS: 97 explanation | 2218 total
+2025-08-18T19:59:09.470052 - INFO - COST: $0.0056 | CUMULATIVE: $0.2060
+2025-08-18T19:59:09.470094 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:09.470408 - INFO - 🔗 Application Type: Company Site (http://centricsoftware1.applytojob.com/apply/h9LvP...)
+2025-08-18T19:59:10.964978 - INFO - ✅ Added job ID 4233263297 to Notion
+2025-08-18T19:59:14.175440 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:14.175548 - INFO - JOB: Junior Software Engineer at ITRAC
+2025-08-18T19:59:14.175683 - INFO - RATING: 7.5/10
+2025-08-18T19:59:14.175768 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T19:59:14.175885 - INFO - TOKENS: 137 explanation | 1127 total
+2025-08-18T19:59:14.175959 - INFO - COST: $0.0002 | CUMULATIVE: $0.2062
+2025-08-18T19:59:14.176035 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:14.176119 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:59:19.167840 - INFO - ✅ Added job ID 4282897887 to Notion
+2025-08-18T19:59:21.979710 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:59:25.291616 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:25.291841 - INFO - JOB: Software Engineer, Database Team at Pinecone
+2025-08-18T19:59:25.292137 - INFO - RATING: 7/10
+2025-08-18T19:59:25.292336 - INFO - EXPLANATION: Candidate has relevant technical skills in Java, Python, and SQL, aligning with database team requir...
+2025-08-18T19:59:25.292509 - INFO - TOKENS: 97 explanation | 2191 total
+2025-08-18T19:59:25.293035 - INFO - COST: $0.0056 | CUMULATIVE: $0.2118
+2025-08-18T19:59:25.293141 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:25.293486 - INFO - 🔗 Application Type: Company Site (https://www.pinecone.io/careers/?ashby_jid=d3c6139...)
+2025-08-18T19:59:25.805426 - INFO - ✅ Added job ID 4274506333 to Notion
+2025-08-18T19:59:27.985494 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:27.985610 - INFO - JOB: AI Software Developer (EE25087) at TMEIC
+2025-08-18T19:59:27.985700 - INFO - RATING: 7/10
+2025-08-18T19:59:27.985784 - INFO - EXPLANATION: Candidate possesses a solid foundation in relevant programming languages (Java, Python, JavaScript) ...
+2025-08-18T19:59:27.985868 - INFO - TOKENS: 102 explanation | 1096 total
+2025-08-18T19:59:27.985958 - INFO - COST: $0.0002 | CUMULATIVE: $0.2119
+2025-08-18T19:59:27.986041 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:27.986146 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:59:28.534007 - INFO - ✅ Added job ID 4286084027 to Notion
+2025-08-18T19:59:30.998905 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:30.999360 - INFO - JOB: Software Engineer, Backend - Blockchain Platform (Staking Platform) at Coinbase
+2025-08-18T19:59:30.999560 - INFO - RATING: 7/10
+2025-08-18T19:59:30.999663 - INFO - EXPLANATION: Candidate has a solid foundation in backend development with experience in Java, Python, and Node.js...
+2025-08-18T19:59:30.999752 - INFO - TOKENS: 111 explanation | 1103 total
+2025-08-18T19:59:30.999920 - INFO - COST: $0.0002 | CUMULATIVE: $0.2121
+2025-08-18T19:59:31.000033 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:31.000141 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:59:31.332507 - INFO - ✅ Added job ID 4271916798 to Notion
+2025-08-18T19:59:33.615724 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:33.615871 - INFO - JOB: AI Engineer at Qventus, Inc
+2025-08-18T19:59:33.615994 - INFO - RATING: 6.5/10
+2025-08-18T19:59:33.616101 - INFO - EXPLANATION: Candidate possesses a solid foundation in programming languages (Java, Python, JavaScript) and frame...
+2025-08-18T19:59:33.616205 - INFO - TOKENS: 99 explanation | 1089 total
+2025-08-18T19:59:33.616446 - INFO - COST: $0.0002 | CUMULATIVE: $0.2123
+2025-08-18T19:59:33.616602 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:33.616749 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:59:33.939269 - INFO - ✅ Added job ID 4286529797 to Notion
+2025-08-18T19:59:36.601104 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:36.601241 - INFO - JOB: Software Engineer at Motorola Solutions
+2025-08-18T19:59:36.601332 - INFO - RATING: 7/10
+2025-08-18T19:59:36.601422 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T19:59:36.601578 - INFO - TOKENS: 121 explanation | 1108 total
+2025-08-18T19:59:36.601741 - INFO - COST: $0.0002 | CUMULATIVE: $0.2124
+2025-08-18T19:59:36.602010 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:36.602135 - INFO - 🔗 Application Type: Workday (https://motorolasolutions.wd5.myworkdayjobs.com/en...)
+2025-08-18T19:59:36.956989 - INFO - ✅ Added job ID 4286555125 to Notion
+2025-08-18T19:59:39.945841 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:59:42.773661 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:42.773781 - INFO - JOB: Full Stack Developer at Soni
+2025-08-18T19:59:42.773856 - INFO - RATING: 8/10
+2025-08-18T19:59:42.773927 - INFO - EXPLANATION: Shehab Ahamed's skills in JavaScript, React, Node.js, and Python align well with the Full Stack Deve...
+2025-08-18T19:59:42.773996 - INFO - TOKENS: 103 explanation | 2219 total
+2025-08-18T19:59:42.774071 - INFO - COST: $0.0056 | CUMULATIVE: $0.2180
+2025-08-18T19:59:42.774140 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:42.774393 - INFO - 🔗 Application Type: Company Site (https://soniresources.com/careers/#/jobs/12639...)
+2025-08-18T19:59:43.280899 - INFO - ✅ Added job ID 4285714776 to Notion
+2025-08-18T19:59:46.321480 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:46.321587 - INFO - JOB: Software Engineer II, Backend at FIGS
+2025-08-18T19:59:46.321671 - INFO - RATING: 7.5/10
+2025-08-18T19:59:46.321732 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and experience in relevant technologies,...
+2025-08-18T19:59:46.321796 - INFO - TOKENS: 131 explanation | 1119 total
+2025-08-18T19:59:46.321879 - INFO - COST: $0.0002 | CUMULATIVE: $0.2182
+2025-08-18T19:59:46.321935 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:46.322025 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T19:59:46.699564 - INFO - ✅ Added job ID 4160983481 to Notion
+2025-08-18T19:59:49.667879 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T19:59:52.331596 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:52.331722 - INFO - JOB: Software Engineer at CVS Health
+2025-08-18T19:59:52.331818 - INFO - RATING: 7.5/10
+2025-08-18T19:59:52.331901 - INFO - EXPLANATION: Candidate has a solid technical skills match with Java, Python, and JavaScript, aligning with typica...
+2025-08-18T19:59:52.331983 - INFO - TOKENS: 79 explanation | 2190 total
+2025-08-18T19:59:52.332068 - INFO - COST: $0.0055 | CUMULATIVE: $0.2237
+2025-08-18T19:59:52.332149 - INFO - ══════════════════════════════════════════════════
+2025-08-18T19:59:52.332454 - INFO - 🔗 Application Type: Company Site (https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0661...)
+2025-08-18T19:59:55.906285 - INFO - ✅ Added job ID 4285970570 to Notion
+2025-08-18T19:59:58.515987 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T20:00:02.012304 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T20:00:02.012458 - ERROR - Raw content: ```json
+{
+  "rating": 7.5,
+  "explanation": "Candidate has strong technical skills in JavaScript, Python, and React, aligning well with full-stack requirements. Experience with React Native, Node.js, and Spring Boot is relevant for data and analytics role. Two years of professional experience fits associate level but lacks extensive seniority. Domain experience in payment systems and education is somewhat relevant but not directly aligned with Neighborly Software's industry. Client-facing and teamwork skills evident from integration and support roles. Learning curve expected for domain-specific analytics but overall a solid technical match."
+}
+```
+2025-08-18T20:00:02.012602 - ERROR - ❌ Error processing job 'Full Stack Software Engineer - Data & Analystics' at 'Neighborly Software': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T20:00:05.178650 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:05.179007 - INFO - JOB: Software Engineer, Core Pricing at Upstart
+2025-08-18T20:00:05.179102 - INFO - RATING: 7.5/10
+2025-08-18T20:00:05.179237 - INFO - EXPLANATION: Candidate possesses a solid technical foundation with a CS degree and relevant programming skills in...
+2025-08-18T20:00:05.179327 - INFO - TOKENS: 126 explanation | 1115 total
+2025-08-18T20:00:05.179412 - INFO - COST: $0.0002 | CUMULATIVE: $0.2239
+2025-08-18T20:00:05.179495 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:05.179644 - INFO - 🔗 Application Type: Greenhouse (https://app.greenhouse.io/embed/job_app?token=7103...)
+2025-08-18T20:00:06.976866 - INFO - ✅ Added job ID 4270335804 to Notion
+2025-08-18T20:00:09.736543 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T20:00:12.398073 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:12.398366 - INFO - JOB: Engineer, Data Visualization and Business Intelligence at KPMG US
+2025-08-18T20:00:12.398415 - INFO - RATING: 7/10
+2025-08-18T20:00:12.398459 - INFO - EXPLANATION: Candidate has strong technical skills in JavaScript, Python, and relevant frameworks like React and ...
+2025-08-18T20:00:12.398502 - INFO - TOKENS: 86 explanation | 2187 total
+2025-08-18T20:00:12.398546 - INFO - COST: $0.0056 | CUMULATIVE: $0.2294
+2025-08-18T20:00:12.398587 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:12.398891 - INFO - 🔗 Application Type: Company Site (https://www.kpmguscareers.com/jobdetail/?jobId=125...)
+2025-08-18T20:00:13.415759 - INFO - ✅ Added job ID 4270799171 to Notion
+2025-08-18T20:00:16.821231 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T20:00:20.622129 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:20.622458 - INFO - JOB: Fullstack Engineer at Gensyn
+2025-08-18T20:00:20.622558 - INFO - RATING: 9/10
+2025-08-18T20:00:20.622649 - INFO - EXPLANATION: Shehab Ahamed's skills in JavaScript, Python, React, and Node.js align well with the full-stack engi...
+2025-08-18T20:00:20.622726 - INFO - TOKENS: 105 explanation | 2201 total
+2025-08-18T20:00:20.622804 - INFO - COST: $0.0056 | CUMULATIVE: $0.2351
+2025-08-18T20:00:20.622877 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:20.623024 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.eu.greenhouse.io/gensyn/jobs/44...)
+2025-08-18T20:00:21.123244 - INFO - ✅ Added job ID 4272402926 to Notion
+2025-08-18T20:00:24.339450 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T20:00:27.047232 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18T20:00:27.047528 - ERROR - Raw content: ```json
+{
+  "rating": 9,
+  "explanation": "Candidate's skills in Java, Python, JavaScript, and frameworks like React and Spring Boot align well with typical software engineering roles. Experience with CI/CD, Docker, and AWS matches modern DevOps practices. Recent roles as Software Engineer and Integration Specialist demonstrate relevant experience in full-stack development and client-facing support. Domain experience in payment systems and education tech is applicable to various industries. Soft skills evidenced by onboarding and support tasks. Minimal learning curve expected for entry-level role."
+}
+```
+2025-08-18T20:00:27.047652 - ERROR - ❌ Error processing job 'Software Engineer' at 'Lynx': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18T20:00:30.115893 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T20:00:32.521531 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:32.521625 - INFO - JOB: Engineer, Data Visualization and Business Intelligence at KPMG US
+2025-08-18T20:00:32.521699 - INFO - RATING: 7/10
+2025-08-18T20:00:32.521770 - INFO - EXPLANATION: Candidate has strong technical skills in JavaScript, Python, and React, aligning with data visualiza...
+2025-08-18T20:00:32.521839 - INFO - TOKENS: 70 explanation | 2171 total
+2025-08-18T20:00:32.521914 - INFO - COST: $0.0055 | CUMULATIVE: $0.2405
+2025-08-18T20:00:32.521982 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:32.522179 - INFO - 🔗 Application Type: Company Site (https://www.kpmguscareers.com/jobdetail/?jobId=125...)
+2025-08-18T20:00:32.986475 - INFO - ✅ Added job ID 4270793950 to Notion
+2025-08-18T20:00:36.452861 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:36.453059 - INFO - JOB: Junior Software Engineer at Brooksource
+2025-08-18T20:00:36.453154 - INFO - RATING: 7/10
+2025-08-18T20:00:36.453241 - INFO - EXPLANATION: The candidate has a solid technical foundation with a Bachelor's in Computer Science and relevant pr...
+2025-08-18T20:00:36.453323 - INFO - TOKENS: 148 explanation | 1137 total
+2025-08-18T20:00:36.453416 - INFO - COST: $0.0002 | CUMULATIVE: $0.2407
+2025-08-18T20:00:36.453497 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:36.453596 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T20:00:38.044208 - INFO - ✅ Added job ID 4284135951 to Notion
+2025-08-18T20:00:41.446504 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:41.446834 - INFO - JOB: Full Stack Developer at Endava North America
+2025-08-18T20:00:41.446966 - INFO - RATING: 7.5/10
+2025-08-18T20:00:41.447217 - INFO - EXPLANATION: Candidate possesses a solid full-stack skill set with Java, Python, JavaScript, and frameworks like ...
+2025-08-18T20:00:41.447308 - INFO - TOKENS: 133 explanation | 1123 total
+2025-08-18T20:00:41.447413 - INFO - COST: $0.0002 | CUMULATIVE: $0.2409
+2025-08-18T20:00:41.447504 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:41.447638 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T20:00:41.994036 - INFO - ✅ Added job ID 4285922178 to Notion
+2025-08-18T20:00:46.231958 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:46.232069 - INFO - JOB: Software Engineer at Phillip Capital Inc.
+2025-08-18T20:00:46.232466 - INFO - RATING: 7.5/10
+2025-08-18T20:00:46.232558 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18T20:00:46.232643 - INFO - TOKENS: 141 explanation | 1130 total
+2025-08-18T20:00:46.232732 - INFO - COST: $0.0002 | CUMULATIVE: $0.2410
+2025-08-18T20:00:46.232818 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:46.232930 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T20:00:46.541949 - INFO - ✅ Added job ID 4285913660 to Notion
+2025-08-18T20:00:50.553231 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T20:00:53.987040 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:53.987403 - INFO - JOB: Data Engineer at Ford Motor Company
+2025-08-18T20:00:53.987514 - INFO - RATING: 6.5/10
+2025-08-18T20:00:53.987581 - INFO - EXPLANATION: Candidate has strong programming skills in Python, Java, and SQL, relevant for data engineering. Exp...
+2025-08-18T20:00:53.987641 - INFO - TOKENS: 92 explanation | 2190 total
+2025-08-18T20:00:53.987699 - INFO - COST: $0.0056 | CUMULATIVE: $0.2466
+2025-08-18T20:00:53.987757 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:53.988253 - INFO - 🔗 Application Type: Company Site (https://efds.fa.em5.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18T20:00:54.505406 - INFO - ✅ Added job ID 4285163471 to Notion
+2025-08-18T20:00:57.969741 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:57.969925 - INFO - JOB: Engineer at Shipt
+2025-08-18T20:00:57.970095 - INFO - RATING: 7.5/10
+2025-08-18T20:00:57.970249 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18T20:00:57.970397 - INFO - TOKENS: 127 explanation | 1112 total
+2025-08-18T20:00:57.970558 - INFO - COST: $0.0002 | CUMULATIVE: $0.2468
+2025-08-18T20:00:57.970712 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:00:57.970889 - INFO - 🔗 Application Type: Workday (https://shipt.wd1.myworkdayjobs.com/Shipt_External...)
+2025-08-18T20:01:03.396282 - INFO - ✅ Added job ID 4283703195 to Notion
+2025-08-18T20:01:06.505988 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18T20:01:09.641741 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:01:09.642212 - INFO - JOB: Backend Engineer (New Grad) [32279] at Stealth AI Startup
+2025-08-18T20:01:09.642314 - INFO - RATING: 7/10
+2025-08-18T20:01:09.642396 - INFO - EXPLANATION: Candidate has a solid foundation in relevant programming languages (Java, Python, JavaScript) and fr...
+2025-08-18T20:01:09.642471 - INFO - TOKENS: 104 explanation | 2195 total
+2025-08-18T20:01:09.642550 - INFO - COST: $0.0057 | CUMULATIVE: $0.2524
+2025-08-18T20:01:09.642624 - INFO - ══════════════════════════════════════════════════
+2025-08-18T20:01:09.642857 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18T20:01:10.479861 - INFO - ✅ Added job ID 4281778999 to Notion
+2025-08-18T20:01:10.489867 - INFO - ============================================================
+2025-08-18T20:01:10.490277 - INFO - 📊 FINAL SUMMARY
+2025-08-18T20:01:10.490420 - INFO - ============================================================
+2025-08-18T20:01:10.490704 - INFO - ✅ Jobs Processed: 79
+2025-08-18T20:01:10.490906 - INFO - ⏩ Skipped (Cached): 0
+2025-08-18T20:01:10.491002 - INFO - ❌ Failed: 15
+2025-08-18T20:01:10.491070 - INFO - 🤖 Backup Model Calls: 54
+2025-08-18T20:01:10.491143 - INFO - 🎯 Total Tokens: 141,095
+2025-08-18T20:01:10.491339 - INFO - 💰 Total Cost: $0.25
+2025-08-18T20:01:10.491422 - INFO - ============================================================
+n | 1096 total
+2025-08-18 19:59:27,985 - INFO - COST: $0.0002 | CUMULATIVE: $0.2119
+2025-08-18 19:59:27,985 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:27,986 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 19:59:28,530 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 19:59:28,533 - INFO - ✅ Added job ID 4286084027 to Notion
+2025-08-18 19:59:30,987 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 19:59:30,998 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:30,999 - INFO - JOB: Software Engineer, Backend - Blockchain Platform (Staking Platform) at Coinbase
+2025-08-18 19:59:30,999 - INFO - RATING: 7/10
+2025-08-18 19:59:30,999 - INFO - EXPLANATION: Candidate has a solid foundation in backend development with experience in Java, Python, and Node.js...
+2025-08-18 19:59:30,999 - INFO - TOKENS: 111 explanation | 1103 total
+2025-08-18 19:59:30,999 - INFO - COST: $0.0002 | CUMULATIVE: $0.2121
+2025-08-18 19:59:30,999 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:31,000 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 19:59:31,329 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 19:59:31,332 - INFO - ✅ Added job ID 4271916798 to Notion
+2025-08-18 19:59:33,610 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 19:59:33,615 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:33,615 - INFO - JOB: AI Engineer at Qventus, Inc
+2025-08-18 19:59:33,615 - INFO - RATING: 6.5/10
+2025-08-18 19:59:33,616 - INFO - EXPLANATION: Candidate possesses a solid foundation in programming languages (Java, Python, JavaScript) and frame...
+2025-08-18 19:59:33,616 - INFO - TOKENS: 99 explanation | 1089 total
+2025-08-18 19:59:33,616 - INFO - COST: $0.0002 | CUMULATIVE: $0.2123
+2025-08-18 19:59:33,616 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:33,616 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 19:59:33,937 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 19:59:33,939 - INFO - ✅ Added job ID 4286529797 to Notion
+2025-08-18 19:59:36,590 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 19:59:36,600 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:36,601 - INFO - JOB: Software Engineer at Motorola Solutions
+2025-08-18 19:59:36,601 - INFO - RATING: 7/10
+2025-08-18 19:59:36,601 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18 19:59:36,601 - INFO - TOKENS: 121 explanation | 1108 total
+2025-08-18 19:59:36,601 - INFO - COST: $0.0002 | CUMULATIVE: $0.2124
+2025-08-18 19:59:36,601 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:36,602 - INFO - 🔗 Application Type: Workday (https://motorolasolutions.wd5.myworkdayjobs.com/en...)
+2025-08-18 19:59:36,954 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 19:59:36,956 - INFO - ✅ Added job ID 4286555125 to Notion
+2025-08-18 19:59:39,939 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 19:59:39,945 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 19:59:42,769 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 19:59:42,773 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:42,773 - INFO - JOB: Full Stack Developer at Soni
+2025-08-18 19:59:42,773 - INFO - RATING: 8/10
+2025-08-18 19:59:42,773 - INFO - EXPLANATION: Shehab Ahamed's skills in JavaScript, React, Node.js, and Python align well with the Full Stack Deve...
+2025-08-18 19:59:42,773 - INFO - TOKENS: 103 explanation | 2219 total
+2025-08-18 19:59:42,774 - INFO - COST: $0.0056 | CUMULATIVE: $0.2180
+2025-08-18 19:59:42,774 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:42,774 - INFO - 🔗 Application Type: Company Site (https://soniresources.com/careers/#/jobs/12639...)
+2025-08-18 19:59:43,278 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 19:59:43,280 - INFO - ✅ Added job ID 4285714776 to Notion
+2025-08-18 19:59:46,315 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 19:59:46,321 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:46,321 - INFO - JOB: Software Engineer II, Backend at FIGS
+2025-08-18 19:59:46,321 - INFO - RATING: 7.5/10
+2025-08-18 19:59:46,321 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and experience in relevant technologies,...
+2025-08-18 19:59:46,321 - INFO - TOKENS: 131 explanation | 1119 total
+2025-08-18 19:59:46,321 - INFO - COST: $0.0002 | CUMULATIVE: $0.2182
+2025-08-18 19:59:46,321 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:46,321 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 19:59:46,697 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 19:59:46,699 - INFO - ✅ Added job ID 4160983481 to Notion
+2025-08-18 19:59:49,665 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 19:59:49,667 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 19:59:52,326 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 19:59:52,331 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:52,331 - INFO - JOB: Software Engineer at CVS Health
+2025-08-18 19:59:52,331 - INFO - RATING: 7.5/10
+2025-08-18 19:59:52,331 - INFO - EXPLANATION: Candidate has a solid technical skills match with Java, Python, and JavaScript, aligning with typica...
+2025-08-18 19:59:52,331 - INFO - TOKENS: 79 explanation | 2190 total
+2025-08-18 19:59:52,332 - INFO - COST: $0.0055 | CUMULATIVE: $0.2237
+2025-08-18 19:59:52,332 - INFO - ══════════════════════════════════════════════════
+2025-08-18 19:59:52,332 - INFO - 🔗 Application Type: Company Site (https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0661...)
+2025-08-18 19:59:55,904 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 19:59:55,906 - INFO - ✅ Added job ID 4285970570 to Notion
+2025-08-18 19:59:58,488 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 19:59:58,515 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 20:00:02,009 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:02,012 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18 20:00:02,012 - ERROR - Raw content: ```json
+{
+  "rating": 7.5,
+  "explanation": "Candidate has strong technical skills in JavaScript, Python, and React, aligning well with full-stack requirements. Experience with React Native, Node.js, and Spring Boot is relevant for data and analytics role. Two years of professional experience fits associate level but lacks extensive seniority. Domain experience in payment systems and education is somewhat relevant but not directly aligned with Neighborly Software's industry. Client-facing and teamwork skills evident from integration and support roles. Learning curve expected for domain-specific analytics but overall a solid technical match."
+}
+```
+2025-08-18 20:00:02,012 - ERROR - ❌ Error processing job 'Full Stack Software Engineer - Data & Analystics' at 'Neighborly Software': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18 20:00:05,169 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:05,178 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:05,178 - INFO - JOB: Software Engineer, Core Pricing at Upstart
+2025-08-18 20:00:05,179 - INFO - RATING: 7.5/10
+2025-08-18 20:00:05,179 - INFO - EXPLANATION: Candidate possesses a solid technical foundation with a CS degree and relevant programming skills in...
+2025-08-18 20:00:05,179 - INFO - TOKENS: 126 explanation | 1115 total
+2025-08-18 20:00:05,179 - INFO - COST: $0.0002 | CUMULATIVE: $0.2239
+2025-08-18 20:00:05,179 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:05,179 - INFO - 🔗 Application Type: Greenhouse (https://app.greenhouse.io/embed/job_app?token=7103...)
+2025-08-18 20:00:06,974 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:00:06,976 - INFO - ✅ Added job ID 4270335804 to Notion
+2025-08-18 20:00:09,734 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:09,736 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 20:00:12,394 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:12,397 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:12,398 - INFO - JOB: Engineer, Data Visualization and Business Intelligence at KPMG US
+2025-08-18 20:00:12,398 - INFO - RATING: 7/10
+2025-08-18 20:00:12,398 - INFO - EXPLANATION: Candidate has strong technical skills in JavaScript, Python, and relevant frameworks like React and ...
+2025-08-18 20:00:12,398 - INFO - TOKENS: 86 explanation | 2187 total
+2025-08-18 20:00:12,398 - INFO - COST: $0.0056 | CUMULATIVE: $0.2294
+2025-08-18 20:00:12,398 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:12,398 - INFO - 🔗 Application Type: Company Site (https://www.kpmguscareers.com/jobdetail/?jobId=125...)
+2025-08-18 20:00:13,413 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:00:13,415 - INFO - ✅ Added job ID 4270799171 to Notion
+2025-08-18 20:00:16,803 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:16,821 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 20:00:20,611 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:20,621 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:20,622 - INFO - JOB: Fullstack Engineer at Gensyn
+2025-08-18 20:00:20,622 - INFO - RATING: 9/10
+2025-08-18 20:00:20,622 - INFO - EXPLANATION: Shehab Ahamed's skills in JavaScript, Python, React, and Node.js align well with the full-stack engi...
+2025-08-18 20:00:20,622 - INFO - TOKENS: 105 explanation | 2201 total
+2025-08-18 20:00:20,622 - INFO - COST: $0.0056 | CUMULATIVE: $0.2351
+2025-08-18 20:00:20,622 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:20,622 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.eu.greenhouse.io/gensyn/jobs/44...)
+2025-08-18 20:00:21,121 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:00:21,123 - INFO - ✅ Added job ID 4272402926 to Notion
+2025-08-18 20:00:24,332 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:24,339 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 20:00:27,040 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:27,044 - ERROR - JSON decode error: Expecting value: line 1 column 1 (char 0)
+2025-08-18 20:00:27,047 - ERROR - Raw content: ```json
+{
+  "rating": 9,
+  "explanation": "Candidate's skills in Java, Python, JavaScript, and frameworks like React and Spring Boot align well with typical software engineering roles. Experience with CI/CD, Docker, and AWS matches modern DevOps practices. Recent roles as Software Engineer and Integration Specialist demonstrate relevant experience in full-stack development and client-facing support. Domain experience in payment systems and education tech is applicable to various industries. Soft skills evidenced by onboarding and support tasks. Minimal learning curve expected for entry-level role."
+}
+```
+2025-08-18 20:00:27,047 - ERROR - ❌ Error processing job 'Software Engineer' at 'Lynx': Failed to parse OpenAI response: Expecting value: line 1 column 1 (char 0)
+2025-08-18 20:00:30,112 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:30,115 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 20:00:32,515 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:32,521 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:32,521 - INFO - JOB: Engineer, Data Visualization and Business Intelligence at KPMG US
+2025-08-18 20:00:32,521 - INFO - RATING: 7/10
+2025-08-18 20:00:32,521 - INFO - EXPLANATION: Candidate has strong technical skills in JavaScript, Python, and React, aligning with data visualiza...
+2025-08-18 20:00:32,521 - INFO - TOKENS: 70 explanation | 2171 total
+2025-08-18 20:00:32,521 - INFO - COST: $0.0055 | CUMULATIVE: $0.2405
+2025-08-18 20:00:32,521 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:32,522 - INFO - 🔗 Application Type: Company Site (https://www.kpmguscareers.com/jobdetail/?jobId=125...)
+2025-08-18 20:00:32,984 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:00:32,986 - INFO - ✅ Added job ID 4270793950 to Notion
+2025-08-18 20:00:36,447 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:36,452 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:36,452 - INFO - JOB: Junior Software Engineer at Brooksource
+2025-08-18 20:00:36,453 - INFO - RATING: 7/10
+2025-08-18 20:00:36,453 - INFO - EXPLANATION: The candidate has a solid technical foundation with a Bachelor's in Computer Science and relevant pr...
+2025-08-18 20:00:36,453 - INFO - TOKENS: 148 explanation | 1137 total
+2025-08-18 20:00:36,453 - INFO - COST: $0.0002 | CUMULATIVE: $0.2407
+2025-08-18 20:00:36,453 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:36,453 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 20:00:38,042 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:00:38,044 - INFO - ✅ Added job ID 4284135951 to Notion
+2025-08-18 20:00:41,432 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:41,446 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:41,446 - INFO - JOB: Full Stack Developer at Endava North America
+2025-08-18 20:00:41,446 - INFO - RATING: 7.5/10
+2025-08-18 20:00:41,446 - INFO - EXPLANATION: Candidate possesses a solid full-stack skill set with Java, Python, JavaScript, and frameworks like ...
+2025-08-18 20:00:41,447 - INFO - TOKENS: 133 explanation | 1123 total
+2025-08-18 20:00:41,447 - INFO - COST: $0.0002 | CUMULATIVE: $0.2409
+2025-08-18 20:00:41,447 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:41,447 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 20:00:41,992 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:00:41,993 - INFO - ✅ Added job ID 4285922178 to Notion
+2025-08-18 20:00:46,219 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:46,231 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:46,231 - INFO - JOB: Software Engineer at Phillip Capital Inc.
+2025-08-18 20:00:46,232 - INFO - RATING: 7.5/10
+2025-08-18 20:00:46,232 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills in Java,...
+2025-08-18 20:00:46,232 - INFO - TOKENS: 141 explanation | 1130 total
+2025-08-18 20:00:46,232 - INFO - COST: $0.0002 | CUMULATIVE: $0.2410
+2025-08-18 20:00:46,232 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:46,232 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 20:00:46,540 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:00:46,541 - INFO - ✅ Added job ID 4285913660 to Notion
+2025-08-18 20:00:50,550 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:50,553 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 20:00:53,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:53,986 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:53,987 - INFO - JOB: Data Engineer at Ford Motor Company
+2025-08-18 20:00:53,987 - INFO - RATING: 6.5/10
+2025-08-18 20:00:53,987 - INFO - EXPLANATION: Candidate has strong programming skills in Python, Java, and SQL, relevant for data engineering. Exp...
+2025-08-18 20:00:53,987 - INFO - TOKENS: 92 explanation | 2190 total
+2025-08-18 20:00:53,987 - INFO - COST: $0.0056 | CUMULATIVE: $0.2466
+2025-08-18 20:00:53,987 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:53,988 - INFO - 🔗 Application Type: Company Site (https://efds.fa.em5.oraclecloud.com/hcmUI/Candidat...)
+2025-08-18 20:00:54,503 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:00:54,505 - INFO - ✅ Added job ID 4285163471 to Notion
+2025-08-18 20:00:57,965 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:00:57,969 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:57,969 - INFO - JOB: Engineer at Shipt
+2025-08-18 20:00:57,969 - INFO - RATING: 7.5/10
+2025-08-18 20:00:57,970 - INFO - EXPLANATION: Candidate has a solid technical foundation with a CS degree and relevant programming skills (Java, P...
+2025-08-18 20:00:57,970 - INFO - TOKENS: 127 explanation | 1112 total
+2025-08-18 20:00:57,970 - INFO - COST: $0.0002 | CUMULATIVE: $0.2468
+2025-08-18 20:00:57,970 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:00:57,970 - INFO - 🔗 Application Type: Workday (https://shipt.wd1.myworkdayjobs.com/Shipt_External...)
+2025-08-18 20:01:03,393 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:01:03,396 - INFO - ✅ Added job ID 4283703195 to Notion
+2025-08-18 20:01:06,500 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:01:06,505 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-18 20:01:09,637 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-18 20:01:09,641 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:01:09,642 - INFO - JOB: Backend Engineer (New Grad) [32279] at Stealth AI Startup
+2025-08-18 20:01:09,642 - INFO - RATING: 7/10
+2025-08-18 20:01:09,642 - INFO - EXPLANATION: Candidate has a solid foundation in relevant programming languages (Java, Python, JavaScript) and fr...
+2025-08-18 20:01:09,642 - INFO - TOKENS: 104 explanation | 2195 total
+2025-08-18 20:01:09,642 - INFO - COST: $0.0057 | CUMULATIVE: $0.2524
+2025-08-18 20:01:09,642 - INFO - ══════════════════════════════════════════════════
+2025-08-18 20:01:09,642 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-18 20:01:10,477 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-18 20:01:10,479 - INFO - ✅ Added job ID 4281778999 to Notion
+2025-08-18 20:01:10,489 - INFO - ============================================================
+2025-08-18 20:01:10,490 - INFO - 📊 FINAL SUMMARY
+2025-08-18 20:01:10,490 - INFO - ============================================================
+2025-08-18 20:01:10,490 - INFO - ✅ Jobs Processed: 79
+2025-08-18 20:01:10,490 - INFO - ⏩ Skipped (Cached): 0
+2025-08-18 20:01:10,490 - INFO - ❌ Failed: 15
+2025-08-18 20:01:10,491 - INFO - 🤖 Backup Model Calls: 54
+2025-08-18 20:01:10,491 - INFO - 🎯 Total Tokens: 141,095
+2025-08-18 20:01:10,491 - INFO - 💰 Total Cost: $0.25
+2025-08-18 20:01:10,491 - INFO - ============================================================

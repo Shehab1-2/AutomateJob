@@ -1,0 +1,5 @@
+[
+  {
+    "error": "You can't use this actor for scraping less than 100 records, because its not efficient"
+  }
+]

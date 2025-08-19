@@ -1,0 +1,16 @@
+2025-08-17 19:53:02,506 - INFO - 📄 Reading from: /Users/shehabahamed/linkedin-job-rater-py/src/condensed/condense_data/condensed_jobs_2025-08-17_19-49-03.json
+2025-08-17 19:53:02,507 - INFO - 📊 Loaded 100 jobs from file
+2025-08-17 19:53:05,862 - INFO - HTTP Request: POST https://api.notion.com/v1/databases/22c65879924e80538b1cec4e358f9763/query "HTTP/1.1 200 OK"
+2025-08-17 19:53:07,499 - INFO - HTTP Request: POST https://api.notion.com/v1/databases/22c65879924e80538b1cec4e358f9763/query "HTTP/1.1 200 OK"
+2025-08-17 19:53:07,526 - INFO - 🔎 Found 149 existing job IDs in Notion
+2025-08-17 19:53:07,528 - INFO - Filtering Results:
+2025-08-17 19:53:07,528 - INFO -   Total jobs: 100
+2025-08-17 19:53:07,528 - INFO -   Already exists: 1
+2025-08-17 19:53:07,528 - INFO -   Bad company: 0
+2025-08-17 19:53:07,528 - INFO -   Aggregator: 5
+2025-08-17 19:53:07,528 - INFO -   Excluded keyword: 0
+2025-08-17 19:53:07,528 - INFO -   Senior role: 0
+2025-08-17 19:53:07,528 - INFO -   Location mismatch: 0
+2025-08-17 19:53:07,528 - INFO -   Too old: 0
+2025-08-17 19:53:07,528 - INFO -   Passed filters: 94
+2025-08-17 19:53:07,532 - INFO - ✅ Saved 94 filtered jobs to /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-08-17_19-53-07.json

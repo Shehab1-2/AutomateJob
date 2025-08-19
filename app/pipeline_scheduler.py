@@ -5,6 +5,7 @@ import time
 import subprocess
 import sys
 import os
+import shutil
 from datetime import datetime
 from pathlib import Path
 
@@ -26,6 +27,75 @@ def setup_logging():
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     log_file_path = f"logs/scheduler_log_{timestamp}.txt"
     return open(log_file_path, "w", encoding="utf-8")
+
+def copy_scraped_data_to_proper_location():
+    """Copy scraped data from scraped/scraped/ to scraped/scraped_data/"""
+    scraped_source = Path("../src/scraped/scraped")
+    scraped_dest = Path("../src/scraped/scraped_data")
+    
+    # Ensure destination directory exists
+    scraped_dest.mkdir(exist_ok=True)
+    
+    # Find the latest scraped file
+    try:
+        scraped_files = list(scraped_source.glob("jobs_*.json"))
+        if scraped_files:
+            latest_file = max(scraped_files, key=os.path.getmtime)
+            
+            # Copy to scraped_data directory
+            dest_file = scraped_dest / latest_file.name
+            shutil.copy2(latest_file, dest_file)
+            
+            return str(dest_file)
+        else:
+            return None
+    except Exception as e:
+        print(f"❌ Error copying scraped data: {e}")
+        return None
+
+def cleanup_scraped_directory():
+    """Clean up the scraped/scraped/ directory after copying"""
+    scraped_source = Path("../src/scraped/scraped")
+    
+    try:
+        # Remove all files in scraped/scraped/ to keep it clean
+        for file in scraped_source.glob("*.json"):
+            file.unlink()
+        print("🧹 Cleaned up scraped/scraped/ directory")
+    except Exception as e:
+        print(f"❌ Error cleaning up scraped directory: {e}")
+    """Log message with timestamp"""
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    formatted_message = f"[{timestamp}] {message}"
+    print(formatted_message)
+    if log_file:
+        log_file.write(formatted_message + "\n")
+        log_file.flush()
+
+def copy_scraped_to_app_directory():
+    """Copy latest scraped data to app/scraped/ directory as backup"""
+    scraped_source = Path("../src/scraped/scraped")
+    app_dest = Path("scraped")  # We're running from app/ directory
+    
+    # Ensure destination directory exists
+    app_dest.mkdir(exist_ok=True)
+    
+    # Find the latest scraped file
+    try:
+        scraped_files = list(scraped_source.glob("jobs_*.json"))
+        if scraped_files:
+            latest_file = max(scraped_files, key=os.path.getmtime)
+            
+            # Copy to app/scraped/ directory
+            dest_file = app_dest / latest_file.name
+            shutil.copy2(latest_file, dest_file)
+            
+            return str(dest_file)
+        else:
+            return None
+    except Exception as e:
+        print(f"❌ Error copying scraped data to app/scraped: {e}")
+        return None
 
 def log_message(message: str, log_file=None):
     """Log message with timestamp"""
@@ -59,6 +129,17 @@ def run_script(script_name, log_file):
             log_message(f"✅ {script_name} completed successfully", log_file)
             if result.stdout:
                 log_message(f"📄 Output: {result.stdout.strip()}", log_file)
+            
+            # Special handling for scraper: copy data to proper location
+            if script_name == "scraper":
+                log_message("📂 Handling scraped data relocation...", log_file)
+                copied_file = copy_scraped_data_to_proper_location()
+                if copied_file:
+                    log_message(f"📋 Scraped data copied to: {copied_file}", log_file)
+                    cleanup_scraped_directory()
+                else:
+                    log_message("⚠️ No scraped data found to copy", log_file)
+            
             return True
         else:
             log_message(f"❌ {script_name} failed with return code {result.returncode}", log_file)
@@ -120,28 +201,29 @@ def run_pipeline_with_error_handling():
 def main():
     """Main scheduler function"""
     print("🤖 Job Pipeline Scheduler Starting...")
-    print("📅 Scheduled to run every 6 hours")
-    print("🔧 Press Ctrl+C to stop the scheduler")
+    print("🔧 Running pipeline once manually (scheduling disabled)")
     print()
     
+    # === SCHEDULING COMMENTED OUT ===
     # Schedule the pipeline to run every 6 hours
-    schedule.every(1).hours.do(run_pipeline_with_error_handling)
+    # schedule.every(1).hours.do(run_pipeline_with_error_handling)
     
     # Run once immediately on startup
-    print("🚀 Running initial pipeline...")
+    print("🚀 Running pipeline...")
     run_pipeline_with_error_handling()
     
+    # === CONTINUOUS SCHEDULING LOOP COMMENTED OUT ===
     # Keep the scheduler running
-    while True:
-        try:
-            schedule.run_pending()
-            time.sleep(60)  # Check every minute
-        except KeyboardInterrupt:
-            print("\n🛑 Scheduler stopped by user")
-            break
-        except Exception as e:
-            print(f"❌ Scheduler error: {e}")
-            time.sleep(60)  # Continue running even if there's an error
+    # while True:
+    #     try:
+    #         schedule.run_pending()
+    #         time.sleep(60)  # Check every minute
+    #     except KeyboardInterrupt:
+    #         print("\n🛑 Scheduler stopped by user")
+    #         break
+    #     except Exception as e:
+    #         print(f"❌ Scheduler error: {e}")
+    #         time.sleep(60)  # Continue running even if there's an error
 
 if __name__ == "__main__":
     main()

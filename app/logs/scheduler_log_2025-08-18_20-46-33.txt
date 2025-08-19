@@ -1,0 +1,28 @@
+[2025-08-18 20:46:33] ==================================================
+[2025-08-18 20:46:33] 🔄 STARTING AUTOMATED JOB PIPELINE
+[2025-08-18 20:46:33] ==================================================
+[2025-08-18 20:46:33] 🚀 Starting scraper (../src/scraped/scrape_apify_jobs.py)...
+[2025-08-18 20:47:45] ✅ scraper completed successfully
+[2025-08-18 20:47:45] 📄 Output: ✅ Saved 100 jobs to scraped/jobs_2025-08-18_20-47-45.json
+🎉 All requested jobs scraped successfully.
+[2025-08-18 20:47:50] 🚀 Starting condenser (../src/condensed/condense_jobs.py)...
+[2025-08-18 20:47:50] ✅ condenser completed successfully
+[2025-08-18 20:47:55] 🚀 Starting filter (../src/filtered/filter_condensed_jobs.py)...
+[2025-08-18 20:47:56] ❌ filter failed with return code 1
+[2025-08-18 20:47:56] 📄 Error: Traceback (most recent call last):
+  File "/Users/shehabahamed/linkedin-job-rater-py/app/../src/filtered/filter_condensed_jobs.py", line 636, in <module>
+    main()
+    ~~~~^^
+  File "/Users/shehabahamed/linkedin-job-rater-py/app/../src/filtered/filter_condensed_jobs.py", line 631, in main
+    evaluator = JobEvaluator()
+  File "/Users/shehabahamed/linkedin-job-rater-py/app/../src/filtered/filter_condensed_jobs.py", line 464, in __init__
+    self.notion_client = NotionClient(os.getenv("NOTION_DB_ID"), self.logger)
+                         ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/shehabahamed/linkedin-job-rater-py/app/../src/filtered/filter_condensed_jobs.py", line 379, in __init__
+    self.client = NotionClient(auth=os.getenv("NOTION_API_KEY"))
+                  ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: NotionClient.__init__() got an unexpected keyword argument 'auth'
+[2025-08-18 20:47:56] 🛑 Pipeline stopped at filter due to failure
+[2025-08-18 20:47:56] ==================================================
+[2025-08-18 20:47:56] ⚠️ PIPELINE PARTIALLY COMPLETED (2/4 steps)
+[2025-08-18 20:47:56] ==================================================

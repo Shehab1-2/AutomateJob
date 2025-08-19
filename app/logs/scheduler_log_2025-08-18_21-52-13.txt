@@ -1,0 +1,14 @@
+[2025-08-18 21:52:13] ==================================================
+[2025-08-18 21:52:13] 🔄 STARTING AUTOMATED JOB PIPELINE
+[2025-08-18 21:52:13] ==================================================
+[2025-08-18 21:52:13] 🚀 Starting scraper (../src/scraped/scrape_apify_jobs.py)...
+[2025-08-18 21:54:19] ✅ scraper completed successfully
+[2025-08-18 21:54:19] 📄 Output: ✅ Saved 320 jobs to scraped/jobs_2025-08-18_21-54-19.json
+🎉 All requested jobs scraped successfully.
+[2025-08-18 21:54:19] 📂 Handling scraped data relocation...
+[2025-08-18 21:54:19] 📋 Scraped data copied to: ../src/scraped/scraped_data/jobs_2025-08-18_20-47-45.json
+[2025-08-18 21:54:19] ❌ Error running scraper: name 'message' is not defined
+[2025-08-18 21:54:19] 🛑 Pipeline stopped at scraper due to failure
+[2025-08-18 21:54:19] ==================================================
+[2025-08-18 21:54:19] ⚠️ PIPELINE PARTIALLY COMPLETED (0/4 steps)
+[2025-08-18 21:54:19] ==================================================

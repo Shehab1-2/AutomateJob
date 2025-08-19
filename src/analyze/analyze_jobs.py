@@ -1,423 +1,655 @@
-import asyncio
+import json
 import os
-import logging
 import time
-from typing import List, Dict, Optional
 from dataclasses import dataclass
-
-import aiohttp
-from playwright.async_api import async_playwright, Page
+from datetime import datetime
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple, Any
+import logging
 from dotenv import load_dotenv
+from openai import OpenAI
+from tqdm import tqdm
+from notion_client import Client as NotionClient
+import tiktoken
 
-load_dotenv()
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler('greenhouse_automation.log'),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
 
+# Configuration Constants
 @dataclass
-class GreenhouseJob:
-    """Data class for Greenhouse job applications"""
-    id: str
-    title: str
-    company: str
-    apply_link: str
+class Config:
+    # OpenAI Models
+    PRIMARY_MODEL = os.getenv("PRIMARY_MODEL", "gpt-4o-mini")
+    BACKUP_MODEL = os.getenv("BACKUP_MODEL", "gpt-4o")
     
-class GreenhouseAutomation:
-    def __init__(self, notion_token: str, database_id: str, user_data_dir: str = "./browser_data"):
-        self.notion_token = notion_token
-        self.database_id = database_id
-        self.user_data_dir = user_data_dir
-        self.session = None
-        self.browser = None
-        self.context = None
-        
-        # Simplify detection selectors (common indicators)
-        self.simplify_indicators = [
-            '[data-simplify="true"]',
-            '.simplify-autofilled',
-            '.simplify-detected',
-            # Add more based on actual Simplify behavior
-        ]
-        
-        # Submit button selectors (priority order)
-        self.submit_selectors = [
-            'button[type="submit"]:has-text("Submit Application")',
-            'button[type="submit"]:has-text("Apply Now")',
-            'button[type="submit"]:has-text("Submit")',
-            'input[type="submit"][value*="Apply"]',
-            'input[type="submit"][value*="Submit"]',
-            'button:has-text("Submit Application")',
-            'button:has-text("Apply Now")',
-            'button:has-text("Apply")',
-            '.btn-primary:has-text("Submit")',
-            '.btn-primary:has-text("Apply")',
-            # Greenhouse-specific patterns
-            'button[data-qa="submit-application"]',
-            'button[data-testid="submit-application"]'
-        ]
-        
-        # Success indicators
-        self.success_indicators = [
-            'text=Application submitted',
-            'text=Thank you for applying',
-            'text=Application received',
-            'text=Successfully submitted',
-            '.confirmation',
-            '.success-message'
-        ]
+   # Cost per 1K tokens ($) - Updated with actual OpenAI pricing
+    MODEL_COSTS = {
+        "gpt-3.5-turbo": 0.0015,
+        "gpt-4": 0.03,
+        "gpt-4o": 0.005,     # Updated pricing
+        "gpt-4o-mini": 0.00015,  # Updated pricing
+        "gpt-5": 0.01125,
+        "gpt-5-mini": 0.00225,
+        "gpt-5-nano": 0.00045,
+    }
     
-    async def setup_session(self):
-        """Setup aiohttp session for Notion API"""
-        headers = {
-            'Authorization': f'Bearer {self.notion_token}',
-            'Content-Type': 'application/json',
-            'Notion-Version': '2022-06-28'
-        }
-        self.session = aiohttp.ClientSession(headers=headers)
+    # Evaluation thresholds
+    MIN_EXPLANATION_WORDS = 30
+    VAGUE_RATING_RANGE = (4, 6)
+    MAX_EXPLANATION_TOKENS = 300
     
-    async def get_greenhouse_jobs(self) -> List[GreenhouseJob]:
-        """Get Greenhouse jobs from Notion database"""
-        url = f'https://api.notion.com/v1/databases/{self.database_id}/query'
-        
-        # Filter for Greenhouse jobs with apply links
-        filter_payload = {
-            "filter": {
-                "and": [
-                    {
-                        "property": "Type",
-                        "rich_text": {
-                            "equals": "greenhouse"
-                        }
-                    },
-                    {
-                        "property": "Apply URL",  # Apply link column
-                        "url": {
-                            "is_not_empty": True
-                        }
-                    }
-                ]
-            }
-        }
-        
-        jobs = []
-        
-        try:
-            async with self.session.post(url, json=filter_payload) as response:
-                if response.status != 200:
-                    logger.error(f"Failed to fetch jobs: {response.status}")
-                    return jobs
-                
-                data = await response.json()
-                
-                for result in data.get('results', []):
-                    job = self._parse_greenhouse_job(result)
-                    if job:
-                        jobs.append(job)
-                
-                logger.info(f"Found {len(jobs)} Greenhouse jobs to process")
-                return jobs
-                
-        except Exception as e:
-            logger.error(f"Error fetching Greenhouse jobs: {e}")
-            return jobs
+    # File paths
+    RESUME_FILE = "resume.txt"
+    FILTERED_DIR = Path("../filtered") / "filter_data"
+    CACHE_FILE = "rated_jobs.json"
+    LOG_DIR = "logs"
     
-    def _parse_greenhouse_job(self, result: Dict) -> Optional[GreenhouseJob]:
-        """Parse Notion result into GreenhouseJob"""
-        try:
-            props = result.get('properties', {})
-            
-            # Extract title
-            title_prop = props.get('Job Title', {})
-            title = ""
-            if title_prop.get('title'):
-                title = title_prop['title'][0]['text']['content']
-            
-            # Extract company
-            company_prop = props.get('Company', {})
-            company = ""
-            if company_prop.get('rich_text'):
-                company = company_prop['rich_text'][0]['text']['content']
-            
-            # Extract apply link (Apply URL column)
-            apply_link_prop = props.get('Apply URL', {})
-            apply_link = apply_link_prop.get('url', '')
-            
-            if not apply_link:
-                return None
-            
-            return GreenhouseJob(
-                id=result['id'],
-                title=title,
-                company=company,
-                apply_link=apply_link
-            )
-            
-        except Exception as e:
-            logger.error(f"Error parsing job: {e}")
-            return None
+    # Notion field limits
+    NOTION_TEXT_LIMIT = 2000
+
+
+class JobEvaluationError(Exception):
+    """Custom exception for job evaluation errors"""
+    pass
+
+
+class Logger:
+    """Enhanced logging with structured output"""
     
-    async def setup_browser(self):
-        """Initialize browser with existing profile"""
-        playwright = await async_playwright().start()
+    def __init__(self, log_file_path: str):
+        self.log_file = open(log_file_path, "w", encoding="utf-8")
         
-        # Use your existing browser profile to maintain Simplify login
-        self.browser = await playwright.chromium.launch_persistent_context(
-            user_data_dir=self.user_data_dir,
-            headless=False,  # Keep visible for monitoring
-            args=[
-                '--disable-blink-features=AutomationControlled',
-                '--no-first-run'
+        # Configure Python logging
+        logging.basicConfig(
+            level=logging.INFO,
+            format='%(asctime)s - %(levelname)s - %(message)s',
+            handlers=[
+                logging.FileHandler(log_file_path),
+                logging.StreamHandler()
             ]
         )
-        
-        self.context = self.browser
-        logger.info("Browser initialized with existing profile")
+        self.logger = logging.getLogger(__name__)
     
-    async def wait_for_simplify(self, page: Page, timeout: int = 30) -> bool:
-        """Wait for Simplify to autofill the form"""
-        logger.info("Waiting for Simplify to autofill form...")
+    def info(self, message: str):
+        self.logger.info(message)
+        self.log_file.write(f"{datetime.now().isoformat()} - INFO - {message}\n")
+        self.log_file.flush()
+    
+    def error(self, message: str):
+        self.logger.error(message)
+        self.log_file.write(f"{datetime.now().isoformat()} - ERROR - {message}\n")
+        self.log_file.flush()
+    
+    def warning(self, message: str):
+        self.logger.warning(message)
+        self.log_file.write(f"{datetime.now().isoformat()} - WARNING - {message}\n")
+        self.log_file.flush()
+    
+    def close(self):
+        self.log_file.close()
+
+
+class OpenAIClient:
+    """Enhanced OpenAI client with better error handling and token management"""
+    
+    def __init__(self, logger: Logger):
+        self.client = OpenAI()
+        self.logger = logger
         
-        start_time = time.time()
+        self.encoding = tiktoken.get_encoding("cl100k_base")
         
-        while time.time() - start_time < timeout:
+        # Usage tracking
+        self.cumulative_tokens = 0
+        self.cumulative_cost = 0.0
+        self.gpt4_usage_count = 0
+    
+    def _calculate_cost(self, tokens: int, model: str) -> float:
+        """Calculate API cost based on token usage"""
+        cost_per_1k = Config.MODEL_COSTS.get(model, 0.01)  # fallback if unknown
+        return (tokens / 1000) * cost_per_1k
+    
+    def _make_api_call(self, prompt: str, model: str, max_retries: int = 3) -> Tuple[str, int, float]:
+        """Make OpenAI API call with retry logic"""
+        for attempt in range(max_retries):
             try:
-                # Check for Simplify indicators
-                for indicator in self.simplify_indicators:
-                    element = await page.query_selector(indicator)
-                    if element:
-                        logger.info(f"Simplify detected via selector: {indicator}")
-                        return True
-                
-                # Alternative: Check for filled form fields
-                filled_inputs = await page.evaluate("""
-                    () => {
-                        const inputs = document.querySelectorAll('input[type="text"], input[type="email"], textarea');
-                        let filledCount = 0;
-                        inputs.forEach(input => {
-                            if (input.value && input.value.trim().length > 0) {
-                                filledCount++;
-                            }
-                        });
-                        return filledCount;
+                # Use max_completion_tokens for newer models, max_tokens for older ones
+                if model in ["gpt-5", "gpt-5-mini", "gpt-5-nano"]:
+                    completion_params = {
+                        "model": model,
+                        "messages": [{"role": "user", "content": prompt}],
+                        "temperature": 0.3,
+                        "max_completion_tokens": 400,
+                        "timeout": 30
                     }
-                """)
+                else:
+                    completion_params = {
+                        "model": model,
+                        "messages": [{"role": "user", "content": prompt}],
+                        "temperature": 0.3,
+                        "max_tokens": 400,
+                        "timeout": 30
+                    }
                 
-                if filled_inputs >= 3:  # Assume if 3+ fields are filled, Simplify worked
-                    logger.info(f"Detected {filled_inputs} filled fields - assuming Simplify completed")
-                    return True
+                response = self.client.chat.completions.create(**completion_params)
                 
-                await asyncio.sleep(1)
+                usage = response.usage
+                tokens = usage.total_tokens
+                cost = self._calculate_cost(tokens, model)
+                
+                return response.choices[0].message.content, tokens, cost
                 
             except Exception as e:
-                logger.warning(f"Error checking Simplify status: {e}")
-                await asyncio.sleep(1)
-        
-        logger.warning("Simplify autofill timeout - proceeding anyway")
-        return False
+                if attempt == max_retries - 1:
+                    raise JobEvaluationError(f"OpenAI API call failed after {max_retries} attempts: {e}")
+                
+                wait_time = 2 ** attempt  # Exponential backoff
+                self.logger.warning(f"API call attempt {attempt + 1} failed, retrying in {wait_time}s: {e}")
+                time.sleep(wait_time)
     
-    async def find_and_click_submit(self, page: Page) -> bool:
-        """Find and click the submit button"""
-        logger.info("Looking for submit button...")
+    def _needs_gpt4_evaluation(self, result: Dict[str, Any], explanation: str) -> bool:
+        """Determine if GPT-4 evaluation is needed based on quality metrics"""
+        rating = result.get("rating", 0)
+        word_count = len(explanation.split())
         
-        for selector in self.submit_selectors:
+        # Use GPT-4 for vague ratings or insufficient explanations
+        is_vague_rating = Config.VAGUE_RATING_RANGE[0] <= rating <= Config.VAGUE_RATING_RANGE[1]
+        is_insufficient_explanation = word_count < Config.MIN_EXPLANATION_WORDS
+        
+        # Check for generic phrases that indicate low-quality evaluation
+        generic_phrases = [
+            "good fit", "aligns well", "strong background", "relevant experience",
+            "would be suitable", "meets requirements", "has experience"
+        ]
+        has_generic_language = any(phrase in explanation.lower() for phrase in generic_phrases)
+        
+        return is_vague_rating or is_insufficient_explanation or has_generic_language
+    
+    def evaluate_job_fit(self, job: Dict[str, Any], resume_text: str) -> Dict[str, Any]:
+        """Evaluate job fit using enhanced prompt and model selection logic"""
+        
+        # Enhanced structured prompt
+        prompt = self._create_evaluation_prompt(job, resume_text)
+        
+        # Initial evaluation with primary model
+        content, tokens_primary, cost_primary = self._make_api_call(prompt, Config.PRIMARY_MODEL)
+        
+        try:
+            result = json.loads(content)
+            self._validate_evaluation_result(result)
+            
+            explanation = result.get("explanation", "")
+            
+            # Determine if GPT-4 re-evaluation is needed
+            if self._needs_gpt4_evaluation(result, explanation):
+                self.logger.info("🔁 Using backup model for higher quality evaluation")
+                self.gpt4_usage_count += 1
+                
+                content, tokens_backup, cost_backup = self._make_api_call(prompt, Config.BACKUP_MODEL)
+                result = json.loads(content)
+                self._validate_evaluation_result(result)
+                
+                total_tokens = tokens_primary + tokens_backup
+                total_cost = cost_primary + cost_backup
+                explanation_tokens = len(self.encoding.encode(result["explanation"]))
+            else:
+                total_tokens = tokens_primary
+                total_cost = cost_primary
+                explanation_tokens = len(self.encoding.encode(result["explanation"]))
+            
+            # Update cumulative metrics
+            self.cumulative_tokens += total_tokens
+            self.cumulative_cost += total_cost
+            
+            # Log evaluation summary
+            self._log_evaluation_summary(job, result, explanation_tokens, total_tokens, total_cost)
+            
+            return result
+            
+        except json.JSONDecodeError as e:
+            self.logger.error(f"JSON decode error: {e}")
+            self.logger.error(f"Raw content: {content}")
+            raise JobEvaluationError(f"Failed to parse OpenAI response: {e}")
+    
+    def _create_evaluation_prompt(self, job: Dict[str, Any], resume_text: str) -> str:
+        """Create enhanced structured evaluation prompt"""
+        
+        format_examples = '''
+EVALUATION EXAMPLES:
+
+✅ Strong Match (8-10):
+{
+  "rating": 8.5,
+  "explanation": "CS degree + 3 years full-stack experience directly matches senior developer role requirements. React/Node.js expertise aligns with tech stack. Client-facing experience adds value for cross-functional collaboration. Automation background relevant for DevOps responsibilities. Slightly over-qualified but strong technical fit."
+}
+
+❌ Poor Match (1-4):
+{
+  "rating": 2.5,
+  "explanation": "Role requires 5+ years embedded systems and C/C++ firmware development. Candidate has web development background with no hardware experience. Skill gap too large - would need 2+ years retraining. Not cost-effective hire for this specialized position."
+}
+
+🔄 Moderate Match (5-7):
+{
+  "rating": 6,
+  "explanation": "Marketing background with some technical exposure matches product manager role partially. Lacks direct B2B SaaS experience and technical depth for API discussions. Could succeed with 6-month learning curve but other candidates likely stronger immediate fit."
+}
+'''
+        
+        return f"""You are a technical recruiter with 15+ years experience. Evaluate this candidate's job fit using a structured approach.
+
+CANDIDATE RESUME:
+{resume_text}
+
+JOB DETAILS:
+Title: {job.get('title', 'N/A')}
+Company: {job.get('company', 'N/A')}
+Location: {job.get('location', 'N/A')}
+Seniority: {job.get('seniorityLevel', 'N/A')}
+Description: {job.get('description', 'N/A')}
+
+EVALUATION FRAMEWORK:
+Rate 1-10 based on these weighted criteria:
+• Technical Skills Match (40%): Stack, languages, frameworks, tools
+• Experience Level (25%): Years, seniority, scope of responsibility  
+• Domain Relevance (20%): Industry, business model, problem space
+• Soft Skills Alignment (15%): Client-facing, teamwork, communication
+
+REQUIREMENTS:
+- Be precise and specific about skill gaps or overlaps
+- Reference concrete resume evidence
+- Consider learning curve and ramp-up time
+- Avoid generic phrases like "good fit" or "strong background"
+- Stay under 300 tokens in explanation
+- Use direct, factual language
+
+OUTPUT FORMAT:
+{{"rating": [1-10 number], "explanation": "[specific reasoning]"}}
+
+{format_examples}
+"""
+    
+    def _validate_evaluation_result(self, result: Dict[str, Any]):
+        """Validate the evaluation result structure"""
+        if not isinstance(result, dict):
+            raise JobEvaluationError("Evaluation result must be a dictionary")
+        
+        if "rating" not in result:
+            raise JobEvaluationError("Evaluation result missing 'rating' field")
+        
+        if "explanation" not in result:
+            raise JobEvaluationError("Evaluation result missing 'explanation' field")
+        
+        rating = result["rating"]
+        if not isinstance(rating, (int, float)) or not 1 <= rating <= 10:
+            raise JobEvaluationError(f"Rating must be a number between 1-10, got: {rating}")
+    
+    def _log_evaluation_summary(self, job: Dict[str, Any], result: Dict[str, Any], 
+                               explanation_tokens: int, total_tokens: int, total_cost: float):
+        """Log structured evaluation summary"""
+        self.logger.info("═" * 50)
+        self.logger.info(f"JOB: {job.get('title', 'Unknown')} at {job.get('company', 'Unknown')}")
+        self.logger.info(f"RATING: {result['rating']}/10")
+        self.logger.info(f"EXPLANATION: {result['explanation'][:100]}...")
+        self.logger.info(f"TOKENS: {explanation_tokens} explanation | {total_tokens} total")
+        self.logger.info(f"COST: ${total_cost:.4f} | CUMULATIVE: ${self.cumulative_cost:.4f}")
+        self.logger.info("═" * 50)
+    
+    def get_usage_summary(self) -> Dict[str, Any]:
+        """Get usage summary for final reporting"""
+        return {
+            "total_tokens": self.cumulative_tokens,
+            "total_cost": self.cumulative_cost,
+            "gpt4_calls": self.gpt4_usage_count
+        }
+
+
+class ApplicationTypeDetector:
+    """Detects the type of application system from apply URLs"""
+    
+    # URL patterns for different application systems
+    PATTERNS = {
+        "Greenhouse": [
+            "greenhouse.io", "boards.greenhouse.io", "app.greenhouse.io"
+        ],
+        "Workday": [
+            "workday.com", "myworkdayjobs.com", "wd1.myworkdayjobs.com", 
+            "wd5.myworkdayjobs.com", "workdayrecruiting.com"
+        ],
+        "Lever": [
+            "lever.co", "jobs.lever.co"
+        ],
+        "BambooHR": [
+            "bamboohr.com", "careers.bamboohr.com"
+        ],
+        "SmartRecruiters": [
+            "smartrecruiters.com", "jobs.smartrecruiters.com"
+        ],
+        "Jobvite": [
+            "jobvite.com", "app.jobvite.com"
+        ],
+        "Ashby": [
+            "ashbyhq.com", "jobs.ashbyhq.com"
+        ],
+        "iCIMS": [
+            "icims.com", "jobs.icims.com"
+        ],
+        "Taleo": [
+            "taleo.net", "chk.tbe.taleo.net"
+        ],
+        "JazzHR": [
+            "jazzhr.com", "recruiting.jazzhr.com"
+        ],
+        "LinkedIn": [
+            "linkedin.com/jobs", "www.linkedin.com/jobs"
+        ],
+        "Indeed": [
+            "indeed.com", "www.indeed.com"
+        ],
+        "AngelList": [
+            "angel.co", "www.angel.co", "angellist.com"
+        ],
+        "ZipRecruiter": [
+            "ziprecruiter.com", "www.ziprecruiter.com"
+        ],
+        "Glassdoor": [
+            "glassdoor.com", "www.glassdoor.com"
+        ]
+    }
+    
+    @classmethod
+    def detect_application_type(cls, apply_url: str) -> str:
+        """
+        Detect the application system type from the apply URL
+        
+        Args:
+            apply_url: The URL to analyze
+            
+        Returns:
+            String indicating the application type
+        """
+        if not apply_url or not isinstance(apply_url, str):
+            return "Unknown"
+        
+        apply_url = apply_url.lower().strip()
+        
+        # Check each pattern
+        for app_type, patterns in cls.PATTERNS.items():
+            for pattern in patterns:
+                if pattern.lower() in apply_url:
+                    return app_type
+        
+        # Check for common company career page indicators
+        if any(indicator in apply_url for indicator in [
+            "/careers", "/jobs", "/career", "/job", "/apply", "/hiring"
+        ]):
+            return "Company Site"
+        
+        # Check for common ATS indicators in URL structure
+        if any(ats_indicator in apply_url for ats_indicator in [
+            "recruiting", "applicant", "candidate", "talent", "hr"
+        ]):
+            return "ATS (Other)"
+        
+        return "Company Site"
+
+
+class NotionService:
+    """Enhanced Notion client with better error handling"""
+    
+    def __init__(self, database_id: str, logger: Logger):
+        self.client = NotionClient(auth=os.getenv("NOTION_API_KEY"))
+        self.database_id = database_id
+        self.logger = logger
+        self.app_detector = ApplicationTypeDetector()
+    
+    def create_job_page(self, job: Dict[str, Any], max_retries: int = 3) -> bool:
+        """Create a job page in Notion with retry logic"""
+        for attempt in range(max_retries):
             try:
-                button = await page.query_selector(selector)
-                if button and await button.is_visible():
-                    # Check if button is enabled
-                    is_disabled = await button.get_attribute('disabled')
-                    if not is_disabled:
-                        logger.info(f"Found submit button: {selector}")
-                        
-                        # Scroll into view and click
-                        await button.scroll_into_view_if_needed()
-                        await asyncio.sleep(0.5)
-                        await button.click()
-                        
-                        logger.info("Submit button clicked!")
-                        return True
-                        
+                properties = self._build_job_properties(job)
+                
+                self.client.pages.create(
+                    parent={"database_id": self.database_id},
+                    properties=properties
+                )
+                
+                self.logger.info(f"✅ Added job ID {job.get('id', 'unknown')} to Notion")
+                return True
+                
             except Exception as e:
-                logger.debug(f"Selector {selector} failed: {e}")
-                continue
+                if attempt == max_retries - 1:
+                    self.logger.error(f"❌ Failed to add job ID {job.get('id', 'unknown')} to Notion after {max_retries} attempts: {e}")
+                    return False
+                
+                wait_time = 2 ** attempt
+                self.logger.warning(f"Notion API attempt {attempt + 1} failed, retrying in {wait_time}s: {e}")
+                time.sleep(wait_time)
         
-        logger.error("No submit button found!")
         return False
     
-    async def wait_for_submission_confirmation(self, page: Page, timeout: int = 15) -> bool:
-        """Wait for submission confirmation"""
-        logger.info("Waiting for submission confirmation...")
+    def _build_job_properties(self, job: Dict[str, Any]) -> Dict[str, Any]:
+        """Build Notion properties from job data"""
+        def safe_text(value: Any, max_length: int = Config.NOTION_TEXT_LIMIT) -> str:
+            """Safely convert value to text with length limit"""
+            if value is None:
+                return ""
+            text = str(value)
+            return text[:max_length] if len(text) > max_length else text
         
-        try:
-            # Wait for any success indicator
-            for indicator in self.success_indicators:
-                try:
-                    await page.wait_for_selector(indicator, timeout=timeout * 1000)
-                    logger.info(f"Success confirmed via: {indicator}")
-                    return True
-                except:
-                    continue
-            
-            # Alternative: Check URL change (often redirects to confirmation page)
-            await asyncio.sleep(3)
-            current_url = page.url
-            if 'thank' in current_url.lower() or 'success' in current_url.lower() or 'confirmation' in current_url.lower():
-                logger.info("Success inferred from URL change")
-                return True
-            
-            logger.warning("Could not confirm submission success")
-            return False
-            
-        except Exception as e:
-            logger.error(f"Error waiting for confirmation: {e}")
-            return False
+        def safe_number(value: Any) -> int:
+            """Safely convert value to number"""
+            if value is None:
+                return 0
+            try:
+                return int(value)
+            except (ValueError, TypeError):
+                return 0
+        
+        def safe_url(value: Any) -> str:
+            """Safely convert value to URL"""
+            if value is None or not str(value).startswith(('http://', 'https://')):
+                return "https://www.linkedin.com"
+            return str(value)
+        
+        # Detect application type from apply URL
+        apply_url = job.get("applyUrl", "")
+        application_type = self.app_detector.detect_application_type(apply_url)
+        
+        return {
+            "Job Title": {"title": [{"text": {"content": safe_text(job.get("title", "Untitled"))}}]},
+            "Company": {"rich_text": [{"text": {"content": safe_text(job.get("company", ""))}}]},
+            "Location": {"rich_text": [{"text": {"content": safe_text(job.get("location", ""))}}]},
+            "Rating": {"number": job.get("rating", 0)},
+            "Explanation": {"rich_text": [{"text": {"content": safe_text(job.get("explanation", ""))}}]},
+            "Link": {"url": safe_url(job.get("link"))},
+            "Apply URL": {"url": safe_url(job.get("applyUrl"))},
+            "Type": {"rich_text": [{"text": {"content": application_type}}]},
+            "Date Posted": {"date": {"start": job.get("postedAt", "2025-01-01")}},
+            "Job ID": {"rich_text": [{"text": {"content": safe_text(job.get("id", "0"))}}]},
+            "Seniority Level": {"select": {"name": safe_text(job.get("seniorityLevel", "N/A"))}},
+            "Employment Type": {"select": {"name": safe_text(job.get("employmentType", "N/A"))}},
+            "Job Function": {"rich_text": [{"text": {"content": safe_text(job.get("jobFunction", ""))}}]},
+            "Industries": {"rich_text": [{"text": {"content": safe_text(job.get("industries", ""))}}]},
+            "Company Size": {"number": safe_number(job.get("companyEmployeesCount"))},
+            "Applicants": {"number": safe_number(job.get("applicantsCount"))},
+            "Company Description": {"rich_text": [{"text": {"content": safe_text(job.get("companyDescription", ""))}}]}
+        }
+
+
+class JobEvaluator:
+    """Main job evaluation orchestrator"""
     
-    async def process_greenhouse_application(self, job: GreenhouseJob) -> bool:
-        """Process a single Greenhouse application"""
-        logger.info(f"Processing: {job.title} at {job.company}")
+    def __init__(self):
+        self.logger = self._setup_logging()
+        self.openai_client = OpenAIClient(self.logger)
+        self.notion_client = NotionService(os.getenv("NOTION_DB_ID"), self.logger)
+        self.cache = self._load_cache()
         
-        page = await self.context.new_page()
+        # Metrics
+        self.processed_count = 0
+        self.skipped_count = 0
+        self.failed_count = 0
+    
+    def _setup_logging(self) -> Logger:
+        """Setup logging infrastructure"""
+        os.makedirs(Config.LOG_DIR, exist_ok=True)
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+        log_file_path = f"{Config.LOG_DIR}/enhanced_run_{timestamp}.log"
+        return Logger(log_file_path)
+    
+    def _load_cache(self) -> Dict[str, Dict[str, Any]]:
+        """Load existing evaluation cache"""
+        if os.path.exists(Config.CACHE_FILE):
+            try:
+                with open(Config.CACHE_FILE, "r", encoding="utf-8") as f:
+                    cached_results = json.load(f)
+                    return {str(job["id"]): job for job in cached_results}
+            except Exception as e:
+                self.logger.warning(f"Failed to load cache: {e}")
+        return {}
+    
+    def _save_cache(self):
+        """Save evaluation cache"""
+        try:
+            cache_list = list(self.cache.values())
+            with open(Config.CACHE_FILE, "w", encoding="utf-8") as f:
+                json.dump(cache_list, f, indent=2)
+        except Exception as e:
+            self.logger.error(f"Failed to save cache: {e}")
+    
+    def _load_resume(self) -> str:
+        """Load resume text"""
+        try:
+            with open(Config.RESUME_FILE, "r", encoding="utf-8") as f:
+                return f.read().strip()
+        except FileNotFoundError:
+            raise JobEvaluationError(f"Resume file not found: {Config.RESUME_FILE}")
+    
+    def _load_jobs(self) -> List[Dict[str, Any]]:
+        """Load latest filtered jobs"""
+        try:
+            filtered_dir = Path(Config.FILTERED_DIR)
+            latest_filtered = max(filtered_dir.glob("filtered_jobs_*.json"), key=os.path.getmtime)
+            
+            with open(latest_filtered, "r", encoding="utf-8") as f:
+                jobs = json.load(f)
+                
+            self.logger.info(f"Loaded {len(jobs)} jobs from {latest_filtered}")
+            return jobs
+            
+        except ValueError:
+            raise JobEvaluationError(f"No filtered job files found in {Config.FILTERED_DIR}")
+        except Exception as e:
+            raise JobEvaluationError(f"Failed to load jobs: {e}")
+    
+    def _validate_environment(self):
+        """Validate required environment variables"""
+        required_vars = ["OPENAI_API_KEY", "NOTION_API_KEY", "NOTION_DB_ID"]
+        missing_vars = [var for var in required_vars if not os.getenv(var)]
+        
+        if missing_vars:
+            raise JobEvaluationError(f"Missing required environment variables: {missing_vars}")
+    
+    def process_job(self, job: Dict[str, Any], resume_text: str) -> bool:
+        """Process a single job evaluation"""
+        job_id = str(job.get("id", "unknown"))
+        
+        # Check cache
+        if job_id in self.cache:
+            self.logger.info(f"⏩ Skipping cached job ID {job_id}")
+            self.skipped_count += 1
+            return True
         
         try:
-            # Navigate to application link
-            logger.info(f"Navigating to: {job.apply_link}")
-            await page.goto(job.apply_link, wait_until='domcontentloaded', timeout=30000)
+            # Evaluate job fit
+            evaluation = self.openai_client.evaluate_job_fit(job, resume_text)
             
-            # Wait for page to stabilize
-            await asyncio.sleep(2)
+            # Add evaluation to job data
+            job["rating"] = evaluation["rating"]
+            job["explanation"] = evaluation["explanation"]
             
-            # Check if already applied (common Greenhouse pattern)
-            already_applied = await page.query_selector('text=You have already applied')
-            if already_applied:
-                logger.info("Already applied to this position - skipping")
-                return True
+            # Log application type detection
+            apply_url = job.get("applyUrl", "")
+            app_type = ApplicationTypeDetector.detect_application_type(apply_url)
+            self.logger.info(f"🔗 Application Type: {app_type} ({apply_url[:50]}...)")
             
-            # Wait for Simplify to autofill
-            simplify_success = await self.wait_for_simplify(page)
-            
-            # Give a bit more time for Simplify to complete
-            if simplify_success:
-                await asyncio.sleep(2)
-            
-            # Find and click submit button
-            submit_success = await self.find_and_click_submit(page)
-            
-            if not submit_success:
-                logger.error("Failed to find/click submit button")
-                return False
-            
-            # Wait for confirmation
-            confirmation = await self.wait_for_submission_confirmation(page)
-            
-            if confirmation:
-                logger.info(f"✅ Successfully applied to {job.title} at {job.company}")
+            # Push to Notion
+            if self.notion_client.create_job_page(job):
+                # Cache successful evaluation
+                self.cache[job_id] = {
+                    "id": job_id,
+                    "rating": job["rating"],
+                    "explanation": job["explanation"]
+                }
+                self.processed_count += 1
                 return True
             else:
-                logger.warning(f"⚠️  Submitted but couldn't confirm success for {job.title}")
-                return True  # Assume success if we clicked submit
+                self.failed_count += 1
+                return False
                 
         except Exception as e:
-            logger.error(f"❌ Error processing {job.title}: {e}")
+            self.logger.error(f"❌ Error processing job '{job.get('title', 'unknown')}' at '{job.get('company', 'unknown')}': {e}")
+            self.failed_count += 1
             return False
-            
-        finally:
-            await page.close()
     
-    async def update_notion_status(self, job_id: str, status: str):
-        """Update job status in Notion (optional)"""
-        url = f'https://api.notion.com/v1/pages/{job_id}'
-        
-        payload = {
-            'properties': {
-                'Status': {
-                    'rich_text': [{'text': {'content': status}}]
-                }
-            }
-        }
-        
+    def run(self):
+        """Main execution method"""
         try:
-            async with self.session.patch(url, json=payload) as response:
-                if response.status == 200:
-                    logger.debug(f"Updated status for job {job_id}: {status}")
-                else:
-                    logger.warning(f"Failed to update status: {response.status}")
-        except Exception as e:
-            logger.warning(f"Error updating status: {e}")
-    
-    async def run_automation(self, delay_between_jobs: int = 10):
-        """Run the complete automation"""
-        try:
-            # Setup
-            await self.setup_session()
-            await self.setup_browser()
+            self.logger.info("🚀 Starting Enhanced Job Evaluation System")
             
-            # Get jobs to process
-            jobs = await self.get_greenhouse_jobs()
+            # Validate environment
+            self._validate_environment()
             
-            if not jobs:
-                logger.info("No Greenhouse jobs found to process")
-                return
+            # Load data
+            resume_text = self._load_resume()
+            jobs = self._load_jobs()
             
-            logger.info(f"Starting automation for {len(jobs)} jobs")
+            self.logger.info(f"📄 Resume loaded ({len(resume_text)} characters)")
+            self.logger.info(f"📋 Found {len(self.cache)} cached evaluations")
             
-            successful = 0
-            failed = 0
-            
-            # Process each job
-            for i, job in enumerate(jobs, 1):
-                logger.info(f"\n--- Processing job {i}/{len(jobs)} ---")
+            # Process jobs
+            for job in tqdm(jobs, desc="Evaluating Jobs", unit="job"):
+                self.process_job(job, resume_text)
                 
-                success = await self.process_greenhouse_application(job)
-                
-                if success:
-                    successful += 1
-                    await self.update_notion_status(job.id, "Applied")
-                else:
-                    failed += 1
-                    await self.update_notion_status(job.id, "Failed")
-                
-                # Delay between applications (be respectful)
-                if i < len(jobs):
-                    logger.info(f"Waiting {delay_between_jobs} seconds before next application...")
-                    await asyncio.sleep(delay_between_jobs)
+                # Save cache periodically
+                if self.processed_count % 10 == 0:
+                    self._save_cache()
             
-            # Summary
-            logger.info(f"\n=== AUTOMATION COMPLETE ===")
-            logger.info(f"Total jobs: {len(jobs)}")
-            logger.info(f"Successful: {successful}")
-            logger.info(f"Failed: {failed}")
-            logger.info(f"Success rate: {successful/len(jobs)*100:.1f}%")
+            # Final cache save
+            self._save_cache()
+            
+            # Generate summary
+            self._generate_summary()
             
         except Exception as e:
-            logger.error(f"Automation error: {e}")
-            
+            self.logger.error(f"❌ Critical error: {e}")
+            raise
         finally:
-            if self.session:
-                await self.session.close()
-            if self.browser:
-                await self.browser.close()
+            self.logger.close()
+    
+    def _generate_summary(self):
+        """Generate and log final summary"""
+        usage_summary = self.openai_client.get_usage_summary()
+        
+        self.logger.info("=" * 60)
+        self.logger.info("📊 FINAL SUMMARY")
+        self.logger.info("=" * 60)
+        self.logger.info(f"✅ Jobs Processed: {self.processed_count}")
+        self.logger.info(f"⏩ Skipped (Cached): {self.skipped_count}")
+        self.logger.info(f"❌ Failed: {self.failed_count}")
+        self.logger.info(f"🤖 Backup Model Calls: {usage_summary['gpt4_calls']}")
+        self.logger.info(f"🎯 Total Tokens: {usage_summary['total_tokens']:,}")
+        self.logger.info(f"💰 Total Cost: ${usage_summary['total_cost']:.2f}")
+        self.logger.info("=" * 60)
 
-async def main():
-    """Main function"""
-    # Configuration
-    NOTION_TOKEN = os.getenv('NOTION_API_KEY')
-    DATABASE_ID = os.getenv('NOTION_DB_ID_TEST')  # Using test database
+
+def main():
+    """Main entry point"""
+    # Load environment variables
+    load_dotenv()
     
-    if not NOTION_TOKEN or not DATABASE_ID:
-        logger.error("Please set NOTION_API_KEY and NOTION_DB_ID_TEST environment variables")
-        return
-    
-    # Create automation instance
-    automation = GreenhouseAutomation(NOTION_TOKEN, DATABASE_ID)
-    
-    # Run automation
-    await automation.run_automation(delay_between_jobs=15)  # 15 second delay between jobs
+    # Create and run job evaluator
+    evaluator = JobEvaluator()
+    evaluator.run()
+
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()

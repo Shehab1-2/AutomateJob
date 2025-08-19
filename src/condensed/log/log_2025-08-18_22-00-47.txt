@@ -1,0 +1,3 @@
+2025-08-18 22:00:47,622 - INFO - 🚀 Starting job condensation process...
+2025-08-18 22:00:47,622 - ERROR - ❌ No JSON files found in scraped directory
+2025-08-18 22:00:47,622 - ERROR - ❌ No input file found, exiting
