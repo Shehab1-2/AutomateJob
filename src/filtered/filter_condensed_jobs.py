@@ -174,11 +174,14 @@ def filter_jobs(jobs, existing_ids):
     stats = {"total": len(jobs), "already_exists": 0, "bad_company": 0, 
              "aggregator": 0, "excluded_keyword": 0, "senior_role": 0,
              "location_mismatch": 0, "too_old": 0, "passed": 0}
+    duplicate_ids = []  # 🆕 collect IDs that already exist
 
     for job in jobs:
         try:
             passed, reason = passes_filter(job, existing_ids)
             stats[reason] += 1
+            if not passed and reason == "already_exists":  # 🆕 record duplicate IDs without changing logic
+                duplicate_ids.append(str(job.get("id", "")))
             if passed:
                 filtered.append(job)
         except Exception as e:
@@ -188,6 +191,8 @@ def filter_jobs(jobs, existing_ids):
     logger.info(f"Filtering Results:")
     logger.info(f"  Total jobs: {stats['total']}")
     logger.info(f"  Already exists: {stats['already_exists']}")
+    if stats["already_exists"] > 0:  # 🆕 output the specific duplicate IDs
+        logger.info(f"  Duplicate Job IDs: {', '.join(duplicate_ids)}")
     logger.info(f"  Bad company: {stats['bad_company']}")
     logger.info(f"  Aggregator: {stats['aggregator']}")
     logger.info(f"  Excluded keyword: {stats['excluded_keyword']}")

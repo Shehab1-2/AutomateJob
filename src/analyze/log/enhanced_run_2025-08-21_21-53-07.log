@@ -1,0 +1,43 @@
+2025-08-21T21:53:08.081172 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-08-21T21:53:08.081861 - INFO - Loaded 2 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-08-21_21-53-05.json
+2025-08-21T21:53:08.081895 - INFO - 📄 Resume loaded (2250 characters)
+2025-08-21T21:53:08.081922 - INFO - 📋 Found 4 cached evaluations
+2025-08-21T21:53:11.498159 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":5,"explanation":"The candidate has a solid technical foundation with programming skills in Java, Python, JavaScript, and SQL, which aligns well with data analysis tasks. However, there is a 
+2025-08-21T21:53:11.498310 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T21:53:14.492249 - INFO - ══════════════════════════════════════════════════
+2025-08-21T21:53:14.492399 - INFO - JOB: Junior Data Analyst at DummyCorp
+2025-08-21T21:53:14.492491 - INFO - RATING: 5/10
+2025-08-21T21:53:14.492574 - INFO - EXPLANATION: Technical Skills Match (40%): Shehab has strong programming skills in languages like Python, Java, a...
+2025-08-21T21:53:14.492652 - INFO - TOKENS: 160 explanation | 1940 total
+2025-08-21T21:53:14.492733 - INFO - COST: $0.0050 | CUMULATIVE: $0.0050
+2025-08-21T21:53:14.492804 - INFO - ══════════════════════════════════════════════════
+2025-08-21T21:53:14.493099 - INFO - 🔗 Application Type: Company Site (https://example.com/apply/junior-data-analyst...)
+2025-08-21T21:53:14.963950 - INFO - ✅ Added job ID 5001043104 to Notion
+2025-08-21T21:53:19.136367 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed has a strong technical skills match with relevant programming languages (Java, Python, JavaScript, TypeScript) and frameworks (React Native, Spring Boot, Djang
+2025-08-21T21:53:19.138292 - INFO - ══════════════════════════════════════════════════
+2025-08-21T21:53:19.138410 - INFO - JOB: Software Engineer Intern at FakeTech
+2025-08-21T21:53:19.138497 - INFO - RATING: 8/10
+2025-08-21T21:53:19.138580 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with relevant programming languages (Java, Python,...
+2025-08-21T21:53:19.138662 - INFO - TOKENS: 199 explanation | 1000 total
+2025-08-21T21:53:19.138772 - INFO - COST: $0.0001 | CUMULATIVE: $0.0051
+2025-08-21T21:53:19.138853 - INFO - ══════════════════════════════════════════════════
+2025-08-21T21:53:19.139010 - INFO - 🔗 Application Type: Company Site (https://example.com/apply/software-engineer-intern...)
+2025-08-21T21:53:22.642681 - INFO - ✅ Added job ID 5075302006 to Notion
+2025-08-21T21:53:22.644154 - INFO - ============================================================
+2025-08-21T21:53:22.644243 - INFO - 📊 FINAL SUMMARY
+2025-08-21T21:53:22.644315 - INFO - ============================================================
+2025-08-21T21:53:22.644385 - INFO - ✅ Jobs Processed: 2
+2025-08-21T21:53:22.644462 - INFO - ⏩ Skipped (Cached): 0
+2025-08-21T21:53:22.644543 - INFO - ❌ Failed: 0
+2025-08-21T21:53:22.644613 - INFO - 🤖 Backup Model Calls: 1
+2025-08-21T21:53:22.644685 - INFO - 🎯 Total Tokens: 2,940
+2025-08-21T21:53:22.644768 - INFO - 💰 Total Cost: $0.01
+2025-08-21T21:53:22.644844 - INFO - ============================================================
+======================
+2025-08-21 21:53:22,644 - INFO - ✅ Jobs Processed: 2
+2025-08-21 21:53:22,644 - INFO - ⏩ Skipped (Cached): 0
+2025-08-21 21:53:22,644 - INFO - ❌ Failed: 0
+2025-08-21 21:53:22,644 - INFO - 🤖 Backup Model Calls: 1
+2025-08-21 21:53:22,644 - INFO - 🎯 Total Tokens: 2,940
+2025-08-21 21:53:22,644 - INFO - 💰 Total Cost: $0.01
+2025-08-21 21:53:22,644 - INFO - ============================================================

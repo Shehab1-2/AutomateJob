@@ -1,0 +1,29 @@
+2025-08-21T23:00:02.470786 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-08-21T23:00:02.471704 - INFO - Loaded 1 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-08-21_22-59-59.json
+2025-08-21T23:00:02.471739 - INFO - 📄 Resume loaded (2250 characters)
+2025-08-21T23:00:02.471764 - INFO - 📋 Found 582 cached evaluations
+2025-08-21T23:00:05.277360 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":5,"explanation":"The candidate has a strong technical skill set, particularly in programming languages like Python and JavaScript, which are relevant for data analysis. However, there is no 
+2025-08-21T23:00:05.277520 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T23:00:09.130620 - INFO - ══════════════════════════════════════════════════
+2025-08-21T23:00:09.130748 - INFO - JOB: Junior Data Analyst at DummyCorp
+2025-08-21T23:00:09.130833 - INFO - RATING: 5/10
+2025-08-21T23:00:09.130913 - INFO - EXPLANATION: Shehab Ahamed has a strong technical background in programming languages like Python and Java, relev...
+2025-08-21T23:00:09.130987 - INFO - TOKENS: 147 explanation | 1896 total
+2025-08-21T23:00:09.131067 - INFO - COST: $0.0049 | CUMULATIVE: $0.0049
+2025-08-21T23:00:09.131138 - INFO - ══════════════════════════════════════════════════
+2025-08-21T23:00:09.131360 - INFO - 🔗 Application Type: Company Site (https://example.com/apply/junior-data-analyst...)
+2025-08-21T23:00:11.179746 - INFO - ✅ Added job ID 12345213 to Notion
+2025-08-21T23:00:11.187428 - INFO - ============================================================
+2025-08-21T23:00:11.187493 - INFO - 📊 FINAL SUMMARY
+2025-08-21T23:00:11.187534 - INFO - ============================================================
+2025-08-21T23:00:11.187572 - INFO - ✅ Jobs Processed: 1
+2025-08-21T23:00:11.187608 - INFO - ⏩ Skipped (Cached): 0
+2025-08-21T23:00:11.187648 - INFO - ❌ Failed: 0
+2025-08-21T23:00:11.187683 - INFO - 🤖 Backup Model Calls: 1
+2025-08-21T23:00:11.187724 - INFO - 🎯 Total Tokens: 1,896
+2025-08-21T23:00:11.187762 - INFO - 💰 Total Cost: $0.00
+2025-08-21T23:00:11.187797 - INFO - ============================================================
+5-08-21 23:00:11,187 - INFO - 🤖 Backup Model Calls: 1
+2025-08-21 23:00:11,187 - INFO - 🎯 Total Tokens: 1,896
+2025-08-21 23:00:11,187 - INFO - 💰 Total Cost: $0.00
+2025-08-21 23:00:11,187 - INFO - ============================================================

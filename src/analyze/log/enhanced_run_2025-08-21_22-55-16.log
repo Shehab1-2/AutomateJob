@@ -1,0 +1,30 @@
+2025-08-21T22:55:16.879441 - WARNING - Failed to load cache: Expecting ',' delimiter: line 2597 column 3 (char 356206)
+2025-08-21T22:55:16.879537 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-08-21T22:55:16.880190 - INFO - Loaded 1 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-08-21_22-55-14.json
+2025-08-21T22:55:16.880221 - INFO - 📄 Resume loaded (2250 characters)
+2025-08-21T22:55:16.880247 - INFO - 📋 Found 0 cached evaluations
+2025-08-21T22:55:20.231785 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":6,"explanation":"The candidate, Shehab Ahamed, possesses a strong technical skill set including programming languages (Java, Python, JavaScript, TypeScript) and frameworks (React, Spring Boo
+2025-08-21T22:55:20.232198 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:55:24.680986 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:55:24.681110 - INFO - JOB: Junior Data Analyst at DummyCorp
+2025-08-21T22:55:24.681202 - INFO - RATING: 5/10
+2025-08-21T22:55:24.681281 - INFO - EXPLANATION: Technical Skills Match (40%): Shehab Ahamed has strong skills in programming languages (Python, Java...
+2025-08-21T22:55:24.681356 - INFO - TOKENS: 220 explanation | 2032 total
+2025-08-21T22:55:24.681442 - INFO - COST: $0.0053 | CUMULATIVE: $0.0053
+2025-08-21T22:55:24.681513 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:55:24.681718 - INFO - 🔗 Application Type: Company Site (https://example.com/apply/junior-data-analyst...)
+2025-08-21T22:55:25.319640 - INFO - ✅ Added job ID 76256521617 to Notion
+2025-08-21T22:55:25.322983 - INFO - ============================================================
+2025-08-21T22:55:25.323091 - INFO - 📊 FINAL SUMMARY
+2025-08-21T22:55:25.323457 - INFO - ============================================================
+2025-08-21T22:55:25.323584 - INFO - ✅ Jobs Processed: 1
+2025-08-21T22:55:25.323682 - INFO - ⏩ Skipped (Cached): 0
+2025-08-21T22:55:25.323779 - INFO - ❌ Failed: 0
+2025-08-21T22:55:25.323869 - INFO - 🤖 Backup Model Calls: 1
+2025-08-21T22:55:25.323958 - INFO - 🎯 Total Tokens: 2,032
+2025-08-21T22:55:25.324047 - INFO - 💰 Total Cost: $0.01
+2025-08-21T22:55:25.324125 - INFO - ============================================================
+5-08-21 22:55:25,323 - INFO - 🤖 Backup Model Calls: 1
+2025-08-21 22:55:25,323 - INFO - 🎯 Total Tokens: 2,032
+2025-08-21 22:55:25,323 - INFO - 💰 Total Cost: $0.01
+2025-08-21 22:55:25,324 - INFO - ============================================================

@@ -1,0 +1,27 @@
+2025-08-21T22:46:21.898188 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-08-21T22:46:21.898805 - INFO - Loaded 1 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-08-21_22-46-19.json
+2025-08-21T22:46:21.898839 - INFO - 📄 Resume loaded (2250 characters)
+2025-08-21T22:46:21.898865 - INFO - 📋 Found 1 cached evaluations
+2025-08-21T22:46:25.021904 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":7,"explanation":"Shehab Ahamed has a strong technical skills match with relevant programming languages (Python, SQL) and experience in data handling via tools like MongoDB and dashboards. Ho
+2025-08-21T22:46:25.024298 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:46:25.024362 - INFO - JOB: Junior Data Analyst at DummyCorp
+2025-08-21T22:46:25.024415 - INFO - RATING: 7/10
+2025-08-21T22:46:25.024463 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with relevant programming languages (Python, SQL) ...
+2025-08-21T22:46:25.024509 - INFO - TOKENS: 138 explanation | 942 total
+2025-08-21T22:46:25.024565 - INFO - COST: $0.0001 | CUMULATIVE: $0.0001
+2025-08-21T22:46:25.024612 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:46:25.024714 - INFO - 🔗 Application Type: Company Site (https://example.com/apply/junior-data-analyst...)
+2025-08-21T22:46:25.529314 - INFO - ✅ Added job ID 7654789876576457 to Notion
+2025-08-21T22:46:25.531289 - INFO - ============================================================
+2025-08-21T22:46:25.531401 - INFO - 📊 FINAL SUMMARY
+2025-08-21T22:46:25.531489 - INFO - ============================================================
+2025-08-21T22:46:25.531576 - INFO - ✅ Jobs Processed: 1
+2025-08-21T22:46:25.531662 - INFO - ⏩ Skipped (Cached): 0
+2025-08-21T22:46:25.531947 - INFO - ❌ Failed: 0
+2025-08-21T22:46:25.532125 - INFO - 🤖 Backup Model Calls: 0
+2025-08-21T22:46:25.532232 - INFO - 🎯 Total Tokens: 942
+2025-08-21T22:46:25.532323 - INFO - 💰 Total Cost: $0.00
+2025-08-21T22:46:25.532403 - INFO - ============================================================
+ 942
+2025-08-21 22:46:25,532 - INFO - 💰 Total Cost: $0.00
+2025-08-21 22:46:25,532 - INFO - ============================================================

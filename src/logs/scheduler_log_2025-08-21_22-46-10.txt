@@ -1,0 +1,18 @@
+[2025-08-21 22:46:10] ==================================================
+[2025-08-21 22:46:10] 🔄 STARTING AUTOMATED JOB PIPELINE (TEST MODE)
+[2025-08-21 22:46:10] ==================================================
+[2025-08-21 22:46:10] 🚀 Starting scraper (scraped/scrape_apify_jobs.py)...
+[2025-08-21 22:46:10]    -> Running scraper in TEST mode.
+[2025-08-21 22:46:10] ✅ scraper completed successfully
+[2025-08-21 22:46:10] 📄 Output: 🧪 Running in TEST mode. Skipping Apify API call.
+✅ Saved 2 dummy jobs to scraped/scraped/jobs_2025-08-21_22-46-10.json
+🎉 Test mode finished successfully.
+[2025-08-21 22:46:12] 🚀 Starting condenser (condensed/condense_jobs.py)...
+[2025-08-21 22:46:12] ✅ condenser completed successfully
+[2025-08-21 22:46:14] 🚀 Starting filter (filtered/filter_condensed_jobs.py)...
+[2025-08-21 22:46:19] ✅ filter completed successfully
+[2025-08-21 22:46:21] 🚀 Starting analyzer (analyze/analyze.py)...
+[2025-08-21 22:46:25] ✅ analyzer completed successfully
+[2025-08-21 22:46:27] ==================================================
+[2025-08-21 22:46:27] 🎉 PIPELINE COMPLETED SUCCESSFULLY!
+[2025-08-21 22:46:27] ==================================================

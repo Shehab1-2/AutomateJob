@@ -1,0 +1,27 @@
+2025-08-21T22:31:02.845678 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-08-21T22:31:02.846384 - INFO - Loaded 1 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-08-21_22-31-00.json
+2025-08-21T22:31:02.846418 - INFO - 📄 Resume loaded (2250 characters)
+2025-08-21T22:31:02.846444 - INFO - 📋 Found 1 cached evaluations
+2025-08-21T22:31:05.669044 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":7,"explanation":"The candidate has strong technical skills relevant to data analysis, including programming languages (Python, SQL) and experience with data handling tools (e.g., MongoDB). T
+2025-08-21T22:31:05.671912 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:31:05.671993 - INFO - JOB: Junior Data Analyst at DummyCorp
+2025-08-21T22:31:05.672057 - INFO - RATING: 7/10
+2025-08-21T22:31:05.672115 - INFO - EXPLANATION: The candidate has strong technical skills relevant to data analysis, including programming languages...
+2025-08-21T22:31:05.672171 - INFO - TOKENS: 139 explanation | 942 total
+2025-08-21T22:31:05.672234 - INFO - COST: $0.0001 | CUMULATIVE: $0.0001
+2025-08-21T22:31:05.672290 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:31:05.672404 - INFO - 🔗 Application Type: Company Site (https://example.com/apply/junior-data-analyst...)
+2025-08-21T22:31:08.411470 - INFO - ✅ Added job ID 12010123104 to Notion
+2025-08-21T22:31:08.413922 - INFO - ============================================================
+2025-08-21T22:31:08.414048 - INFO - 📊 FINAL SUMMARY
+2025-08-21T22:31:08.414158 - INFO - ============================================================
+2025-08-21T22:31:08.414277 - INFO - ✅ Jobs Processed: 1
+2025-08-21T22:31:08.414396 - INFO - ⏩ Skipped (Cached): 0
+2025-08-21T22:31:08.414521 - INFO - ❌ Failed: 0
+2025-08-21T22:31:08.414628 - INFO - 🤖 Backup Model Calls: 0
+2025-08-21T22:31:08.414739 - INFO - 🎯 Total Tokens: 942
+2025-08-21T22:31:08.414829 - INFO - 💰 Total Cost: $0.00
+2025-08-21T22:31:08.414909 - INFO - ============================================================
+ 942
+2025-08-21 22:31:08,414 - INFO - 💰 Total Cost: $0.00
+2025-08-21 22:31:08,414 - INFO - ============================================================

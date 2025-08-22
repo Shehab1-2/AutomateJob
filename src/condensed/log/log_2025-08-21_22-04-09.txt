@@ -1,0 +1,7 @@
+2025-08-21 22:04:09,167 - INFO - 🚀 Starting job condensation process...
+2025-08-21 22:04:09,167 - INFO - 📁 Found latest file: jobs_2025-08-21_22-04-07.json
+2025-08-21 22:04:09,167 - INFO - 📖 Reading jobs from: /Users/shehabahamed/linkedin-job-rater-py/src/scraped/scraped/jobs_2025-08-21_22-04-07.json
+2025-08-21 22:04:09,170 - INFO - 🔄 Processing 100 jobs...
+2025-08-21 22:04:09,170 - INFO - 💾 Writing 100 jobs to: /Users/shehabahamed/linkedin-job-rater-py/src/condensed/condense_data/condensed_jobs_2025-08-21_22-04-09.json
+2025-08-21 22:04:09,172 - INFO - ✅ Successfully condensed 100 jobs
+2025-08-21 22:04:09,172 - INFO - 🎉 Job condensation completed successfully!

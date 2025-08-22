@@ -1,0 +1,21 @@
+2025-08-21 22:56:12,613 - INFO - 📄 Reading from: /Users/shehabahamed/linkedin-job-rater-py/src/condensed/condense_data/condensed_jobs_2025-08-21_22-56-10.json
+2025-08-21 22:56:12,613 - INFO - 📊 Loaded 2 jobs from file
+2025-08-21 22:56:13,325 - INFO - HTTP Request: POST https://api.notion.com/v1/databases/22c65879924e80538b1cec4e358f9763/query "HTTP/1.1 200 OK"
+2025-08-21 22:56:14,338 - INFO - HTTP Request: POST https://api.notion.com/v1/databases/22c65879924e80538b1cec4e358f9763/query "HTTP/1.1 200 OK"
+2025-08-21 22:56:15,433 - INFO - HTTP Request: POST https://api.notion.com/v1/databases/22c65879924e80538b1cec4e358f9763/query "HTTP/1.1 200 OK"
+2025-08-21 22:56:16,079 - INFO - HTTP Request: POST https://api.notion.com/v1/databases/22c65879924e80538b1cec4e358f9763/query "HTTP/1.1 200 OK"
+2025-08-21 22:56:17,316 - INFO - HTTP Request: POST https://api.notion.com/v1/databases/22c65879924e80538b1cec4e358f9763/query "HTTP/1.1 200 OK"
+2025-08-21 22:56:17,875 - INFO - HTTP Request: POST https://api.notion.com/v1/databases/22c65879924e80538b1cec4e358f9763/query "HTTP/1.1 200 OK"
+2025-08-21 22:56:17,883 - INFO - 🔎 Found 517 existing job IDs in Notion
+2025-08-21 22:56:17,884 - INFO - Filtering Results:
+2025-08-21 22:56:17,884 - INFO -   Total jobs: 2
+2025-08-21 22:56:17,884 - INFO -   Already exists: 1
+2025-08-21 22:56:17,885 - INFO -   Duplicate Job IDs: 4283525513
+2025-08-21 22:56:17,885 - INFO -   Bad company: 0
+2025-08-21 22:56:17,885 - INFO -   Aggregator: 0
+2025-08-21 22:56:17,885 - INFO -   Excluded keyword: 0
+2025-08-21 22:56:17,885 - INFO -   Senior role: 0
+2025-08-21 22:56:17,885 - INFO -   Location mismatch: 0
+2025-08-21 22:56:17,885 - INFO -   Too old: 0
+2025-08-21 22:56:17,885 - INFO -   Passed filters: 1
+2025-08-21 22:56:17,886 - INFO - ✅ Saved 1 filtered jobs to /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-08-21_22-56-17.json

@@ -1,0 +1,17 @@
+[2025-08-21 22:02:43] ==================================================
+[2025-08-21 22:02:43] 🔄 STARTING AUTOMATED JOB PIPELINE (LIVE MODE)
+[2025-08-21 22:02:43] ==================================================
+[2025-08-21 22:02:43] 🚀 Starting scraper (scraped/scrape_apify_jobs.py)...
+[2025-08-21 22:04:07] ✅ scraper completed successfully
+[2025-08-21 22:04:07] 📄 Output: 🚀 Running in LIVE mode. Calling Apify API...
+✅ Saved 100 jobs to scraped/scraped/jobs_2025-08-21_22-04-07.json
+🎉 All requested jobs scraped successfully.
+[2025-08-21 22:04:09] 🚀 Starting condenser (condensed/condense_jobs.py)...
+[2025-08-21 22:04:09] ✅ condenser completed successfully
+[2025-08-21 22:04:11] 🚀 Starting filter (filtered/filter_condensed_jobs.py)...
+[2025-08-21 22:04:21] ✅ filter completed successfully
+[2025-08-21 22:04:23] 🚀 Starting analyzer (analyze/analyze.py)...
+[2025-08-21 22:11:17] ✅ analyzer completed successfully
+[2025-08-21 22:11:19] ==================================================
+[2025-08-21 22:11:19] 🎉 PIPELINE COMPLETED SUCCESSFULLY!
+[2025-08-21 22:11:19] ==================================================

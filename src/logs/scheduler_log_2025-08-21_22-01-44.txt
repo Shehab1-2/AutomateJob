@@ -1,0 +1,20 @@
+[2025-08-21 22:01:44] ==================================================
+[2025-08-21 22:01:44] 🔄 STARTING AUTOMATED JOB PIPELINE (LIVE MODE)
+[2025-08-21 22:01:44] ==================================================
+[2025-08-21 22:01:44] 🚀 Starting scraper (scraped/scrape_apify_jobs.py)...
+[2025-08-21 22:01:45] ✅ scraper completed successfully
+[2025-08-21 22:01:45] 📄 Output: 🚀 Running in LIVE mode. Calling Apify API...
+✅ Saved 1 jobs to scraped/scraped/jobs_2025-08-21_22-01-45.json
+⚠️ Requested 10, but only scraped 1.
+   LinkedIn may have throttled or limited results.
+[2025-08-21 22:01:47] 🚀 Starting condenser (condensed/condense_jobs.py)...
+[2025-08-21 22:01:47] ❌ condenser failed with return code 1
+[2025-08-21 22:01:47] 📄 Error: 2025-08-21 22:01:47,362 - INFO - 🚀 Starting job condensation process...
+2025-08-21 22:01:47,362 - INFO - 📁 Found latest file: jobs_2025-08-21_22-01-45.json
+2025-08-21 22:01:47,362 - INFO - 📖 Reading jobs from: /Users/shehabahamed/linkedin-job-rater-py/src/scraped/scraped/jobs_2025-08-21_22-01-45.json
+2025-08-21 22:01:47,362 - ERROR - ❌ Input file does not contain a list of jobs
+2025-08-21 22:01:47,362 - ERROR - ❌ Job condensation failed
+[2025-08-21 22:01:47] 🛑 Pipeline stopped at condenser due to failure
+[2025-08-21 22:01:47] ==================================================
+[2025-08-21 22:01:47] ⚠️ PIPELINE PARTIALLY COMPLETED (1/4 steps)
+[2025-08-21 22:01:47] ==================================================

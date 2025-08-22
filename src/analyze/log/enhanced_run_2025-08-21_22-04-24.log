@@ -1,0 +1,868 @@
+2025-08-21T22:04:24.429642 - INFO - 🚀 Starting Enhanced Job Evaluation System
+2025-08-21T22:04:24.430543 - INFO - Loaded 63 jobs from /Users/shehabahamed/linkedin-job-rater-py/src/filtered/filter_data/filtered_jobs_2025-08-21_22-04-21.json
+2025-08-21T22:04:24.430577 - INFO - 📄 Resume loaded (2250 characters)
+2025-08-21T22:04:24.430604 - INFO - 📋 Found 6 cached evaluations
+2025-08-21T22:04:27.768402 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"The candidate possesses a strong technical skill set relevant to the Automation Engineer role, particularly in Python and automation tools like Selenium, which aligns well w
+2025-08-21T22:04:27.768600 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:04:31.944113 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:31.944211 - INFO - JOB: Automation Engineer at Goodwin
+2025-08-21T22:04:31.944287 - INFO - RATING: 8/10
+2025-08-21T22:04:31.944367 - INFO - EXPLANATION: Shehab Ahamed's technical skills closely align with the requirements for an Automation Engineer role...
+2025-08-21T22:04:31.944434 - INFO - TOKENS: 154 explanation | 1922 total
+2025-08-21T22:04:31.944511 - INFO - COST: $0.0050 | CUMULATIVE: $0.0050
+2025-08-21T22:04:31.944579 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:31.944688 - INFO - 🔗 Application Type: Workday (https://goodwinprocter.wd5.myworkdayjobs.com/Exter...)
+2025-08-21T22:04:32.423426 - INFO - ✅ Added job ID 4278507384 to Notion
+2025-08-21T22:04:35.019021 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate's technical skills primarily focus on software development and integration, with proficiency in Java, Python, JavaScript, and various frameworks like React Nat
+2025-08-21T22:04:35.019246 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:04:39.319735 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:39.319895 - INFO - JOB: Controls Engineer at Fujitsu General America, Inc.
+2025-08-21T22:04:39.320014 - INFO - RATING: 4/10
+2025-08-21T22:04:39.320124 - INFO - EXPLANATION: Technical Skills Match (40%): The candidate has experience with programming languages and tools like...
+2025-08-21T22:04:39.320242 - INFO - TOKENS: 164 explanation | 1913 total
+2025-08-21T22:04:39.320364 - INFO - COST: $0.0051 | CUMULATIVE: $0.0100
+2025-08-21T22:04:39.320472 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:39.320620 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:04:40.032512 - INFO - ✅ Added job ID 4289282843 to Notion
+2025-08-21T22:04:43.924809 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate, Shehab Ahamed, demonstrates a strong technical skill set primarily in software engineering and integration roles, with proficiency in Java, Python, JavaScript
+2025-08-21T22:04:43.925797 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:43.925872 - INFO - JOB: Associate, FP&A at Glossier, Inc.
+2025-08-21T22:04:43.925942 - INFO - RATING: 3/10
+2025-08-21T22:04:43.926010 - INFO - EXPLANATION: The candidate, Shehab Ahamed, demonstrates a strong technical skill set primarily in software engine...
+2025-08-21T22:04:43.926087 - INFO - TOKENS: 146 explanation | 954 total
+2025-08-21T22:04:43.926165 - INFO - COST: $0.0001 | CUMULATIVE: $0.0102
+2025-08-21T22:04:43.926228 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:43.926331 - INFO - 🔗 Application Type: Greenhouse (https://boards.greenhouse.io/glossier/jobs/7021062...)
+2025-08-21T22:04:44.338017 - INFO - ✅ Added job ID 4259497266 to Notion
+2025-08-21T22:04:47.708931 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":5,"explanation":"The candidate exhibits strong technical skills, particularly in programming languages such as Python and Java, and frameworks like React and Spring Boot, which could be bene
+2025-08-21T22:04:47.709065 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:04:50.717764 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:50.717884 - INFO - JOB: QA Analyst at Concora Credit
+2025-08-21T22:04:50.717987 - INFO - RATING: 6/10
+2025-08-21T22:04:50.718072 - INFO - EXPLANATION: Shehab Ahamed has relevant technical skills including Java, Python, JavaScript, and tools like Selen...
+2025-08-21T22:04:50.718154 - INFO - TOKENS: 119 explanation | 1900 total
+2025-08-21T22:04:50.718277 - INFO - COST: $0.0048 | CUMULATIVE: $0.0150
+2025-08-21T22:04:50.718362 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:50.718592 - INFO - 🔗 Application Type: iCIMS (https://careers-concoracredit.icims.com/jobs/2775/...)
+2025-08-21T22:04:51.089344 - INFO - ✅ Added job ID 4281968134 to Notion
+2025-08-21T22:04:53.653014 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate possesses strong programming skills, particularly in Python and Java, which are relevant to machine learning, but lacks specific experience or coursework in ma
+2025-08-21T22:04:53.654688 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:53.654811 - INFO - JOB: Machine Learning Engineer at N1 Health
+2025-08-21T22:04:53.654928 - INFO - RATING: 3/10
+2025-08-21T22:04:53.655036 - INFO - EXPLANATION: The candidate possesses strong programming skills, particularly in Python and Java, which are releva...
+2025-08-21T22:04:53.655139 - INFO - TOKENS: 127 explanation | 930 total
+2025-08-21T22:04:53.655265 - INFO - COST: $0.0001 | CUMULATIVE: $0.0151
+2025-08-21T22:04:53.655369 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:04:53.655567 - INFO - 🔗 Application Type: Lever (https://jobs.lever.co/algorex/876882cd-c8fd-4e2d-b...)
+2025-08-21T22:04:54.062660 - INFO - ✅ Added job ID 4288053470 to Notion
+2025-08-21T22:04:56.624524 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":6,"explanation":"The candidate possesses relevant technical skills such as Python and automation frameworks like Selenium, which are applicable to the HW Test Automation Engineer role. Howev
+2025-08-21T22:04:56.624791 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:05:00.283465 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:00.283572 - INFO - JOB: HW Test Automation Engineer at Delart
+2025-08-21T22:05:00.283659 - INFO - RATING: 6/10
+2025-08-21T22:05:00.283742 - INFO - EXPLANATION: Technical Skills Match (6/10): The candidate has experience with automation tools like Selenium and ...
+2025-08-21T22:05:00.283822 - INFO - TOKENS: 172 explanation | 1920 total
+2025-08-21T22:05:00.283908 - INFO - COST: $0.0051 | CUMULATIVE: $0.0202
+2025-08-21T22:05:00.283989 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:00.284114 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:05:00.641049 - INFO - ✅ Added job ID 4285082472 to Notion
+2025-08-21T22:05:03.371200 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate's technical skills primarily revolve around software engineering, focusing on languages like Java, Python, and JavaScript, which are relevant to data science b
+2025-08-21T22:05:03.372718 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:03.372986 - INFO - JOB: Data Scientist at Zest AI
+2025-08-21T22:05:03.373091 - INFO - RATING: 3/10
+2025-08-21T22:05:03.373174 - INFO - EXPLANATION: The candidate's technical skills primarily revolve around software engineering, focusing on language...
+2025-08-21T22:05:03.373250 - INFO - TOKENS: 149 explanation | 951 total
+2025-08-21T22:05:03.373329 - INFO - COST: $0.0001 | CUMULATIVE: $0.0203
+2025-08-21T22:05:03.373402 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:03.373498 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:05:03.864261 - INFO - ✅ Added job ID 4283089469 to Notion
+2025-08-21T22:05:06.247120 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate lacks relevant technical skills for a Data Analyst role, as their expertise is primarily in software engineering and development rather than data analysis tool
+2025-08-21T22:05:06.249168 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:06.249273 - INFO - JOB: Data Analyst at Applus+ Laboratories
+2025-08-21T22:05:06.249362 - INFO - RATING: 3/10
+2025-08-21T22:05:06.249442 - INFO - EXPLANATION: The candidate lacks relevant technical skills for a Data Analyst role, as their expertise is primari...
+2025-08-21T22:05:06.249525 - INFO - TOKENS: 118 explanation | 919 total
+2025-08-21T22:05:06.249614 - INFO - COST: $0.0001 | CUMULATIVE: $0.0205
+2025-08-21T22:05:06.249765 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:06.249897 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:05:06.641361 - INFO - ✅ Added job ID 4235664253 to Notion
+2025-08-21T22:05:10.037550 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a strong technical skill set relevant to the Automation Engineer role, including Python and JavaScript for scripting and automation tasks, which alig
+2025-08-21T22:05:10.037751 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:05:14.338865 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:14.338999 - INFO - JOB: Automation Engineer at Oscar
+2025-08-21T22:05:14.339110 - INFO - RATING: 8/10
+2025-08-21T22:05:14.339194 - INFO - EXPLANATION: Shehab Ahamed has a suitable technical skills match for the Automation Engineer role, with strong pr...
+2025-08-21T22:05:14.339278 - INFO - TOKENS: 161 explanation | 1946 total
+2025-08-21T22:05:14.339369 - INFO - COST: $0.0050 | CUMULATIVE: $0.0255
+2025-08-21T22:05:14.339483 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:14.339585 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:05:14.835588 - INFO - ✅ Added job ID 4285571556 to Notion
+2025-08-21T22:05:17.610921 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":7,"explanation":"The candidate demonstrates a solid technical skills match, particularly in programming languages (Java, Python, JavaScript) and frameworks (React, Node.js), relevant to Qual
+2025-08-21T22:05:17.612172 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:17.612296 - INFO - JOB: Quality Engineer at American Express
+2025-08-21T22:05:17.612439 - INFO - RATING: 7/10
+2025-08-21T22:05:17.612551 - INFO - EXPLANATION: The candidate demonstrates a solid technical skills match, particularly in programming languages (Ja...
+2025-08-21T22:05:17.612653 - INFO - TOKENS: 121 explanation | 926 total
+2025-08-21T22:05:17.612798 - INFO - COST: $0.0001 | CUMULATIVE: $0.0256
+2025-08-21T22:05:17.612913 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:17.613164 - INFO - 🔗 Application Type: Company Site (https://aexp.eightfold.ai/careers/job/29618959?hl=...)
+2025-08-21T22:05:18.533225 - INFO - ✅ Added job ID 4264227355 to Notion
+2025-08-21T22:05:20.894799 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate lacks direct experience relevant to the Analyst, AI Investment position, which typically requires financial analysis and investment knowledge, not evident in t
+2025-08-21T22:05:20.895289 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:05:24.587952 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:24.588150 - INFO - JOB: Analyst, AI Investment at Llama Venture
+2025-08-21T22:05:24.588240 - INFO - RATING: 6/10
+2025-08-21T22:05:24.588322 - INFO - EXPLANATION: Technical Skills Match (6/10): The candidate has strong programming skills with Java, Python, and Ja...
+2025-08-21T22:05:24.588405 - INFO - TOKENS: 159 explanation | 1897 total
+2025-08-21T22:05:24.588489 - INFO - COST: $0.0050 | CUMULATIVE: $0.0306
+2025-08-21T22:05:24.588568 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:24.588693 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:05:24.816172 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:05:26.317575 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:05:28.784627 - ERROR - ❌ Failed to add job ID 4288152109 to Notion after 3 attempts
+2025-08-21T22:05:28.785122 - ERROR - ❌ Error details: APIResponseError: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:05:28.785275 - ERROR - ❌ Database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-08-21T22:05:32.096563 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":7,"explanation":"The candidate possesses a strong technical skill set, including Python and Java, which are relevant for QA automation testing (40%). However, there is little direct QA exper
+2025-08-21T22:05:32.098823 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:32.098954 - INFO - JOB: QA Analyst at AMS (Advanced Medical Strategies)
+2025-08-21T22:05:32.099050 - INFO - RATING: 7/10
+2025-08-21T22:05:32.099132 - INFO - EXPLANATION: The candidate possesses a strong technical skill set, including Python and Java, which are relevant ...
+2025-08-21T22:05:32.099204 - INFO - TOKENS: 165 explanation | 969 total
+2025-08-21T22:05:32.099266 - INFO - COST: $0.0001 | CUMULATIVE: $0.0308
+2025-08-21T22:05:32.099321 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:32.099486 - INFO - 🔗 Application Type: Company Site (https://ats.rippling.com/advanced-medical-strategi...)
+2025-08-21T22:05:32.424642 - INFO - ✅ Added job ID 4288671657 to Notion
+2025-08-21T22:05:34.750861 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":5,"explanation":"The candidate possesses a strong technical foundation with relevant programming skills in Java, Python, and JavaScript, which are applicable in automation. However, the resu
+2025-08-21T22:05:34.751143 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:05:39.321962 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:39.322106 - INFO - JOB: Controls/Automation Engineer at Horan Hiring Solutions, LLC
+2025-08-21T22:05:39.322222 - INFO - RATING: 6/10
+2025-08-21T22:05:39.322334 - INFO - EXPLANATION: Shehab Ahamed has strong technical skills in programming languages (Java, Python, JavaScript, C/C++)...
+2025-08-21T22:05:39.322442 - INFO - TOKENS: 173 explanation | 1908 total
+2025-08-21T22:05:39.322556 - INFO - COST: $0.0051 | CUMULATIVE: $0.0358
+2025-08-21T22:05:39.322662 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:39.322775 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:05:39.761372 - INFO - ✅ Added job ID 4289408623 to Notion
+2025-08-21T22:05:43.078889 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":9,"explanation":"Shehab Ahamed demonstrates a strong technical skills match, particularly with programming languages (Python, Java, JavaScript), frameworks (Node.js, React), and tools (Docke
+2025-08-21T22:05:43.080571 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:43.080707 - INFO - JOB: Automation Engineer at Goodwin
+2025-08-21T22:05:43.080815 - INFO - RATING: 9/10
+2025-08-21T22:05:43.080941 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match, particularly with programming languages ...
+2025-08-21T22:05:43.081059 - INFO - TOKENS: 174 explanation | 973 total
+2025-08-21T22:05:43.081166 - INFO - COST: $0.0001 | CUMULATIVE: $0.0360
+2025-08-21T22:05:43.081266 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:43.081393 - INFO - 🔗 Application Type: Workday (https://goodwinprocter.wd5.myworkdayjobs.com/Exter...)
+2025-08-21T22:05:46.578351 - INFO - ✅ Added job ID 4278504934 to Notion
+2025-08-21T22:05:50.027730 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"The candidate possesses a strong technical skills match with relevant programming languages (Python, Java) and frameworks (Node.js, React) important for an Automation Engine
+2025-08-21T22:05:50.029671 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:50.029781 - INFO - JOB: Automation Engineer at DataForce
+2025-08-21T22:05:50.029860 - INFO - RATING: 8/10
+2025-08-21T22:05:50.029932 - INFO - EXPLANATION: The candidate possesses a strong technical skills match with relevant programming languages (Python,...
+2025-08-21T22:05:50.030003 - INFO - TOKENS: 157 explanation | 957 total
+2025-08-21T22:05:50.030089 - INFO - COST: $0.0001 | CUMULATIVE: $0.0361
+2025-08-21T22:05:50.030155 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:05:50.030438 - INFO - 🔗 Application Type: Company Site (https://dataforce.recruitee.com/o/automation-engin...)
+2025-08-21T22:05:50.326587 - INFO - ✅ Added job ID 4288095703 to Notion
+2025-08-21T22:05:54.157646 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"The candidate has a strong technical skills match, particularly with Java, Python, and JavaScript, which are relevant for test automation. They possess experience with Selen
+2025-08-21T22:05:54.157850 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:06:00.731036 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:00.731149 - INFO - JOB: Junior Software Test Engineer at BAE Systems, Inc.
+2025-08-21T22:06:00.731227 - INFO - RATING: 8/10
+2025-08-21T22:06:00.731306 - INFO - EXPLANATION: Shehab Ahamed possesses a strong foundation in programming languages (Java, Python, JavaScript) and ...
+2025-08-21T22:06:00.731366 - INFO - TOKENS: 159 explanation | 1941 total
+2025-08-21T22:06:00.731424 - INFO - COST: $0.0050 | CUMULATIVE: $0.0411
+2025-08-21T22:06:00.731484 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:00.731676 - INFO - 🔗 Application Type: Company Site (https://jobs.baesystems.com/global/en/job/BAE1US11...)
+2025-08-21T22:06:05.552243 - INFO - ✅ Added job ID 4286762227 to Notion
+2025-08-21T22:06:08.665533 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":5,"explanation":"The candidate has a strong technical skill set with proficiency in Java, Python, JavaScript, and various frameworks like React and Spring Boot, which align with typical data
+2025-08-21T22:06:08.665831 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:06:13.617026 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:13.617128 - INFO - JOB: Data Integrity Analyst at The Stepping Stones Group, LLC
+2025-08-21T22:06:13.617202 - INFO - RATING: 6/10
+2025-08-21T22:06:13.617272 - INFO - EXPLANATION: Shehab Ahamed shows a broad technical skill set, including Java, Python, and JavaScript, which align...
+2025-08-21T22:06:13.617344 - INFO - TOKENS: 158 explanation | 1928 total
+2025-08-21T22:06:13.617421 - INFO - COST: $0.0050 | CUMULATIVE: $0.0462
+2025-08-21T22:06:13.617488 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:13.617609 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:06:14.448018 - INFO - ✅ Added job ID 4288401907 to Notion
+2025-08-21T22:06:17.009828 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate has a strong technical background in programming languages (Java, Python, JavaScript, TypeScript) and frameworks (React Native, Spring Boot), but lacks direct 
+2025-08-21T22:06:17.011931 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:17.012125 - INFO - JOB: Manual QA Tester (Web/Mobile) at Badger Meter
+2025-08-21T22:06:17.012206 - INFO - RATING: 3/10
+2025-08-21T22:06:17.012250 - INFO - EXPLANATION: The candidate has a strong technical background in programming languages (Java, Python, JavaScript, ...
+2025-08-21T22:06:17.012284 - INFO - TOKENS: 142 explanation | 955 total
+2025-08-21T22:06:17.012652 - INFO - COST: $0.0001 | CUMULATIVE: $0.0463
+2025-08-21T22:06:17.012690 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:17.012766 - INFO - 🔗 Application Type: Workday (https://badgermeter.wd5.myworkdayjobs.com/US_Caree...)
+2025-08-21T22:06:17.332442 - INFO - ✅ Added job ID 4264788932 to Notion
+2025-08-21T22:06:20.387721 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"Shehab Ahamed's technical skills primarily focus on software development, with expertise in various programming languages and frameworks such as Java, Python, React Native, 
+2025-08-21T22:06:20.388718 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:20.388763 - INFO - JOB: Digital Marketing Campaign Coordinator - Full Time - Remote at Neptune Ops
+2025-08-21T22:06:20.388788 - INFO - RATING: 3/10
+2025-08-21T22:06:20.388809 - INFO - EXPLANATION: Shehab Ahamed's technical skills primarily focus on software development, with expertise in various ...
+2025-08-21T22:06:20.388828 - INFO - TOKENS: 140 explanation | 948 total
+2025-08-21T22:06:20.388850 - INFO - COST: $0.0001 | CUMULATIVE: $0.0464
+2025-08-21T22:06:20.388868 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:20.388913 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:06:21.817922 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:06:22.963390 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:06:25.228915 - ERROR - ❌ Failed to add job ID 4286748442 to Notion after 3 attempts
+2025-08-21T22:06:25.229083 - ERROR - ❌ Error details: APIResponseError: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:06:25.229198 - ERROR - ❌ Database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-08-21T22:06:27.962547 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate has a strong technical skill set in programming languages such as Python and JavaScript, which are relevant for data analysis tasks. However, there is a lack o
+2025-08-21T22:06:27.963650 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:27.963750 - INFO - JOB: Data Analyst at Ascendion
+2025-08-21T22:06:27.963861 - INFO - RATING: 3/10
+2025-08-21T22:06:27.964045 - INFO - EXPLANATION: The candidate has a strong technical skill set in programming languages such as Python and JavaScrip...
+2025-08-21T22:06:27.964163 - INFO - TOKENS: 124 explanation | 928 total
+2025-08-21T22:06:27.964290 - INFO - COST: $0.0001 | CUMULATIVE: $0.0466
+2025-08-21T22:06:27.964405 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:27.964534 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:06:28.334385 - INFO - ✅ Added job ID 4289070363 to Notion
+2025-08-21T22:06:31.122485 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed's skills are closely aligned with the Automation Engineer role. His experience with automation tools like Selenium and Python directly matches the requirements
+2025-08-21T22:06:31.124212 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:31.124309 - INFO - JOB: Automation Engineer at Goodwin
+2025-08-21T22:06:31.124372 - INFO - RATING: 8/10
+2025-08-21T22:06:31.124429 - INFO - EXPLANATION: Shehab Ahamed's skills are closely aligned with the Automation Engineer role. His experience with au...
+2025-08-21T22:06:31.124483 - INFO - TOKENS: 127 explanation | 929 total
+2025-08-21T22:06:31.124540 - INFO - COST: $0.0001 | CUMULATIVE: $0.0467
+2025-08-21T22:06:31.124592 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:31.124758 - INFO - 🔗 Application Type: Workday (https://goodwinprocter.wd5.myworkdayjobs.com/Exter...)
+2025-08-21T22:06:32.010937 - INFO - ✅ Added job ID 4278504935 to Notion
+2025-08-21T22:06:36.060956 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate has strong programming skills in Java, Python, JavaScript, TypeScript, and C/C++, which are beneficial but not specifically aligned with Controls Engineering. 
+2025-08-21T22:06:36.064475 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:36.064598 - INFO - JOB: Controls Engineer at Bastian Solutions
+2025-08-21T22:06:36.064684 - INFO - RATING: 3/10
+2025-08-21T22:06:36.064757 - INFO - EXPLANATION: The candidate has strong programming skills in Java, Python, JavaScript, TypeScript, and C/C++, whic...
+2025-08-21T22:06:36.064830 - INFO - TOKENS: 168 explanation | 973 total
+2025-08-21T22:06:36.064991 - INFO - COST: $0.0001 | CUMULATIVE: $0.0469
+2025-08-21T22:06:36.065101 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:36.065187 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:06:37.085180 - INFO - ✅ Added job ID 4288468591 to Notion
+2025-08-21T22:06:40.455782 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":7,"explanation":"The candidate has a solid technical skills match with relevant programming languages (Python, JavaScript), frameworks (React, Node.js), and tools (Docker, CI/CD), aligning w
+2025-08-21T22:06:40.457634 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:40.457736 - INFO - JOB: Automation Engineer at DataForce
+2025-08-21T22:06:40.457798 - INFO - RATING: 7/10
+2025-08-21T22:06:40.457856 - INFO - EXPLANATION: The candidate has a solid technical skills match with relevant programming languages (Python, JavaSc...
+2025-08-21T22:06:40.457910 - INFO - TOKENS: 143 explanation | 944 total
+2025-08-21T22:06:40.457967 - INFO - COST: $0.0001 | CUMULATIVE: $0.0470
+2025-08-21T22:06:40.458018 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:40.458189 - INFO - 🔗 Application Type: Company Site (https://dataforce.recruitee.com/o/automation-engin...)
+2025-08-21T22:06:40.829877 - INFO - ✅ Added job ID 4288104500 to Notion
+2025-08-21T22:06:43.936654 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":6,"explanation":"Shehab Ahamed possesses a diverse technology stack, including Java, Python, and JavaScript, which aligns with QA roles that may require scripting for test automation. Howeve
+2025-08-21T22:06:43.936806 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:06:47.732845 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:47.732964 - INFO - JOB: QA Engineer II at Strata Decision Technology
+2025-08-21T22:06:47.733048 - INFO - RATING: 8/10
+2025-08-21T22:06:47.733109 - INFO - EXPLANATION: Shehab Ahamed has a solid match for the QA Engineer II role at Strata Decision Technology. His techn...
+2025-08-21T22:06:47.733169 - INFO - TOKENS: 194 explanation | 1969 total
+2025-08-21T22:06:47.733230 - INFO - COST: $0.0052 | CUMULATIVE: $0.0522
+2025-08-21T22:06:47.733280 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:47.733449 - INFO - 🔗 Application Type: Company Site (https://grnh.se/jtago5vb3us...)
+2025-08-21T22:06:48.544252 - INFO - ✅ Added job ID 4288634826 to Notion
+2025-08-21T22:06:52.341945 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a strong technical skills match, particularly with programming languages like Java, Python, and JavaScript which are relevant for a Software Quality 
+2025-08-21T22:06:52.342153 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:06:56.353428 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:56.353537 - INFO - JOB: Software Quality Engineer II at Sola
+2025-08-21T22:06:56.353604 - INFO - RATING: 7/10
+2025-08-21T22:06:56.353662 - INFO - EXPLANATION: Shehab Ahamed demonstrates a solid match in technical skills with experience in Java, Python, JavaSc...
+2025-08-21T22:06:56.353717 - INFO - TOKENS: 151 explanation | 1942 total
+2025-08-21T22:06:56.353777 - INFO - COST: $0.0050 | CUMULATIVE: $0.0571
+2025-08-21T22:06:56.353839 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:06:56.353987 - INFO - 🔗 Application Type: Company Site (https://workforcenow.adp.com/mascsr/default/mdf/re...)
+2025-08-21T22:06:56.928492 - INFO - ✅ Added job ID 4245172834 to Notion
+2025-08-21T22:07:01.140580 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"The candidate possesses a strong technical skill match with relevant languages (Python, Java, JavaScript), frameworks (React, Spring Boot), and tools (Docker, Git, CI/CD) th
+2025-08-21T22:07:01.143021 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:01.143146 - INFO - JOB: Automation Engineer at Goodwin
+2025-08-21T22:07:01.143256 - INFO - RATING: 8/10
+2025-08-21T22:07:01.143366 - INFO - EXPLANATION: The candidate possesses a strong technical skill match with relevant languages (Python, Java, JavaSc...
+2025-08-21T22:07:01.143490 - INFO - TOKENS: 155 explanation | 957 total
+2025-08-21T22:07:01.143611 - INFO - COST: $0.0001 | CUMULATIVE: $0.0573
+2025-08-21T22:07:01.143712 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:01.143834 - INFO - 🔗 Application Type: Workday (https://goodwinprocter.wd5.myworkdayjobs.com/Exter...)
+2025-08-21T22:07:02.022738 - INFO - ✅ Added job ID 4278505847 to Notion
+2025-08-21T22:07:05.033071 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a strong technical skill match with relevant programming languages (Python, Java) and frameworks (Django, React) that align with automation engineeri
+2025-08-21T22:07:05.034529 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:05.034695 - INFO - JOB: Automation Engineer at Goodwin
+2025-08-21T22:07:05.034842 - INFO - RATING: 8/10
+2025-08-21T22:07:05.034986 - INFO - EXPLANATION: Shehab Ahamed possesses a strong technical skill match with relevant programming languages (Python, ...
+2025-08-21T22:07:05.035134 - INFO - TOKENS: 124 explanation | 929 total
+2025-08-21T22:07:05.035287 - INFO - COST: $0.0001 | CUMULATIVE: $0.0574
+2025-08-21T22:07:05.035435 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:05.035601 - INFO - 🔗 Application Type: Workday (https://goodwinprocter.wd5.myworkdayjobs.com/Exter...)
+2025-08-21T22:07:05.442844 - INFO - ✅ Added job ID 4278504938 to Notion
+2025-08-21T22:07:09.145508 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed has a strong technical skills match with relevant programming languages (Python, Java, JavaScript), frameworks (React, Spring Boot), and tools (Docker, CI/CD) 
+2025-08-21T22:07:09.148083 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:09.148228 - INFO - JOB: Software Automation Engineer I at Management Science Associates, Inc.
+2025-08-21T22:07:09.148316 - INFO - RATING: 8/10
+2025-08-21T22:07:09.148397 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with relevant programming languages (Python, Java,...
+2025-08-21T22:07:09.148495 - INFO - TOKENS: 156 explanation | 962 total
+2025-08-21T22:07:09.148586 - INFO - COST: $0.0001 | CUMULATIVE: $0.0576
+2025-08-21T22:07:09.148691 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:09.148862 - INFO - 🔗 Application Type: Company Site (https://fa-exdf-saasfaprod1.fa.ocs.oraclecloud.com...)
+2025-08-21T22:07:09.527377 - INFO - ✅ Added job ID 4288632556 to Notion
+2025-08-21T22:07:12.304788 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Technical Skills Match (8): Shehab has strong programming skills in Java, Python, and JavaScript, which are relevant for a Software Quality Engineer role. Familiarity with S
+2025-08-21T22:07:12.306075 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:12.306171 - INFO - JOB: Software Quality Engineer - Payment Solutions at Elo Touch Solutions
+2025-08-21T22:07:12.306254 - INFO - RATING: 8/10
+2025-08-21T22:07:12.306337 - INFO - EXPLANATION: Technical Skills Match (8): Shehab has strong programming skills in Java, Python, and JavaScript, wh...
+2025-08-21T22:07:12.306423 - INFO - TOKENS: 151 explanation | 958 total
+2025-08-21T22:07:12.306528 - INFO - COST: $0.0001 | CUMULATIVE: $0.0577
+2025-08-21T22:07:12.306606 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:12.306729 - INFO - 🔗 Application Type: Company Site (http://elotouch.com/careers...)
+2025-08-21T22:07:12.713838 - INFO - ✅ Added job ID 4288920541 to Notion
+2025-08-21T22:07:14.842502 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":2,"explanation":"The candidate lacks relevant manufacturing engineering experience and skills specific to the automotive industry, which are critical for the role at Ford. Technical skills a
+2025-08-21T22:07:14.842645 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:07:19.063303 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:19.063453 - INFO - JOB: Manufacturing Engineer at Ford Motor Company
+2025-08-21T22:07:19.063566 - INFO - RATING: 3/10
+2025-08-21T22:07:19.063674 - INFO - EXPLANATION: The candidate, Shehab Ahamed, has a strong software engineering background, demonstrated by experien...
+2025-08-21T22:07:19.063784 - INFO - TOKENS: 198 explanation | 1921 total
+2025-08-21T22:07:19.063904 - INFO - COST: $0.0052 | CUMULATIVE: $0.0629
+2025-08-21T22:07:19.064022 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:19.064185 - INFO - 🔗 Application Type: Company Site (https://efds.fa.em5.oraclecloud.com/hcmUI/Candidat...)
+2025-08-21T22:07:22.002837 - INFO - ✅ Added job ID 4277218966 to Notion
+2025-08-21T22:07:25.512661 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed demonstrates a strong technical skills match with relevant programming languages (Python, Java, JavaScript) and frameworks (Node.js, React) aligned with automa
+2025-08-21T22:07:25.516001 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:25.516109 - INFO - JOB: Automation Engineer at DataForce
+2025-08-21T22:07:25.516196 - INFO - RATING: 8/10
+2025-08-21T22:07:25.516276 - INFO - EXPLANATION: Shehab Ahamed demonstrates a strong technical skills match with relevant programming languages (Pyth...
+2025-08-21T22:07:25.516355 - INFO - TOKENS: 151 explanation | 952 total
+2025-08-21T22:07:25.516438 - INFO - COST: $0.0001 | CUMULATIVE: $0.0631
+2025-08-21T22:07:25.516523 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:25.516721 - INFO - 🔗 Application Type: Company Site (https://dataforce.recruitee.com/o/automation-engin...)
+2025-08-21T22:07:26.126632 - INFO - ✅ Added job ID 4288107753 to Notion
+2025-08-21T22:07:29.713251 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a strong technical skills match with relevant programming languages such as Python and Java, which are crucial for a Test Engineer role. His experien
+2025-08-21T22:07:29.713508 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:07:33.373277 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:33.373321 - INFO - JOB: Test Engineer I at Honeywell
+2025-08-21T22:07:33.373348 - INFO - RATING: 8/10
+2025-08-21T22:07:33.373373 - INFO - EXPLANATION: Shehab Ahamed possesses relevant technical skills such as Java, Python, Selenium, and CI/CD tools, w...
+2025-08-21T22:07:33.373399 - INFO - TOKENS: 187 explanation | 1962 total
+2025-08-21T22:07:33.373434 - INFO - COST: $0.0051 | CUMULATIVE: $0.0682
+2025-08-21T22:07:33.373458 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:33.373538 - INFO - 🔗 Application Type: Company Site (https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/Candid...)
+2025-08-21T22:07:35.756267 - INFO - ✅ Added job ID 4277406071 to Notion
+2025-08-21T22:07:38.577460 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Technical Skills Match: 9 - Candidate has strong programming skills in Java, Python, and JavaScript, essential for the role. Experience with Selenium for test automation ali
+2025-08-21T22:07:38.577534 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:07:41.793754 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:41.793844 - INFO - JOB: Software Engineer - Test Automation & Web Development at Shield Consulting Solutions, Inc.
+2025-08-21T22:07:41.793919 - INFO - RATING: 8/10
+2025-08-21T22:07:41.793988 - INFO - EXPLANATION: Shehab Ahamed has strong technical skills relevant to the role, with proficiency in JavaScript, Pyth...
+2025-08-21T22:07:41.794057 - INFO - TOKENS: 158 explanation | 1938 total
+2025-08-21T22:07:41.794160 - INFO - COST: $0.0051 | CUMULATIVE: $0.0733
+2025-08-21T22:07:41.794233 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:41.794342 - INFO - 🔗 Application Type: Company Site (https://theapplicantmanager.com/jobs?pos=sh4935...)
+2025-08-21T22:07:43.432529 - INFO - ✅ Added job ID 4288716999 to Notion
+2025-08-21T22:07:46.047402 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":2,"explanation":"The candidate has a strong technical background primarily in software engineering, with skills in Java, Python, JavaScript, and frameworks like React and Spring Boot. Howeve
+2025-08-21T22:07:46.049521 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:46.049707 - INFO - JOB: Digital Marketing Coordinator at Monique Morin Design
+2025-08-21T22:07:46.050115 - INFO - RATING: 2/10
+2025-08-21T22:07:46.050254 - INFO - EXPLANATION: The candidate has a strong technical background primarily in software engineering, with skills in Ja...
+2025-08-21T22:07:46.050807 - INFO - TOKENS: 132 explanation | 941 total
+2025-08-21T22:07:46.050952 - INFO - COST: $0.0001 | CUMULATIVE: $0.0734
+2025-08-21T22:07:46.051112 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:46.051201 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:07:46.606709 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:07:47.769584 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:07:50.313074 - ERROR - ❌ Failed to add job ID 4287098580 to Notion after 3 attempts
+2025-08-21T22:07:50.316150 - ERROR - ❌ Error details: APIResponseError: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:07:50.316355 - ERROR - ❌ Database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-08-21T22:07:53.505888 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate has strong technical skills in programming languages (Java, Python, JavaScript, TypeScript) and frameworks (React Native, Node.js, Spring Boot), but these do n
+2025-08-21T22:07:53.508841 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:53.508970 - INFO - JOB: People Operations Specialist at Motive
+2025-08-21T22:07:53.509044 - INFO - RATING: 3/10
+2025-08-21T22:07:53.509122 - INFO - EXPLANATION: The candidate has strong technical skills in programming languages (Java, Python, JavaScript, TypeSc...
+2025-08-21T22:07:53.509182 - INFO - TOKENS: 149 explanation | 953 total
+2025-08-21T22:07:53.509244 - INFO - COST: $0.0001 | CUMULATIVE: $0.0735
+2025-08-21T22:07:53.509299 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:53.509423 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/gomotive/jobs/804...)
+2025-08-21T22:07:54.010105 - INFO - ✅ Added job ID 4286759982 to Notion
+2025-08-21T22:07:57.462460 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate has a strong technical background in programming languages (Java, Python, JavaScript, TypeScript) and frameworks (React Native, Node.js, Spring Boot, Django), 
+2025-08-21T22:07:57.465685 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:57.465808 - INFO - JOB: AI‑First Data Scientist at CSC Generation
+2025-08-21T22:07:57.465901 - INFO - RATING: 3/10
+2025-08-21T22:07:57.465987 - INFO - EXPLANATION: The candidate has a strong technical background in programming languages (Java, Python, JavaScript, ...
+2025-08-21T22:07:57.466059 - INFO - TOKENS: 183 explanation | 987 total
+2025-08-21T22:07:57.466155 - INFO - COST: $0.0001 | CUMULATIVE: $0.0737
+2025-08-21T22:07:57.466226 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:07:57.466317 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:07:58.178938 - INFO - ✅ Added job ID 4288425609 to Notion
+2025-08-21T22:08:00.856606 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed's technical skills align well with the Automation Engineer role, particularly in Python and automation tools like Selenium. His experience developing automated
+2025-08-21T22:08:00.856781 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:08:04.899271 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:04.899415 - INFO - JOB: Automation Engineer at DataForce
+2025-08-21T22:08:04.899536 - INFO - RATING: 8/10
+2025-08-21T22:08:04.899645 - INFO - EXPLANATION: Shehab Ahamed possesses relevant technical skills for the Automation Engineer role, including Python...
+2025-08-21T22:08:04.899761 - INFO - TOKENS: 162 explanation | 1910 total
+2025-08-21T22:08:04.899893 - INFO - COST: $0.0050 | CUMULATIVE: $0.0787
+2025-08-21T22:08:04.899999 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:04.900200 - INFO - 🔗 Application Type: Company Site (https://dataforce.recruitee.com/o/automation-engin...)
+2025-08-21T22:08:05.962530 - INFO - ✅ Added job ID 4288109061 to Notion
+2025-08-21T22:08:08.931725 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":7,"explanation":"Technical Skills Match (8/10): Shehab has strong programming skills in Python and JavaScript, which are relevant for an Automation Engineer role. Proficiency in tools like S
+2025-08-21T22:08:08.931964 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:08:11.868673 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:11.868760 - INFO - JOB: Automation Engineer at DataForce
+2025-08-21T22:08:11.868885 - INFO - RATING: 8/10
+2025-08-21T22:08:11.868956 - INFO - EXPLANATION: Shehab Ahamed has a strong technical skills match with the requirements for an Automation Engineer. ...
+2025-08-21T22:08:11.869024 - INFO - TOKENS: 129 explanation | 1912 total
+2025-08-21T22:08:11.869099 - INFO - COST: $0.0048 | CUMULATIVE: $0.0835
+2025-08-21T22:08:11.869167 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:11.869291 - INFO - 🔗 Application Type: Company Site (https://dataforce.recruitee.com/o/automation-engin...)
+2025-08-21T22:08:16.838535 - INFO - ✅ Added job ID 4288097491 to Notion
+2025-08-21T22:08:20.401961 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a strong technical skills match for the Software Engineer in Test I role, with proficiency in Java, Python, and testing frameworks like Selenium. His
+2025-08-21T22:08:20.402145 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:08:24.709392 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:24.709525 - INFO - JOB: Software Engineer in Test I at Mercury Insurance
+2025-08-21T22:08:24.709593 - INFO - RATING: 8/10
+2025-08-21T22:08:24.709656 - INFO - EXPLANATION: Shehab Ahamed has strong technical skills relevant to the Software Engineer in Test I position. He h...
+2025-08-21T22:08:24.709716 - INFO - TOKENS: 188 explanation | 1955 total
+2025-08-21T22:08:24.709778 - INFO - COST: $0.0051 | CUMULATIVE: $0.0886
+2025-08-21T22:08:24.709835 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:24.710003 - INFO - 🔗 Application Type: iCIMS (https://careers-mercuryinsurance.icims.com/jobs/56...)
+2025-08-21T22:08:25.111105 - INFO - ✅ Added job ID 4289369451 to Notion
+2025-08-21T22:08:27.979430 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate, Shehab Ahamed, has a strong technical background with experience in programming languages such as Java, Python, JavaScript, and TypeScript, as well as framewo
+2025-08-21T22:08:27.980121 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:27.980182 - INFO - JOB: Instructional Designer at Vasion
+2025-08-21T22:08:27.980246 - INFO - RATING: 3/10
+2025-08-21T22:08:27.980296 - INFO - EXPLANATION: The candidate, Shehab Ahamed, has a strong technical background with experience in programming langu...
+2025-08-21T22:08:27.980343 - INFO - TOKENS: 163 explanation | 969 total
+2025-08-21T22:08:27.980393 - INFO - COST: $0.0001 | CUMULATIVE: $0.0887
+2025-08-21T22:08:27.980438 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:27.980495 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:08:29.734801 - INFO - ✅ Added job ID 4285887779 to Notion
+2025-08-21T22:08:33.505190 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate exhibits strong programming skills in Java, Python, and C/C++, which are relevant for robotics; however, there is no direct experience listed in robotics or re
+2025-08-21T22:08:33.505378 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:08:36.896214 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:36.896409 - INFO - JOB: Robotics Engineer at Black Sand Solutions
+2025-08-21T22:08:36.896563 - INFO - RATING: 5/10
+2025-08-21T22:08:36.896666 - INFO - EXPLANATION: Technical Skills Match (40%): Shehab has programming experience in Python, Java, and C/C++ which are...
+2025-08-21T22:08:36.896787 - INFO - TOKENS: 173 explanation | 1944 total
+2025-08-21T22:08:36.896903 - INFO - COST: $0.0051 | CUMULATIVE: $0.0938
+2025-08-21T22:08:36.897005 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:36.897139 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:08:37.142894 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:08:38.290985 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:08:40.467498 - ERROR - ❌ Failed to add job ID 4287565486 to Notion after 3 attempts
+2025-08-21T22:08:40.467684 - ERROR - ❌ Error details: APIResponseError: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:08:40.467812 - ERROR - ❌ Database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-08-21T22:08:44.568610 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a strong technical skill set relevant to the Automation Engineer role, including Python and experience with automation tools like Selenium, which ali
+2025-08-21T22:08:44.568798 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:08:48.257472 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:48.257638 - INFO - JOB: Automation Engineer at DataForce
+2025-08-21T22:08:48.257754 - INFO - RATING: 8/10
+2025-08-21T22:08:48.257866 - INFO - EXPLANATION: Technical Skills Match (40%): Shehab has a robust technical skill set relevant to an Automation Engi...
+2025-08-21T22:08:48.257971 - INFO - TOKENS: 173 explanation | 1953 total
+2025-08-21T22:08:48.258082 - INFO - COST: $0.0051 | CUMULATIVE: $0.0989
+2025-08-21T22:08:48.258184 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:48.258394 - INFO - 🔗 Application Type: Company Site (https://dataforce.recruitee.com/o/automation-engin...)
+2025-08-21T22:08:48.837939 - INFO - ✅ Added job ID 4288108023 to Notion
+2025-08-21T22:08:52.002671 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":7,"explanation":"Shehab has strong technical skills relevant to the automation and security engineering role, particularly with Python and Docker, which align well with potential automation 
+2025-08-21T22:08:52.004752 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:52.004828 - INFO - JOB: Intermediate Automation and Security Engineer at PointClickCare
+2025-08-21T22:08:52.004870 - INFO - RATING: 7/10
+2025-08-21T22:08:52.004908 - INFO - EXPLANATION: Shehab has strong technical skills relevant to the automation and security engineering role, particu...
+2025-08-21T22:08:52.004945 - INFO - TOKENS: 160 explanation | 964 total
+2025-08-21T22:08:52.004987 - INFO - COST: $0.0001 | CUMULATIVE: $0.0990
+2025-08-21T22:08:52.005028 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:08:52.005108 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:09:05.655044 - INFO - ✅ Added job ID 4262160018 to Notion
+2025-08-21T22:09:09.145322 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate possesses strong technical skills in programming languages (Java, Python, JavaScript) and frameworks (React, Spring Boot), which align with data reporting tool
+2025-08-21T22:09:09.147292 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:09.147392 - INFO - JOB: Operations Data Reporting Analyst at Kelly Professional & Industrial
+2025-08-21T22:09:09.147480 - INFO - RATING: 3/10
+2025-08-21T22:09:09.147565 - INFO - EXPLANATION: The candidate possesses strong technical skills in programming languages (Java, Python, JavaScript) ...
+2025-08-21T22:09:09.147777 - INFO - TOKENS: 142 explanation | 949 total
+2025-08-21T22:09:09.148242 - INFO - COST: $0.0001 | CUMULATIVE: $0.0991
+2025-08-21T22:09:09.148373 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:09.148508 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:09:10.884008 - INFO - ✅ Added job ID 4288299454 to Notion
+2025-08-21T22:09:13.852888 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"The candidate demonstrates a strong technical skills match with relevant programming languages (Python, JavaScript) and frameworks (React, Django) that are likely applicable
+2025-08-21T22:09:13.853108 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:09:17.545932 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:17.546024 - INFO - JOB: Document Automation Technician (EMS) at Defense Logistics Agency
+2025-08-21T22:09:17.546120 - INFO - RATING: 8/10
+2025-08-21T22:09:17.546228 - INFO - EXPLANATION: Shehab Ahamed has relevant technical skills for the Document Automation Technician role, including P...
+2025-08-21T22:09:17.546311 - INFO - TOKENS: 149 explanation | 1919 total
+2025-08-21T22:09:17.546391 - INFO - COST: $0.0050 | CUMULATIVE: $0.1041
+2025-08-21T22:09:17.546464 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:17.547101 - INFO - 🔗 Application Type: Company Site (https://www.wayup.com/i-Government-Relations-j-Doc...)
+2025-08-21T22:09:18.363206 - INFO - ✅ Added job ID 4289707694 to Notion
+2025-08-21T22:09:21.840569 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"The candidate possesses a strong technical skills match with relevant programming languages (Python, Java), frameworks (React, Node.js), and tools (Docker, Git) necessary fo
+2025-08-21T22:09:21.840648 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:09:26.468037 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:26.468103 - INFO - JOB: Automation Engineer at Goodwin
+2025-08-21T22:09:26.468140 - INFO - RATING: 8/10
+2025-08-21T22:09:26.468172 - INFO - EXPLANATION: Shehab Ahamed's technical skills closely match the requirements for an Automation Engineer role, wit...
+2025-08-21T22:09:26.468204 - INFO - TOKENS: 170 explanation | 1921 total
+2025-08-21T22:09:26.468238 - INFO - COST: $0.0050 | CUMULATIVE: $0.1091
+2025-08-21T22:09:26.468267 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:26.468341 - INFO - 🔗 Application Type: Workday (https://goodwinprocter.wd5.myworkdayjobs.com/Exter...)
+2025-08-21T22:09:30.037837 - INFO - ✅ Added job ID 4278504937 to Notion
+2025-08-21T22:09:33.110505 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":5,"explanation":"The candidate has strong technical skills with programming languages (Java, Python, JavaScript, TypeScript) and frameworks (Django, React Native, Spring Boot) that could be 
+2025-08-21T22:09:33.110964 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:09:37.528386 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:37.528491 - INFO - JOB: Data Scientist, Reuters at Thomson Reuters
+2025-08-21T22:09:37.528558 - INFO - RATING: 5/10
+2025-08-21T22:09:37.528619 - INFO - EXPLANATION: Technical Skills Match (40%): Shehab Ahamed has strong programming skills in Python, Java, and JavaS...
+2025-08-21T22:09:37.528682 - INFO - TOKENS: 229 explanation | 2013 total
+2025-08-21T22:09:37.528768 - INFO - COST: $0.0054 | CUMULATIVE: $0.1145
+2025-08-21T22:09:37.528826 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:37.528976 - INFO - 🔗 Application Type: Company Site (https://careers.thomsonreuters.com/us/en/job/THTTR...)
+2025-08-21T22:09:38.030760 - INFO - ✅ Added job ID 4288933639 to Notion
+2025-08-21T22:09:41.308966 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":4,"explanation":"The candidate possesses a strong technical background, particularly in programming languages like Python and Java, which are valuable for a SOC Analyst role. However, there 
+2025-08-21T22:09:41.310439 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:09:44.277155 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:44.277308 - INFO - JOB: SOC Analyst - Remote at Strada
+2025-08-21T22:09:44.277402 - INFO - RATING: 5/10
+2025-08-21T22:09:44.277489 - INFO - EXPLANATION: Shehab Ahamed demonstrates strong technical skills in programming languages like Python and Java, an...
+2025-08-21T22:09:44.277571 - INFO - TOKENS: 149 explanation | 1919 total
+2025-08-21T22:09:44.277682 - INFO - COST: $0.0050 | CUMULATIVE: $0.1195
+2025-08-21T22:09:44.277764 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:44.277948 - INFO - 🔗 Application Type: Workday (https://strada.wd12.myworkdayjobs.com/Careers/job/...)
+2025-08-21T22:09:44.764852 - INFO - ✅ Added job ID 4288112091 to Notion
+2025-08-21T22:09:47.324634 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate's technical skills primarily focus on software engineering and development, with languages like Java, Python, and frameworks such as React and Spring Boot, whi
+2025-08-21T22:09:47.326043 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:47.326155 - INFO - JOB: FP&A Analyst at Semgrep
+2025-08-21T22:09:47.326258 - INFO - RATING: 3/10
+2025-08-21T22:09:47.326350 - INFO - EXPLANATION: The candidate's technical skills primarily focus on software engineering and development, with langu...
+2025-08-21T22:09:47.326448 - INFO - TOKENS: 121 explanation | 926 total
+2025-08-21T22:09:47.326542 - INFO - COST: $0.0001 | CUMULATIVE: $0.1196
+2025-08-21T22:09:47.326626 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:47.326739 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/semgrep/jobs/4801...)
+2025-08-21T22:09:47.748505 - INFO - ✅ Added job ID 4273778042 to Notion
+2025-08-21T22:09:50.561256 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate possesses strong technical skills primarily in programming languages (Java, Python, JavaScript, TypeScript) and frameworks (React, Spring Boot), which are not 
+2025-08-21T22:09:50.561801 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:09:54.104880 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:54.105039 - INFO - JOB: UI UX Designer (Remote) at Files.com
+2025-08-21T22:09:54.105127 - INFO - RATING: 4/10
+2025-08-21T22:09:54.105205 - INFO - EXPLANATION: Technical Skills Match (40%): The candidate's skills are primarily in software development (Java, Py...
+2025-08-21T22:09:54.105278 - INFO - TOKENS: 154 explanation | 1927 total
+2025-08-21T22:09:54.105345 - INFO - COST: $0.0050 | CUMULATIVE: $0.1246
+2025-08-21T22:09:54.105403 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:54.105520 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:09:54.576004 - INFO - ✅ Added job ID 4288470938 to Notion
+2025-08-21T22:09:57.585524 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate possesses a strong technical skill set, particularly in programming languages (Java, Python, JavaScript, TypeScript) and relevant frameworks (Spring Boot, Reac
+2025-08-21T22:09:57.586822 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:57.586922 - INFO - JOB: Programming Controls Engineer at VaCom Technologies
+2025-08-21T22:09:57.586998 - INFO - RATING: 3/10
+2025-08-21T22:09:57.587068 - INFO - EXPLANATION: The candidate possesses a strong technical skill set, particularly in programming languages (Java, P...
+2025-08-21T22:09:57.587137 - INFO - TOKENS: 160 explanation | 968 total
+2025-08-21T22:09:57.587230 - INFO - COST: $0.0001 | CUMULATIVE: $0.1247
+2025-08-21T22:09:57.587298 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:09:57.587401 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:09:59.460521 - INFO - ✅ Added job ID 4227686221 to Notion
+2025-08-21T22:10:02.094380 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":7,"explanation":"Technical Skills Match (8/10): Candidate has a strong programming background in Java, Python, and JavaScript, which are relevant for application support. Experience with too
+2025-08-21T22:10:02.095341 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:02.095418 - INFO - JOB: Application Support Analyst at StarCompliance
+2025-08-21T22:10:02.095483 - INFO - RATING: 7/10
+2025-08-21T22:10:02.095541 - INFO - EXPLANATION: Technical Skills Match (8/10): Candidate has a strong programming background in Java, Python, and Ja...
+2025-08-21T22:10:02.095597 - INFO - TOKENS: 161 explanation | 962 total
+2025-08-21T22:10:02.095657 - INFO - COST: $0.0001 | CUMULATIVE: $0.1249
+2025-08-21T22:10:02.095710 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:02.095786 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:10:04.343794 - INFO - ✅ Added job ID 4288228418 to Notion
+2025-08-21T22:10:07.819282 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed demonstrates strong technical skills aligned with the role's requirements, particularly in Java, Python, and JavaScript, scoring 8/10 in Technical Skills Match
+2025-08-21T22:10:07.820953 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:07.820992 - INFO - JOB: Business Analyst & Developer at EFG Companies
+2025-08-21T22:10:07.821017 - INFO - RATING: 8/10
+2025-08-21T22:10:07.821039 - INFO - EXPLANATION: Shehab Ahamed demonstrates strong technical skills aligned with the role's requirements, particularl...
+2025-08-21T22:10:07.821059 - INFO - TOKENS: 142 explanation | 950 total
+2025-08-21T22:10:07.821084 - INFO - COST: $0.0001 | CUMULATIVE: $0.1250
+2025-08-21T22:10:07.821104 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:07.821134 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:10:08.126015 - INFO - ✅ Added job ID 4288399221 to Notion
+2025-08-21T22:10:12.168649 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":7,"explanation":"Technical Skills Match (7/10): Shehab has a strong foundation in programming languages (Java, Python, JavaScript, TypeScript) and relevant frameworks (React, Spring Boot, Dj
+2025-08-21T22:10:12.170767 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:12.170841 - INFO - JOB: Quality Engineer at CVS Health
+2025-08-21T22:10:12.170892 - INFO - RATING: 7/10
+2025-08-21T22:10:12.170940 - INFO - EXPLANATION: Technical Skills Match (7/10): Shehab has a strong foundation in programming languages (Java, Python...
+2025-08-21T22:10:12.170986 - INFO - TOKENS: 195 explanation | 999 total
+2025-08-21T22:10:12.171043 - INFO - COST: $0.0001 | CUMULATIVE: $0.1252
+2025-08-21T22:10:12.171087 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:12.171246 - INFO - 🔗 Application Type: Company Site (https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0692...)
+2025-08-21T22:10:12.836042 - INFO - ✅ Added job ID 4289227572 to Notion
+2025-08-21T22:10:14.897063 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":4,"explanation":"The candidate exhibits strong technical skills in programming languages (Java, Python, JavaScript) and frameworks (React, Spring Boot) relevant to software development but l
+2025-08-21T22:10:14.897247 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:10:18.875936 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:18.875989 - INFO - JOB: Junior Compliance Analyst at Capco
+2025-08-21T22:10:18.876014 - INFO - RATING: 4/10
+2025-08-21T22:10:18.876037 - INFO - EXPLANATION: The candidate's technical skills do not align strongly with the requirements for a Junior Compliance...
+2025-08-21T22:10:18.876058 - INFO - TOKENS: 167 explanation | 1904 total
+2025-08-21T22:10:18.876081 - INFO - COST: $0.0050 | CUMULATIVE: $0.1302
+2025-08-21T22:10:18.876101 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:18.876147 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/capco/jobs/714377...)
+2025-08-21T22:10:19.207605 - INFO - ✅ Added job ID 4289336954 to Notion
+2025-08-21T22:10:21.846740 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":2,"explanation":"The candidate has strong technical skills in programming languages (Java, Python, JavaScript, TypeScript) and frameworks (React Native, Spring Boot), but these do not align 
+2025-08-21T22:10:21.848210 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:21.848333 - INFO - JOB: Demand Generation Specialist at SureCost
+2025-08-21T22:10:21.848424 - INFO - RATING: 2/10
+2025-08-21T22:10:21.848503 - INFO - EXPLANATION: The candidate has strong technical skills in programming languages (Java, Python, JavaScript, TypeSc...
+2025-08-21T22:10:21.848582 - INFO - TOKENS: 118 explanation | 926 total
+2025-08-21T22:10:21.848659 - INFO - COST: $0.0001 | CUMULATIVE: $0.1304
+2025-08-21T22:10:21.848728 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:21.848813 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:10:23.173845 - INFO - ✅ Added job ID 4288496363 to Notion
+2025-08-21T22:10:25.896022 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate possesses a strong technical skill set primarily in software engineering, focusing on programming languages such as Java, Python, and JavaScript, and framework
+2025-08-21T22:10:25.898112 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:25.898206 - INFO - JOB: Data Analyst at Andover Properties
+2025-08-21T22:10:25.898278 - INFO - RATING: 3/10
+2025-08-21T22:10:25.898346 - INFO - EXPLANATION: The candidate possesses a strong technical skill set primarily in software engineering, focusing on ...
+2025-08-21T22:10:25.898405 - INFO - TOKENS: 134 explanation | 938 total
+2025-08-21T22:10:25.898467 - INFO - COST: $0.0001 | CUMULATIVE: $0.1305
+2025-08-21T22:10:25.898523 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:25.898601 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:10:26.039333 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:10:27.340282 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:10:29.486896 - ERROR - ❌ Failed to add job ID 4284371542 to Notion after 3 attempts
+2025-08-21T22:10:29.487572 - ERROR - ❌ Error details: APIResponseError: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21T22:10:29.487709 - ERROR - ❌ Database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-08-21T22:10:32.836754 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a solid technical skills match with relevant experience for the Implementation Specialist role. He has proficiency in Java, Python, JavaScript, and f
+2025-08-21T22:10:32.836894 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:10:36.803964 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:36.804464 - INFO - JOB: Implementation Specialist at Vellox Group
+2025-08-21T22:10:36.804556 - INFO - RATING: 8/10
+2025-08-21T22:10:36.804630 - INFO - EXPLANATION: Shehab Ahamed possesses a robust set of technical skills that align well with the Implementation Spe...
+2025-08-21T22:10:36.804697 - INFO - TOKENS: 208 explanation | 1971 total
+2025-08-21T22:10:36.804759 - INFO - COST: $0.0052 | CUMULATIVE: $0.1357
+2025-08-21T22:10:36.804819 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:36.804941 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:10:38.494682 - INFO - ✅ Added job ID 4288082725 to Notion
+2025-08-21T22:10:41.822187 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed demonstrates a strong technical skills match, particularly in Python and automation tools like Selenium, relevant for the Automation Engineer role (8/10). His 
+2025-08-21T22:10:41.823429 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:10:46.942815 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:46.943098 - INFO - JOB: Automation Engineer at DataForce
+2025-08-21T22:10:46.943200 - INFO - RATING: 8/10
+2025-08-21T22:10:46.943286 - INFO - EXPLANATION: Shehab Ahamed's technical skills align well with the Automation Engineer role, as he has experience ...
+2025-08-21T22:10:46.943370 - INFO - TOKENS: 165 explanation | 1949 total
+2025-08-21T22:10:46.943465 - INFO - COST: $0.0050 | CUMULATIVE: $0.1408
+2025-08-21T22:10:46.943752 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:46.944109 - INFO - 🔗 Application Type: Company Site (https://dataforce.recruitee.com/o/automation-engin...)
+2025-08-21T22:10:49.602305 - INFO - ✅ Added job ID 4288102609 to Notion
+2025-08-21T22:10:52.782541 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a strong technical skill set relevant to the Document Automation Procurement Specialist role, particularly in Python, which is crucial for automation
+2025-08-21T22:10:52.782806 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:10:55.517287 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:55.517339 - INFO - JOB: Document Automation Procurement Specialist at Defense Logistics Agency
+2025-08-21T22:10:55.517368 - INFO - RATING: 7/10
+2025-08-21T22:10:55.517394 - INFO - EXPLANATION: Shehab Ahamed has relevant technical skills like Python, Java, and JavaScript, which are commonly us...
+2025-08-21T22:10:55.517420 - INFO - TOKENS: 121 explanation | 1883 total
+2025-08-21T22:10:55.517449 - INFO - COST: $0.0048 | CUMULATIVE: $0.1456
+2025-08-21T22:10:55.517475 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:10:55.517834 - INFO - 🔗 Application Type: Company Site (https://www.wayup.com/i-Government-Relations-j-Doc...)
+2025-08-21T22:10:55.941993 - INFO - ✅ Added job ID 4289171558 to Notion
+2025-08-21T22:10:59.636816 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":4,"explanation":"The candidate possesses a strong technical skill set primarily in software development with proficiency in languages such as Python, Java, and JavaScript, which does not ali
+2025-08-21T22:10:59.637051 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:11:02.302969 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:11:02.303089 - INFO - JOB: Test and Balance Technician at MacDonald-Miller Facility Solutions
+2025-08-21T22:11:02.303175 - INFO - RATING: 2/10
+2025-08-21T22:11:02.303250 - INFO - EXPLANATION: Shehab Ahamed's resume indicates a strong background in software development and integration, with e...
+2025-08-21T22:11:02.303327 - INFO - TOKENS: 157 explanation | 1943 total
+2025-08-21T22:11:02.303410 - INFO - COST: $0.0050 | CUMULATIVE: $0.1506
+2025-08-21T22:11:02.303479 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:11:02.303567 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21T22:11:02.812337 - INFO - ✅ Added job ID 4249513595 to Notion
+2025-08-21T22:11:05.371228 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate has a strong technical background in software engineering but lacks direct experience in financial analysis, which is essential for the SiriusXM role. The prim
+2025-08-21T22:11:05.371499 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:11:09.596876 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:11:09.597020 - INFO - JOB: Financial Analyst at SiriusXM
+2025-08-21T22:11:09.597104 - INFO - RATING: 3/10
+2025-08-21T22:11:09.597175 - INFO - EXPLANATION: Shehab Ahamed has a strong technical background in software development, focusing on programming lan...
+2025-08-21T22:11:09.597247 - INFO - TOKENS: 172 explanation | 1920 total
+2025-08-21T22:11:09.597332 - INFO - COST: $0.0051 | CUMULATIVE: $0.1557
+2025-08-21T22:11:09.597399 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:11:09.597516 - INFO - 🔗 Application Type: Company Site (https://careers.siriusxm.com/careers/jobs/16738?la...)
+2025-08-21T22:11:10.055841 - INFO - ✅ Added job ID 4270127009 to Notion
+2025-08-21T22:11:14.176796 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed demonstrates a strong technical skills match, particularly with programming languages such as Java, Python, and JavaScript, which align well with the coding re
+2025-08-21T22:11:14.177104 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21T22:11:16.737296 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:11:16.737429 - INFO - JOB: Remote Coding Specialists, Observations with I&I and OPS at LexiCode
+2025-08-21T22:11:16.737518 - INFO - RATING: 7/10
+2025-08-21T22:11:16.737606 - INFO - EXPLANATION: The candidate has a strong technical skills match with proficiency in Java, Python, JavaScript, and ...
+2025-08-21T22:11:16.737702 - INFO - TOKENS: 124 explanation | 1942 total
+2025-08-21T22:11:16.737799 - INFO - COST: $0.0049 | CUMULATIVE: $0.1605
+2025-08-21T22:11:16.737888 - INFO - ══════════════════════════════════════════════════
+2025-08-21T22:11:16.738022 - INFO - 🔗 Application Type: Company Site (https://talento.exela.global/#/applyJob/LEXICODE/3...)
+2025-08-21T22:11:17.159804 - INFO - ✅ Added job ID 4286303252 to Notion
+2025-08-21T22:11:17.166102 - INFO - ============================================================
+2025-08-21T22:11:17.166232 - INFO - 📊 FINAL SUMMARY
+2025-08-21T22:11:17.166317 - INFO - ============================================================
+2025-08-21T22:11:17.166395 - INFO - ✅ Jobs Processed: 58
+2025-08-21T22:11:17.166469 - INFO - ⏩ Skipped (Cached): 0
+2025-08-21T22:11:17.166550 - INFO - ❌ Failed: 5
+2025-08-21T22:11:17.166630 - INFO - 🤖 Backup Model Calls: 31
+2025-08-21T22:11:17.166712 - INFO - 🎯 Total Tokens: 90,338
+2025-08-21T22:11:17.166791 - INFO - 💰 Total Cost: $0.16
+2025-08-21T22:11:17.166858 - INFO - ============================================================
+ {"rating":4,"explanation":"The candidate exhibits strong technical skills in programming languages (Java, Python, JavaScript) and frameworks (React, Spring Boot) relevant to software development but l
+2025-08-21 22:10:14,897 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21 22:10:18,870 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:18,875 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:18,875 - INFO - JOB: Junior Compliance Analyst at Capco
+2025-08-21 22:10:18,875 - INFO - RATING: 4/10
+2025-08-21 22:10:18,876 - INFO - EXPLANATION: The candidate's technical skills do not align strongly with the requirements for a Junior Compliance...
+2025-08-21 22:10:18,876 - INFO - TOKENS: 167 explanation | 1904 total
+2025-08-21 22:10:18,876 - INFO - COST: $0.0050 | CUMULATIVE: $0.1302
+2025-08-21 22:10:18,876 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:18,876 - INFO - 🔗 Application Type: Greenhouse (https://job-boards.greenhouse.io/capco/jobs/714377...)
+2025-08-21 22:10:19,207 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-21 22:10:19,207 - INFO - ✅ Added job ID 4289336954 to Notion
+2025-08-21 22:10:21,845 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:21,846 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":2,"explanation":"The candidate has strong technical skills in programming languages (Java, Python, JavaScript, TypeScript) and frameworks (React Native, Spring Boot), but these do not align 
+2025-08-21 22:10:21,848 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:21,848 - INFO - JOB: Demand Generation Specialist at SureCost
+2025-08-21 22:10:21,848 - INFO - RATING: 2/10
+2025-08-21 22:10:21,848 - INFO - EXPLANATION: The candidate has strong technical skills in programming languages (Java, Python, JavaScript, TypeSc...
+2025-08-21 22:10:21,848 - INFO - TOKENS: 118 explanation | 926 total
+2025-08-21 22:10:21,848 - INFO - COST: $0.0001 | CUMULATIVE: $0.1304
+2025-08-21 22:10:21,848 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:21,848 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21 22:10:23,146 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-21 22:10:23,173 - INFO - ✅ Added job ID 4288496363 to Notion
+2025-08-21 22:10:25,893 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:25,895 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate possesses a strong technical skill set primarily in software engineering, focusing on programming languages such as Java, Python, and JavaScript, and framework
+2025-08-21 22:10:25,897 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:25,898 - INFO - JOB: Data Analyst at Andover Properties
+2025-08-21 22:10:25,898 - INFO - RATING: 3/10
+2025-08-21 22:10:25,898 - INFO - EXPLANATION: The candidate possesses a strong technical skill set primarily in software engineering, focusing on ...
+2025-08-21 22:10:25,898 - INFO - TOKENS: 134 explanation | 938 total
+2025-08-21 22:10:25,898 - INFO - COST: $0.0001 | CUMULATIVE: $0.1305
+2025-08-21 22:10:25,898 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:25,898 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21 22:10:26,036 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-08-21 22:10:26,039 - WARNING - Notion API attempt 1 failed, retrying in 1s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21 22:10:27,338 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-08-21 22:10:27,340 - WARNING - Notion API attempt 2 failed, retrying in 2s: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21 22:10:29,485 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 400 Bad Request"
+2025-08-21 22:10:29,486 - ERROR - ❌ Failed to add job ID 4284371542 to Notion after 3 attempts
+2025-08-21 22:10:29,487 - ERROR - ❌ Error details: APIResponseError: body failed validation. Fix one:
+body.properties.Seniority Level.select.id should be defined, instead was `undefined`.
+body.properties.Seniority Level.select.name should be populated, instead was `""`.
+2025-08-21 22:10:29,487 - ERROR - ❌ Database ID: 22e65879924e800fa0a5c8f0c256d8e9
+2025-08-21 22:10:32,832 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:32,836 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a solid technical skills match with relevant experience for the Implementation Specialist role. He has proficiency in Java, Python, JavaScript, and f
+2025-08-21 22:10:32,836 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21 22:10:36,794 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:36,803 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:36,804 - INFO - JOB: Implementation Specialist at Vellox Group
+2025-08-21 22:10:36,804 - INFO - RATING: 8/10
+2025-08-21 22:10:36,804 - INFO - EXPLANATION: Shehab Ahamed possesses a robust set of technical skills that align well with the Implementation Spe...
+2025-08-21 22:10:36,804 - INFO - TOKENS: 208 explanation | 1971 total
+2025-08-21 22:10:36,804 - INFO - COST: $0.0052 | CUMULATIVE: $0.1357
+2025-08-21 22:10:36,804 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:36,804 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21 22:10:38,491 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-21 22:10:38,494 - INFO - ✅ Added job ID 4288082725 to Notion
+2025-08-21 22:10:41,816 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:41,821 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed demonstrates a strong technical skills match, particularly in Python and automation tools like Selenium, relevant for the Automation Engineer role (8/10). His 
+2025-08-21 22:10:41,822 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21 22:10:46,936 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:46,942 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:46,943 - INFO - JOB: Automation Engineer at DataForce
+2025-08-21 22:10:46,943 - INFO - RATING: 8/10
+2025-08-21 22:10:46,943 - INFO - EXPLANATION: Shehab Ahamed's technical skills align well with the Automation Engineer role, as he has experience ...
+2025-08-21 22:10:46,943 - INFO - TOKENS: 165 explanation | 1949 total
+2025-08-21 22:10:46,943 - INFO - COST: $0.0050 | CUMULATIVE: $0.1408
+2025-08-21 22:10:46,943 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:46,943 - INFO - 🔗 Application Type: Company Site (https://dataforce.recruitee.com/o/automation-engin...)
+2025-08-21 22:10:49,600 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-21 22:10:49,602 - INFO - ✅ Added job ID 4288102609 to Notion
+2025-08-21 22:10:52,776 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:52,782 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed possesses a strong technical skill set relevant to the Document Automation Procurement Specialist role, particularly in Python, which is crucial for automation
+2025-08-21 22:10:52,782 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21 22:10:55,511 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:55,517 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:55,517 - INFO - JOB: Document Automation Procurement Specialist at Defense Logistics Agency
+2025-08-21 22:10:55,517 - INFO - RATING: 7/10
+2025-08-21 22:10:55,517 - INFO - EXPLANATION: Shehab Ahamed has relevant technical skills like Python, Java, and JavaScript, which are commonly us...
+2025-08-21 22:10:55,517 - INFO - TOKENS: 121 explanation | 1883 total
+2025-08-21 22:10:55,517 - INFO - COST: $0.0048 | CUMULATIVE: $0.1456
+2025-08-21 22:10:55,517 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:10:55,517 - INFO - 🔗 Application Type: Company Site (https://www.wayup.com/i-Government-Relations-j-Doc...)
+2025-08-21 22:10:55,940 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-21 22:10:55,941 - INFO - ✅ Added job ID 4289171558 to Notion
+2025-08-21 22:10:59,634 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:10:59,636 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":4,"explanation":"The candidate possesses a strong technical skill set primarily in software development with proficiency in languages such as Python, Java, and JavaScript, which does not ali
+2025-08-21 22:10:59,636 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21 22:11:02,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:11:02,302 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:11:02,303 - INFO - JOB: Test and Balance Technician at MacDonald-Miller Facility Solutions
+2025-08-21 22:11:02,303 - INFO - RATING: 2/10
+2025-08-21 22:11:02,303 - INFO - EXPLANATION: Shehab Ahamed's resume indicates a strong background in software development and integration, with e...
+2025-08-21 22:11:02,303 - INFO - TOKENS: 157 explanation | 1943 total
+2025-08-21 22:11:02,303 - INFO - COST: $0.0050 | CUMULATIVE: $0.1506
+2025-08-21 22:11:02,303 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:11:02,303 - INFO - 🔗 Application Type: Unknown (...)
+2025-08-21 22:11:02,810 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-21 22:11:02,812 - INFO - ✅ Added job ID 4249513595 to Notion
+2025-08-21 22:11:05,369 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:11:05,371 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":3,"explanation":"The candidate has a strong technical background in software engineering but lacks direct experience in financial analysis, which is essential for the SiriusXM role. The prim
+2025-08-21 22:11:05,371 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21 22:11:09,590 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:11:09,596 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:11:09,596 - INFO - JOB: Financial Analyst at SiriusXM
+2025-08-21 22:11:09,597 - INFO - RATING: 3/10
+2025-08-21 22:11:09,597 - INFO - EXPLANATION: Shehab Ahamed has a strong technical background in software development, focusing on programming lan...
+2025-08-21 22:11:09,597 - INFO - TOKENS: 172 explanation | 1920 total
+2025-08-21 22:11:09,597 - INFO - COST: $0.0051 | CUMULATIVE: $0.1557
+2025-08-21 22:11:09,597 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:11:09,597 - INFO - 🔗 Application Type: Company Site (https://careers.siriusxm.com/careers/jobs/16738?la...)
+2025-08-21 22:11:10,054 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-21 22:11:10,055 - INFO - ✅ Added job ID 4270127009 to Notion
+2025-08-21 22:11:14,174 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:11:14,176 - INFO - 📋 Raw OpenAI response (first 200 chars): {"rating":8,"explanation":"Shehab Ahamed demonstrates a strong technical skills match, particularly with programming languages such as Java, Python, and JavaScript, which align well with the coding re
+2025-08-21 22:11:14,176 - INFO - 🔁 Using backup model for higher quality evaluation
+2025-08-21 22:11:16,733 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 22:11:16,737 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:11:16,737 - INFO - JOB: Remote Coding Specialists, Observations with I&I and OPS at LexiCode
+2025-08-21 22:11:16,737 - INFO - RATING: 7/10
+2025-08-21 22:11:16,737 - INFO - EXPLANATION: The candidate has a strong technical skills match with proficiency in Java, Python, JavaScript, and ...
+2025-08-21 22:11:16,737 - INFO - TOKENS: 124 explanation | 1942 total
+2025-08-21 22:11:16,737 - INFO - COST: $0.0049 | CUMULATIVE: $0.1605
+2025-08-21 22:11:16,737 - INFO - ══════════════════════════════════════════════════
+2025-08-21 22:11:16,737 - INFO - 🔗 Application Type: Company Site (https://talento.exela.global/#/applyJob/LEXICODE/3...)
+2025-08-21 22:11:17,158 - INFO - HTTP Request: POST https://api.notion.com/v1/pages "HTTP/1.1 200 OK"
+2025-08-21 22:11:17,159 - INFO - ✅ Added job ID 4286303252 to Notion
+2025-08-21 22:11:17,165 - INFO - ============================================================
+2025-08-21 22:11:17,166 - INFO - 📊 FINAL SUMMARY
+2025-08-21 22:11:17,166 - INFO - ============================================================
+2025-08-21 22:11:17,166 - INFO - ✅ Jobs Processed: 58
+2025-08-21 22:11:17,166 - INFO - ⏩ Skipped (Cached): 0
+2025-08-21 22:11:17,166 - INFO - ❌ Failed: 5
+2025-08-21 22:11:17,166 - INFO - 🤖 Backup Model Calls: 31
+2025-08-21 22:11:17,166 - INFO - 🎯 Total Tokens: 90,338
+2025-08-21 22:11:17,166 - INFO - 💰 Total Cost: $0.16
+2025-08-21 22:11:17,166 - INFO - ============================================================

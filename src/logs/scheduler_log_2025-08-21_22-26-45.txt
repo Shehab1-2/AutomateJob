@@ -1,0 +1,32 @@
+[2025-08-21 22:26:45] ==================================================
+[2025-08-21 22:26:45] 🔄 STARTING AUTOMATED JOB PIPELINE (TEST MODE)
+[2025-08-21 22:26:45] ==================================================
+[2025-08-21 22:26:45] 🚀 Starting scraper (scraped/scrape_apify_jobs.py)...
+[2025-08-21 22:26:45]    -> Running scraper in TEST mode.
+[2025-08-21 22:26:45] ✅ scraper completed successfully
+[2025-08-21 22:26:45] 📄 Output: 🧪 Running in TEST mode. Skipping Apify API call.
+✅ Saved 2 dummy jobs to scraped/scraped/jobs_2025-08-21_22-26-45.json
+🎉 Test mode finished successfully.
+[2025-08-21 22:26:47] 🚀 Starting condenser (condensed/condense_jobs.py)...
+[2025-08-21 22:26:47] ✅ condenser completed successfully
+[2025-08-21 22:26:49] 🚀 Starting filter (filtered/filter_condensed_jobs.py)...
+[2025-08-21 22:26:56] ✅ filter completed successfully
+[2025-08-21 22:26:58] 🚀 Starting analyzer (analyze/analyze.py)...
+[2025-08-21 22:26:59] ❌ analyzer failed with return code 1
+[2025-08-21 22:26:59] 📄 Error: Traceback (most recent call last):
+  File "/Users/shehabahamed/linkedin-job-rater-py/src/analyze/analyze.py", line 15, in <module>
+    main()
+    ~~~~^^
+  File "/Users/shehabahamed/linkedin-job-rater-py/src/analyze/analyze.py", line 11, in main
+    evaluator = JobEvaluator()
+  File "/Users/shehabahamed/linkedin-job-rater-py/src/analyze/job_analyzer_lib/evaluator.py", line 21, in __init__
+    self.cache = self._load_cache()
+                 ~~~~~~~~~~~~~~~~^^
+  File "/Users/shehabahamed/linkedin-job-rater-py/src/analyze/job_analyzer_lib/evaluator.py", line 35, in _load_cache
+    if os.path.exists(Config.CACHE_FILE):
+                      ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'Config' has no attribute 'CACHE_FILE'. Did you mean: 'ACHE_FILE'?
+[2025-08-21 22:26:59] 🛑 Pipeline stopped at analyzer due to failure
+[2025-08-21 22:26:59] ==================================================
+[2025-08-21 22:26:59] ⚠️ PIPELINE PARTIALLY COMPLETED (3/4 steps)
+[2025-08-21 22:26:59] ==================================================

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "41673718131",
+    "postedAt": "2025-08-15",
+    "title": "Junior Data Analyst",
+    "company": "DummyCorp",
+    "location": "Boston, MA",
+    "companyEmployeesCount": null,
+    "link": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-dummycorp-5001002001",
+    "rating": null,
+    "explanation": "",
+    "jobDescription": "We are seeking an Entry Level Data Analyst to join our analytics team. Responsibilities include cleaning and preparing datasets, creating dashboards, and providing reporting support.",
+    "companyDescription": "",
+    "seniorityLevel": "Entry level",
+    "employmentType": "Full-time",
+    "jobFunction": "Data Analysis",
+    "industries": "Information Technology & Services",
+    "applicantsCount": "45",
+    "applyUrl": "https://example.com/apply/junior-data-analyst",
+    "type": ""
+  },
+  {
+    "id": "4283525513",
+    "postedAt": "2025-08-16",
+    "title": "Software Engineer Intern",
+    "company": "FakeTech",
+    "location": "Remote (US)",
+    "companyEmployeesCount": null,
+    "link": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-faketech-5001002002",
+    "rating": null,
+    "explanation": "",
+    "jobDescription": "Software Engineer Intern opportunity for students or recent graduates. Work alongside experienced developers to build web applications using Python and React.",
+    "companyDescription": "",
+    "seniorityLevel": "Internship",
+    "employmentType": "Internship",
+    "jobFunction": "Engineering",
+    "industries": "Computer Software",
+    "applicantsCount": "120",
+    "applyUrl": "https://example.com/apply/software-engineer-intern",
+    "type": ""
+  }
+]

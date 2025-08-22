@@ -1,0 +1,5 @@
+2025-08-21 21:58:32,370 - INFO - 🚀 Starting job condensation process...
+2025-08-21 21:58:32,370 - INFO - 📁 Found latest file: jobs_2025-08-21_21-58-30.json
+2025-08-21 21:58:32,370 - INFO - 📖 Reading jobs from: /Users/shehabahamed/linkedin-job-rater-py/src/scraped/scraped/jobs_2025-08-21_21-58-30.json
+2025-08-21 21:58:32,370 - ERROR - ❌ Input file does not contain a list of jobs
+2025-08-21 21:58:32,371 - ERROR - ❌ Job condensation failed
