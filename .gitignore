@@ -1,0 +1,147 @@
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.tmp
+*.temp
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Application-specific data files
+# Scraped data
+src/scraped/scraped/*.json
+app/scraped/*.json
+
+# Condensed data
+src/condensed/condense_data/*.json
+
+# Filtered data
+src/filtered/filter_data/*.json
+
+# Analysis cache
+src/analyze/rated_jobs.json
+app/rated_jobs.json
+src/rated_jobs.json
+
+# Log files
+src/scraped/log/*.txt
+src/condensed/log/*.txt
+src/filtered/log/*.txt
+src/analyze/log/*.log
+src/logs/*.txt
+app/logs/*.txt
+
+# Browser automation data
+app/browser_data/
+*.log
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# API keys and sensitive data
+config/secrets.json
+secrets.json
+credentials.json
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Testing
+.coverage
+.pytest_cache/
+.tox/
+.coverage.*
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Personal resume (if containing sensitive info)
+# Uncomment if you want to keep resume private
+# src/analyze/resume.txt
+
+# Notion database backups
+notion_backup_*.json
+
+# Job application tracking files
+applications_*.csv
+applications_*.xlsx
