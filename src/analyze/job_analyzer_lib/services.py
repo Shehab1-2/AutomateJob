@@ -39,11 +39,10 @@ class OpenAIClient:
                         {"role": "system", "content": system_prompt},
                         {"role": "user", "content": user_prompt}
                     ],
-                    "temperature": 0.7,
                     "timeout": 30
                 }
                 if model in ["gpt-5", "gpt-5-mini", "gpt-5-nano"]:
-                    completion_params["max_completion_tokens"] = 400
+                    completion_params["max_completion_tokens"] = 4000
                 else:
                     completion_params["max_tokens"] = 400
 

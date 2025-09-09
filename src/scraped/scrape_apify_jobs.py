@@ -31,7 +31,7 @@ Automation_URL = "https://www.linkedin.com/jobs/search/?currentJobId=4287310518&
 # === DUMMY DATA FOR TEST MODE ===
 DUMMY_JOB_DATA = [
   {
-    "id": "12345213",
+    "id": "5214198769",
     "trackingId": "entryTest123",
     "refId": "refEntry001",
     "link": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-dummycorp-5001002001",
@@ -41,7 +41,7 @@ DUMMY_JOB_DATA = [
     "companyLogo": "https://via.placeholder.com/100",
     "location": "Boston, MA",
     "salaryInfo": ["$55,000.00", "$65,000.00"],
-    "postedAt": "2025-08-15",
+    "postedAt": "2025-8-29",
     "benefits": ["Health Insurance", "401k", "Remote Option"],
     "descriptionHtml": "<p>We are seeking an <strong>Entry Level Data Analyst</strong> to join our analytics team. You will clean and prepare datasets, create dashboards, and provide reporting support under the guidance of senior analysts.</p>",
     "applicantsCount": "45",
@@ -55,7 +55,7 @@ DUMMY_JOB_DATA = [
     "inputUrl": "https://www.linkedin.com/jobs/search/?keywords=junior%20data%20analyst"
   },
   {
-    "id": "4283525513",
+    "id": "987654534657687987867",
     "trackingId": "entryTest124",
     "refId": "refEntry002",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-faketech-5001002002",
@@ -65,7 +65,7 @@ DUMMY_JOB_DATA = [
     "companyLogo": "https://via.placeholder.com/100",
     "location": "Remote (US)",
     "salaryInfo": [""],
-    "postedAt": "2025-08-16",
+    "postedAt": "2025-08-29",
     "benefits": ["Mentorship Program", "Flexible Hours"],
     "descriptionHtml": "<p><strong>Software Engineer Intern</strong> opportunity for students or recent graduates. Work alongside experienced developers to build web applications using Python and React.</p>",
     "applicantsCount": "120",
@@ -101,7 +101,7 @@ else:
     payload = json.dumps({
         "count": REQUESTED_COUNT,
         "scrapeCompany": SCRAPE_COMPANY,
-        "urls": [Automation_URL],
+        "urls": [IMPLEMENTATION_URL],
         "maxItems": 100,
         "maxConcurrency": 10,
         "proxyConfiguration": { "useApifyProxy": True }

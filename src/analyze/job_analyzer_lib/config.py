@@ -6,8 +6,8 @@ from pathlib import Path
 @dataclass
 class Config:
     # OpenAI Models
-    PRIMARY_MODEL = os.getenv("PRIMARY_MODEL", "gpt-4o-mini")
-    BACKUP_MODEL = os.getenv("BACKUP_MODEL", "gpt-4o")
+    PRIMARY_MODEL = os.getenv("PRIMARY_MODEL", "gpt-5")
+    BACKUP_MODEL = os.getenv("BACKUP_MODEL", "gpt-5")
     
     # Cost per 1K tokens ($) - Updated with actual OpenAI pricing
     MODEL_COSTS = {
@@ -23,7 +23,8 @@ class Config:
     # Evaluation thresholds
     MIN_EXPLANATION_WORDS = 30
     VAGUE_RATING_RANGE = (4, 6)
-    MAX_EXPLANATION_TOKENS = 300
+    MAX_EXPLANATION_TOKENS = 1000
+    MINIMUM_RATING_THRESHOLD = 7  # Only jobs rated 7+ go to Notion database
     
     # File paths
     RESUME_FILE = "resume.txt"

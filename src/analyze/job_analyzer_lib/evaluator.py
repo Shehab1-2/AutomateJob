@@ -17,11 +17,12 @@ class JobEvaluator:
     def __init__(self):
         self.logger = self._setup_logging()
         self.openai_client = OpenAIClient(self.logger)
-        self.notion_client = NotionService(os.getenv("NOTION_DB_ID_TEST"), self.logger) # type: ignore
+        self.notion_client = NotionService(os.getenv("NOTION_DB_ID"), self.logger) # type: ignore
         self.cache = self._load_cache()
         self.processed_count = 0
         self.skipped_count = 0
         self.failed_count = 0
+        self.below_threshold_count = 0
 
     def _setup_logging(self) -> Logger:
         """Setup logging infrastructure."""
@@ -73,7 +74,7 @@ class JobEvaluator:
 
     def _validate_environment(self):
         """Validate required environment variables."""
-        required_vars = ["OPENAI_API_KEY", "NOTION_API_KEY", "NOTION_DB_ID_TEST"]
+        required_vars = ["OPENAI_API_KEY", "NOTION_API_KEY", "NOTION_DB_ID"]
         missing_vars = [var for var in required_vars if not os.getenv(var)]
         if missing_vars:
             raise JobEvaluationError(f"Missing required environment variables: {missing_vars}")
@@ -95,13 +96,30 @@ class JobEvaluator:
             app_type = ApplicationTypeDetector.detect_application_type(apply_url)
             self.logger.info(f"🔗 Application Type: {app_type} ({apply_url[:50]}...)")
             
-            if self.notion_client.create_job_page(job):
-                self.cache[job_id] = {"id": job_id, "rating": job["rating"], "explanation": job["explanation"]}
-                self.processed_count += 1
-                return True
+            # Check rating threshold before pushing to Notion
+            if job["rating"] >= Config.MINIMUM_RATING_THRESHOLD:
+                # Push to Notion for high-rated jobs
+                if self.notion_client.create_job_page(job):
+                    self.logger.info(f"✅ Added high-rated job (rating: {job['rating']}) to Notion")
+                    self.processed_count += 1
+                    notion_success = True
+                else:
+                    self.logger.error(f"❌ Failed to add job to Notion")
+                    self.failed_count += 1
+                    notion_success = False
             else:
-                self.failed_count += 1
-                return False
+                self.logger.info(f"⏸️ Skipping job ID {job_id} - rating {job['rating']} below threshold ({Config.MINIMUM_RATING_THRESHOLD})")
+                self.below_threshold_count += 1
+                notion_success = True  # Consider it "processed" even though not added to Notion
+
+            # Always cache the evaluation (regardless of rating)
+            self.cache[job_id] = {
+                "id": job_id,
+                "rating": job["rating"],
+                "explanation": job["explanation"]
+            }
+
+            return notion_success
         except Exception as e:
             self.logger.error(f"❌ Error processing job '{job.get('title', 'unknown')}': {e}")
             self.failed_count += 1
@@ -136,9 +154,11 @@ class JobEvaluator:
         self.logger.info("=" * 60)
         self.logger.info("📊 FINAL SUMMARY")
         self.logger.info("=" * 60)
-        self.logger.info(f"✅ Jobs Processed: {self.processed_count}")
-        self.logger.info(f"⏩ Skipped (Cached): {self.skipped_count}")
+        self.logger.info(f"✅ Jobs Added to Notion: {self.processed_count}")
+        self.logger.info(f"⏸️ Below Threshold (Cached Only): {self.below_threshold_count}")
+        self.logger.info(f"⏩ Skipped (Previously Cached): {self.skipped_count}")
         self.logger.info(f"❌ Failed: {self.failed_count}")
+        self.logger.info(f"🎯 Rating Threshold: {Config.MINIMUM_RATING_THRESHOLD}")
         self.logger.info(f"🤖 Backup Model Calls: {usage_summary['gpt4_calls']}")
         self.logger.info(f"🎯 Total Tokens: {usage_summary['total_tokens']:,}")
         self.logger.info(f"💰 Total Cost: ${usage_summary['total_cost']:.2f}")
