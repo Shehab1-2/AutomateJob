@@ -14,9 +14,9 @@ from .utils import Logger, JobEvaluationError, ApplicationTypeDetector
 class JobEvaluator:
     """Main job evaluation orchestrator."""
     
-    def __init__(self):
+    def __init__(self, skip_explanations: bool = False):
         self.logger = self._setup_logging()
-        self.openai_client = OpenAIClient(self.logger)
+        self.openai_client = OpenAIClient(self.logger, skip_explanations=skip_explanations)
         self.notion_client = NotionService(os.getenv("NOTION_DB_ID"), self.logger) # type: ignore
         self.cache = self._load_cache()
         self.processed_count = 0

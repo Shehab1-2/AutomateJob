@@ -31,7 +31,7 @@ Automation_URL = "https://www.linkedin.com/jobs/search/?currentJobId=4287310518&
 # === DUMMY DATA FOR TEST MODE ===
 DUMMY_JOB_DATA = [
   {
-    "id": "5214198769",
+    "id": "63215265265",
     "trackingId": "entryTest123",
     "refId": "refEntry001",
     "link": "https://www.linkedin.com/jobs/view/junior-data-analyst-at-dummycorp-5001002001",
@@ -55,7 +55,7 @@ DUMMY_JOB_DATA = [
     "inputUrl": "https://www.linkedin.com/jobs/search/?keywords=junior%20data%20analyst"
   },
   {
-    "id": "987654534657687987867",
+    "id": "52q145245245",
     "trackingId": "entryTest124",
     "refId": "refEntry002",
     "link": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-faketech-5001002002",
@@ -101,8 +101,8 @@ else:
     payload = json.dumps({
         "count": REQUESTED_COUNT,
         "scrapeCompany": SCRAPE_COMPANY,
-        "urls": [IMPLEMENTATION_URL],
-        "maxItems": 100,
+        "urls": [SOFTWARE_URL],
+        "maxItems": 150,
         "maxConcurrency": 10,
         "proxyConfiguration": { "useApifyProxy": True }
     })

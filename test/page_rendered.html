@@ -1,0 +1,1226 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NuraTech Systems | Custom Software &amp; Automation</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --primary-color: #1e40af; --secondary-color: #8b5cf6; --accent-color: #06b6d4;
+            --success-color: #059669; --cta-color: #ea580c;
+            --text-primary: #1f2937; --text-secondary: #475569; --bg-primary: #ffffff;
+            --bg-secondary: #f8fafc; --bg-card: #ffffff; --border-color: #e2e8f0;
+            --shadow-light: 0 2px 4px rgba(0, 0, 0, 0.05); --shadow-medium: 0 4px 12px rgba(0, 0, 0, 0.08);
+            --shadow-heavy: 0 20px 30px rgba(0, 0, 0, 0.1);
+            --gradient-primary: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            --gradient-accent: linear-gradient(135deg, var(--accent-color), var(--primary-color));
+            --gradient-success: linear-gradient(135deg, var(--success-color), var(--primary-color));
+            --gradient-cta: linear-gradient(135deg, var(--cta-color), #f97316);
+        }
+        [data-theme="dark"] {
+            --text-primary: #f8fafc; --text-secondary: #94a3b8; --bg-primary: #0f172a;
+            --bg-secondary: #1e293b; --bg-card: #1e293b; --border-color: #334155;
+        }
+        body { font-family: 'Inter', sans-serif; line-height: 1.7; color: var(--text-primary); background: var(--bg-primary); overflow-x: hidden; }
+        html { scroll-behavior: smooth; }
+        
+        /* Navigation */
+        nav { position: fixed; top: 0; width: 100%; background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(12px); z-index: 1000; padding: 1rem 0; transition: all 0.3s ease; border-bottom: 1px solid var(--border-color); }
+        [data-theme="dark"] nav { background: rgba(15, 23, 42, 0.8); }
+        .nav-container { max-width: 1280px; margin: 0 auto; padding: 0 2rem; display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 1.6rem; font-weight: 700; background: var(--gradient-primary); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-decoration: none; }
+        .nav-links { display: flex; list-style: none; gap: 2.5rem; align-items: center; }
+        .nav-links a { text-decoration: none; color: var(--text-secondary); font-weight: 500; transition: color 0.3s ease; }
+        .nav-links a:hover { color: var(--primary-color); }
+        .theme-toggle { background: none; border: none; color: var(--text-secondary); font-size: 1.2rem; cursor: pointer; padding: 0.5rem; border-radius: 50px; transition: all 0.3s ease; }
+        .theme-toggle:hover { color: var(--primary-color); background: var(--bg-secondary); }
+        
+        /* Hero Section */
+        .hero { min-height: 90vh; display: flex; align-items: center; justify-content: center; text-align: center; position: relative; overflow: hidden; padding: 8rem 2rem 4rem; }
+        .particles { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; opacity: 0.5; }
+        .particle { position: absolute; width: 3px; height: 3px; background: var(--primary-color); border-radius: 50%; animation: float 8s ease-in-out infinite; }
+        @keyframes float { 0%, 100% { transform: translateY(0px); opacity: 0.1; } 50% { transform: translateY(-25px); opacity: 0.7; } }
+        @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } }
+        @keyframes slideInLeft { from { opacity: 0; transform: translateX(-50px); } to { opacity: 1; transform: translateX(0); } }
+        @keyframes slideInRight { from { opacity: 0; transform: translateX(50px); } to { opacity: 1; transform: translateX(0); } }
+        @keyframes bounceIn { 0% { opacity: 0; transform: scale(0.3); } 50% { opacity: 1; transform: scale(1.05); } 70% { transform: scale(0.9); } 100% { opacity: 1; transform: scale(1); } }
+        @keyframes glow { 0%, 100% { box-shadow: 0 0 20px rgba(30, 64, 175, 0.3); } 50% { box-shadow: 0 0 30px rgba(30, 64, 175, 0.6), 0 0 40px rgba(30, 64, 175, 0.3); } }
+        .hero-content { max-width: 950px; animation: fadeInUp 1s ease-out; }
+        @keyframes fadeInUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .hero h1 { font-size: clamp(3rem, 6vw, 5rem); font-weight: 800; line-height: 1.2; margin-bottom: 1.5rem; color: var(--text-primary); }
+        .hero .gradient-text { background: var(--gradient-primary); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .hero .description { font-size: 1.25rem; color: var(--text-secondary); margin-bottom: 3rem; max-width: 750px; margin-left: auto; margin-right: auto; }
+        .cta-buttons { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+        .btn { padding: 1rem 2.5rem; border: none; border-radius: 50px; font-weight: 600; font-size: 1rem; cursor: pointer; transition: all 0.3s ease; text-decoration: none; display: inline-flex; align-items: center; gap: 0.75rem; }
+        .btn-primary { background: var(--gradient-cta); color: white; box-shadow: var(--shadow-medium); position: relative; overflow: hidden; }
+        .btn-primary::before { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent); transition: left 0.6s; }
+        .btn-primary:hover::before { left: 100%; }
+        .btn-primary:hover { transform: translateY(-3px) scale(1.05); box-shadow: var(--shadow-heavy), 0 0 20px rgba(234, 88, 12, 0.4); animation: pulse 2s infinite; }
+        .btn-secondary { background: var(--bg-card); color: var(--text-primary); border: 1px solid var(--border-color); }
+        .btn-secondary:hover { transform: translateY(-3px) scale(1.05); border-color: var(--primary-color); box-shadow: var(--shadow-medium); color: var(--primary-color); }
+        
+        /* General Section Styles */
+        section { padding: 7rem 0; position: relative; }
+        section:nth-of-type(even) { background: var(--bg-secondary); }
+        .container { max-width: 1280px; margin: 0 auto; padding: 0 2rem; }
+        .section-header { text-align: center; margin-bottom: 5rem; max-width: 800px; margin-left: auto; margin-right: auto; }
+        .section-title { font-size: clamp(2.5rem, 5vw, 3.5rem); font-weight: 700; margin-bottom: 1.5rem; color: var(--text-primary); }
+        .section-subtitle { font-size: 1.2rem; color: var(--text-secondary); }
+        .tag { background: var(--bg-secondary); color: var(--text-secondary); padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.85rem; font-weight: 500; }
+        [data-theme="dark"] .tag { background: var(--bg-primary); }
+        
+        /* About/Team Section */
+        .team-wrapper { position: relative; max-width: 1200px; margin: 0 auto; overflow: hidden; }
+        .team-container { display: flex; gap: 3rem; transition: transform 0.5s ease; will-change: transform; }
+        .team-member { flex: 0 0 100%; min-width: 100%; }
+        .about-grid { display: grid; grid-template-columns: 1fr 2fr; align-items: center; gap: 5rem; max-width: 1100px; margin: 0 auto; }
+        .about-image { text-align: center; overflow: hidden; border-radius: 50%; width: 250px; height: 250px; margin: 0 auto; position: relative; box-shadow: var(--shadow-heavy); border: 4px solid var(--bg-primary); }
+        .about-image img { width: 100%; height: 100%; object-fit: cover; object-position: center 20%; transform: scale(1.3); transition: transform 0.4s ease; }
+        .about-title { font-size: 1rem; font-weight: 600; color: var(--primary-color); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 0.5rem; }
+        .about-name { font-size: 2.5rem; font-weight: 700; margin-bottom: 1rem; }
+        .about-bio p { margin-bottom: 1.5rem; font-size: 1.1rem; color: var(--text-secondary); }
+        .about-stats { display: flex; gap: 2rem; margin-top: 2rem; }
+        .about-stat { text-align: center; }
+        .about-stat-number { font-size: 2.5rem; font-weight: 700; background: var(--gradient-primary); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .about-stat-label { font-size: 0.9rem; color: var(--text-secondary); }
+
+        /* Featured Tools Section */
+        .tools-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; }
+        .tool-card { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 20px; padding: 2rem; transition: all 0.3s ease; }
+        .tool-card:hover { transform: translateY(-8px); box-shadow: var(--shadow-medium); }
+        .tool-header { display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem; }
+        .tool-header i { font-size: 1.5rem; color: var(--primary-color); }
+        .tool-title { font-size: 1.3rem; font-weight: 600; }
+        .tool-metric { font-size: 1.8rem; font-weight: 700; color: var(--accent-color); margin: 1rem 0 0.5rem; }
+        .tool-description { color: var(--text-secondary); font-size: 0.95rem; }
+
+        /* FAQ Section */
+        .faq-container { max-width: 800px; margin: 0 auto; }
+        .faq-item { border-bottom: 1px solid var(--border-color); }
+        .faq-question { width: 100%; display: flex; justify-content: space-between; align-items: center; text-align: left; background: none; border: none; padding: 1.5rem 0; cursor: pointer; font-size: 1.1rem; font-weight: 600; color: var(--text-primary); }
+        .faq-question i { transition: transform 0.3s ease; }
+        .faq-question.active i { transform: rotate(45deg); }
+        .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.4s ease-out; color: var(--text-secondary); }
+        .faq-answer p { padding: 0 0 1.5rem 0; }
+        
+        /* Services Section */
+        .services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; max-width: 1100px; margin: 0 auto; }
+        .service-card { background: var(--bg-card); padding: 2.5rem 2rem; border-radius: 20px; box-shadow: var(--shadow-light); border: 1px solid var(--border-color); transition: all 0.4s ease; text-align: center; position: relative; overflow: hidden; }
+        .service-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: var(--gradient-primary); }
+        .service-card:hover { transform: translateY(-12px) scale(1.02); box-shadow: var(--shadow-heavy), 0 0 25px rgba(30, 64, 175, 0.2); animation: glow 2s ease-in-out infinite; }
+        .service-card i { font-size: 3rem; margin-bottom: 1.5rem; background: var(--gradient-primary); -webkit-background-clip: text; -webkit-text-fill-color: transparent; transition: transform 0.3s ease; }
+        .service-card:hover i { transform: scale(1.1) rotate(5deg); }
+        .service-card h3 { font-size: 1.4rem; margin-bottom: 0.5rem; color: var(--text-primary); font-weight: 700; }
+        .service-card:hover h3 { color: var(--primary-color); }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 6rem; max-width: 900px; margin-left: auto; margin-right: auto; }
+        .stat { text-align: center; padding: 1.5rem; background: var(--bg-secondary); border-radius: 15px; }
+        [data-theme="dark"] .stat { background: var(--bg-primary); }
+        .stat-number { font-size: 3rem; font-weight: 700; background: var(--gradient-primary); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .stat-number.positive { background: var(--gradient-success); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .stat-label { font-size: 1rem; margin-top: 0.5rem; }
+        
+        /* Timeline Section */
+        .timeline-container { max-width: 1000px; margin: 0 auto; position: relative; }
+        .timeline-line { position: absolute; left: 50%; top: 0; bottom: 0; width: 3px; background: var(--gradient-primary); transform: translateX(-50%); z-index: 1; }
+        .timeline-items { position: relative; z-index: 2; }
+        .timeline-item { display: flex; align-items: center; margin-bottom: 4rem; position: relative; }
+        .timeline-item:nth-child(even) { flex-direction: row-reverse; }
+        .timeline-content { flex: 1; background: var(--bg-card); padding: 2.5rem; border-radius: 20px; box-shadow: var(--shadow-medium); border: 1px solid var(--border-color); margin: 0 3rem; position: relative; }
+        .timeline-item:nth-child(even) .timeline-content { margin: 0 3rem 0 3rem; }
+        .timeline-content::before { content: ''; position: absolute; top: 50%; width: 0; height: 0; border: 15px solid transparent; }
+        .timeline-item:nth-child(odd) .timeline-content::before { right: -30px; border-left-color: var(--bg-card); }
+        .timeline-item:nth-child(even) .timeline-content::before { left: -30px; border-right-color: var(--bg-card); }
+        .timeline-step { flex: 0 0 120px; text-align: center; }
+        .timeline-number { width: 80px; height: 80px; border-radius: 50%; background: var(--gradient-primary); color: white; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; font-weight: 700; margin: 0 auto 1rem; box-shadow: var(--shadow-medium); transition: all 0.3s ease; position: relative; }
+        .timeline-number::before { content: ''; position: absolute; width: 100%; height: 100%; border-radius: 50%; background: var(--gradient-primary); opacity: 0.3; animation: pulse 3s ease-in-out infinite; }
+        .timeline-item:hover .timeline-number { transform: scale(1.1); animation: bounceIn 0.6s ease-out; }
+        .timeline-duration { background: var(--bg-secondary); padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem; font-weight: 600; color: var(--text-secondary); }
+        [data-theme="dark"] .timeline-duration { background: var(--bg-primary); }
+        .timeline-title { font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; color: var(--text-primary); }
+        .timeline-description { color: var(--text-secondary); line-height: 1.6; margin-bottom: 1.5rem; }
+        .timeline-features { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+        .timeline-feature { background: var(--success-color); color: white; padding: 0.3rem 0.8rem; border-radius: 15px; font-size: 0.8rem; font-weight: 500; }
+        
+        /* Process Tabs */
+        .process-tabs { display: flex; justify-content: center; gap: 0.5rem; margin-bottom: 3rem; background: var(--bg-secondary); padding: 0.5rem; border-radius: 50px; max-width: 400px; margin-left: auto; margin-right: auto; }
+        .process-tab { flex: 1; padding: 0.75rem 1.5rem; border: none; background: transparent; color: var(--text-secondary); font-weight: 600; font-size: 1rem; border-radius: 25px; cursor: pointer; transition: all 0.3s ease; }
+        .process-tab.active { background: var(--primary-color); color: white; box-shadow: var(--shadow-light); }
+        .process-tab:hover:not(.active) { color: var(--primary-color); }
+        .process-content { display: none; }
+        .process-content.active { display: block; }
+        
+        /* Website Audit CTA */
+        .audit-cta { background: var(--gradient-primary); padding: 3rem 2rem; border-radius: 20px; text-align: center; margin: 4rem 0; color: white; }
+        .audit-cta h3 { font-size: 2rem; font-weight: 700; margin-bottom: 1rem; }
+        .audit-cta p { font-size: 1.1rem; margin-bottom: 2rem; opacity: 0.9; }
+        .audit-cta .btn { margin: 0 0.5rem; }
+        .audit-features { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin-top: 2rem; }
+        .audit-feature { display: flex; align-items: center; gap: 0.75rem; }
+        .audit-feature i { color: var(--success-color); font-size: 1.2rem; }
+        
+        /* Support Partnership Section */
+        .support-hero { background: var(--gradient-primary); color: white; padding: 4rem 2rem; border-radius: 25px; text-align: center; margin: 2rem 0; position: relative; overflow: hidden; }
+        .support-hero::before { content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 70%); animation: float 6s ease-in-out infinite; }
+        .support-hero h2 { font-size: 2.5rem; font-weight: 700; margin-bottom: 1.5rem; }
+        .support-hero p { font-size: 1.2rem; opacity: 0.9; max-width: 700px; margin: 0 auto; }
+        .support-features { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2.5rem; margin-top: 4rem; }
+        .support-feature { background: var(--bg-card); padding: 2.5rem; border-radius: 20px; box-shadow: var(--shadow-medium); border: 1px solid var(--border-color); text-align: center; transition: all 0.4s ease; }
+        .support-feature:hover { transform: translateY(-8px); box-shadow: var(--shadow-heavy); }
+        .support-feature i { font-size: 3rem; color: var(--primary-color); margin-bottom: 1.5rem; }
+        .support-feature h3 { font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; color: var(--text-primary); }
+        .support-feature p { color: var(--text-secondary); line-height: 1.6; }
+        .support-commitment { background: var(--gradient-success); color: white; padding: 3rem; border-radius: 20px; text-align: center; margin-top: 3rem; }
+        .support-commitment h3 { font-size: 2rem; font-weight: 700; margin-bottom: 1rem; }
+        .support-commitment p { font-size: 1.1rem; opacity: 0.9; margin-bottom: 2rem; }
+        .support-stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 2rem; margin-top: 2rem; }
+        .support-stat { text-align: center; }
+        .support-stat-number { font-size: 2.5rem; font-weight: 700; color: white; }
+        .support-stat-label { font-size: 0.9rem; opacity: 0.8; }
+        
+        /* Why Businesses Need Section */
+        .needs-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; max-width: 1200px; margin: 0 auto; align-items: center; }
+        .needs-content h3 { font-size: 2.2rem; font-weight: 700; margin-bottom: 1.5rem; color: var(--text-primary); }
+        .needs-content p { font-size: 1.1rem; color: var(--text-secondary); line-height: 1.7; margin-bottom: 2rem; }
+        .needs-list { display: flex; flex-direction: column; gap: 1.5rem; }
+        .need-item { display: flex; align-items: flex-start; gap: 1rem; padding: 1.5rem; background: var(--bg-card); border-radius: 15px; border: 1px solid var(--border-color); transition: all 0.3s ease; }
+        .need-item:hover { transform: translateY(-3px); box-shadow: var(--shadow-medium); }
+        .need-icon { flex: 0 0 50px; height: 50px; border-radius: 50%; background: var(--gradient-success); display: flex; align-items: center; justify-content: center; color: white; font-size: 1.2rem; }
+        .need-content h4 { font-size: 1.2rem; font-weight: 600; margin-bottom: 0.5rem; color: var(--text-primary); }
+        .need-content p { font-size: 0.95rem; color: var(--text-secondary); margin: 0; }
+        .problems-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; }
+        .problem-card { background: var(--bg-card); padding: 2rem; border-radius: 15px; border: 1px solid var(--border-color); text-align: center; position: relative; overflow: hidden; }
+        .problem-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: var(--gradient-primary); }
+        .problem-card i { font-size: 2.5rem; color: var(--primary-color); margin-bottom: 1rem; }
+        .problem-card h4 { font-size: 1.3rem; font-weight: 600; margin-bottom: 1rem; color: var(--text-primary); }
+        .problem-stat { font-size: 2rem; font-weight: 700; color: var(--cta-color); margin: 0.5rem 0; }
+        
+        /* Case Studies Section */
+        .case-studies-wrapper { position: relative; max-width: 1400px; margin: 0 auto; overflow: hidden; }
+        .case-studies-container { display: flex; gap: 2.5rem; transition: transform 0.5s ease; will-change: transform; }
+        .case-study-card { flex: 0 0 calc(50% - 1.25rem); min-width: 400px; background: var(--bg-card); border-radius: 20px; padding: 2.5rem 3rem; box-shadow: var(--shadow-medium); border: 1px solid var(--border-color); transition: all 0.3s ease; }
+        .carousel-controls { display: flex; justify-content: center; align-items: center; gap: 1rem; margin-top: 3rem; }
+        .carousel-btn { background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 50px; padding: 0.75rem 1.5rem; color: var(--text-secondary); cursor: pointer; transition: all 0.3s ease; font-size: 1rem; }
+        .carousel-btn:hover { background: var(--primary-color); color: white; border-color: var(--primary-color); }
+        .carousel-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+        .carousel-btn:disabled:hover { background: var(--bg-card); color: var(--text-secondary); border-color: var(--border-color); }
+        .carousel-dots { display: flex; gap: 0.75rem; }
+        .carousel-dot { width: 10px; height: 10px; border-radius: 50%; background: var(--border-color); cursor: pointer; transition: all 0.3s ease; }
+        .carousel-dot.active { background: var(--primary-color); transform: scale(1.2); }
+        .case-study-card:hover { transform: translateY(-5px); box-shadow: var(--shadow-heavy); }
+        .case-study-industry { font-weight: 600; color: var(--primary-color); text-transform: uppercase; }
+        .case-study-title { font-size: 2rem; font-weight: 700; }
+        .results-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1.5rem; margin: 2rem 0; padding: 2rem 0; border-top: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color); text-align: center; }
+        .metric-value { font-size: 2.8rem; font-weight: 700; line-height: 1; background: var(--gradient-primary); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .metric-value.positive { background: var(--gradient-success); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .metric-label { font-size: 0.9rem; margin-top: 0.5rem; }
+        .testimonial { border-left: 3px solid var(--primary-color); padding-left: 1.5rem; margin: 2rem 0; font-style: italic; }
+        .testimonial-author { font-style: normal; font-weight: 600; margin-top: 0.5rem; display: block; }
+        .tech-stack { display: flex; flex-wrap: wrap; gap: 0.75rem; margin-top: 1rem; }
+        
+        /* Industries Section */
+        .industries-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 2rem; }
+        .industry-card { background: var(--bg-card); border-radius: 20px; box-shadow: var(--shadow-light); transition: all 0.3s ease; border: 1px solid var(--border-color); text-align: center; padding: 2.5rem; }
+        .industry-card:hover { transform: translateY(-10px); box-shadow: var(--shadow-medium); }
+        .industry-card i { font-size: 2.5rem; margin-bottom: 1.5rem; background: var(--gradient-accent); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .industry-title { font-size: 1.5rem; font-weight: 600; margin-bottom: 1rem; }
+        
+        /* Contact Section */
+        .contact-content { display: grid; grid-template-columns: 1fr 1.2fr; gap: 5rem; align-items: center; max-width: 1100px; margin: 0 auto; }
+        .contact-form { background: var(--bg-card); padding: 3rem; border-radius: 20px; box-shadow: var(--shadow-medium); border: 1px solid var(--border-color); }
+        .contact-links { display: flex; flex-direction: column; gap: 1rem; margin-top: 2rem; }
+        .contact-link { display: flex; align-items: center; gap: 0.75rem; color: var(--text-secondary); text-decoration: none; font-weight: 500; transition: color 0.3s ease; }
+        .contact-link:hover { color: var(--primary-color); }
+        .contact-link i { font-size: 1.2rem; color: var(--primary-color); }
+        .form-group { margin-bottom: 1.5rem; }
+        .form-group label { display: block; margin-bottom: 0.5rem; font-weight: 500; color: var(--text-primary); }
+        .form-group input, .form-group textarea { width: 100%; padding: 0.875rem; border: 1px solid var(--border-color); border-radius: 8px; background: var(--bg-primary); color: var(--text-primary); font-size: 1rem; transition: border-color 0.3s ease; }
+        .form-group input:focus, .form-group textarea:focus { outline: none; border-color: var(--primary-color); }
+        .form-group textarea { resize: vertical; min-height: 120px; }
+        #form-status { margin-top: 1rem; font-weight: 500; }
+        
+        /* Footer */
+        footer { background: var(--bg-secondary); padding: 4rem 0; text-align: center; border-top: 1px solid var(--border-color); }
+        
+        /* Responsive & Mobile */
+        .mobile-menu-toggle, .mobile-menu { display: none; }
+        @media (max-width: 900px) {
+            .about-grid { grid-template-columns: 1fr; text-align: center; }
+            .about-stats { justify-content: center; }
+        }
+        @media (max-width: 768px) {
+            .nav-links { display: none; }
+            .mobile-menu-toggle { display: block; background: none; border: none; color: var(--text-secondary); font-size: 1.5rem; cursor: pointer; }
+            .hero { min-height: 80vh; padding: 6rem 1rem 3rem; }
+            .hero h1 { font-size: 2.5rem; }
+            .section-header { margin-bottom: 3rem; }
+            .section-title { font-size: 2.2rem; }
+            section { padding: 4rem 0; }
+            .contact-content { grid-template-columns: 1fr; gap: 3rem; }
+            .case-study-card { flex: 0 0 calc(100% - 2rem); min-width: 300px; padding: 2rem 1.5rem; }
+            .timeline-line { left: 40px; }
+            .timeline-item, .timeline-item:nth-child(even) { flex-direction: row; }
+            .timeline-content { margin: 0 0 0 5rem; }
+            .timeline-content::before, .timeline-item:nth-child(even) .timeline-content::before { left: -30px; right: auto; border-left-color: transparent; border-right-color: var(--bg-card); }
+            .timeline-step { flex: 0 0 80px; }
+            .timeline-number { width: 60px; height: 60px; font-size: 1.4rem; }
+            .needs-grid { grid-template-columns: 1fr; gap: 2rem; text-align: center; }
+            .needs-content h3 { font-size: 1.8rem; }
+            .mobile-menu { position: fixed; top: 0; left: 0; width: 100%; height: 100vh; background: var(--bg-primary); z-index: 999; flex-direction: column; align-items: center; justify-content: center; gap: 2rem; }
+            .mobile-menu.show { display: flex; }
+            .mobile-menu a { color: var(--text-primary); text-decoration: none; font-size: 1.8rem; font-weight: 500; }
+        }
+    </style>
+</head>
+
+<body data-theme="light">
+    <nav id="navbar">
+        <div class="nav-container">
+            <a href="#hero" class="logo">NuraTech</a>
+            <ul class="nav-links">
+                <li><a href="#services">Services</a></li>
+                <li><a href="#process">Process</a></li>
+                <li><a href="#case-studies">Case Studies</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#support">Support</a></li>
+                <li><a href="#tools">Tools</a></li>
+                <li><a href="#industries">Industries</a></li>
+                <li><a href="#faq">FAQ</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><button class="theme-toggle" id="themeToggle" title="Toggle Theme"><i class="fas fa-moon"></i></button></li>
+            </ul>
+            <button class="mobile-menu-toggle" id="mobileMenuToggle" aria-label="Open menu"><i class="fas fa-bars"></i></button>
+        </div>
+    </nav>
+
+    <div class="mobile-menu" id="mobileMenu">
+        <a href="#services" class="mobile-link">Services</a>
+        <a href="#process" class="mobile-link">Process</a>
+        <a href="#case-studies" class="mobile-link">Case Studies</a>
+        <a href="#about" class="mobile-link">About</a>
+        <a href="#support" class="mobile-link">Support</a>
+        <a href="#tools" class="mobile-link">Tools</a>
+        <a href="#industries" class="mobile-link">Industries</a>
+        <a href="#faq" class="mobile-link">FAQ</a>
+        <a href="#contact" class="mobile-link">Contact</a>
+    </div>
+
+    <main>
+        <section id="hero" class="hero">
+            <div class="particles" id="particles"><div class="particle" style="left: 23.5549%; top: 29.9685%; animation-delay: 2.20308s; animation-duration: 8.30431s;"></div><div class="particle" style="left: 68.3354%; top: 41.5812%; animation-delay: 2.26066s; animation-duration: 14.5242s;"></div><div class="particle" style="left: 25.2408%; top: 44.4286%; animation-delay: 4.95558s; animation-duration: 12.2034s;"></div><div class="particle" style="left: 97.9113%; top: 82.7357%; animation-delay: 0.614181s; animation-duration: 14.5854s;"></div><div class="particle" style="left: 64.3237%; top: 14.4081%; animation-delay: 0.299434s; animation-duration: 9.26657s;"></div><div class="particle" style="left: 23.7202%; top: 53.5521%; animation-delay: 5.19336s; animation-duration: 13.2012s;"></div><div class="particle" style="left: 29.204%; top: 95.035%; animation-delay: 1.39732s; animation-duration: 15.1815s;"></div><div class="particle" style="left: 88.9271%; top: 72.6227%; animation-delay: 6.87761s; animation-duration: 14.68s;"></div><div class="particle" style="left: 96.7503%; top: 37.2015%; animation-delay: 0.439511s; animation-duration: 13.4954s;"></div><div class="particle" style="left: 5.99346%; top: 41.9184%; animation-delay: 1.56971s; animation-duration: 14.646s;"></div><div class="particle" style="left: 94.2885%; top: 73.1625%; animation-delay: 0.0446542s; animation-duration: 9.22797s;"></div><div class="particle" style="left: 79.2546%; top: 80.2689%; animation-delay: 6.99458s; animation-duration: 9.75078s;"></div><div class="particle" style="left: 53.155%; top: 50.2169%; animation-delay: 6.11476s; animation-duration: 9.20671s;"></div><div class="particle" style="left: 77.3133%; top: 4.33628%; animation-delay: 0.187596s; animation-duration: 13.0319s;"></div><div class="particle" style="left: 20.9017%; top: 76.0543%; animation-delay: 5.55196s; animation-duration: 13.591s;"></div><div class="particle" style="left: 64.0544%; top: 41.6589%; animation-delay: 5.49918s; animation-duration: 15.34s;"></div><div class="particle" style="left: 54.027%; top: 74.6255%; animation-delay: 3.05765s; animation-duration: 14.7224s;"></div><div class="particle" style="left: 16.8358%; top: 25.7446%; animation-delay: 4.25737s; animation-duration: 8.00144s;"></div><div class="particle" style="left: 91.7021%; top: 17.7865%; animation-delay: 5.82215s; animation-duration: 11.7134s;"></div><div class="particle" style="left: 59.238%; top: 60.3763%; animation-delay: 6.98081s; animation-duration: 8.26228s;"></div><div class="particle" style="left: 99.7957%; top: 20.8786%; animation-delay: 1.38052s; animation-duration: 14.6837s;"></div><div class="particle" style="left: 23.7974%; top: 90.997%; animation-delay: 4.64902s; animation-duration: 13.1192s;"></div><div class="particle" style="left: 68.0731%; top: 93.5764%; animation-delay: 7.113s; animation-duration: 14.6261s;"></div><div class="particle" style="left: 51.4879%; top: 70.6145%; animation-delay: 6.30849s; animation-duration: 13.2497s;"></div><div class="particle" style="left: 10.9827%; top: 90.8528%; animation-delay: 4.7136s; animation-duration: 13.3209s;"></div></div>
+            <div class="hero-content">
+                <h1>Automation, Websites, and CRM systems that <span class="gradient-text">remove bottlenecks &amp; print time</span> back to your team.</h1>
+                <p class="description">We build high-ROI workflows and internal tools that eliminate repetitive tasks, connect your disparate systems, and let your team focus on what truly matters.</p>
+                <div class="cta-buttons"><a href="#contact" class="btn btn-primary"><i class="fas fa-calendar-check"></i> Book a Free Call</a><a href="#case-studies" class="btn btn-secondary">See Our Work</a></div>
+            </div>
+        </section>
+
+        <section id="services">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">What We <span class="gradient-text">Build</span></h2>
+                    <p class="section-subtitle">We deliver tangible outcomes by focusing on six key areas of operational excellence.</p>
+                </div>
+                <div class="services-grid">
+                    <div class="service-card"><i class="fas fa-cogs"></i><h3>Custom Automation</h3><p>We identify and eliminate your most time-consuming manual tasks with robust, end-to-end automations.</p></div>
+                    <div class="service-card"><i class="fas fa-code"></i><h3>Full Stack Software</h3><p>Complete end-to-end applications with frontend, backend, database, and deployment - built to scale with your business.</p></div>
+                    <div class="service-card"><i class="fas fa-globe"></i><h3>Website Creation</h3><p>Professional, conversion-optimized websites that establish credibility and drive results for your business.</p></div>
+                    <div class="service-card"><i class="fas fa-laptop-code"></i><h3>Bespoke Software</h3><p>When off-the-shelf tools don't fit, we build custom applications tailored precisely to your workflow.</p></div>
+                    <div class="service-card"><i class="fas fa-users"></i><h3>CRM Development</h3><p>We build or customize CRM systems (like Notion or Airtable) to create a single source of truth for your client data.</p></div>
+                    <div class="service-card"><i class="fas fa-rocket"></i><h3>System Integration</h3><p>Connect your existing tools and platforms to work seamlessly together, eliminating data silos and manual transfers.</p></div>
+                </div>
+                <div class="stats">
+                    <div class="stat"><div class="stat-number positive">-58%</div><div class="stat-label">Reduction in Admin Hours</div></div>
+                    <div class="stat"><div class="stat-number positive">+32%</div><div class="stat-label">Increase in Lead Conversion</div></div>
+                    <div class="stat"><div class="stat-number">&lt;4 wks</div><div class="stat-label">To First Measurable ROI</div></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="process">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Simple Process, <span class="gradient-text">Powerful Results</span></h2>
+                    <p class="section-subtitle">From initial call to full deployment, we make both automation and website projects straightforward and stress-free.</p>
+                </div>
+                
+                <div class="process-tabs">
+                    <button class="process-tab active" data-tab="automation">Automation Project</button>
+                    <button class="process-tab" data-tab="website">Website Project</button>
+                </div>
+                
+                <div class="process-content active" id="automation-content">
+                    <div class="timeline-container">
+                    <div class="timeline-line"></div>
+                    <div class="timeline-items">
+                        <div class="timeline-item">
+                            <div class="timeline-step">
+                                <div class="timeline-number">1</div>
+                                <div class="timeline-duration">Day 1</div>
+                            </div>
+                            <div class="timeline-content">
+                                <h3 class="timeline-title">Discovery Call</h3>
+                                <p class="timeline-description">We start with a free 30-minute consultation to understand your biggest bottlenecks and pain points. Our team analyzes your current workflows and identifies the highest-impact automation opportunities.</p>
+                                <div class="timeline-features">
+                                    <span class="timeline-feature">Free Consultation</span>
+                                    <span class="timeline-feature">Workflow Analysis</span>
+                                    <span class="timeline-feature">ROI Assessment</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-step">
+                                <div class="timeline-number">2</div>
+                                <div class="timeline-duration">Days 2-3</div>
+                            </div>
+                            <div class="timeline-content">
+                                <h3 class="timeline-title">Proposal &amp; Planning</h3>
+                                <p class="timeline-description">Within 48 hours, you receive a detailed proposal with fixed pricing, project timeline, and technical specifications. No surprises, no hidden costs - just a clear roadmap to automation success.</p>
+                                <div class="timeline-features">
+                                    <span class="timeline-feature">Fixed-Price Quote</span>
+                                    <span class="timeline-feature">Project Timeline</span>
+                                    <span class="timeline-feature">Technical Specs</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-step">
+                                <div class="timeline-number">3</div>
+                                <div class="timeline-duration">Week 1-2</div>
+                            </div>
+                            <div class="timeline-content">
+                                <h3 class="timeline-title">Development &amp; Testing</h3>
+                                <p class="timeline-description">Our team builds your custom solution with regular check-ins and progress updates. We test thoroughly in a staging environment to ensure everything works perfectly before deployment.</p>
+                                <div class="timeline-features">
+                                    <span class="timeline-feature">Regular Updates</span>
+                                    <span class="timeline-feature">Staging Environment</span>
+                                    <span class="timeline-feature">Quality Testing</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-step">
+                                <div class="timeline-number">4</div>
+                                <div class="timeline-duration">Week 3</div>
+                            </div>
+                            <div class="timeline-content">
+                                <h3 class="timeline-title">Deployment &amp; Training</h3>
+                                <p class="timeline-description">We deploy your automation to your live environment and provide comprehensive training to your team. Jeff, our field engineer, ensures everyone is comfortable with the new system.</p>
+                                <div class="timeline-features">
+                                    <span class="timeline-feature">Live Deployment</span>
+                                    <span class="timeline-feature">Team Training</span>
+                                    <span class="timeline-feature">Documentation</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-step">
+                                <div class="timeline-number">5</div>
+                                <div class="timeline-duration">Ongoing</div>
+                            </div>
+                            <div class="timeline-content">
+                                <h3 class="timeline-title">Support &amp; Optimization</h3>
+                                <p class="timeline-description">We provide 30 days of free support to ensure smooth operations. After that, we offer ongoing maintenance packages and continue optimizing your automations for even better results.</p>
+                                <div class="timeline-features">
+                                    <span class="timeline-feature">30-Day Free Support</span>
+                                    <span class="timeline-feature">Ongoing Optimization</span>
+                                    <span class="timeline-feature">Maintenance Plans</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                
+                <div class="process-content" id="website-content">
+                    <div class="timeline-container">
+                        <div class="timeline-line"></div>
+                        <div class="timeline-items">
+                            <div class="timeline-item">
+                                <div class="timeline-step">
+                                    <div class="timeline-number">1</div>
+                                    <div class="timeline-duration">Day 1</div>
+                                </div>
+                                <div class="timeline-content">
+                                    <h3 class="timeline-title">Discovery &amp; Strategy Call</h3>
+                                    <p class="timeline-description">We start with a comprehensive consultation to understand your brand, target audience, and business goals. Our team analyzes your current web presence and competitor landscape to create a winning strategy.</p>
+                                    <div class="timeline-features">
+                                        <span class="timeline-feature">Free Consultation</span>
+                                        <span class="timeline-feature">Brand Analysis</span>
+                                        <span class="timeline-feature">Competitor Research</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-step">
+                                    <div class="timeline-number">2</div>
+                                    <div class="timeline-duration">Days 2-4</div>
+                                </div>
+                                <div class="timeline-content">
+                                    <h3 class="timeline-title">Design &amp; Wireframes</h3>
+                                    <p class="timeline-description">We create detailed wireframes and stunning visual designs that reflect your brand identity. You'll receive mockups for all key pages with detailed functionality specifications and user experience flow.</p>
+                                    <div class="timeline-features">
+                                        <span class="timeline-feature">Custom Design</span>
+                                        <span class="timeline-feature">Mobile Responsive</span>
+                                        <span class="timeline-feature">UX/UI Optimization</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-step">
+                                    <div class="timeline-number">3</div>
+                                    <div class="timeline-duration">Week 1-2</div>
+                                </div>
+                                <div class="timeline-content">
+                                    <h3 class="timeline-title">Development &amp; Content</h3>
+                                    <p class="timeline-description">Our developers build your website using modern frameworks while our content team crafts compelling copy. We ensure fast loading speeds, SEO optimization, and seamless functionality across all devices.</p>
+                                    <div class="timeline-features">
+                                        <span class="timeline-feature">Modern Development</span>
+                                        <span class="timeline-feature">SEO Optimized</span>
+                                        <span class="timeline-feature">Performance Focused</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-step">
+                                    <div class="timeline-number">4</div>
+                                    <div class="timeline-duration">Week 3</div>
+                                </div>
+                                <div class="timeline-content">
+                                    <h3 class="timeline-title">Launch &amp; Training</h3>
+                                    <p class="timeline-description">We deploy your website to a fast, secure hosting environment and provide comprehensive training on content management. You'll also receive analytics setup and conversion tracking implementation.</p>
+                                    <div class="timeline-features">
+                                        <span class="timeline-feature">Secure Hosting</span>
+                                        <span class="timeline-feature">CMS Training</span>
+                                        <span class="timeline-feature">Analytics Setup</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="timeline-item">
+                                <div class="timeline-step">
+                                    <div class="timeline-number">5</div>
+                                    <div class="timeline-duration">Ongoing</div>
+                                </div>
+                                <div class="timeline-content">
+                                    <h3 class="timeline-title">Maintenance &amp; Growth</h3>
+                                    <p class="timeline-description">We provide 30 days of free support plus ongoing maintenance packages. Our team continuously monitors performance, security updates, and optimization opportunities to keep your site performing at its best.</p>
+                                    <div class="timeline-features">
+                                        <span class="timeline-feature">30-Day Free Support</span>
+                                        <span class="timeline-feature">Security Updates</span>
+                                        <span class="timeline-feature">Performance Monitoring</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="audit-cta">
+                    <h3>Get Your Free Website Audit</h3>
+                    <p>Before starting any automation project, we'll analyze your current website for free and provide a detailed report on conversion opportunities, performance issues, and growth potential.</p>
+                    <div class="cta-buttons">
+                        <a href="#contact" class="btn btn-primary"><i class="fas fa-search"></i> Get Free Audit</a>
+                        <a href="#contact" class="btn btn-secondary">Book Discovery Call</a>
+                    </div>
+                    <div class="audit-features">
+                        <div class="audit-feature">
+                            <i class="fas fa-check-circle"></i>
+                            <span>Conversion Rate Analysis</span>
+                        </div>
+                        <div class="audit-feature">
+                            <i class="fas fa-check-circle"></i>
+                            <span>Performance &amp; Speed Test</span>
+                        </div>
+                        <div class="audit-feature">
+                            <i class="fas fa-check-circle"></i>
+                            <span>SEO Optimization Review</span>
+                        </div>
+                        <div class="audit-feature">
+                            <i class="fas fa-check-circle"></i>
+                            <span>Mobile Experience Audit</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="why-need">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Why Your Business Needs <span class="gradient-text">Automation &amp; Websites</span></h2>
+                    <p class="section-subtitle">In today's competitive landscape, manual processes and outdated digital presence are costing you time, money, and opportunities.</p>
+                </div>
+                
+                <div class="problems-grid">
+                    <div class="problem-card">
+                        <i class="fas fa-clock"></i>
+                        <h4>Time Drain</h4>
+                        <p class="problem-stat">40+ hours/week</p>
+                        <p>Average time spent on repetitive administrative tasks that could be automated</p>
+                    </div>
+                    <div class="problem-card">
+                        <i class="fas fa-chart-line-down"></i>
+                        <h4>Lost Revenue</h4>
+                        <p class="problem-stat">$50K+ annually</p>
+                        <p>Potential revenue lost due to missed leads, delayed follow-ups, and inefficient processes</p>
+                    </div>
+                    <div class="problem-card">
+                        <i class="fas fa-users-slash"></i>
+                        <h4>Poor Online Presence</h4>
+                        <p class="problem-stat">70% of customers</p>
+                        <p>Research businesses online before purchasing - outdated websites lose credibility</p>
+                    </div>
+                    <div class="problem-card">
+                        <i class="fas fa-exclamation-triangle"></i>
+                        <h4>Human Error</h4>
+                        <p class="problem-stat">23% error rate</p>
+                        <p>Average error rate in manual data entry and repetitive tasks</p>
+                    </div>
+                </div>
+
+                <div class="needs-grid" style="margin-top: 5rem;">
+                    <div class="needs-content">
+                        <h3>Why Automation is Essential</h3>
+                        <p>Your competitors are already automating. Manual processes that worked five years ago are now competitive disadvantages that drain resources and limit growth.</p>
+                        
+                        <div class="needs-list">
+                            <div class="need-item">
+                                <div class="need-icon"><i class="fas fa-rocket"></i></div>
+                                <div class="need-content">
+                                    <h4>Scale Without Hiring</h4>
+                                    <p>Handle 10x the workload without adding staff. Automation scales infinitely while maintaining quality.</p>
+                                </div>
+                            </div>
+                            <div class="need-item">
+                                <div class="need-icon"><i class="fas fa-shield-alt"></i></div>
+                                <div class="need-content">
+                                    <h4>Eliminate Human Error</h4>
+                                    <p>Automated systems work 24/7 without mistakes, ensuring consistent quality and reliability.</p>
+                                </div>
+                            </div>
+                            <div class="need-item">
+                                <div class="need-icon"><i class="fas fa-dollar-sign"></i></div>
+                                <div class="need-content">
+                                    <h4>Immediate ROI</h4>
+                                    <p>Most automations pay for themselves within 2-4 weeks through time savings and reduced errors.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="needs-content">
+                        <h3>Why Professional Websites Matter</h3>
+                        <p>Your website is often the first impression potential customers have of your business. A professional, fast-loading site builds trust and drives conversions.</p>
+                        
+                        <div class="needs-list">
+                            <div class="need-item">
+                                <div class="need-icon"><i class="fas fa-search"></i></div>
+                                <div class="need-content">
+                                    <h4>Online Visibility</h4>
+                                    <p>92% of businesses are discovered online. Without a strong web presence, you're invisible to potential customers.</p>
+                                </div>
+                            </div>
+                            <div class="need-item">
+                                <div class="need-icon"><i class="fas fa-handshake"></i></div>
+                                <div class="need-content">
+                                    <h4>Build Trust &amp; Credibility</h4>
+                                    <p>Professional websites increase customer confidence and conversion rates by up to 35%.</p>
+                                </div>
+                            </div>
+                            <div class="need-item">
+                                <div class="need-icon"><i class="fas fa-chart-line"></i></div>
+                                <div class="need-content">
+                                    <h4>Generate Leads 24/7</h4>
+                                    <p>Your website works around the clock, capturing leads and driving sales even while you sleep.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="case-studies">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Proven <span class="gradient-text">Results</span></h2>
+                    <p class="section-subtitle">We don't just talk about efficiency; we deliver it. Here's how we've helped businesses like yours.</p>
+                </div>
+                <div class="case-studies-wrapper">
+                    <div class="case-studies-container" id="caseStudiesContainer" style="transform: translateX(0px);">
+                    <div class="case-study-card">
+                        <div class="case-study-header"><p class="case-study-industry">Construction</p><h3 class="case-study-title">End-to-End Workflow Automation</h3></div>
+                        <div class="case-study-body"><h4>The Problem</h4><p>A 50-person construction firm was losing leads and delaying projects due to a chaotic manual process for intake, scheduling, and invoicing.</p><h4>The Solution</h4><p>We built a centralized system that captures all leads, automates follow-ups via SMS, and syncs scheduling with Google Calendar. The system auto-generates invoices upon job completion.</p>
+                            <div class="results-grid"><div class="metric-item"><div class="metric-value positive">-58%</div><div class="metric-label">Admin Task Time</div></div><div class="metric-item"><div class="metric-value positive">+32%</div><div class="metric-label">Lead-to-Meeting Rate</div></div><div class="metric-item"><div class="metric-value positive">7 Days</div><div class="metric-label">Faster Invoice Payments</div></div></div>
+                            <blockquote class="testimonial">"NuraTech automated our entire client intake and billing process. We're saving over 10 hours a week on admin alone. A complete game-changer."<span class="testimonial-author">— David Chen, Owner</span></blockquote>
+                            <h4>Tech Stack</h4><div class="tech-stack"><span class="tag">Next.js</span><span class="tag">Airtable</span><span class="tag">Twilio API</span><span class="tag">Stripe API</span></div>
+                        </div>
+                    </div>
+                    <div class="case-study-card">
+                        <div class="case-study-header"><p class="case-study-industry">Recruitment</p><h3 class="case-study-title">Recruiting Automation Platform</h3></div>
+                        <div class="case-study-body"><h4>The Problem</h4><p>A boutique recruitment agency was spending 20+ hours per week manually searching job boards and tracking candidates in scattered spreadsheets.</p><h4>The Solution</h4><p>We developed a tool that scrapes job sites for new roles, enriches company data automatically, and syncs everything to a custom Notion CRM. Recruiters can now trigger email sequences with one click.</p>
+                            <div class="results-grid"><div class="metric-item"><div class="metric-value">+41%</div><div class="metric-label">Candidate Response</div></div><div class="metric-item"><div class="metric-value">15+ hrs</div><div class="metric-label">Saved Per Week</div></div><div class="metric-item"><div class="metric-value">+25%</div><div class="metric-label">Meetings Booked</div></div></div>
+                            <blockquote class="testimonial">"The custom CRM and job scraping tool they built is incredible. We're filling roles faster than ever and our response rates have skyrocketed."<span class="testimonial-author">— Maria Rodriguez, Lead Recruiter</span></blockquote>
+                            <h4>Tech Stack</h4><div class="tech-stack"><span class="tag">Node.js</span><span class="tag">Puppeteer</span><span class="tag">Notion API</span><span class="tag">TypeScript</span></div>
+                        </div>
+                    </div>
+                    <div class="case-study-card">
+                        <div class="case-study-header"><p class="case-study-industry">Healthcare</p><h3 class="case-study-title">Missed Call Text-Back Automation</h3></div>
+                        <div class="case-study-body"><h4>The Problem</h4><p>A busy medical practice was missing 30% of patient calls, leading to lost appointments and frustrated patients who couldn't reach anyone during peak hours.</p><h4>The Solution</h4><p>We implemented an AI-powered system that instantly texts missed callers with appointment booking links and answers to common questions. The system also escalates urgent calls to on-call staff.</p>
+                            <div class="results-grid"><div class="metric-item"><div class="metric-value">+64%</div><div class="metric-label">Call Recovery Rate</div></div><div class="metric-item"><div class="metric-value">+23%</div><div class="metric-label">New Patient Bookings</div></div><div class="metric-item"><div class="metric-value">-85%</div><div class="metric-label">Missed Opportunities</div></div></div>
+                            <blockquote class="testimonial">"The missed call automation has been a lifesaver. Patients love getting instant responses, and we're booking more appointments than ever. Based on Harvard research, we knew quick response was crucial."<span class="testimonial-author">— Dr. Sarah Williams, Practice Manager</span></blockquote>
+                            <h4>Tech Stack</h4><div class="tech-stack"><span class="tag">Twilio API</span><span class="tag">OpenAI GPT</span><span class="tag">Webhooks</span><span class="tag">Zapier</span></div>
+                        </div>
+                    </div>
+                    <div class="case-study-card">
+                        <div class="case-study-header"><p class="case-study-industry">Legal Services</p><h3 class="case-study-title">AI Missed Call Intelligence</h3></div>
+                        <div class="case-study-body"><h4>The Problem</h4><p>A law firm was losing potential clients because 40% of calls went unanswered during court hours, and manual follow-up was inconsistent and delayed.</p><h4>The Solution</h4><p>We built an intelligent system that analyzes missed calls, categorizes urgency using AI, and sends personalized follow-up messages within 60 seconds. Emergency cases are immediately routed to partners via SMS.</p>
+                            <div class="results-grid"><div class="metric-item"><div class="metric-value">+78%</div><div class="metric-label">Client Conversion</div></div><div class="metric-item"><div class="metric-value">2 min</div><div class="metric-label">Average Response Time</div></div><div class="metric-item"><div class="metric-value">+45%</div><div class="metric-label">Case Intake Rate</div></div></div>
+                            <blockquote class="testimonial">"This AI system has transformed our client acquisition. We never lose a potential client to delayed responses anymore. The intelligent triage is incredibly accurate."<span class="testimonial-author">— James Mitchell, Senior Partner</span></blockquote>
+                            <h4>Tech Stack</h4><div class="tech-stack"><span class="tag">Python</span><span class="tag">OpenAI API</span><span class="tag">Twilio</span><span class="tag">MongoDB</span></div>
+                        </div>
+                    </div>
+                    <div class="case-study-card">
+                        <div class="case-study-header"><p class="case-study-industry">E-commerce</p><h3 class="case-study-title">Automated Invoice Recovery</h3></div>
+                        <div class="case-study-body"><h4>The Problem</h4><p>An online retailer was losing $50K monthly due to abandoned invoices, failed payments, and manual follow-up processes that took days to execute.</p><h4>The Solution</h4><p>We created an intelligent recovery system that automatically retries failed payments, sends personalized reminder sequences, and offers flexible payment options. The system learns from customer behavior to optimize timing.</p>
+                            <div class="results-grid"><div class="metric-item"><div class="metric-value positive">+87%</div><div class="metric-label">Payment Recovery</div></div><div class="metric-item"><div class="metric-value positive">$42K</div><div class="metric-label">Monthly Revenue Recovered</div></div><div class="metric-item"><div class="metric-value positive">-12 hrs</div><div class="metric-label">Weekly Admin Time</div></div></div>
+                            <blockquote class="testimonial">"The automated invoice recovery system pays for itself every month. We're recovering payments we never would have collected manually, and our cash flow has dramatically improved."<span class="testimonial-author">— Amanda Foster, CFO</span></blockquote>
+                            <h4>Tech Stack</h4><div class="tech-stack"><span class="tag">Stripe API</span><span class="tag">React</span><span class="tag">Node.js</span><span class="tag">PostgreSQL</span></div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="carousel-controls">
+                        <button class="carousel-btn" id="prevBtn" disabled=""><i class="fas fa-chevron-left"></i> Previous</button>
+                        <div class="carousel-dots" id="carouselDots"><div class="carousel-dot active"></div><div class="carousel-dot"></div><div class="carousel-dot"></div></div>
+                        <button class="carousel-btn" id="nextBtn">Next <i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">The Minds Behind the <span class="gradient-text">Machine</span></h2>
+                    <p class="section-subtitle">We're more than just a vendor; we're your dedicated engineering partners, committed to understanding your business from the inside out.</p>
+                </div>
+                <div class="team-wrapper">
+                    <div class="team-container" id="teamContainer" style="transform: translateX(0%);">
+                        <div class="team-member">
+                            <div class="about-grid">
+                                <div class="about-image"><img src="img/shehab.png" alt="Shehab, Forward Deployed Engineer"></div>
+                                <div class="about-content">
+                                    <p class="about-title">Forward Deployed Engineer at NuraTech</p>
+                                    <h3 class="about-name">Hello, I'm Shehab.</h3>
+                                    <div class="about-bio">
+                                        <p>I'm a full-stack engineer and implementation specialist who builds, deploys, and supports production-ready web applications and automation systems. My job is to work directly with you to translate real business problems into scalable, efficient technical solutions.</p>
+                                        <p>With a hands-on approach across the entire project lifecycle—from requirements gathering and infrastructure setup to post-launch support—I ensure that what we build delivers tangible value. The same focus and problem-solving I use for mountaineering applies here: we navigate complex systems together to reach the summit.</p>
+                                    </div>
+                                    <div class="about-stats">
+                                        <div class="about-stat"><div class="about-stat-number">15+</div><div class="about-stat-label">Projects Completed</div></div>
+                                        <div class="about-stat"><div class="about-stat-number">3+</div><div class="about-stat-label">Years of Experience</div></div>
+                                        <div class="about-stat"><div class="about-stat-number">20+</div><div class="about-stat-label">Technologies Used</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-member">
+                            <div class="about-grid">
+                                <div class="about-image"><img src="img/jeff.png" alt="Jeff, Field Engineer &amp; Implementation Specialist"></div>
+                                <div class="about-content">
+                                    <p class="about-title">Field Engineer &amp; Implementation Specialist</p>
+                                    <h3 class="about-name">Meet Jeff Z.</h3>
+                                    <div class="about-bio">
+                                        <p>Jeff is our field operations specialist who ensures smooth deployment and onboarding across all client environments. With extensive experience in enterprise systems integration, he specializes in getting your team up and running with minimal disruption to daily operations.</p>
+                                        <p>Whether it's training your staff on new automation workflows, troubleshooting deployment issues on-site, or optimizing system performance post-launch, Jeff ensures that every implementation feels seamless. His background in both technical systems and client relations makes him the perfect bridge between complex technology and practical business needs.</p>
+                                    </div>
+                                    <div class="about-stats">
+                                        <div class="about-stat"><div class="about-stat-number">50+</div><div class="about-stat-label">Deployments Managed</div></div>
+                                        <div class="about-stat"><div class="about-stat-number">5+</div><div class="about-stat-label">Years Field Experience</div></div>
+                                        <div class="about-stat"><div class="about-stat-number">98%</div><div class="about-stat-label">Client Satisfaction</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="team-member">
+                            <div class="about-grid">
+                                <div class="about-image"><img src="img/adam.png" alt="Adam, Sales &amp; Business Development Director"></div>
+                                <div class="about-content">
+                                    <p class="about-title">Sales &amp; Business Development Director</p>
+                                    <h3 class="about-name">This is Adam A.</h3>
+                                    <div class="about-bio">
+                                        <p>Adam leads our business development and client partnerships, focusing on understanding your unique challenges and translating them into actionable automation strategies. With a background in both sales and operations management, he excels at identifying high-impact opportunities for efficiency gains.</p>
+                                        <p>His consultative approach ensures that every solution we propose delivers measurable ROI. Adam works closely with leadership teams to map out comprehensive automation roadmaps, prioritize implementations, and ensure that our solutions scale with your business growth. He's your strategic partner in operational excellence.</p>
+                                    </div>
+                                    <div class="about-stats">
+                                        <div class="about-stat"><div class="about-stat-number">$2M+</div><div class="about-stat-label">Client Savings Generated</div></div>
+                                        <div class="about-stat"><div class="about-stat-number">7+</div><div class="about-stat-label">Years Sales Leadership</div></div>
+                                        <div class="about-stat"><div class="about-stat-number">100+</div><div class="about-stat-label">Strategic Partnerships</div></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-controls">
+                        <button class="carousel-btn" id="teamPrevBtn" disabled=""><i class="fas fa-chevron-left"></i> Previous</button>
+                        <div class="carousel-dots" id="teamCarouselDots"><div class="carousel-dot active"></div><div class="carousel-dot"></div><div class="carousel-dot"></div></div>
+                        <button class="carousel-btn" id="teamNextBtn">Next <i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="support">
+            <div class="container">
+                <div class="support-hero">
+                    <h2>Your Dedicated Tech Team, Always There for You</h2>
+                    <p>We don't just build your solution and disappear. From day one through long-term success, we're your personal tech team, answering questions, solving problems, and ensuring you're never left figuring things out alone.</p>
+                </div>
+                
+                <div class="support-features">
+                    <div class="support-feature">
+                        <i class="fas fa-comments"></i>
+                        <h3>Always Available Support</h3>
+                        <p>Got a question at 2 PM or 2 AM? We're here. Our team provides ongoing support via phone, email, and screen sharing to help you navigate any technical challenge, big or small.</p>
+                    </div>
+                    
+                    <div class="support-feature">
+                        <i class="fas fa-user-friends"></i>
+                        <h3>Your Personal Tech Partners</h3>
+                        <p>Think of us as your in-house tech team that just happens to work remotely. We learn your business inside and out, so every interaction feels personal and relevant to your specific needs.</p>
+                    </div>
+                    
+                    <div class="support-feature">
+                        <i class="fas fa-tools"></i>
+                        <h3>Proactive Problem Solving</h3>
+                        <p>We don't wait for problems to happen. Our team monitors your systems, suggests improvements, and reaches out with solutions before issues become headaches for your business.</p>
+                    </div>
+                    
+                    <div class="support-feature">
+                        <i class="fas fa-graduation-cap"></i>
+                        <h3>Ongoing Training &amp; Guidance</h3>
+                        <p>Technology evolves, and so should your team's skills. We provide continuous training, documentation updates, and hands-on guidance to keep everyone confident and capable.</p>
+                    </div>
+                    
+                    <div class="support-feature">
+                        <i class="fas fa-rocket"></i>
+                        <h3>Growth-Focused Partnership</h3>
+                        <p>As your business grows, your tech needs change. We're not just maintaining what exists—we're actively planning and implementing solutions for your future success.</p>
+                    </div>
+                    
+                    <div class="support-feature">
+                        <i class="fas fa-shield-alt"></i>
+                        <h3>Complete Peace of Mind</h3>
+                        <p>Sleep easy knowing that any technical issue, question, or concern will be handled quickly by people who truly understand your business and care about your success.</p>
+                    </div>
+                </div>
+                
+                <div class="support-commitment">
+                    <h3>Our Partnership Promise</h3>
+                    <p>When you work with NuraTech, you're not just getting a service provider—you're gaining a dedicated tech team that's invested in your long-term success. We stay with you through every challenge, celebration, and growth milestone.</p>
+                    
+                    <div class="support-stats">
+                        <div class="support-stat">
+                            <div class="support-stat-number">9AM-6PM</div>
+                            <div class="support-stat-label">Business Support</div>
+                        </div>
+                        <div class="support-stat">
+                            <div class="support-stat-number">&lt;2 hrs</div>
+                            <div class="support-stat-label">Average Response Time</div>
+                        </div>
+                        <div class="support-stat">
+                            <div class="support-stat-number">100%</div>
+                            <div class="support-stat-label">Client Satisfaction</div>
+                        </div>
+                        <div class="support-stat">
+                            <div class="support-stat-number">3+ yrs</div>
+                            <div class="support-stat-label">Average Partnership</div>
+                        </div>
+                    </div>
+                    
+                    <div class="cta-buttons" style="margin-top: 2rem;">
+                        <a href="#contact" class="btn btn-primary"><i class="fas fa-phone"></i> Talk to Your Future Tech Team</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="tools">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Popular Automation <span class="gradient-text">Playbooks</span></h2>
+                    <p class="section-subtitle">Explore some of our most requested, high-impact automations that deliver immediate ROI for our clients.</p>
+                </div>
+                <div class="tools-grid">
+                    <div class="tool-card"><div class="tool-header"><i class="fas fa-star"></i><h3 class="tool-title">Google Review Automation</h3></div><p class="tool-description">Automatically sends a review request to customers after a successful purchase or service, boosting your online reputation.</p><p class="tool-metric">+35%</p><p class="tool-description">Increase in 5-Star Reviews</p></div>
+                    <div class="tool-card"><div class="tool-header"><i class="fas fa-robot"></i><h3 class="tool-title">AI Auto-Reply</h3></div><p class="tool-description">Uses AI to instantly answer common customer questions via email or chat, freeing up your team and improving response times.</p><p class="tool-metric">-70%</p><p class="tool-description">Reduction in Response Time</p></div>
+                    <div class="tool-card"><div class="tool-header"><i class="fas fa-phone-slash"></i><h3 class="tool-title">AI Missed Call Text-Back</h3></div><p class="tool-description">Instantly texts any missed call, engaging potential customers and capturing leads that would otherwise be lost.</p><p class="tool-metric">+15%</p><p class="tool-description">More Leads Captured</p></div>
+                    <div class="tool-card"><div class="tool-header"><i class="fas fa-user-plus"></i><h3 class="tool-title">Client Onboarding</h3></div><p class="tool-description">Automates welcome emails, contract signing (via DocuSign), and intake form collection for a seamless new client experience.</p><p class="tool-metric">-8 hrs/wk</p><p class="tool-description">Saved on Admin Tasks</p></div>
+                    <div class="tool-card"><div class="tool-header"><i class="fas fa-share-alt"></i><h3 class="tool-title">Social Content Scheduler</h3></div><p class="tool-description">Turns a simple spreadsheet or database into a powerful content calendar that automatically posts to all your social channels.</p><p class="tool-metric">100%</p><p class="tool-description">Consistency in Posting</p></div>
+                    <div class="tool-card"><div class="tool-header"><i class="fas fa-shopping-cart"></i><h3 class="tool-title">Abandoned Cart Recovery</h3></div><p class="tool-description">Triggers a multi-step email &amp; SMS sequence to customers who abandon their cart, recovering lost revenue effortlessly.</p><p class="tool-metric">+12%</p><p class="tool-description">Revenue Recovered</p></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="industries">
+            <div class="container">
+                <div class="section-header">
+                    <h2 class="section-title">Industries We <span class="gradient-text">Serve</span></h2>
+                    <p class="section-subtitle">We apply our expertise to solve common bottlenecks across a wide range of industries, turning operational chaos into a competitive advantage.</p>
+                </div>
+                <div class="industries-grid">
+                    <div class="industry-card"><i class="fas fa-hard-hat"></i><h3 class="industry-title">Construction</h3><p class="industry-description">Fixing manual lead intake, inefficient job scheduling, and delayed invoicing.</p><div class="industry-tags"><span class="tag">Lead Automation</span><span class="tag">Scheduling</span><span class="tag">Invoicing</span></div></div>
+                    <div class="industry-card"><i class="fas fa-users-cog"></i><h3 class="industry-title">Recruitment</h3><p class="industry-description">Solving tedious candidate sourcing, scattered applicant tracking, and manual outreach.</p><div class="industry-tags"><span class="tag">Web Scraping</span><span class="tag">Custom CRM</span><span class="tag">Email Sequences</span></div></div>
+                    <div class="industry-card"><i class="fas fa-heartbeat"></i><h3 class="industry-title">Healthcare</h3><p class="industry-description">Eliminating paper intake forms, appointment chaos, and lack of EMR integration.</p><div class="industry-tags"><span class="tag">EMR Sync</span><span class="tag">Patient Portals</span><span class="tag">HIPAA-Compliance</span></div></div>
+                    <div class="industry-card"><i class="fas fa-home"></i><h3 class="industry-title">Real Estate</h3><p class="industry-description">Unifying leads from Zillow &amp; Realtor.com, automating follow-ups, and sending property alerts.</p><div class="industry-tags"><span class="tag">Lead Routing</span><span class="tag">Drip Campaigns</span><span class="tag">MLS Integration</span></div></div>
+                    <div class="industry-card"><i class="fas fa-calculator"></i><h3 class="industry-title">Finance &amp; Accounting</h3><p class="industry-description">Automating expense reporting, client onboarding, and month-end report generation.</p><div class="industry-tags"><span class="tag">OCR Scanning</span><span class="tag">Secure Portals</span><span class="tag">Reporting</span></div></div>
+                    <div class="industry-card"><i class="fas fa-shopping-cart"></i><h3 class="industry-title">E-commerce</h3><p class="industry-description">Managing multi-channel inventory, automating customer support, and recovering abandoned carts.</p><div class="industry-tags"><span class="tag">Inventory Sync</span><span class="tag">Support Bots</span><span class="tag">Shopify API</span></div></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="faq">
+            <div class="container">
+                <div class="section-header"><h2 class="section-title">Frequently Asked <span class="gradient-text">Questions</span></h2></div>
+                <div class="faq-container">
+                    <div class="faq-item"><button class="faq-question">What is the typical process for a project?<i class="fas fa-plus"></i></button><div class="faq-answer"><p>Our process is simple and transparent:</p><p><strong>1) Discovery:</strong> A free call to understand your bottlenecks.<br><strong>2) Plan:</strong> We deliver a detailed project scope and fixed-price quote.<br><strong>3) Build:</strong> We develop and test your solution with regular check-ins.<br><strong>4) Launch:</strong> We deploy the solution and provide full training and documentation.</p></div></div>
+                    <div class="faq-item"><button class="faq-question">How much does a custom automation cost?<i class="fas fa-plus"></i></button><div class="faq-answer"><p>Every automation project is unique, and pricing depends on complexity, integrations, and specific business requirements. We always provide a detailed, fixed-price quote after our discovery phase, so you know exactly what to expect with no surprises or hidden costs.</p></div></div>
+                    <div class="faq-item"><button class="faq-question">How do you handle security and data privacy?<i class="fas fa-plus"></i></button><div class="faq-answer"><p>Security is paramount. We follow industry best practices for data handling, use encrypted connections for all data transfer, and never store sensitive credentials. We maintain compliance with HIPAA, PCI, and GDPR standards as required by your industry. We are happy to review our security protocols and sign an NDA before any project begins.</p></div></div>
+                    <div class="faq-item"><button class="faq-question">Can you integrate with the software I already use?<i class="fas fa-plus"></i></button><div class="faq-answer"><p>Absolutely. Our specialty is connecting the tools you already love and use. We have extensive experience integrating with hundreds of APIs, from common platforms like Google Suite, CRMs, and QuickBooks to industry-specific software.</p></div></div>
+                </div>
+            </div>
+        </section>
+
+        <section id="contact">
+            <div class="container">
+                <div class="contact-content">
+                    <div class="contact-info"><h2 class="section-title" style="text-align: left; margin: 0 0 1.5rem 0;">Let's Fix What's <span class="gradient-text">Broken</span></h2><p>Ready to eliminate bottlenecks and reclaim your time? Fill out the form for a free, no-obligation diagnosis of your workflow.</p><div class="contact-links"><a href="mailto:hello@nuratech.com" class="contact-link"><i class="fas fa-envelope"></i> hello@nuratech.com</a><a href="#" class="contact-link"><i class="fab fa-linkedin"></i> NuraTech on LinkedIn</a></div></div>
+                    <form id="contactForm" class="contact-form" onsubmit="return false;">
+                        <div class="form-group"><label for="name">Full Name</label><input type="text" id="name" name="name" required=""></div>
+                        <div class="form-group"><label for="company">Company</label><input type="text" id="company" name="company"></div>
+                        <div class="form-group"><label for="email">Email</label><input type="email" id="email" name="email" required=""></div>
+                        <div class="form-group"><label for="problem">What's the biggest bottleneck in your business right now?</label><textarea id="problem" name="problem" required=""></textarea></div>
+                        <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">Send Inquiry</button><p id="form-status"></p>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container"><p>© 2025 NuraTech Systems. All rights reserved.</p></div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Process Tabs Logic
+            const processTabs = document.querySelectorAll('.process-tab');
+            const processContents = document.querySelectorAll('.process-content');
+            
+            processTabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    const targetTab = tab.getAttribute('data-tab');
+                    
+                    // Remove active class from all tabs and contents
+                    processTabs.forEach(t => t.classList.remove('active'));
+                    processContents.forEach(c => c.classList.remove('active'));
+                    
+                    // Add active class to clicked tab and corresponding content
+                    tab.classList.add('active');
+                    document.getElementById(targetTab + '-content').classList.add('active');
+                });
+            });
+
+            // FAQ Accordion Logic
+            const faqQuestions = document.querySelectorAll('.faq-question');
+            faqQuestions.forEach(question => {
+                question.addEventListener('click', () => {
+                    const answer = question.nextElementSibling;
+                    const isActive = question.classList.contains('active');
+                    faqQuestions.forEach(q => {
+                        q.classList.remove('active');
+                        q.nextElementSibling.style.maxHeight = null;
+                    });
+                    if (!isActive) {
+                        question.classList.add('active');
+                        answer.style.maxHeight = answer.scrollHeight + "px";
+                    }
+                });
+            });
+
+            // Carousel functionality
+            const caseStudiesContainer = document.getElementById('caseStudiesContainer');
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+            const dotsContainer = document.getElementById('carouselDots');
+            
+            if (caseStudiesContainer && prevBtn && nextBtn && dotsContainer) {
+                const cards = caseStudiesContainer.querySelectorAll('.case-study-card');
+                let currentIndex = 0;
+                const isMobile = window.innerWidth <= 768;
+                const cardsPerView = isMobile ? 1 : 2;
+                const totalSlides = Math.ceil(cards.length / cardsPerView);
+                
+                // Create dots
+                for (let i = 0; i < totalSlides; i++) {
+                    const dot = document.createElement('div');
+                    dot.classList.add('carousel-dot');
+                    if (i === 0) dot.classList.add('active');
+                    dot.addEventListener('click', () => goToSlide(i));
+                    dotsContainer.appendChild(dot);
+                }
+                
+                const updateCarousel = () => {
+                    const cardWidth = cards[0].offsetWidth + (isMobile ? 0 : 40); // 40px for gap
+                    const translateX = currentIndex * cardWidth * cardsPerView;
+                    caseStudiesContainer.style.transform = `translateX(-${translateX}px)`;
+                    
+                    // Update dots
+                    document.querySelectorAll('.carousel-dot').forEach((dot, index) => {
+                        dot.classList.toggle('active', index === currentIndex);
+                    });
+                    
+                    // Update button states
+                    prevBtn.disabled = currentIndex === 0;
+                    nextBtn.disabled = currentIndex === totalSlides - 1;
+                };
+                
+                const goToSlide = (index) => {
+                    currentIndex = Math.max(0, Math.min(index, totalSlides - 1));
+                    updateCarousel();
+                };
+                
+                // Auto-swipe functionality
+                let autoSwipeInterval;
+                const autoSwipeDelay = 4000; // 4 seconds
+                
+                const startAutoSwipe = () => {
+                    autoSwipeInterval = setInterval(() => {
+                        const nextIndex = currentIndex + 1;
+                        if (nextIndex >= totalSlides) {
+                            goToSlide(0); // Loop back to first slide
+                        } else {
+                            goToSlide(nextIndex);
+                        }
+                    }, autoSwipeDelay);
+                };
+                
+                const stopAutoSwipe = () => {
+                    clearInterval(autoSwipeInterval);
+                };
+                
+                // Pause auto-swipe on hover
+                caseStudiesContainer.addEventListener('mouseenter', stopAutoSwipe);
+                caseStudiesContainer.addEventListener('mouseleave', startAutoSwipe);
+                
+                // Pause auto-swipe when user interacts with controls
+                prevBtn.addEventListener('click', () => {
+                    stopAutoSwipe();
+                    goToSlide(currentIndex - 1);
+                    setTimeout(startAutoSwipe, autoSwipeDelay); // Restart after delay
+                });
+                
+                nextBtn.addEventListener('click', () => {
+                    stopAutoSwipe();
+                    goToSlide(currentIndex + 1);
+                    setTimeout(startAutoSwipe, autoSwipeDelay); // Restart after delay
+                });
+                
+                // Update dot click handlers to pause auto-swipe
+                document.querySelectorAll('.carousel-dot').forEach((dot, index) => {
+                    dot.addEventListener('click', () => {
+                        stopAutoSwipe();
+                        goToSlide(index);
+                        setTimeout(startAutoSwipe, autoSwipeDelay); // Restart after delay
+                    });
+                });
+                
+                // Initialize carousel and start auto-swipe
+                updateCarousel();
+                startAutoSwipe();
+                
+                // Handle window resize
+                window.addEventListener('resize', () => {
+                    const newIsMobile = window.innerWidth <= 768;
+                    if (newIsMobile !== isMobile) {
+                        location.reload(); // Reload to recalculate layout
+                    }
+                });
+            }
+
+            // Team Carousel functionality
+            const teamContainer = document.getElementById('teamContainer');
+            const teamPrevBtn = document.getElementById('teamPrevBtn');
+            const teamNextBtn = document.getElementById('teamNextBtn');
+            const teamDotsContainer = document.getElementById('teamCarouselDots');
+            
+            if (teamContainer && teamPrevBtn && teamNextBtn && teamDotsContainer) {
+                const teamMembers = teamContainer.querySelectorAll('.team-member');
+                let teamCurrentIndex = 0;
+                const teamTotalSlides = teamMembers.length;
+                
+                // Create dots for team carousel
+                for (let i = 0; i < teamTotalSlides; i++) {
+                    const dot = document.createElement('div');
+                    dot.classList.add('carousel-dot');
+                    if (i === 0) dot.classList.add('active');
+                    dot.addEventListener('click', () => goToTeamSlide(i));
+                    teamDotsContainer.appendChild(dot);
+                }
+                
+                const updateTeamCarousel = () => {
+                    const translateX = teamCurrentIndex * 100;
+                    teamContainer.style.transform = `translateX(-${translateX}%)`;
+                    
+                    // Update dots
+                    document.querySelectorAll('#teamCarouselDots .carousel-dot').forEach((dot, index) => {
+                        dot.classList.toggle('active', index === teamCurrentIndex);
+                    });
+                    
+                    // Update button states
+                    teamPrevBtn.disabled = teamCurrentIndex === 0;
+                    teamNextBtn.disabled = teamCurrentIndex === teamTotalSlides - 1;
+                };
+                
+                const goToTeamSlide = (index) => {
+                    teamCurrentIndex = Math.max(0, Math.min(index, teamTotalSlides - 1));
+                    updateTeamCarousel();
+                };
+                
+                // Team auto-swipe functionality
+                let teamAutoSwipeInterval;
+                const teamAutoSwipeDelay = 12000; // 12 seconds for team carousel
+                
+                const startTeamAutoSwipe = () => {
+                    teamAutoSwipeInterval = setInterval(() => {
+                        const nextIndex = teamCurrentIndex + 1;
+                        if (nextIndex >= teamTotalSlides) {
+                            goToTeamSlide(0); // Loop back to first slide
+                        } else {
+                            goToTeamSlide(nextIndex);
+                        }
+                    }, teamAutoSwipeDelay);
+                };
+                
+                const stopTeamAutoSwipe = () => {
+                    clearInterval(teamAutoSwipeInterval);
+                };
+                
+                // Pause auto-swipe on hover
+                teamContainer.addEventListener('mouseenter', stopTeamAutoSwipe);
+                teamContainer.addEventListener('mouseleave', startTeamAutoSwipe);
+                
+                // Pause auto-swipe when user interacts with controls
+                teamPrevBtn.addEventListener('click', () => {
+                    stopTeamAutoSwipe();
+                    goToTeamSlide(teamCurrentIndex - 1);
+                    setTimeout(startTeamAutoSwipe, teamAutoSwipeDelay);
+                });
+                
+                teamNextBtn.addEventListener('click', () => {
+                    stopTeamAutoSwipe();
+                    goToTeamSlide(teamCurrentIndex + 1);
+                    setTimeout(startTeamAutoSwipe, teamAutoSwipeDelay);
+                });
+                
+                // Update dot click handlers to pause auto-swipe
+                document.querySelectorAll('#teamCarouselDots .carousel-dot').forEach((dot, index) => {
+                    dot.addEventListener('click', () => {
+                        stopTeamAutoSwipe();
+                        goToTeamSlide(index);
+                        setTimeout(startTeamAutoSwipe, teamAutoSwipeDelay);
+                    });
+                });
+                
+                // Initialize team carousel and start auto-swipe
+                updateTeamCarousel();
+                startTeamAutoSwipe();
+            }
+
+            const navbar = document.getElementById('navbar');
+            const themeToggle = document.getElementById('themeToggle');
+            const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+            const mobileMenu = document.getElementById('mobileMenu');
+            const mobileLinks = document.querySelectorAll('.mobile-link');
+            const contactForm = document.getElementById('contactForm');
+            const formStatus = document.getElementById('form-status');
+            
+            window.addEventListener('scroll', () => { navbar.classList.toggle('scrolled', window.scrollY > 50); });
+
+            const applyTheme = (theme) => {
+                document.body.setAttribute('data-theme', theme);
+                localStorage.setItem('theme', theme);
+                if(themeToggle) themeToggle.innerHTML = theme === 'dark' ? '<i class="fas fa-sun"></i>' : '<i class="fas fa-moon"></i>';
+            };
+            if(themeToggle) themeToggle.addEventListener('click', () => applyTheme(document.body.getAttribute('data-theme') === 'dark' ? 'light' : 'dark'));
+            applyTheme(localStorage.getItem('theme') || 'light');
+
+            const toggleMobileMenu = () => mobileMenu.classList.toggle('show');
+            mobileMenuToggle.addEventListener('click', toggleMobileMenu);
+            mobileLinks.forEach(link => link.addEventListener('click', toggleMobileMenu));
+            
+            const particlesContainer = document.getElementById('particles');
+            if (particlesContainer) {
+                for (let i = 0; i < 25; i++) {
+                    let p = document.createElement('div');
+                    p.className = 'particle';
+                    p.style.cssText = `left: ${Math.random()*100}%; top: ${Math.random()*100}%; animation-delay: ${Math.random()*8}s; animation-duration: ${8+Math.random()*8}s;`;
+                    particlesContainer.appendChild(p);
+                }
+            }
+
+            // Initialize EmailJS
+            (function() {
+                if (typeof emailjs !== 'undefined') {
+                    emailjs.init("tD800sHRVk1huaTNX");
+                    console.log('EmailJS initialized successfully');
+                } else {
+                    console.error('EmailJS library failed to load');
+                }
+            })();
+
+            if (contactForm) {
+                console.log('Contact form found, adding event listener');
+                contactForm.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    console.log('Form submitted, preventing default');
+                    
+                    // Show loading state
+                    formStatus.textContent = 'Sending...';
+                    formStatus.style.color = 'var(--text-secondary)';
+                    
+                    // Prepare email parameters
+                    const templateParams = {
+                        from_name: document.getElementById('name').value,
+                        from_email: document.getElementById('email').value,
+                        company: document.getElementById('company').value || 'Not provided',
+                        message: document.getElementById('problem').value,
+                        to_email: 'shehabahmed12@gmail.com'
+                    };
+                    
+                    // Send email via EmailJS
+                    if (typeof emailjs !== 'undefined') {
+                        emailjs.send('service_j2be26s', 'template_s60tosl', templateParams)
+                        .then(function(response) {
+                            console.log('SUCCESS!', response.status, response.text);
+                            formStatus.textContent = 'Success! We will be in touch shortly.';
+                            formStatus.style.color = 'green';
+                            contactForm.reset();
+                            setTimeout(() => { formStatus.textContent = ''; }, 5000);
+                        }, function(error) {
+                            console.log('FAILED...', error);
+                            formStatus.textContent = 'Sorry, there was an error sending your message. Please try again or contact us directly.';
+                            formStatus.style.color = 'red';
+                            setTimeout(() => { formStatus.textContent = ''; }, 8000);
+                        });
+                    } else {
+                        formStatus.textContent = 'EmailJS library failed to load. Please try again later.';
+                        formStatus.style.color = 'red';
+                        setTimeout(() => { formStatus.textContent = ''; }, 8000);
+                    }
+                });
+            }
+        });
+    </script>
+
+</body></html>

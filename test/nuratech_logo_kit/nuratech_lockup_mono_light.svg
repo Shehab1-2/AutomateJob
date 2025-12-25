@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(20,20) scale(0.45)">
+    <rect x="4" y="4" width="56" height="56" rx="14" ry="14" fill="#ffffff" stroke="#ffffff"/>
+    <rect x="17" y="16" width="6" height="32" rx="3" fill="#0b1220"/>
+    <rect x="41" y="16" width="6" height="32" rx="3" fill="#0b1220"/>
+    <path d="M20 20 L44 44" stroke="#0b1220" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="26" cy="26" r="2.2" fill="#0b1220"/>
+    <circle cx="32" cy="32" r="2.2" fill="#0b1220"/>
+    <circle cx="38" cy="38" r="2.2" fill="#0b1220"/>
+    <path d="M46 44 L40 40 L40 48 Z" fill="#0b1220"/>
+  </g>
+  <g transform="translate(180, 60)">
+    <text x="0" y="90" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif"
+          font-weight="800" font-size="120" fill="#ffffff" stroke="#0b1220" stroke-width="2" letter-spacing="0.5">NuraTech</text>
+    <text x="6" y="150" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif"
+          font-weight="600" font-size="46" fill="#0b1220" opacity="0.92" letter-spacing="1">Systems</text>
+  </g>
+</svg>

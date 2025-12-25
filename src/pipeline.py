@@ -38,7 +38,7 @@ def log_message(message: str, log_file=None):
         log_file.write(formatted_message + "\n")
         log_file.flush()
 
-def run_script(script_name, log_file, test_mode=False):
+def run_script(script_name, log_file, test_mode=False, no_explanation=False):
     """Run a Python script and capture its output, passing --test flag if needed."""
     script_path = SCRIPT_NAMES[script_name]
     
@@ -53,6 +53,9 @@ def run_script(script_name, log_file, test_mode=False):
     if script_name == "scraper" and test_mode:
         command.append('--test')
         log_message("   -> Running scraper in TEST mode.", log_file)
+    if script_name == "analyzer" and no_explanation:
+        command.append('--no-explanation')
+        log_message("   -> Running analyzer with no explanations.", log_file)
     
     try:
         result = subprocess.run(
@@ -283,7 +286,7 @@ def generate_pipeline_summary(log_file):
     
     log_message("=" * 60, log_file)
 
-def run_complete_pipeline(test_mode=False):
+def run_complete_pipeline(test_mode=False, no_explanation=False):
     """Run the complete job processing pipeline."""
     log_file = setup_logging()
     
@@ -292,14 +295,16 @@ def run_complete_pipeline(test_mode=False):
         log_message("🔄 STARTING AUTOMATED JOB PIPELINE (TEST MODE)", log_file)
     else:
         log_message("🔄 STARTING AUTOMATED JOB PIPELINE (LIVE MODE)", log_file)
+    if no_explanation:
+        log_message("   -> Analyzer will skip explanations", log_file)
     log_message("=" * 50, log_file)
     
     pipeline_steps = ["scraper", "condenser", "filter", "analyzer"]
     success_count = 0
     
     for step in pipeline_steps:
-        # Pass the test_mode flag to the run_script function
-        if run_script(step, log_file, test_mode):
+        # Pass the test_mode and no_explanation flags to the run_script function
+        if run_script(step, log_file, test_mode, no_explanation):
             success_count += 1
         else:
             log_message(f"🛑 Pipeline stopped at {step} due to failure", log_file)
@@ -323,18 +328,22 @@ def main():
     # === CHANGE: Add argument parser ===
     parser = argparse.ArgumentParser(description="Run the job processing pipeline.")
     parser.add_argument('--test', action='store_true', help='Run the pipeline in test mode.')
+    parser.add_argument('--no-explanation', action='store_true', help='Skip AI-generated explanations in analyzer.')
     args = parser.parse_args()
 
     if args.test:
         print("🧪 Pipeline starting in TEST mode.")
     else:
         print("🚀 Pipeline starting in LIVE mode.")
+    
+    if args.no_explanation:
+        print("📝 Analyzer will skip explanations.")
         
     print("🔧 Running pipeline once manually...")
     print()
     
-    # Pass the test flag to the pipeline runner
-    run_complete_pipeline(test_mode=args.test)
+    # Pass the test and no_explanation flags to the pipeline runner
+    run_complete_pipeline(test_mode=args.test, no_explanation=args.no_explanation)
 
 if __name__ == "__main__":
     main()

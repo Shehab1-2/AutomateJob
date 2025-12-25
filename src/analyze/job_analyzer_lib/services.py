@@ -14,9 +14,10 @@ from .utils import Logger, JobEvaluationError, ApplicationTypeDetector
 class OpenAIClient:
     """Enhanced OpenAI client with better error handling and token management."""
     
-    def __init__(self, logger: Logger):
+    def __init__(self, logger: Logger, skip_explanations: bool = False):
         self.client = OpenAI()
         self.logger = logger
+        self.skip_explanations = skip_explanations
         self.encoding = tiktoken.get_encoding("cl100k_base")
         self.cumulative_tokens = 0
         self.cumulative_cost = 0.0
@@ -95,48 +96,89 @@ class OpenAIClient:
 
     def evaluate_job_fit(self, job: Dict[str, Any], resume_text: str) -> Dict[str, Any]:
         """Evaluate job fit using enhanced prompt and model selection logic."""
-        # --- CHANGE 3: Get both prompts and pass them to the API call ---
-        system_prompt, user_prompt = self._create_evaluation_prompt(job, resume_text)
-        content, tokens_primary, cost_primary = self._make_api_call(system_prompt, user_prompt, Config.PRIMARY_MODEL)
+        if self.skip_explanations:
+            # Skip AI explanation and return placeholder
+            system_prompt, user_prompt = self._create_evaluation_prompt(job, resume_text)
+            content, tokens_primary, cost_primary = self._make_api_call(system_prompt, user_prompt, Config.PRIMARY_MODEL)
 
-        try:
-            # Log the raw response for debugging
-            self.logger.info(f"📋 Raw OpenAI response (first 200 chars): {content[:200]}")
-            
-            # Clean the response - remove markdown code blocks if present
-            cleaned_content = self._clean_json_response(content)
-            
-            result = json.loads(cleaned_content)
-            self._validate_evaluation_result(result)
-            explanation = result.get("explanation", "")
-            
-            if self._needs_gpt4_evaluation(result, explanation):
-                self.logger.info("🔁 Using backup model for higher quality evaluation")
-                self.gpt4_usage_count += 1
-                content, tokens_backup, cost_backup = self._make_api_call(system_prompt, user_prompt, Config.BACKUP_MODEL)
+            try:
                 cleaned_content = self._clean_json_response(content)
                 result = json.loads(cleaned_content)
                 self._validate_evaluation_result(result)
-                total_tokens = tokens_primary + tokens_backup
-                total_cost = cost_primary + cost_backup
-            else:
+                
+                # Override explanation with placeholder text
+                result["explanation"] = "requested no explanation"
+                
                 total_tokens = tokens_primary
                 total_cost = cost_primary
-            
-            explanation_tokens = len(self.encoding.encode(result["explanation"]))
-            self.cumulative_tokens += total_tokens
-            self.cumulative_cost += total_cost
-            self._log_evaluation_summary(job, result, explanation_tokens, total_tokens, total_cost)
-            return result
-        except json.JSONDecodeError as e:
-            self.logger.error(f"JSON decode error: {e}\nRaw content: {content}")
-            raise JobEvaluationError(f"Failed to parse OpenAI response: {e}")
+                explanation_tokens = len("requested no explanation")
+                
+                self.cumulative_tokens += total_tokens
+                self.cumulative_cost += total_cost
+                self._log_evaluation_summary(job, result, explanation_tokens, total_tokens, total_cost)
+                return result
+            except json.JSONDecodeError as e:
+                self.logger.error(f"JSON decode error: {e}\nRaw content: {content}")
+                raise JobEvaluationError(f"Failed to parse OpenAI response: {e}")
+        else:
+            # Original logic for full explanations
+            system_prompt, user_prompt = self._create_evaluation_prompt(job, resume_text)
+            content, tokens_primary, cost_primary = self._make_api_call(system_prompt, user_prompt, Config.PRIMARY_MODEL)
+
+            try:
+                # Log the raw response for debugging
+                self.logger.info(f"📋 Raw OpenAI response (first 200 chars): {content[:200]}")
+                
+                # Clean the response - remove markdown code blocks if present
+                cleaned_content = self._clean_json_response(content)
+                
+                result = json.loads(cleaned_content)
+                self._validate_evaluation_result(result)
+                explanation = result.get("explanation", "")
+                
+                if self._needs_gpt4_evaluation(result, explanation):
+                    self.logger.info("🔁 Using backup model for higher quality evaluation")
+                    self.gpt4_usage_count += 1
+                    content, tokens_backup, cost_backup = self._make_api_call(system_prompt, user_prompt, Config.BACKUP_MODEL)
+                    cleaned_content = self._clean_json_response(content)
+                    result = json.loads(cleaned_content)
+                    self._validate_evaluation_result(result)
+                    total_tokens = tokens_primary + tokens_backup
+                    total_cost = cost_primary + cost_backup
+                else:
+                    total_tokens = tokens_primary
+                    total_cost = cost_primary
+                
+                explanation_tokens = len(self.encoding.encode(result["explanation"]))
+                self.cumulative_tokens += total_tokens
+                self.cumulative_cost += total_cost
+                self._log_evaluation_summary(job, result, explanation_tokens, total_tokens, total_cost)
+                return result
+            except json.JSONDecodeError as e:
+                self.logger.error(f"JSON decode error: {e}\nRaw content: {content}")
+                raise JobEvaluationError(f"Failed to parse OpenAI response: {e}")
 
     # --- CHANGE 4: This method now returns two separate strings ---
     def _create_evaluation_prompt(self, job: Dict[str, Any], resume_text: str) -> Tuple[str, str]:
         """Create enhanced structured evaluation prompt with system and user messages."""
         
-        system_prompt = """You are a precise, analytical technical recruiter with 15+ years of experience. Your sole task is to evaluate a candidate's job fit based on the provided resume and job details.
+        if self.skip_explanations:
+            system_prompt = """You are a precise, analytical technical recruiter with 15+ years of experience. Your sole task is to evaluate a candidate's job fit based on the provided resume and job details.
+
+EVALUATION FRAMEWORK:
+Rate 1-10 based on these weighted criteria:
+• Technical Skills Match (40%): Stack, languages, frameworks, tools
+• Experience Level (25%): Years, seniority, scope of responsibility
+• Domain Relevance (20%): Industry, business model, problem space
+• Soft Skills Alignment (15%): Client-facing, teamwork, communication
+
+Your entire response MUST be a single, valid JSON object. Do NOT include any introductory text, conversation, apologies, or explanations outside of the JSON structure.
+
+OUTPUT FORMAT:
+{"rating": [1-10 number], "explanation": "brief"}
+"""
+        else:
+            system_prompt = """You are a precise, analytical technical recruiter with 15+ years of experience. Your sole task is to evaluate a candidate's job fit based on the provided resume and job details.
 
 EVALUATION FRAMEWORK:
 Rate 1-10 based on these weighted criteria:
